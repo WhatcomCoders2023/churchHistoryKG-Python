@@ -147,8 +147,15 @@ class MarkdownDataProcessor:
             the article's sections.
         '''
         for i, h2_header in enumerate(h2_headers_html):
-            if i == 0:
-                continue
+            if i == 0:  #this is the summary section
+                # continue
+                header_name = h2_header.text
+                articleSection = ArticleSection()
+                articleSection.section_title = header_name
+                summary_text = h2_header.findAllNext('p')
+                if summary_text:
+                    article.summary.text = summary_text[0].text
+
             header_name = h2_header.text
 
             articleSection = ArticleSection()
@@ -160,18 +167,44 @@ class MarkdownDataProcessor:
                 in_list_values = in_list.text
                 articleSection.bullet_points.append(in_list_values)
 
-            h3_headers = h2_header.find_next_sibling('h3')
+            h2_sibling = h2_header.findNextSibling()
+            if h2_sibling == None:  #there is no subsections in this h2 heading
+                continue
 
-            while h3_headers:
-                articleSubsection = ArticleSubsection()
-                articleSubsection.section_title = h3_headers.text
-                subsection = h3_headers.find_next('ul')
+            elif h2_sibling.name == 'h3':
+                all_h3_subsections = []
+                orphan_h3_header = h2_article_section.findPrevious('h3')
+                h3_headers = h2_article_section.findAllNext('h3')
+                all_h3_subsections.append(orphan_h3_header)
+                all_h3_subsections.extend(h3_headers)
 
-                all_lists = subsection.findAll('li')
-                for in_list in all_lists:
-                    in_list_values = in_list.text
-                    articleSubsection.bullet_points.append(in_list)
-                articleSection.article_subsections.append(articleSubsection)
-                h3_headers = h3_headers.find_next('h3')
+                for h3_header in all_h3_subsections:
+                    articleSubsection = ArticleSubsection()
+                    articleSubsection.section_title = h3_header.text
+                    subsection = h3_header.find_next('ul')
+
+                    all_lists = subsection.findAll(
+                        text=True)  #text=True removes all href links
+                    for in_list in all_lists:
+                        in_list_values = in_list.text
+                        articleSubsection.bullet_points.append(in_list)
+                    articleSection.article_subsections.append(articleSubsection)
             article.article_sections.append(articleSection)
         return article
+
+
+data = LoadChurchData('church-history-articles-en')
+articles = MarkdownDataProcessor(data).process_html()
+reader = ArticleReader(articles)
+
+article = reader.name_to_articles['SpreadsToEurope']
+for section in article.article_sections:
+    for subsection in section.article_subsections:
+        print(subsection.section_title)
+        print(subsection.bullet_points)
+
+# all_sentences = reader.collect_all_sentences_in_article_by_section(article)
+# for k, v in all_sentences.items():
+#     print("section", k)
+#     print("text:", v)
+#     print("\n")
