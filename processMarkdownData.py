@@ -191,20 +191,3 @@ class MarkdownDataProcessor:
                     articleSection.article_subsections.append(articleSubsection)
             article.article_sections.append(articleSection)
         return article
-
-
-data = LoadChurchData('church-history-articles-en')
-articles = MarkdownDataProcessor(data).process_html()
-reader = ArticleReader(articles)
-
-article = reader.name_to_articles['SpreadsToEurope']
-for section in article.article_sections:
-    for subsection in section.article_subsections:
-        print(subsection.section_title)
-        print(subsection.bullet_points)
-
-# all_sentences = reader.collect_all_sentences_in_article_by_section(article)
-# for k, v in all_sentences.items():
-#     print("section", k)
-#     print("text:", v)
-#     print("\n")
