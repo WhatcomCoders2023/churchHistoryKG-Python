@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 from typing import List, Tuple
-from articles import ArticleReader, Article, NERTuple
+from article_structs import ArticleReader, Article, NERTuple
 from faithlife_utils import load_faithlife_database_to_single_df, make_faithlife_map, search_entity_type_in_faithlife_map_with_entity_label, search_entity_in_faithlife_map, label_events
 from preprocessing_utils import replace_special_chars_in_entity_annotations, tokenize_sentence, tokenize_entity
 from pathlib import Path
@@ -230,7 +230,7 @@ class PreprocessFaithlifeArticles:
 
                 # condition 1
                 if ner_tuple.entity_type in [
-                        'NONE', 'event', 'denom', 'denomgroup'
+                        'NONE', 'event', 'denom', 'denomgroup', 'thing'
                 ]:
                     index_to_delete.append(index)
 
@@ -289,7 +289,7 @@ class PreprocessFaithlifeArticles:
 
         if article_name not in no_relations:
             relations_df = pd.read_csv(
-                f'faithlife_data/church-history-Article-en/{article_name}.csv')
+                f'faithlife_data/church-history-Articles-en/{article_name}.csv')
             subj_list = set(relations_df['subj'].tolist())
             obj_list = set(relations_df['obj'].tolist())
             all_entities_in_history_article_csv = subj_list.union(obj_list)
@@ -464,7 +464,7 @@ class PreprocessFaithlifeArticles:
         relation_map = {}
         if article_name not in no_relations:
             relations_df = pd.read_csv(
-                f'faithlife_data/church-history-Article-en/{article_name}.csv')
+                f'faithlife_data/church-history-Articles-en/{article_name}.csv')
 
             relation_map = {i: [] for i in range(len(tokenized_sentences))
                            }  #cache sentence length

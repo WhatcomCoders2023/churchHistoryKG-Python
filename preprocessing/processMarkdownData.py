@@ -3,7 +3,7 @@ import bs4
 import csv
 
 from loadChurchMarkdownData import LoadChurchData
-from articles import *
+from article_structs import *
 from typing import Sequence
 
 
@@ -32,30 +32,32 @@ class MarkdownDataProcessor:
             html_data.append(html_from_markdown)
         return html_data
 
-    def process_html(self) -> Sequence[Article]:
+    def process_html(self) -> List[Article]:
         '''Processes list of html strings and converts to dataclasses.
         
         Returns:
             List of Article Dataclasses
         '''
-        Article = []
+        articles = []
         for html in self.html_data:
+            print("len:", len(articles))
             soup = bs4.BeautifulSoup(html, "html.parser")
-            article = Article()
+            new_article = Article()
 
             article_title = soup.find_all('h1')[0].text
-            article.title = article_title
+            new_article.title = article_title
 
             metadata = self.parse_metadata_from_article(soup)
-            article = self.get_data_from_metadata(article, metadata)
+            new_article = self.get_data_from_metadata(new_article, metadata)
 
             h1_header = self.parse_summary_from_article(soup)
-            article = self.get_data_from_h1_header(article, h1_header)
+            new_article = self.get_data_from_h1_header(new_article, h1_header)
 
             h2_header = self.parse_article_sections(soup)
-            article = self.get_data_from_h2_header(article, h2_header)
-            Article.append(article)
-        return Article
+            new_article = self.get_data_from_h2_header(new_article, h2_header)
+            print(articles)
+            articles.append(new_article)
+        return articles
 
     def parse_metadata_from_article(self,
                                     soup: bs4.BeautifulSoup) -> bs4.element.Tag:
@@ -97,21 +99,22 @@ class MarkdownDataProcessor:
             the Article metadata.
         '''
         metadata_attributes = metadata.text.split("\n")
+        article.metadata = ArticleMetadata()
         for attribute in metadata_attributes:
             metadata_values = attribute.split(": ")
             metadata_key, metadata_value = metadata_values[0].lower(
             ), metadata_values[1:]
 
             if metadata_key == 'level':
-                article.level = metadata_value[0]
+                article.metadata.level = metadata_value[0]
             elif metadata_key == 'status':
-                article.status = metadata_value[0]
+                article.metadata.status = metadata_value[0]
             elif metadata_key == 'identifier':
                 article.metadata.identifier = metadata_value[0]
             elif metadata_key == 'parents':
-                article.parents = metadata_value[0]
+                article.metadata.parent = metadata_value[0]
             elif metadata_key == 'eras':
-                article.eras = metadata_value[:]
+                article.metadata.eras = metadata_value[:]
 
         return article
 

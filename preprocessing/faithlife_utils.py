@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from typing import List, Tuple, Set, Mapping
 from preprocessing_utils import replace_special_chars_in_entity_annotations
-from articles import NERTuple
+from article_structs import NERTuple
 
 
 def load_faithlife_database_to_single_df(

@@ -107,7 +107,7 @@ class ArticleMetadata:
     eras: List[str] = field(default_factory=list)
 
 
-@dataclass
+@dataclass()
 class Article:
     '''Dataclass for Church History Article'''
     metadata: ArticleMetadata = ArticleMetadata()
@@ -134,14 +134,14 @@ class ArticleReader:
     """Class that manages reading and processing of all Bible Article.
 
     Attributes:
-        name_to_articles: Map of name of article to article object.
+        articles: List of Article objects.
     """
 
-    def __init__(self, article: Article) -> None:
-        self.name_to_articles = self._map_articles_by_name(article)
+    def __init__(self, articles: List[Article]) -> None:
+        self.name_to_articles = self._map_articles_by_name(articles)
 
     def _map_articles_by_name(
-            self, Articles: Sequence[Article]) -> Mapping[str, Article]:
+            self, articles: Sequence[Article]) -> Mapping[str, Article]:
         """Creates a map of article names to Article
         
         Args:
@@ -151,7 +151,7 @@ class ArticleReader:
             A map of article name to article object.
         """
         name_to_articles = {}
-        for article in Articles:
+        for article in articles:
             article_name = article.metadata.identifier
             name_to_articles[article_name] = article
         return name_to_articles
