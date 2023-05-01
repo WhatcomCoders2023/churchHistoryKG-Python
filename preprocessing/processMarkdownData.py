@@ -1,5 +1,6 @@
 import markdown
 import bs4
+import csv
 
 from loadChurchMarkdownData import LoadChurchData
 from articles import *
@@ -31,16 +32,19 @@ class MarkdownDataProcessor:
             html_data.append(html_from_markdown)
         return html_data
 
-    def process_html(self) -> Sequence[Articles]:
+    def process_html(self) -> Sequence[Article]:
         '''Processes list of html strings and converts to dataclasses.
         
         Returns:
-            List of Articles Dataclasses
+            List of Article Dataclasses
         '''
-        articles = []
+        Article = []
         for html in self.html_data:
             soup = bs4.BeautifulSoup(html, "html.parser")
-            article = Articles()
+            article = Article()
+
+            article_title = soup.find_all('h1')[0].text
+            article.title = article_title
 
             metadata = self.parse_metadata_from_article(soup)
             article = self.get_data_from_metadata(article, metadata)
@@ -50,8 +54,8 @@ class MarkdownDataProcessor:
 
             h2_header = self.parse_article_sections(soup)
             article = self.get_data_from_h2_header(article, h2_header)
-            articles.append(article)
-        return articles
+            Article.append(article)
+        return Article
 
     def parse_metadata_from_article(self,
                                     soup: bs4.BeautifulSoup) -> bs4.element.Tag:
@@ -83,14 +87,14 @@ class MarkdownDataProcessor:
         h2_headers = soup.find_all('h2')
         return h2_headers
 
-    def get_data_from_metadata(self, article: Articles,
-                               metadata: bs4.element.Tag) -> Articles:
+    def get_data_from_metadata(self, article: Article,
+                               metadata: bs4.element.Tag) -> Article:
         '''Gets data from metadata tag and stores in Article Dataclass.
 
         Args:
-            article: Articles dataclass.
+            article: Article dataclass.
             metadata: Bs4 tag containing <p> element corresponding to 
-            the articles metadata.
+            the Article metadata.
         '''
         metadata_attributes = metadata.text.split("\n")
         for attribute in metadata_attributes:
@@ -103,7 +107,7 @@ class MarkdownDataProcessor:
             elif metadata_key == 'status':
                 article.status = metadata_value[0]
             elif metadata_key == 'identifier':
-                article.identifier = metadata_value[0]
+                article.metadata.identifier = metadata_value[0]
             elif metadata_key == 'parents':
                 article.parents = metadata_value[0]
             elif metadata_key == 'eras':
@@ -111,12 +115,12 @@ class MarkdownDataProcessor:
 
         return article
 
-    def get_data_from_h1_header(self, article: Articles,
-                                h1_header: bs4.element.Tag) -> Articles:
+    def get_data_from_h1_header(self, article: Article,
+                                h1_header: bs4.element.Tag) -> Article:
         '''Gets data from summary tag and stores in Article Dataclass.
         
         Args:
-            article: Articles dataclass.
+            article: Article dataclass.
             metadata: Bs4 tag containing <h1> element corresponding to 
             the article's summary section.
         '''
@@ -124,6 +128,7 @@ class MarkdownDataProcessor:
 
         article_html_list = h1_header.find_next()
         article_header, article_html_list
+        article.summary = ArticleSummary()
 
         all_lists = article_html_list.findAll('li')
         for in_list in all_lists:
@@ -137,35 +142,52 @@ class MarkdownDataProcessor:
                 article.summary.description = in_list_value
         return article
 
-    def get_data_from_h2_header(self, article: Articles,
-                                h2_headers_html: bs4.element.Tag) -> Articles:
+    def get_data_from_h2_header(self, article: Article,
+                                h2_headers_html: bs4.element.Tag) -> Article:
         '''Gets data from section tag and stores in Article Dataclass.
         
         Args:
-            article: Articles dataclass.
+            article: Article dataclass.
             metadata: Bs4 tag containing <h2> element corresponding to 
             the article's sections.
         '''
+        sentence_counter = 0
         for i, h2_header in enumerate(h2_headers_html):
-            if i == 0:  #this is the summary section
-                # continue
+            if i == 0 and h2_header.text == 'Summary':  #This is the summary section
                 header_name = h2_header.text
-                articleSection = ArticleSection()
-                articleSection.section_title = header_name
+                # articleSection = ArticleSection()
+                # articleSection.section_title = header_name
                 summary_text = h2_header.findAllNext('p')
-                if summary_text:
-                    article.summary.text = summary_text[0].text
+                article.summary.text = summary_text[0].text
+                continue
 
             header_name = h2_header.text
 
             articleSection = ArticleSection()
             articleSection.section_title = header_name
+
             h2_article_section = h2_header.find_next('ul')
 
             all_lists = h2_article_section.findAll('li')
-            for in_list in all_lists:
-                in_list_values = in_list.text
-                articleSection.bullet_points.append(in_list_values)
+            for bullet_point_index, h2_bullet_point in enumerate(all_lists):
+                article.ner_tuples.append([])
+
+                articleSection.ner_tuples[bullet_point_index] = []
+                for href_words in h2_bullet_point.findAll(href=True):
+                    word, href_link = href_words.text, href_words['href'].split(
+                        'https://ref.ly/logos4/Factbook?ref=')[-1]
+
+                    start_index = h2_bullet_point.text.find(word)
+                    end_index = start_index + len(word) - 1
+
+                    article.ner_tuples[sentence_counter].append(
+                        [start_index, end_index, word, href_link])
+                    articleSection.ner_tuples[bullet_point_index].append(
+                        (start_index, end_index, word, href_link))
+                articleSection.bullet_points.append(h2_bullet_point.text)
+                article.sentences.append([h2_bullet_point.text])
+
+                sentence_counter += 1
 
             h2_sibling = h2_header.findNextSibling()
             if h2_sibling == None:  #there is no subsections in this h2 heading
@@ -180,14 +202,37 @@ class MarkdownDataProcessor:
 
                 for h3_header in all_h3_subsections:
                     articleSubsection = ArticleSubsection()
-                    articleSubsection.section_title = h3_header.text
+                    h3_value = h3_header.findNext('a')
+                    articleSubsection.section_title = (
+                        h3_value.text, h3_value['href'].split(
+                            'https://ref.ly/logos4/Factbook?ref=')[-1])
                     subsection = h3_header.find_next('ul')
 
-                    all_lists = subsection.findAll(
-                        text=True)  #text=True removes all href links
-                    for in_list in all_lists:
-                        in_list_values = in_list.text
-                        articleSubsection.bullet_points.append(in_list)
+                    articleSubsection.ner_tuples = {}
+                    for bullet_point_index, h3_bullet_point in enumerate(
+                            subsection.findAll('li')):
+                        article.ner_tuples.append([])
+
+                        articleSubsection.ner_tuples[bullet_point_index] = []
+                        for href_words in h3_bullet_point.findAll(href=True):
+
+                            word, href_link = href_words.text, href_words[
+                                'href'].split(
+                                    'https://ref.ly/logos4/Factbook?ref=')[-1]
+
+                            start_index = h3_bullet_point.text.find(word)
+                            end_index = start_index + len(word) - 1
+
+                            article.ner_tuples[sentence_counter].append(
+                                [start_index, end_index, word, href_link])
+                            articleSubsection.ner_tuples[
+                                bullet_point_index].append(
+                                    (start_index, end_index, word, href_link))
+                        articleSubsection.bullet_points.append(
+                            h3_bullet_point.text)
+                        article.sentences.append([h3_bullet_point.text])
+
+                        sentence_counter += 1
                     articleSection.article_subsections.append(articleSubsection)
             article.article_sections.append(articleSection)
         return article
