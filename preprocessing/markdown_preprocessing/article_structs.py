@@ -31,6 +31,23 @@ class NERTuple:
 
 
 @dataclass
+class RelationTuple:
+    '''Dataclass class for relation tuple'''
+    subject_start_index: int
+    subject_end_index: int
+    object_start_index: int
+    object_end_index: int
+    relation_type: str
+
+    def __iter__(self):
+        yield self.subject_start_index
+        yield self.subject_end_index
+        yield self.object_start_index
+        yield self.object_end_index
+        yield self.relation_type
+
+
+@dataclass
 class ArticleSubsection:
     '''Dataclass class for article sub section (h3 tag)
     
@@ -116,8 +133,8 @@ class Article:
     article_sections: Sequence[ArticleSection] = field(default_factory=list)
 
     sentences: List[str] = field(default_factory=list)
-    ner_tuples: List[List[Tuple[str]]] = field(default_factory=list)
-    relations: List[List[Tuple[str]]] = field(default_factory=list)
+    ner_tuples: List[List[NERTuple]] = field(default_factory=list)
+    relations: List[List[RelationTuple]] = field(default_factory=list)
     tokenized_sentences: List[Tuple[str]] = field(default_factory=list)
 
 

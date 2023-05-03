@@ -1,9 +1,8 @@
 import markdown
 import bs4
-import csv
 
 from loadChurchMarkdownData import LoadChurchData
-from article_structs import *
+from markdown_preprocessing.article_structs import *
 from typing import Sequence
 
 

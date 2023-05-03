@@ -2,7 +2,7 @@ import pandas as pd
 import re
 from typing import List, Tuple, Set, Mapping
 from preprocessing_utils import replace_special_chars_in_entity_annotations
-from article_structs import NERTuple
+from markdown_preprocessing.article_structs import NERTuple
 
 
 def load_faithlife_database_to_single_df(
@@ -74,7 +74,9 @@ def search_entity_in_faithlife_map(
     Need to clean up labeled_ner_tuples for comparison to work properly
     
     '''
-    sentence = sentence.lower()  #fix
+    print("sentence:", sentence)
+    print("labeled_ner_tuples:", labeled_ner_tuples)
+    sentence = sentence[0].lower()  #fix
     print('sentence: ', sentence)
     print('labeled_ner_tuples: ', labeled_ner_tuples)
     # print('all_entities_in_csv: ', all_entities_in_csv)
@@ -147,22 +149,6 @@ def make_faithlife_map(faithlife_df: pd.DataFrame) -> Mapping[str, str]:
                                          faithlife_df['kind']):
         faithlife_map[entity_label] = entity_type
     return faithlife_map
-
-
-def label_events(ner_tuples: List[List[NERTuple]],
-                 article_identifer: str) -> List[List[NERTuple]]:
-    print("label_events", ner_tuples)
-    for i, ner_tuple_in_sentence in enumerate(ner_tuples):
-        for j, ner_tuple in enumerate(ner_tuple_in_sentence):
-            if i == 0 and j == 0 and ner_tuple.entity_name == article_identifer:  # Overwrites event, bc in this context its refering to a document
-                ner_tuples[i] = []  # only one tuple for the title
-                ner_tuple.entity_type = 'writing'
-                ner_tuples[i].append(ner_tuple)
-                print("check this tuple:", ner_tuples[i][j])
-            elif ner_tuple.entity_type == 'NONE':
-                if 'bk.tle%' in ner_tuple.entity_label:  #this is wrong -- should be event not book
-                    ner_tuple.entity_type = 'event'
-    return ner_tuples
 
 
 def parse_chicago_citation(citation):
