@@ -1,0 +1,152 @@
+<p>Level: 1
+Status: Released
+Identifier: ReformedChurch
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>The Reformed Church Is Established in Switzerland</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1522-1566">1522–1566</a></li>
+<li><strong>Description:</strong> Zwinglian reform in Zurich merged with the Calvinism of Geneva to establish the Reformed Church after diverging from Lutheranism. </li>
+</ul>
+<h2>Summary</h2>
+<p>While the Lutheran Reformation was taking place in Germany, Protestantism was also developing among Reformers in the Swiss Confederation. In the city of Zurich, the Swiss preacher Ulrich Zwingli led the calls for reform, challenging the authority of the Roman Catholic Church. By 1525, Zurich had abolished the Mass and embraced Protestantism. The spread of Protestantism in the Swiss Confederation eventually led to civil war between the Protestant and Roman Catholic cantons, during which Zwingli was killed. The Swiss Reformation continued to spread under the leadership of John Calvin. After fleeing from France, Calvin settled in Geneva and helped define the doctrine and theology of the Reformed faith. Calvinism soon spread to other parts of Europe as the Reformed Church was established.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Reformers advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aScripture">Scripture</a> as the supreme authority for establishing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> (<a href="date.1500+100">1500s</a>).</li>
+<li>Reformers affirmed that salvation was <a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaFide">by faith in Christ alone</a> (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li>Pastors abandoned <a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">celibacy</a> and began to marry (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli</a> preached against corruption in the church and challenged papal authority (<a href="date.1520+10">1520s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aulrichzwinglihasmassbannedfrom">Mass was banned in areas of Switzerland</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25iconoclasm">iconoclasts</a> pushed for the removal of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25icon">images</a> from the church (<a href="date.1520+10">1520s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SwissProtestant_Denom">Swiss Protestantism</a> spread to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Basel">Basel</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Bern">Bern</a>, and beyond (<a href="date.1520+10-1530+10">1520s–1530s</a>).</li>
+<li>Zwinglians disagreed with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutherans</a> over the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Eucharist</a> (<a href="date.1529">1529</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a> fled from <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Geneva">Geneva</a> and helped reform the city (<a href="date.1530+10">1530s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> spread to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a>, France, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Netherlands_Place">the Netherlands</a> (<a href="date.1500+100+m">mid-1500s</a>).</li>
+<li>The Augsburg Settlement recognized Lutheranism and Roman Catholicism, but did not recognize Calvinism (<a href="date.1555">1555</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesV_Person">Charles V</a> (<a href="date.1500.2.24-1558.9.21">February 24, 1500–September 21, 1558</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1519-1555">1519–1555</a>); he supported <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> and allied with the Catholic cantons during the Swiss Reformation. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestant Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WolfgangCapito_Person">Wolfgang Capito</a> (<a href="date.1478-1541">1478–1541</a>): German Reformer and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; he was an associate of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinBucer_Person">Martin Bucer</a> and a leader of the Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Strasbourg_Place">Strasbourg</a>; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TetrapolitanConfession"><em>Tetrapolitan Confession</em></a>, which articulates the Reformed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">confession of faith</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannesOecolampadius_Person">Johannes Oecolampadius</a> (<a href="date.1482-1531.11.24">1482–November 24, 1531</a>): Swiss Reformer; he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanism</a>; supporter of Ulrich Zwingli and his doctrine of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Eucharist</a>; he taught at the <a href="bk.%UniversityOfBasel_Place">University of Basel</a> and was a leader of the Reformation in Basel; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ColloquyofMarburg_Writing">Colloquy of Marburg</a>, which addressed doctrinal differences between Zwinglians and Lutherans; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessionsOfBasle_Writing"><em>Confessions of Basle</em></a>, which articulates Reformed doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli</a> (<a href="date.1484.1.1-1531.10.11">January 1, 1484–October 11, 1531</a>): Swiss Reformer; leader of the Reformation in German-speaking <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a>; adherent of humanism and influenced by <a href="https://ref.ly/logos4/Factbook?ref=bio.DesideriusErasmus">Desiderius Erasmus</a>; he studied at the University of Basel; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a>, but he later opposed Radical Reformers; author of <a href="bk.%sixtySevenArticles_Writing"><em>Sixty-Seven Articles</em></a>, which addresses corruption in the Roman Catholic Church and advocates for a return to the church of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>, initiating the Reformation in Switzerland. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GuillaumeFarel_Person">Guillaume Farel</a> (<a href="date.1489-1565.9.13">1489–September 13, 1565</a>): French Reformer; leader of the Reformation in French-speaking Switzerland; influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JacobusFaber_Person">Jacobus Faber</a>; associate of <a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a> during the Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Geneva">Geneva</a>; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConsensusTigurinus"><em>Consensus of Zurich</em></a>, an agreement between Zwinglians and Calvinists regarding the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinBucer_Person">Martin Bucer</a> (<a href="date.1491.11.11-1551.2.28">November 11, 1491–February 28, 1551</a>): German Reformer and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominican monk</a>; leader of Reformation in Strasbourg; he converted to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheranism</a> after hearing Luther debate; advocated for unity between Martin Luther and Ulrich Zwingli, and also influenced Calvin; taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TetrapolitanConfession"><em>Tetrapolitan Confession</em></a>, which articulates the Reformed confession of faith, and co-author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25firstHelveticConfession_Writing"><em>The First Helvetic Confession</em></a>, which was written to encourage unity among the Zwinglians and Lutherans.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HeinrichBullinger_Person">Heinrich Bullinger</a> (<a href="date.1504.7.18-1575.9.17">July 18, 1504–September 17, 1575</a>): Swiss Reformer; he succeeded Ulrich Zwingli as leader of the Reformation in Zurich; co-author of <em>The First Helvetic Confession</em> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25secondHelveticConfession_Writing"><em>The Second Helvetic Confession</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PierreOlivetan">Pierre Robert Olivétan</a> (<a href="date.1506-1538">1506–1538</a>): French Reformer; cousin of John Calvin; he translated the first French Protestant Bible.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a> (<a href="date.1509.7.10-1564.5.27">July 10, 1509–May 27, 1564</a>): French Reformer and father of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a>; leader of the Reformation in Geneva; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Institutes_Writing"><em>The Institutes of the Christian Religion</em></a>, a systematic theology written to defend Reformed doctrine, and <a href="bk.%confessionGeneva_Writing"><em>The Confession of Geneva</em></a>, which articulates Christian doctrine affirmed by the Genevan church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnKnox_Person">John Knox</a> (<a href="date.1514-1572.11.24">1514–November 24, 1572</a>): Scottish Reformer and preacher; leader of the Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a> and founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterianism</a>; he was influenced by John Calvin and adhered to Calvinism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreBeza_Person">Theodore Beza</a> (<a href="date.1519.6.24-1605.10.13">June 24, 1519–October 13, 1605</a>): French Protestant Reformer, theologian, and scholar; he succeeded John Calvin as leader of the Reformation in Geneva.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.DesideriusErasmus">Desiderius Erasmus</a> (<a href="date.1466.10.27-1536.7.12">October 27, 1466–July 12, 1536</a>): Christian humanist, theologian, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; he pushed for reforms but did not break with the Roman Catholic Church; highly influential to many Swiss Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohannEck">Johann Eck</a> (<a href="date.1486.11.13-1543.2.13">November 13, 1486–February 13, 1543</a>): Roman Catholic scholar; he was an opponent of Ulrich Zwingli and Protestantism; author of <a href="bk.%EnchiridionAgainstLuther_Writing"><em>Enchiridion of Common Places Against Luther and Other Enemies of the Church</em></a>, which addresses some of Zwingli's teachings.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1522">1522</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3azwinglianseatmeatduringlent">Zwinglians eat meat during Lent</a>, which was prohibited by the Roman Catholic Church; known as the Affair of the Sausages.</li>
+<li><a href="date.1523">1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areformationstrassburgbegins">The Reformation in Strasbourg begins</a>.</li>
+<li><a href="date.1523">1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aradicalreformationzurichbegins">The Radical Reformation in Zurich begins</a>.</li>
+<li><a href="date.1523.1">January 1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3azwinglisfirstdisputation">The first disputation by Zwingli</a> takes place at Zurich; the city council allows him to continue preaching and orders other preachers to conform.</li>
+<li><a href="date.1523.10.26">October 26, 1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3azwinglisseconddisputation">The second disputation by Zwingli</a> earns him further approval from the city council.</li>
+<li><a href="date.1524">1524</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aulrichzwinglipublicallymarries">Ulrich Zwingli publicly marries Anna Reinhard</a>.</li>
+<li><a href="date.1524.1.20">January 20, 1524</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3azwinglisthirddisputation">The third disputation by Zwingli</a> takes place.</li>
+<li><a href="date.1525">1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aulrichzwinglihasmassbannedfrom">Ulrich Zwingli has Mass banned from Zurich</a>.</li>
+<li><a href="date.1528">1528</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agreatcouncilbern">The Great Council of Bern</a> ends the observance of Mass and the use of icons in Bern.</li>
+<li><a href="date.1529">1529</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areformationbaselbegins">The Reformation in Basel begins</a>.</li>
+<li><a href="date.1529">1529</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstwarkappel">The First War of Kappel</a> between Roman Catholics and Protestants ends with <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstpeacekappel">the First Peace of Kappel</a>.</li>
+<li><a href="date.1529">1529</a>: At the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amarburgcolloquy">Marburg Colloquy</a>, Zwingli and Luther meet to discuss Protestant doctrine and disagree over the Eucharist.</li>
+<li><a href="date.1530.6.25">June 25, 1530</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaugsburgconfessionwritten">The Augsburg Confession is written</a>.</li>
+<li><a href="date.1531">1531</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathulrichzwingli">Ulrich Zwingli is killed</a> during the Second War of Kappel.</li>
+<li><a href="date.1533.10+3+s">Fall of 1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohncalvincommitsprotestant">John Calvin commits to the Protestant Reformation</a>.</li>
+<li><a href="date.1534">1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohncalvinfleesparis">John Calvin flees Paris</a>.</li>
+<li><a href="date.1535">1535</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agenevasplitswithcatholicchurch">Geneva splits with the Roman Catholic Church</a>.</li>
+<li><a href="date.1536">1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ainstituteschristianreligion1"><em>Institutes of the Christian Religion</em> by John Calvin is published</a>.</li>
+<li><a href="date.1536.7">July 1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohncalvintravelsgeneva">John Calvin travels to Geneva</a>.</li>
+<li><a href="date.1536-1538">1536–1538</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohncalvinestablishestheocracy">John Calvin establishes a theocracy at Geneva</a>.</li>
+<li><a href="date.1542">1542</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohnknoxbecomesprotestant">John Knox becomes Protestant</a>.</li>
+<li><a href="date.1555">1555</a>: <a href="bk.tle:augsburgsettlementreached">The Augsburg Settlement is reached</a>, recognizing Lutheranism and Catholicism in the Holy Roman Empire; the settlement does not recognize Calvinism.</li>
+<li><a href="date.1566">1566</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondhelveticconfession">The Second Helvetic Confession is written</a>, a blend of Zwinglianism and Calvinism that is approved by all Reformed Churches.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Basel">Basel</a> was the location of the <a href="bk.%UniversityOfBasel_Place">University of Basel</a>; the Reformation here was led by Johannes Oecolampadius; allied with Bern, Strasbourg, and Zurich against Emperor Charles V.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Bern">Bern</a> was the location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agreatcouncilbern">Great Council of Bern</a>, which ended the observance of Mass and use of icons; allied with Strasbourg, Basel, and Zurich against Emperor Charles V.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Geneva">Geneva</a> was the center of the Genevan Reformation led by Calvin; early center of Calvinism; location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GenevanAcademy">Genevan Academy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Neuchatel">Neuchâtel</a> was where Guillaume Farel established Calvin's Genevan model here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a> was inspired by the Swiss Reformation; John Knox established Presbyterianism here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Strasbourg_Place">Strasbourg</a> experienced the Reformation under the leadership of Martin Bucer and Wolfgang Capito; allied with Zurich, Basel, and Bern against Emperor Charles V.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Zurich">Zurich</a> was the center of the Reformation in German-speaking Switzerland led by Ulrich Zwingli; first in the Swiss Confederacy to embrace Protestantism; allied with Strasbourg, Basel, and Bern against Emperor Charles V.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> is the theological system developed by Calvin.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacyOfTheClergy">Celibacy of the clergy</a> was abandoned by Protestants during the Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">Humanism</a> was influential to the Protestant Reformation; it led to a renewed interest in ancient ideas, art, and literature; Christian humanism emphasized the original languages of the Bible, early Christian writings, and the church of the New Testament which influenced Protestant Reformers.</li>
+<li><a href="bk.%mass">Mass</a> was banned in Switzerland during the Reformation. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a> was an insurrection by German peasants who were inspired and condemned by Luther; it was supported by Zwingli.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterianism</a> church government developed from Calvinism and was established during the Scottish Reformation.</li>
+<li><a href="bk.%ReformedChurches">Reformed Churches</a> adhered to Reformed theology developed by Calvin, Zwingli, and others.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SwissProtestant_Denom">Swiss Protestantism</a> is a branch of Protestantism developed by Zwingli in Switzerland.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%articlesOfFaith">Articles of Faith</a></h3>
+<ul>
+<li><a href="bk.%sixtySevenArticles_Writing"><em>Sixty-Seven Articles</em></a> (Ulrich Zwingli, <a href="date.1523">1523</a>): addresses corruption in the Roman Catholic Church and advocates for the return to the church of the New Testament; helped initiate the Reformation in Switzerland.</li>
+</ul>
+<h3><a href="bk.%creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TetrapolitanConfession"><em>Tetrapolitan Confession</em></a> (Martin Bucer and Wolfgang Capito, <a href="date.1530">1530</a>): Reformed confession of faith presented to Emperor Charles V.</li>
+<li><a href="bk.%ZwingliConfessionFaithEmperorCharles_Writing"><em>The Confession of Faith to Emperor Charles V</em></a> (Ulrich Zwingli, <a href="date.1530">1530</a>): Zwingli's personal confession, which addresses his distinctive views on Christian doctrine.</li>
+<li><a href="bk.%ZwingliExpositionChristianFaith_Writing"><em>The Exposition of the Christian Faith to King Francis I</em></a> (Ulrich Zwingli, <a href="date.1531">1531</a>): a defense of Protestantism, which addresses Zwingli's distinctive views on Christian doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessionsOfBasle_Writing"><em>Confessions of Basle</em></a> (Johannes Oecolampadius, <a href="date.1534">1534</a>): twelve articles that address Reformed doctrine; adopted by the city of Basel.</li>
+<li><a href="bk.%confessionGeneva_Writing"><em>The Confession of Geneva</em></a> (John Calvin and Guillaume Farel, <a href="date.1536">1536</a>): formula of Christian doctrine written for the citizens of Geneva.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25firstHelveticConfession_Writing"><em>The First Helvetic Confession</em></a> (Martin Bucer, Heinrich Bullinger, Leo Jud, <a href="date.1536">1536</a>): twenty-seven articles articulating the Reformed faith; written to encourage unity among the Zwinglians and Lutherans.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConsensusTigurinus"><em>Consensus of Zurich</em></a> (Calvin and Farel, <a href="date.1549">1549</a>): agreement between Zwinglians and Calvinists regarding a Reformed view of the sacraments.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25secondHelveticConfession_Writing"><em>The Second Helvetic Confession</em></a> (Heinrich Bullinger, <a href="date.1566">1566</a>): Reformed confession of faith presented at the Diet of Augsburg (1566).</li>
+</ul>
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Institutes_Writing"><em>The Institutes of the Christian Religion</em></a> (John Calvin, <a href="date.1536">1536</a>): systematic theology written to defend Reformed doctrine.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/204537?len=3978">"1523 Zwingli Leads Swiss Reformation" in v_ (Curtis, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/147933?len=36445">"The Era of the Reformation" (Muller) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/385592?len=8121">"Extent of Catholicism within Europe" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/123453?len=2175">"Four Major Reformers" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/144753?len=21352">"John Calvin" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/127294?len=2174">"Other Swiss Reformers" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/458637?len=19476">"Protestantisms" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/141149?len=7052">"The Swiss Reformations" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/328572?len=84842">"The Swiss Reformation: <em>The Maturation of International Calvinism (16th Century)</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/646516?len=19917">"Thrust into the Game: <em>John Calvin and Reformed Rule</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/115834?len=909">"A Timeline of the Reformation in Switzerland (1519–1575)" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/110086?len=16351">"Ulrich Zwingli and the Swiss Reformation" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

@@ -1,0 +1,85 @@
+<p>Level: 2
+Status: Draft
+Identifier: RiseNaziGermanyDividesChurch
+Parents: Ideologies
+Eras: bk.era:modernera</p>
+<h1>The Rise of Nazi Germany Divides the Church</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 1919–1945</li>
+<li><strong>Description:</strong> As the world entered another war, the church was divided over its response to Nazism.</li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The desire for national unity after World War I lead to the rise in nationalism.</li>
+<li>The rise of Nazi Germany led to World War II and the horrors of the Holocaust.</li>
+<li>The German Christian movement aligned itself with Nazism; Protestant churches were unified into the Reich Church.</li>
+<li>Nazism eventually attempted to position itself as a replacement of the Christian church.</li>
+<li>German Protestants opposed to Nazism established the Confessing Church movement.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3>Neo-Orthodox Theologians</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KarlBarth_Person">Karl Barth</a> (May 10, 1886–December 10, 1968): Swiss Protestant theologian; studied at Berlin, Tübingen, and Marburg; taught at Göttingen and Münster; opposed Protestant Liberalism; founded the Neo-Orthodoxy movement with Brunner; adhered to dialectical theology; advocated for a strong relationship between ethics and theology; opposed to Nazism; leader in the Confessing Church movement; author of <em>The Epistle to the Romans</em> ..., and <em>Church Dogmatics</em> </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.DietrichBonhoeffer">Dietrich Bonhoeffer</a> (February 4, 1906–April 9, 1945): German theologian and pastor; influenced by Barth; opposed Nazism; leader in the Confessing Church movement; executed for participating in assassination plot against Hitler during WWII; </li>
+</ul>
+<h3>Church Leaders</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusXI_Person">Pope Pius XI</a> (1857–1939): pope of Rome; signed concordat with Hitler guaranteeing freedom to practice Catholicism in Germany.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LudwigMuller_Person">Ludwig Müller</a> (1883–1945): German Reichsbischof; bishop of Prussia; adviser to Adolf Hitler; supported Nazism; author of a Germanized version of the Sermon on the Mount.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinNiemoller_Person">Martin Niemöller</a> (January 14, 1892–March 6, 1984): German Lutheran theologian and pastor; leader of the Confession Church movement; arrested and imprisoned in a concentration camp until the end of WWII.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>1914–1918: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldwari">World War I</a></li>
+<li>1919: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anazipartyfounded">Nazi Party Is Founded</a></li>
+<li>1930: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3akarlbarthleavesnazigermany">Karl Barth Leaves Nazi Germany</a></li>
+<li>1933: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopepiusxisignsconcordatwith">Pope Pius XI Signs a Concordat With Hitler</a></li>
+<li>1934: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abarmendeclarationissued">Barmen Declaration Is Issued</a></li>
+<li>January 4, 1934: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconfessingchurchledkarlbarth">The “Confessing Church” in Opposition to the Nazi “German Christian” Church Officially Organizes</a></li>
+<li>1939–1945: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldwarii">World War II</a></li>
+<li>April 9, 1945: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomdietrichbonhoeffer">Martyrdom of Dietrich Bonhoeffer</a></li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where Nazism developed.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessingChurch">Confessing Church</a>: leaders of this movement that opposed Nazism include Barth and Boenhoffer.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25fascism_Belief">Fascism</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25nationalism">Nationalism</a></li>
+<li>Nazism</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BarmenDeclaration"><em>Barmen Declaration</em></a> (Confessing Church, 1934): statement opposing Germany's Nazi government influence over the German church; signed by Karl Barth and Dietrich Boenhoffer.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MitbrennenderSorge"><em>Mit Brennender Sorg</em></a> (Pius XI, 1937): encyclical criticizing Nazism; advocated for Catholics to resist the oppression and influence of the Nazi state.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>González, Justo L. <a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/912538?len=6848">"Renewed Conflicts."</a> In <em>The Story of Christianity: The Reformation to the Present Day.</em> Edited by HarperOne. Revised and Updated. Vol. 2. New York, NY, 2010.</li>
+<li>Pierard, Richard. <a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1340337?len=39752">“Sent By Providence.”</a> In <em>Introduction to the History of Christianity</em>, edited by Tim Dowley, Third Edition., 533–64. Minneapolis, MN: Fortress Press, 2018.</li>
+<li>Shelley, Bruce L.<a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1038666?len=8688">"The Rise of Nazism."</a> In <em>Church History in Plain Language.</em> 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+</ul>

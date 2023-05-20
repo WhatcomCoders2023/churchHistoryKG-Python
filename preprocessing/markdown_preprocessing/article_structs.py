@@ -2,13 +2,18 @@ import csv
 import json
 import ast
 import re
+import pandas as pd
 
 from dataclasses import dataclass, field
 from typing import List, Sequence, Mapping, Tuple
 from nltk.tokenize import sent_tokenize
+from faithlife_utils import extract_name
+from dygiee_preprocessing.faithlife_tokenizer import FaithlifeTokenizer
 
 CACHE_FOLDER = 'cache_processed_data'
 CACHE_MODEL_FOLDER = 'cache_model_data'
+
+tokenizer = FaithlifeTokenizer()
 
 
 @dataclass
@@ -29,6 +34,9 @@ class NERTuple:
         yield self.entity_label
         yield self.entity_name
 
+    def __repr__(self) -> str:
+        return f'NERTuple{tuple(self)}'
+
 
 @dataclass
 class RelationTuple:
@@ -45,6 +53,9 @@ class RelationTuple:
         yield self.object_start_index
         yield self.object_end_index
         yield self.relation_type
+
+    def __repr__(self) -> str:
+        return f'RelationTuple{tuple(self)}'
 
 
 @dataclass
@@ -131,11 +142,13 @@ class Article:
     title: str = ""
     summary: ArticleSummary = ArticleSummary()
     article_sections: Sequence[ArticleSection] = field(default_factory=list)
+    entity_name_to_entity_label_and_entity_type: dict[str, str] = field(
+        default_factory=dict)
 
-    sentences: List[str] = field(default_factory=list)
+    sentences: List[List[str]] = field(default_factory=list)
     ner_tuples: List[List[NERTuple]] = field(default_factory=list)
     relations: List[List[RelationTuple]] = field(default_factory=list)
-    tokenized_sentences: List[Tuple[str]] = field(default_factory=list)
+    tokenized_sentences: List[List[str]] = field(default_factory=list)
 
 
 @dataclass
@@ -154,8 +167,17 @@ class ArticleReader:
         articles: List of Article objects.
     """
 
-    def __init__(self, articles: List[Article]) -> None:
+    def __init__(self, articles: List[Article],
+                 database_df: pd.DataFrame) -> None:
         self.name_to_articles = self._map_articles_by_name(articles)
+        self.articles = articles
+        self.database_df = database_df
+        self.no_relations = [
+            'OrganizationUnderBishops', 'RiseNaziGermanyDividesChurch',
+            'WorshipEarlyChurch', 'Pelagian', "ChristianApologists",
+            "ChurchAndState", 'SporadicPersecution', 'ChineseChurchGrows',
+            'Puritanism'
+        ]
 
     def _map_articles_by_name(
             self, articles: Sequence[Article]) -> Mapping[str, Article]:
@@ -178,43 +200,111 @@ class ArticleReader:
             if article_section.section_title == section_name:
                 del article.article_sections[i]
 
-    def merge_all_article_info(self,
-                               article: Article) -> Tuple[List[str], List[str]]:
+    def create_entity_name_to_entity_label_and_entity_type(
+            self, article: Article):
+        entity_name_to_entity_label_and_entity_type = {}
+        if article.metadata.identifier not in self.no_relations:
+            relations_df = pd.read_csv(
+                f'faithlife_data/church-history-Articles-en/{article.metadata.identifier}.csv'
+            )
+            subj_list = set(relations_df['subj'].tolist())
+            obj_list = set(relations_df['obj'].tolist())
+            all_entities_in_history_article_csv = subj_list.union(obj_list)
+
+            for entity_label in all_entities_in_history_article_csv:
+                entity_name = self.database_df.loc[
+                    self.database_df['primary'] ==
+                    entity_label]['label_en'].to_string(index=False)
+                if '(' in entity_name:
+                    entity_name = extract_name(entity_name)
+
+                entity_type = self.database_df.loc[
+                    self.database_df['primary'] ==
+                    entity_label]['kind'].to_string(index=False)
+                entity_name_to_entity_label_and_entity_type[entity_name] = (
+                    entity_label, entity_type)
+        return entity_name_to_entity_label_and_entity_type
+
+    def merge_all_article_info(
+        self, article: Article, entity_name_to_entity_label_and_entity_type
+    ) -> Tuple[List[List[str]], List[List[str]]]:
         """Merges all sentences in article into one list
 
         Args:
             article: An article object.
         """
-
-        all_sentences = [article.metadata.identifier, article.title]
+        # if article.metadata.identifier != "OrganizationUnderBishops":
+        #     return [], []
+        all_sentences = [[article.metadata.identifier], [article.title]]
         ner_tuples = [[(
             0,
-            0,
+            len(article.metadata.identifier) - 1,
             article.metadata.identifier,
             f'bk.tle:{article.metadata.identifier}',
         )], []]
 
+        #calculate length of all_sentences where all_sentences = [[sentence1], [sentence2], ...] using list comprehension
+
         # period
-        all_sentences.append("Period: " + article.summary.period)
+        all_sentences.append(["Period: " + article.summary.period])
         ner_tuples.append([])
 
         # description
         for i, sentence_in_description in enumerate(
                 sent_tokenize(article.summary.description)):
+            ner_tuples_in_sentence = []
             if i == 0:
-                all_sentences.append("Description: " + sentence_in_description)
+                all_sentences.append(
+                    ["Description: " + sentence_in_description])
             else:
-                all_sentences.append(sentence_in_description)
-            ner_tuples.append([])
+                all_sentences.append([sentence_in_description])
+
+            for entity_name, (
+                    entity_label, entity_type
+            ) in entity_name_to_entity_label_and_entity_type.items():
+                if entity_name in sentence_in_description:
+                    if is_subsequence([
+                            entity_name
+                    ], tokenizer.tokenize_sentence(sentence_in_description)):
+
+                        entity_label, entity_type = entity_name_to_entity_label_and_entity_type[
+                            entity_name]
+
+                        start_index = sentence_in_description.find(entity_name)
+                        end_index = start_index + len(entity_name) - 1
+
+                        ner_tuples_in_sentence.append(
+                            (start_index, end_index, entity_name, entity_label))
+
+            ner_tuples.append(ner_tuples_in_sentence)
 
         # Summary
         for i, sentence_in_text in enumerate(sent_tokenize(
                 article.summary.text)):
+            ner_tuples_in_sentence = []
             if i == 0:
-                all_sentences.append("Summary: " + sentence_in_text)
+                all_sentences.append(["Summary: " + sentence_in_text])
             else:
-                all_sentences.append(sentence_in_text)
-            ner_tuples.append([])
+                all_sentences.append([sentence_in_text])
+
+            for entity_name, (
+                    entity_label, entity_type
+            ) in entity_name_to_entity_label_and_entity_type.items():
+                if entity_name in sentence_in_text:
+                    if is_subsequence(
+                        [entity_name],
+                            tokenizer.tokenize_sentence(sentence_in_text)):
+
+                        entity_label, entity_type = entity_name_to_entity_label_and_entity_type[
+                            entity_name]
+
+                        start_index = sentence_in_text.find(entity_name)
+                        end_index = start_index + len(entity_name) - 1
+
+                        ner_tuples_in_sentence.append(
+                            (start_index, end_index, entity_name, entity_label))
+
+            ner_tuples.append(ner_tuples_in_sentence)
 
         for article_section in article.article_sections:
             # TODO - Parse chicago citation for recommended reading
@@ -227,45 +317,90 @@ class ArticleReader:
             #         # ner_tuples.append([])
 
             if type(article_section.section_title) == tuple:
-                all_sentences.append(article_section.section_title[0])
-                ner_tuples.append([])
-                # ner_tuples.append([article_section.section_title[1]])
+                all_sentences.append([article_section.section_title[0]])
+                ner_tuples.append([article_section.section_title[1]])
             else:
-                all_sentences.append(article_section.section_title)
+                all_sentences.append([article_section.section_title])
                 ner_tuples.append([])
             for article_subsection in article_section.article_subsections:
                 if type(article_subsection.section_title) == tuple:
-                    all_sentences.append(article_subsection.section_title[0])
-                    ner_tuples.append([])
-                    # ner_tuples.append([article_subsection.section_title[1]])
+
+                    all_sentences.append([article_subsection.section_title[0]])
+
+                    ner_tuples.append([article_subsection.section_title[1]])
                 else:
-                    all_sentences.append(article_subsection.section_title)
+                    all_sentences.append([article_subsection.section_title])
                     ner_tuples.append([])
                 for i, sentence in enumerate(article_subsection.bullet_points):
-                    all_sentences.append(sentence)
+                    all_sentences.append([sentence])
                     ner_tuples.append(article_subsection.ner_tuples[i])
             for i, article_section_sentence in enumerate(
                     article_section.bullet_points):
-                all_sentences.append(article_section_sentence)
+                all_sentences.append([article_section_sentence])
                 ner_tuples.append(article_section.ner_tuples[i])
 
-        for i, sentence in enumerate(all_sentences):
-            print("setence: ", sentence, "ner_tuple:", ner_tuples[i], "\n")
+        # print(len(all_sentences), len(ner_tuples))
+        # for i, sentence in enumerate(all_sentences):
+        # print("setence: ", sentence, "ner_tuple:", ner_tuples[i], "\n")
         return all_sentences, ner_tuples
 
+    def write_all_articles_to_sentence_csv(self) -> None:
+        for article in self.articles:
+            all_sentences, ner_tuples = self.merge_all_article_info(article)
+            self.write_article_sentence_to_csv(article.metadata.identifier,
+                                               all_sentences)
+            self.write_ner_tuples_to_csv(article.metadata.identifier,
+                                         ner_tuples)
+
+    def write_article_sentence_to_csv(self, article_name: str,
+                                      sentences: List[str]) -> None:
+        with open(
+                f'markdown_preprocessing/cache_article_data/{article_name}_sentences.csv',
+                'w') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow(["sentence"])
+            for sent_idx, sentence_list in enumerate(sentences):
+                for sentence in sentence_list:
+                    # print("test:", sentence)
+                    writer.writerow([sentence])
+
+    def write_ner_tuples_to_csv(self, article_name: str,
+                                ner_tuples: List[List[str]]):
+        print("writing ner_tuples:")
+        print(ner_tuples)
+        with open(
+                f'markdown_preprocessing/cache_article_data/{article_name}_ner_tuples.csv',
+                'w') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow(["ner_tuple"])
+            for sent_idx, ner_tuple_list in enumerate(ner_tuples):
+                print(ner_tuple_list)
+                for ner_tuple in ner_tuple_list:
+                    # print("test:", sentence)
+                    writer.writerow([ner_tuple])
+
     def save_article_to_csv(self, article: Article):
+        self.write_article_tokenize_sentences_to_csv(article)
+        self.write_article_entities_to_csv(article)
+        self.write_article_relations_to_csv(article)
+
+    def write_article_tokenize_sentences_to_csv(self, article: Article) -> None:
         """Saves article to csv file
 
         Args:
             article: An article object.
         """
-        with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_sentences.csv',
-                  'w') as csv_file:
+
+        with open(
+                f'{CACHE_FOLDER}/{article.metadata.identifier}_tokenized_sentences.csv',
+                'w') as csv_file:
             writer = csv.writer(csv_file)
             writer.writerow(["tokenized_sentence"])
-            for sentence in article.tokenized_sentences:
-                writer.writerow([sentence])
+            for sent_idx, sentence_list in enumerate(
+                    article.tokenized_sentences):
+                writer.writerow([sentence_list])
 
+    def write_article_entities_to_csv(self, article: Article) -> None:
         with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_entities.csv',
                   'w') as csv_file:
             writer = csv.writer(csv_file)
@@ -280,6 +415,8 @@ class ArticleReader:
                         entity_tuple.end_index, entity_tuple.entity_type,
                         entity_tuple.entity_label, entity_tuple.entity_name
                     ])
+
+    def write_article_relations_to_csv(self, article: Article) -> None:
 
         with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_relations.csv',
                   'w') as csv_file:
@@ -411,7 +548,7 @@ def parse_chicago_citation(citation):
     dict: A dictionary containing the extracted information, with keys for the article title, book title,
     and book author.
     """
-    print(citation)
+    # print(citation)
     pattern = r'"(.+)" in (.+?)( \((?:ed\. )?([^)]+)\))?'
 
     match = re.match(pattern, citation)
@@ -420,3 +557,16 @@ def parse_chicago_citation(citation):
         return {"title": title, "publication": publication, "editor": editor}
     else:
         return None
+
+
+def is_subsequence(
+    subseq,
+    sentence,
+):
+    subseq_pos = 0  # Position of next character to match in subsequence
+    for char in sentence:
+        if char == subseq[subseq_pos]:
+            subseq_pos += 1
+            if subseq_pos == len(subseq):  # Reached end of subsequence
+                return True
+    return False

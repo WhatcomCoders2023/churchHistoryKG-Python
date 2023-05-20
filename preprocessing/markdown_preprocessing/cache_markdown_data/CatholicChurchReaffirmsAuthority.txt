@@ -1,0 +1,155 @@
+<p>Level: 1
+Status: Released
+Identifier: CatholicChurchReaffirmsAuthority
+Parents: Root
+Eras: bk.era:modernera</p>
+<h1>The Roman Catholic Church Reaffirms Its Authority and Rejects Modernism</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1776-1929">1776–1929</a></li>
+<li><strong>Description:</strong>  As the temporal authority of the pope waned, the Roman Catholic Church reaffirmed the supreme authority of the pope in spiritual matters.   </li>
+</ul>
+<h2>Summary</h2>
+<p>The modern age brought many challenges to the Roman Catholic Church in the form of secularization and liberalism. The separation between church and state---and the end of Christendom---was solidified as revolution, which pushed for democratic rule, swept through Europe. While papal authority over the state was abolished, the Roman Catholic Church reaffirmed the pope's supreme authority in matters of faith with the doctrine of papal infallibility. Beyond politics, modernism was also making an impact on Christian theology, notably in the form of Protestant liberalism. While some Roman Catholic scholars and theologians chose to engage with these modern developments, modernism was ultimately condemned by the papacy. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Calls for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25democracy">democratic rule</a> challenged the temporal powers of the church and state (<a href="date.1700+100+l-1800+100+m">late 1700s–mid-1800s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%40ThirteenColonies">Thirteen Colonies</a> gained independence from <a href="https://ref.ly/logos4/Factbook?ref=bk.%40GreatBritain">Great Britain</a> (<a href="date.1776-1783">1776–1783</a>).</li>
+<li>The French Revolution ended the French monarchy (<a href="date.1789-1799">1789–1799</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25revolution">Revolution</a> swept through Europe (<a href="date.1848">1848</a>).</li>
+<li>The rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25nationalism">nationalism</a> in Europe led to the establishment of nation-states (<a href="date.1800+100">1800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liberalism_Belief">Liberalism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25secularism">secularization</a> spread through the Western world (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was dissolved (<a href="date.1806">1806</a>).</li>
+<li>The papacy condemned <a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">modernism</a> (<a href="date.1800+100+m-1900+100+e">mid-1800s–early 1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a> were abolished, ending the temporal authority of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> (<a href="date.1870">1870</a>).</li>
+<li>The supreme authority of the pope was affirmed by the doctrine of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalInfallibility">papal infallibility</a>, and the power of the church was centralized under the pope (<a href="date.1870">1870</a>)).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> was established as a sovereign state under the rule of the pope; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was officially recognized as the capital of Italy and the center of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Catholicism_Belief">Catholicism</a> (<a href="date.1929">1929</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">Modernists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AlfredFirminLoisy_Person">Alfred Firmin Loisy</a> (<a href="date.1857.2.28-1940.6.1">February 28, 1857–June 1, 1940</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> modernist biblical <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25professor">professor</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; member of the Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liberalism_Belief">Modernist</a> movement; he taught at the <a href="bk.%CatholicUniversityOfParis_Place">Catholic University of Paris</a> and advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25biblicalCriticism">biblical criticism</a>; author of <a href="bk.%AutourDunPetitLivre_Writing"><em>Autour d’un petit livre</em></a> and <a href="bk.%LeQuatriemeEvangile_Writing"><em>Le Quatrième Évangile</em></a>, which were placed, along with many of his other works, on the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indexLibrorumProhibitorum_Writing"><em>Index Librorum Prohibitorum</em></a>by Pope Pius X, who <a href="https://ref.ly/logos4/Factbook?ref=bk.%25excommunication">excommunicated</a> him in <a href="date.1908">1908</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GeorgeTyrrell_Person">George Tyrrell</a> (<a href="date.1861.2.6-1909.7.15">February 6, 1861–July 15, 1909</a>): English Catholic modernist <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>, scholar, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; he converted from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicanism</a> to Roman Catholicism; opposed to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">scholasticism</a>; a member of the Catholic modernist movement, he was opposed to <a href="https://ref.ly/logos4/Factbook?ref=bio.piusx">Pope Pius X's</a> <a href="bk.%PascendiDominiciGregis_Writing"><em>Pascendi Dominici Gregis</em></a>; he was expelled from the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a> in <a href="date.1906">1906</a> and barred from receiving the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Eucharist</a> (minor excommunication).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.maudepetre">Maude Petre</a> (<a href="date.1863.8.4-1942.12.16">August 4, 1863–December 16, 1942</a>): English Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">nun</a> and writer; member of the Catholic modernist movement; author of <a href="bk.%autobiographyAndLifeGeorgeTyrell_Writing"><em>Autobiography and Life of George Tyrell</em></a>, which was placed on the <em>Index Librorum Prohibitorum</em> in 1913; she was also the author of <a href="bk.%ModernismItsFailuresAndFruits_Writing"><em>Modernism: Its Failure and Its Fruits</em></a>, which analyzed the modernist movement.</li>
+</ul>
+<h3><a href="bk.%kingship">Monarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.louisxvi_1">Louis XVI</a> (<a href="date.1754.8.23-1793.1.21">August 23, 1754–January 21, 1793</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%23king">king</a> of France (<a href="date.1774-1792">1774–1792</a>); the monarchy was abolished in <a href="date.1792">1792</a>, and the king and queen consort, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MarieAntoinette_Person">Marie Antoinette</a>, were guillotined during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrenchrevolution">French Revolution</a>.</li>
+<li>Victor Emmanuel II (<a href="date.1820.3.14-1878.1.9">March 14, 1820–January 9, 1878</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Sardinia">Sardinia</a> (<a href="date.1849-1861">1849–1861</a>) and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> (<a href="date.1861-1878">1861–1878</a>); he was excommunicated by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusXI_Person">Pius XI</a> after a battle against papal troops; he united Italy as a nation-state and abolished the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a>.</li>
+</ul>
+<h3><a href="bk.%officer">Political Leaders</a></h3>
+<ul>
+<li>Napoleon Bonaparte (<a href="date.1769.8.15-1821.5.5">August 15, 1769–May 5, 1821</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> (<a href="date.1804-1814">1804–1814</a>), <a href="date.1815">1815</a>); crowned by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusVII_Person">Pope Pius VII</a>; he signed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConcordatOf1801">Concordat of 1801</a> with Pius VII; instituted the Napoleonic Code, which systematized French law, including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FreedomofReligion">freedom of religion</a>; worked to limit papal authority as he conquered <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a>; he abdicated after his <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abritishdefeatnapoleonwaterloo">defeat at Waterloo</a>.</li>
+<li>Otto Von Bismarck (<a href="date.1815.4.1-1898.7.30">April 1, 1815–July 30, 1898</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> <a href="bk.#officer">chancellor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40GermanEmpire">German Empire</a> (<a href="date.1871.3.21-1890.3.20">March 21, 1871–March 20, 1890</a>); he led <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Kulturkampf">Kulturkampf</a> against the Roman Catholic Church, which established anti-Catholic laws in Germany; he later made peace with <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeLeoXIII">Pope Leo XIII</a>, and most of the laws were revoked.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusVII_Person">Pius VII</a> (<a href="date.1742-1823">1742-1823</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1800-1823">1800-1823</a>); <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine</a>; he signed the Concordat of <a href="date.1801">1801</a> and crowned Napoleon emperor; he was later imprisoned by Napoleon after he annexed the Papal States into the French Empire; issued <a href="bk.%QuumMemoranda_Writing"><em>Quum Memoranda</em></a> excommunicating Napoleon, though it was later lifted after his reconciliation with the Catholic Church; returned to Rome in <a href="date.1814">1814</a> after Napoleon was defeated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusIX_Person">Pius IX</a> (<a href="date.1792.5.13-1878.2.7">May 13, 1792–February 7, 1878</a>): Bishop of Rome (<a href="date.1846-1878">1846–1878</a>); originally a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liberalism_Belief">liberalism</a>, he later became known as a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conserve">conservatism</a>; convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstvaticancouncil">First Vatical Council</a> to address the problems caused by the rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">rationalism</a> and liberalism; excommunicated <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignvictoremmanuelii">Victor Emmanuel II</a> after a battle against papal troops; lost temporal power over the Papal States to Italy; issued <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SyllabusErrorum_Writing"><em>Syllabus Errorum</em></a>, which addresses the errors of liberalism and rationalism; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ultramontanism">ultramontanism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeLeoXIII">Pope Leo XIII</a> (<a href="date.1810.3.2-1903.7.20">March 2, 1810–July 20, 1903</a>): bishop of Rome (<a href="date.1878-1903">1878–1903</a>); he advocated for biblical criticism but later became an opponent of liberalism; advocate of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Thomism">Thomism</a> in response to modernism; he issued <a href="bk.%RerumNovarum_Writing"><em>Rerum Novarum</em></a>, which addresses the Catholic Church's views on <a href="https://ref.ly/logos4/Factbook?ref=bk.%25socialJustice">social justice</a> and advocates for the rights of the working class; issued <a href="bk.%ProvidentissimusDeus_Writing"><em>Providentissimus Deus</em></a>, which defends the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25infallibility">inerrancy of Scripture</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.piusx">Pius X</a> (<a href="date.1835-1914">1835–1914</a>): Italian Bishop of Rome (<a href="date.1903-1914">1903–1914</a>); opponent of liberalism; advocate of Thomism in response to modernism; opponent of Catholic modernists; he issued <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lamentabili_Writing"><em>Lamentabili</em></a> and <a href="bk.%PascendiDominiciGregis_Writing"><em>Pascendi Dominici gregis</em></a>, which condemns modernist propositions on doctrine; he excommunicated <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AlfredFirminLoisy_Person">Alfred Loisy</a> in <a href="date.1908">1908</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusXI_Person">Pope Pius XI</a> (<a href="date.1857-1939">1857–1939</a>): bishop of Rome (<a href="date.1922-1939">1922–1939</a>); the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranTreaty">Lateran Treaty</a> was signed during his papacy, granting <a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> sovereignty and recognizing the state of Italy.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ultramontanism">Ultramontanists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JosephDeMaistre_Person">Joseph De Maistre</a> (<a href="date.1753.4.1-1821.2.26">April 1, 1753–February 26, 1821</a>): French Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apologists">apologist</a> and conservative counter-revolutionary; he was educated by the Jesuits; a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ultramontanism">Ultramontanism</a>; author of <a href="bk.%OnThePope_Writing"><em>On the Pope</em></a>, which advocates for the absolute authority of the pope within the church.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1776-1783">1776–1783</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aamericanrevolutionarywar">American Revolutionary War</a> establishes independence of the American colonies.</li>
+<li><a href="date.1789-1799">1789–1799</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrenchrevolution">French Revolution</a> ends the French monarchy and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25secularism">secularizes</a> France.</li>
+<li><a href="date.1790+10">1790s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrancebecomessecularstate">France becomes a secular state</a>.</li>
+<li><a href="date.1793">1793</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afestivalreasonfrance">Festival of Reason takes place in France</a>.</li>
+<li><a href="date.1801">1801</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconcordat1801signednapoleon">Concordat of 1801 is signed by Napoleon and Pope Pius VII</a>, restoring the Roman Catholic Church in France.</li>
+<li><a href="date.1806">1806</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adissolutionholyromanempire">Dissolution of the Holy Roman Empire</a>.</li>
+<li><a href="date.1815">1815</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondrestorationpapalstates">The Papal States are restored a second time</a>.</li>
+<li><a href="date.1848">1848</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aeuropeanrevolutions1848">Revolutions of 1848 take place in Europe</a>.</li>
+<li><a href="date.1854">1854</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apromulgationimmaculate">Promulgation of the immaculate conception by Pius IX</a> through <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">papal bull</a>.</li>
+<li><a href="date.1864">1864</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asyllabuserrorspopepiusix">Syllabus of Errors by Pope Pius IX is written</a>, which condemns the errors of modernism.</li>
+<li><a href="date.1869-1870">1869-1870</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstvaticancouncil">First Vatican Council</a> affirms the infallibility of the pope.</li>
+<li><a href="date.1870">1870</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeclarationpapalinfallibility">Papal infallibility is decreed</a>.</li>
+<li><a href="date.1870">1870</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aitalyseizesromefromchurch">Italy seizes Rome from the church</a>, ending the Papal States.</li>
+<li><a href="date.1871">1871</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottovonbismarkcampaignsagainst">Otto Von Bismarck campaigns against Catholicism</a>.</li>
+<li><a href="date.1907">1907</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopepiusxissuesencyclicals">Pope Pius X issues the encyclicals <em>Pascendi Dominici Gregis</em> and <em>Lamentabili Sane Exitu</em></a>.</li>
+<li><a href="date.1910">1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopepiusxissuesoathagainst">Pope Pius X issues <em>The Oath Against Modernism</em></a>.</li>
+<li><a href="date.1914-1918">1914–1918</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldwari">World War I</a> begins in Europe.</li>
+<li><a href="date.1929">1929</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alaterantreatysigned">Lateran Treaty is signed</a>, which established Vatican City as a sovereign state.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> was the center of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gallicanism">Gallicanism</a> and an intellectual center of modernism; location of the French Revolution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was the location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Kulturkampf">Kulturkampf</a> movement against the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was dissolved.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> was an intellectual center of modernism; became an independent nation-state and captured Rome.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of Roman Catholicism; established as the capital of Italy after the conquest of the Papal States.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> was established as a sovereign state under the rule of the papacy in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranTreaty">Lateran Treaty</a>; it became the new center of Roman Catholicism.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchAndState">Church and state</a> struggled for power during the Revolutionary Era.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ExCathedra"><em>Ex cathedra</em></a> was defined at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstvaticancouncil">First Vatican Council</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gallicanism">Gallicanism</a> was rejected at the First Vatican Council.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Kulturkampf">Kulturkampf</a> opposed Roman Catholicism in Germany; nationalism, which was on the rise in Germany under <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottovonbismarkcampaignsagainst">Otto von Bismarck</a>, viewed Roman Catholicism as a threat to a unified German state which leaned Protestant.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liberalism_Belief">Liberalism</a> spread across Europe during the <a href="date.1801+100">nineteenth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">Modernism</a> was staunchly opposed by the papacy throughout the <a href="date.1801+100+l-1901+100+e">late nineteenth and early twentieth centuries</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25nationalism">Nationalism</a> led to the unification of Italy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalInfallibility">Papal infallibility</a> was the Catholic Church's response to modern secularization and reaffirmed the spiritual authority of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a>; it was affirmed at <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstvaticancouncil">Vatican I</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25revolution">Revolution</a> solidified the separation of church and state in Europe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ultramontanism">Ultramontanism</a> was affirmed at the First Vatican Council.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25decretals">Decretals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PastorAeternus"><em>Pastor Aeternus</em></a> (<a href="date.1870">1870</a>): the first of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25decreesFirstVaticanCouncil_Writing">Dogmatic Decrees of the First Vatican Council</a>; defines the doctrine of papal infallibility.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25encyclical">Encyclicals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25QuantaCura_Writing"><em>Quanta Cura</em></a> (Pope Pius IX, <a href="date.1864">1864</a>): papal encyclical which condemns modernism; an appendix of eighty "errors" was included, known as <a href="bk.%SyllabusErrorum_Writing"><em>Syllabus Errorum</em></a>, which was issued in response to liberalism and the rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">rationalism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ProvidentissimusDeus_Writing"><em>Providentissimus Deus</em></a> (Pope Leo XIII, <a href="date.1893">1893</a>): papal encyclical which defended the inerrancy of Scripture and opposed rationalism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lamentabili_Writing"><em>Lamentabili</em></a> (Pope Pius X, <a href="date.1901">1901</a>): papal decree that condemns sixty-five modernist propositions on Christian doctrine; propositions were mainly from the works of Alfred Loisy.</li>
+<li><a href="bk.%PascendiDominiciGregis_Writing"><em>Pascendi Dominici Gregis</em></a> (Pope Pius X, <a href="date.1907">1907</a>): papal encyclical which condemned modernist propositions on doctrine.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25oath">Oaths</a></h3>
+<ul>
+<li><a href="bk.%OathAgainstModernism_Writing"><em>The Oath Against Modernism</em></a> (Pope Pius X, <a href="date.1910">1910</a>): an oath condemning modernism which was to be sworn by all Roman Catholic clergy, pastors, preachers, religious superiors, and theological and philosophy professors.</li>
+</ul>
+<h3><a href="bk.%treaty">Treaties</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConcordatOf1801">Concordat of 1801</a>: agreement between France and the Roman Catholic Church; signed by Napoleon and Pope Pius VII; the state was given the right of nominating bishops.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranTreaty">Lateran Treaty</a> (<a href="date.1929">1929</a>): agreement between the Kingdom of Italy and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25holySee">Holy See</a>; signed by <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abenitomussoliniprimeminister">Benito Mussolini</a> for King Victor Emmanuel III of Italy and by Cardinal Secretary of State Pietro Gasparri for Pope Pius XI; established Vatican City as a sovereign state under the rule of the pope; the pope pledged to remain neutral in international relations; Italy was recognized by the Catholic Church with Rome as its capital.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%OnThePope_Writing"><em>On the Pope</em></a> (Joseph de Maistre, <a href="date.1819">1819</a>): supported Ultramontanism and advocated for the supreme authority of the pope within the church.</li>
+<li><a href="bk.%ModernismItsFailuresAndFruits_Writing"><em>Modernism: Its Failure and Its Fruits</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.maudepetre">Maude Petre</a>, <a href="date.1918">1918</a>): an analysis of the modernist movement.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/784353?len=35303">"Catholicism in the Face of Modernity" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1496056?len=37061">"The Christian Churches on the European Continent <em>(1814–1914)</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/629717?len=17668">"Conceptual and Institutional" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1133864?len=37377">"Europe in Revolt: Church and State in the Nineteenth Century" (Detzler) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/467898?len=56045">"<em>Nineteenth and Twentieth Centuries</em>: Introduction" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/874686?len=27068">"Restoring the Fortress: <em>Catholicism in the Age of Progress</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

@@ -1,0 +1,149 @@
+<p>Level: 1
+Status: Released
+Identifier: ProtestantLiberalism
+Parents: Root
+Eras: bk.era:modernera</p>
+<h1>The Rise of Protestant Liberalism</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1799-1930">1799–1930</a></li>
+<li><strong>Description:</strong> Protestant theologians and scholars sought to apply modern intellectual developments to the study of the Bible and Christian theology. </li>
+</ul>
+<h2>Summary</h2>
+<p>Protestant liberals adapted Christian orthodoxy to respond to perceived challenges posed by modernism. Thinkers applied methods that were developed in the natural sciences to the study of the Bible and theology. Historical-critical scholars insisted on studying the Bible as an ordinary text to discern myth from history in an effort to identify the “historical Jesus” independent from the Jesus of the Gospels. Other thinkers during this period saw Christian religion as an obstacle to that progress and altogether rejected it. While the Roman Catholic Church generally resisted the influence of modernism, some Protestants sought to engage modernism, and their engagement developed into Protestant liberalism.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25science">Scientific</a> discoveries challenged traditional Christian views of the natural world (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25atheism">Atheist</a> intellectuals and <a href="bk.%philosopher">philosophers</a> attacked <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christianity</a> (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HistoricalCriticism">Historical-critical methods</a> were applied to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bible_Writing">Bible</a>, known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25biblicalCriticism">biblical criticism</a>, to determine its literary history and the meaning of the authors (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>Traditional Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrines</a> were questioned, as was the <a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleAuthority">authority</a>, nature, and <a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleTruthfulness">trustworthiness of the Bible</a> (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodsOmnipresence">immanence of God</a>, God's nearness to creation, was emphasized over <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodsInfinity">God's transcendence</a> (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25godAsFather">fatherhood of God</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25brotherhood">brotherhood of man</a> were emphasized (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JesusChrist_Deity">Jesus</a> was viewed as humanity's example of achieving perfect <a href="https://ref.ly/logos4/Factbook?ref=bk.%25knowledge">knowledge of God</a> and living an <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ethics">ethical life</a> (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>Many denied the <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">divinity of Jesus</a> and other <a href="https://ref.ly/logos4/Factbook?ref=bk.%25supernatural">supernatural</a> elements of Christianity and sought to distinguish the Jesus of history from the Jesus of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospels_Writing">Gospels</a> (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>The ethics of Christianity were emphasized over doctrine; <a href="https://ref.ly/logos4/Factbook?ref=lco.Religious_experience">religious experience</a> was also emphasized within Protestant liberalism (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%ProtestantLiberalism">Protestant Liberals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FriedrichDanielErnstSchleiermacher_Person">Friedrich Daniel Ernst Schleiermacher</a> (<a href="date.1768.11.21-1834.1.12">November 21, 1768–January 12, 1834</a>): German <a href="bk.%Protestantism_Belief">Protestant</a> <a href="bk.%philosopher">philosopher</a>, <a href="bk.%theologian">theologian</a>, and <a href="bk.%ReformedGroup_Denom">Reformed</a> <a href="bk.%Preacher">preacher</a>; "father of liberal Protestantism"; he taught at the universities of <a href="bk.@UniversityOfHalle">Halle</a> and <a href="bk.%UniversityOfBerlin_Place">Berlin</a>, the latter of which he also co-founded; influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Romanticism">Romanticism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietism</a>, he emphasized the importance of feeling and experience in religion; argued that <a href="bk.%dogma">dogma</a> was relative to culture; author of <a href="bk.%OnReligionSchleiermacher_Writing"><em>On Religion: Speeches to Its Cultured Despisers</em></a>, which was written to win back intellectuals to religion, and <a href="bk.%TheChristianFaithSchleiermacher_Writing"><em>The Christian Faith</em></a>, a systematic theology that addresses his views on Christian doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FerdinandChristianBaur_Person">Ferdinand Christian Baur</a> (<a href="date.1792.6.21-1860.12.2">June 21, 1792–December 2, 1860</a>): German Protestant theologian; he studied and taught at the <a href="bk.%UniversityOfTubingen_Place">University of Tübingen</a>; founder of the <a href="bk.%TubingenSchool">Tübingen School</a> of theology; influenced by Friedrich Schleiermacher; author of <a href="bk.%PaulTheApostleOfJesusChristBauer_Writing"><em>Paul the Apostle of Jesus Christ</em></a>, which examines the life, writings, and theology of the apostle Paul and applies historical-critical methods.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DavidFriedrichStrauss_Person">David Friedrich Strauss</a> (<a href="date.1808-1874">1808–1874</a>): German Protestant theologian; student of F. C. Baur; he was influenced by Friedrich Schleiermacher and Georg Wilhelm Friedrich Hegel; taught at the University of Tübingen; denied historicity of supernatural and miraculous elements of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospels_Writing">Gospels</a>; author of <a href="bk.%LifeOfJesusCriticallyExamined_Writing"><em>Life of Jesus Critically Examined</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.albrechtritschl">Albrecht Ritschl</a> (<a href="date.1822-1889">1822–1889</a>): German Lutheran theologian specializing in systematic theology; he studied at the <a href="bk.@UniversityOfHalle">University of Halle</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfBonn_Place">Bonn</a>, and <a href="bk.%universityOfHeidelberg_Place">Heidelberg</a>; taught at the universities of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfBonn_Place">Bonn</a> and <a href="bk.%UniversityOfGottingen_Place">Göttingen</a>; influenced by <a href="bk.%ImmanuelKant_Person">Immanuel Kant</a>; developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ritschlianism">Ritschlianism</a>, which emphasizes the relationship between ethics and religion; author of <a href="bk.%ChristianDoctrineOfJustificationRitschl_Writing"><em>The Christian Doctrine of Justification and Reconciliation</em></a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JuliusWellhausen_Person">Julius Wellhausen</a> (<a href="date.1844.5.17-1918.1.7">May 17, 1844–January 7, 1918</a>): German Protestant <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldTestament_Writing">Old Testament</a> scholar; "father of modern biblical criticism"; he studied at the University of Göttingen; taught at the universities of Göttingen, <a href="bk.%universityOfGreifswald_Place">Greifswald</a>, Halle, and <a href="bk.%UniversityofMarburg">Marburg</a>; author of <a href="bk.%ProlegomenaToTheHistoryOfIsrael_Writing"><em>Prolegomena to the History of Israel</em></a>, which articulates the <a href="bk.%DocumentaryHypothesis">Documentary Hypothesis</a> of the <a href="bk.%Pentateuch_Writing">Pentateuch</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AdolfHarnack_Person">Adolf von Harnack</a> (<a href="date.1851.5.7-1930.6.10">May 7, 1851–June 10, 1930</a>): German church historian, theologian, and <a href="bk.%Patristics">patristic</a> scholar; a leader of liberal theology; he studied at the universities of <a href="bk.%UniversityOfTartu_Place">Dorpat</a> and <a href="bk.%UniversityOfLeipzig_Place">Leipzig</a>; taught at the universities of Leipzig, <a href="bk.%UniversityOfGiessen_Place">Giessen</a>, Marburg, and <a href="bk.%UniversityOfBerlin_Place">Berlin</a>; advocated for the separation of Christianity from culture in order to determine the essence of its message; author of <a href="bk.%HistoryOfDogma_Writing"><em>History of Dogma</em></a>, which examines the history of Christian doctrine from its beginning up to <a href="bk.tle:protestantreformation">the Protestant Reformation</a>, and <a href="bk.%WhatIsChristianityHarnack_Writing"><em>What Is Christianity?</em></a>, which applies historical-critical methods to the study of Christianity as a historical religion.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ErnstTroeltsch_Person">Ernst Troeltsch</a> (<a href="date.1865-1923">1865–1923</a>): German theologian and philosopher; he taught at the universities of Göttingen, Bonn, Heidelberg, and Berlin; member of <a href="bk.%ReligionsgeschichtlicheSchule">Religionsgeschichtliche Schule</a>; influenced by Albrecht Ritschl; he applied sociological theory to theology in order to address the question of relativism; author of <a href="bk.%ChristianThoughtInHistoryTroeltsch_Writing"><em>Christian Thought, Its History and Application</em></a>, which addresses the issue of historical relativism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.albertschweitzer">Albert Schweitzer</a> (<a href="date.1875.1.14-1965.9.4">January 14, 1875–September 4, 1965</a>): German Lutheran theologian, physician, <a href="bk.%evangelist">missionary</a>, and musician; he studied at the <a href="bk.%UniversityOfStrasbourg_Place">University of Strasbourg</a>; author of <a href="bk.%QuestOfTheHistoricalJesus_Writing"><em>The Quest of the Historical Jesus</em></a>, which argues that the Jesus of history was different than the Jesus portrayed in the New Testament, and <a href="bk.%MysticismOfPaulTheApostle_Writing"><em>The Mysticism of Paul the Apostle</em></a>, which addresses the theology of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Paul">Paul</a>. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">Modernists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ImmanuelKant_Person">Immanuel Kant</a> (<a href="date.1724.4.22-1804.2.12">April 22, 1724–February 12, 1804</a>): German philosopher and Enlightenment thinker; he was influenced by David Hume; advocated for a synthesis of rationalism and empiricism; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CritiqueOfPureReason"><em>Critique of Pure Reason</em></a> and <a href="bk.%CritiqueOfPracticalReason_Writing"><em>Critique of Practical Reason</em></a>, which examine the relationship between experience and understanding; he was highly influential on Protestant liberalism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GeorgWilhelmFriedrichHegel_Person">Georg Wilhelm Friedrich Hegel</a> (<a href="date.1770.8.27-1831.11.14">August 27, 1770–November 14, 1831</a>): German Lutheran philosopher; he studied at the University of Tübingen; influenced by Immanuel Kant; he is known for developing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Idealism">absolute idealism</a>; his views on God as subject and historical reason greatly influenced Protestant liberalism; opposed the theology of Friedrich Schleiermacher; author of <a href="bk.%LecturesOnPhilosophyOfReligion_Writing"><em>Lectures on the Philosophy of Religion</em></a>, which articulates Hegel's views on the concept of religion and Christian doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesRobertDarwin_Person">Charles Robert Darwin</a> (<a href="date.1809.2.12-1882.4.19">February 12, 1809–April 19, 1882</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25naturalHistory">naturalist</a> and Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theism">theist</a>; studied at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">Cambridge</a>; he converted to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Agnosticism_Belief">agnosticism</a>; advocated for the theory of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evolution">evolution</a> by natural selection; author of <a href="bk.%OriginOfSpecies_Writing"><em>On the Origin of Species</em></a>, which addresses natural selection, and <a href="bk.%DescentOfMan_Writing"><em>Descent of Man</em></a>, which addresses human evolution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KarlMarx.1_Person">Karl Marx</a> (<a href="date.1818.5.5-1883.3.14">May 5, 1818–March 14, 1883</a>): German atheist philosopher; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Marxism_Belief">Marxism</a>, which was influential to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Communism_Belief">communism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25socialism">socialism</a>; he is known for the expression "It [religion] is the opium of the people"; co-author of <a href="bk.%CommunistManifesto_Writing"><em>The Communist Manifesto</em></a>, which addresses the subjects of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25caste">social class</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25religion">religion</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.sigmundfreud_1">Sigmund Freud</a> (<a href="date.1856.5.6-1939.9.23">May 6, 1856–September 23, 1939</a>): Viennese atheist physician; "father of psychoanalysis"; he was highly influential in the field of psychology; he was critical of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25religion">religion</a>, which he regarded as an illusion and unnecessary for modern life; author of <a href="bk.%MosesAndMonotheism_Writing"><em>Moses and Monotheism</em></a>, <a href="bk.%TotemAndTaboo_Writing"><em>Totem and Taboo</em></a>, and <a href="bk.%TheFutureOfAnIllusion_Writing"><em>The Future of an Illusion</em></a>, which address his views on religion.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1799">1799</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areligionspeechesitscultured"><em>On Religion: Speeches to Its Cultured Despiser</em> by Schleiermacher is published</a>.</li>
+<li><a href="date.1700+100+l">late 1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atraditionalauthorshipletter">Traditional authorship of the letter to the Ephesians is questioned</a>.</li>
+<li><a href="date.1800+100">1800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amodernismemerges">Modernism emerges</a>; some perceive the changes brought about by modernism as intellectual and theological challenges to the Christian faith. </li>
+<li><a href="date.1800+100">1800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amosiacauthorshippentateuch">Mosiac authorship of the Pentateuch is questioned</a>.</li>
+<li><a href="date.1800+100">1800s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atubingenschoolgermancriticism2">Tübingen school of German criticism</a> helps develop Protestant liberalism.</li>
+<li><a href="date.1821">1821</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianfaithschleiermacher"><em>The Christian Faith</em> by Schleiermacher</a> is published.</li>
+<li><a href="date.1835">1835</a>: <a href="bk.tle:lifejesuscriticallyexamineddavidfriedrichstrauss"><em>Life of Jesus Critically Examined</em> by David Friedrich Strauss is published</a>.</li>
+<li><a href="date.1837">1837</a>: <a href="bk.tle:lecturesphilosophyreligiongeorgehegelispublished"><em>Lectures on the Philosophy of Religion</em> by Georg Hegel is published</a>.</li>
+<li><a href="date.1848">1848</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acommunistmanifestokarlmarx"><em>The Communist Manifesto</em> by Karl Marx is published</a>.</li>
+<li><a href="date.1859">1859</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aoriginspeciescharlesdarwin"><em>Origin of Species</em> by Charles Darwin is published</a></li>
+<li><a href="date.1876">1876</a>: <a href="bk.tle:paulapostlejesuschristferdinandchristianbauer"><em>Paul the Apostle of Jesus Christ</em> by Ferdinand Christian Baur is published</a>.</li>
+<li><a href="date.1870-1874">1870–1874</a>: <a href="bk.tle:christiandoctrinejustificationalbrectritschl"><em>The Christian Doctrine of Justification and Reconciliation</em> by Albrecht Ritschl is published</a>.</li>
+<li><a href="date.1880-1925">1880–1925</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adocumentaryhypothesisscholars">Scholars question the Documentary Hypothesis</a>.</li>
+<li><a href="date.1883">1883</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprolegomenazurgeschichte"><em>Prolegomena to the History of Israel</em> by Julius Wellhausen is written</a>.</li>
+<li><a href="date.1894-1899">1894–1899</a>: <a href="bk.tle:historydogmaadolfvonharnackispublished"><em>History of Dogma</em> by Adolf von Harnack is published</a>.</li>
+<li><a href="date.1900">1900</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awhatchristianityadolfvon"><em>What Is Christianity?</em> by Adolf von Harnack is published</a>.</li>
+<li><a href="date.1910">1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aquesthistoricaljesusalbert"><em>In Quest of the Historical Jesus</em> by Albert Schweitzer is published</a>.</li>
+<li><a href="date.1927">1927</a>: <a href="bk.tle:futureillusionsigmundfreudispublished"><em>The Future of an Illusion</em> by Sigmund Freud is published</a>.</li>
+<li><a href="date.1930">1930</a>: <a href="bk.tle:mysticismpaulapostlealbertschweitzerispublished"><em>The Mysticism of Paul the Apostle</em> by Albert Schweitzer is published</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where Protestant liberalism developed.</li>
+<li><a href="bk.%UniversityOfBerlin_Place">University of Berlin</a> was where Schleiermacher, von Harnack, and Troeltsch taught; co-founded by Schleiermacher.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfBonn_Place">University of Bonn</a> was where Ritschl and Troeltsch taught; Ritschl studied here.</li>
+<li><a href="bk.%UniversityOfGottingen_Place">University of Göttingen</a> was where Ritschl, Wellhausen, and Troeltsch taught; Wellhausen studied here.</li>
+<li><a href="bk.@UniversityOfHalle">University of Halle</a> was where Schleiermacher, taught; Ritschl studied here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UniversityOfLeipzig_Place">University of Leipzig</a> was where von Harnack studied and taught.</li>
+<li><a href="bk.%UniversityOfTubingen_Place">University of Tübingen</a> was where Baur and Strauss taught; Baur studied here; the Tübingen School developed here.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25biblicalCriticism">Biblical criticism</a> included a variety of higher critical methodologies utilized by Protestant liberal theologians and scholars in the study of the Bible.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DocumentaryHypothesis">Documentary Hypothesis</a> was a theory developed by Wellhausen regarding the authorship of the Pentateuch that made use of biblical criticism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietism</a> influenced the development of Protestant liberalism.</li>
+<li><a href="bk.%ProtestantLiberalism">Protestant liberalism</a> was a diverse theological movement that developed in response to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">modernism</a>.</li>
+<li><a href="bk.%ReligionsgeschichtlicheSchule">Religionsgeschichtliche Schule</a>, or the history of religions school, was a group of German Protestant theologians active at the University of Göttingen in the <a href="date.1801+100+l-1901+100+e">late nineteenth--early twentieth centuries</a> that applied higher critical methods to the study of Christianity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Romanticism">Romanticism</a> influenced the development of Protestant liberalism.</li>
+<li><a href="bk.%TubingenSchool">Tübingen School</a>, a group of German Protestant New Testament theologians, was founded by F. C. Baur; promoted Protestant liberalism.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apology.defense">Apologies</a></h3>
+<ul>
+<li><a href="bk.%OnReligionSchleiermacher_Writing"><em>On Religion: Speeches to Its Cultured Despisers</em></a> (Friedrich Schleiermacher, <a href="date.1799">1799</a>): a defense of faith in response to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">modernism</a>; articulates Schleiermacher's views on the nature of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25modernism_Belief">religion</a>.</li>
+</ul>
+<h3><a href="bk.%lecture">Lectures</a></h3>
+<ul>
+<li><a href="bk.%LecturesOnPhilosophyOfReligion_Writing"><em>Lectures on the Philosophy of Religion</em></a> (Georg William Friedrich Hegel, <a href="date.1837">1837</a>): a series of lectures delivered over several years; articulates Hegel's views on the concept of religion as well as his views on Christianity and key Christian doctrine.</li>
+<li><a href="bk.%WhatIsChristianityHarnack_Writing"><em>What Is Christianity?</em></a> (Adolf von Harnack, <a href="date.1900">1900</a>): a series of lectures delivered at the University of Berlin; applies historical-critical methods to the study of Christianity as a historical religion.</li>
+</ul>
+<h3><a href="bk.%manifesto">Manifestos</a></h3>
+<ul>
+<li><a href="bk.%CommunistManifesto_Writing"><em>The Communist Manifesto</em></a> (Karl Marx and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FriedrichEngels_Person">Friedrich Engels</a>, <a href="date.1848">1848</a>): articulates the theory of Marxism and advocates for socialism and communism.</li>
+</ul>
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%TheChristianFaithSchleiermacher_Writing"><em>The Christian Faith</em></a> (Friedrich Daniel Ernst Schleiermacher, <a href="date.1821-1822">1821–1822</a>): often described as one of the most important theological works written, this systematic theology articulates Schleiermacher's views on major Christian doctrine; an example of modern theology; describes the Christian religion as a "feeling of absolute dependence" upon "God in Christ."</li>
+<li><a href="bk.%ChristianDoctrineOfJustificationRitschl_Writing"><em>The Christian Doctrine of Justification and Reconciliation</em></a> (Albrecht Ritschl, <a href="date.1870-1874">1870–1874</a>): addresses the history of the doctrine of justification, critical biblical theology, and the development of the doctrine of justification. </li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%LifeOfJesusCriticallyExamined_Writing"><em>Life of Jesus Critically Examined</em></a> (David Friedrich Strauss, <a href="date.1835">1835</a>): advocates for interpreting the life of Jesus as myth; rejects supernatural and natural interpretations of the life of Jesus.</li>
+<li><a href="bk.%PaulTheApostleOfJesusChristBauer_Writing"><em>Paul the Apostle of Jesus Christ</em></a> (Ferdinand Christian Baur, <a href="date.1876">1876</a>): an examination of the life, writings, and theology of the apostle <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Paul">Paul</a>; applies historical-critical methods to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulsLetters_Writting">Pauline Epistles</a>; Baur questions the authenticity of Pauline authorship of some of the epistles.</li>
+<li><a href="bk.%ProlegomenaToTheHistoryOfIsrael_Writing"><em>Prolegomena to the History of Israel</em></a> (Julius Wellhausen, <a href="date.1883">1883</a>): develops the Documentary Hypothesis to explain the formation of the Pentateuch.</li>
+<li><a href="bk.%HistoryOfDogma_Writing"><em>History of Dogma</em></a> (Adolf von Harnack, <a href="date.1894-1899">1894–1899</a>): follows the history of Christian doctrine from its beginning up to the Reformation; examines the influence of Greek philosophy and metaphysics on the development of early Christian doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25questForTheHistoricalJesus"><em>Quest for the Historical Jesus</em></a> (Albert Schweitzer, <a href="date.1910">1910</a>): examines the various lives of Jesus, biographies that utilized historical methods to reconstruct the life of Jesus; Schweitzer argues that the Jesus of history was different than the Jesus portrayed in the Gospels.</li>
+<li><a href="bk.%MysticismOfPaulTheApostle_Writing"><em>The Mysticism of Paul the Apostle</em></a> (Albert Schweitzer, <a href="date.1930">1930</a>): addresses the theology of Paul, which Schweitzer understands within a Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apocalyptic">apocalyptic</a> context.</li>
+<li><a href="bk.%TheFutureOfAnIllusion_Writing"><em>The Future of an Illusion</em></a> (Sigmund Freud, <a href="date.1927">1927</a>): articulates Freud's views on religion as an illusion; addresses the origins, developments, and future of religion.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1259586?len=98930">"Adjusting to Modernization and Secularism: <em>The Rise of Protestant Liberalism (1799–1919)</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1419377?len=80670">“An Age of Anxiety: Theological Thinking in Troubled Era” (Thiselton) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/976923?len=27240">"A Bridge for Intelligent Moderns: <em>Protestant Liberalism</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/358465?len=39863">“Biblical Interpretation in Europe in the Twentieth Century” (Thiselton and Sheppard) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/288724?len=31335">"Biblical Interpretation in the Modern Age" (Thiselton and Sheppard) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/629717?len=1958">"Conceptual and Institutional" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/186870?len=4887">"Major Figures in German Liberal Theology" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/269279?len=5618">"Protestant Liberalism" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/754885?len=29468">"Protestant Theology" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

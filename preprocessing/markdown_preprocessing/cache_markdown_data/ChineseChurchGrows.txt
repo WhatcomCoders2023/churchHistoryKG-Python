@@ -1,0 +1,130 @@
+<p>Level: 2
+Status: ReadyForReview
+Identifier: ChineseChurchGrows
+Parents: Ideologies; GlobalSouth
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>The Chinese Church Grows Despite Persecution</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 1949–Present</li>
+<li><strong>Description:</strong> Despite years of violent oppression during the Cultural Revolution, the church in China grew rapidly through an underground movement. The Chinese church continued to expand  </li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The People's Republic of China was established by the Chinese Communist Party.</li>
+<li>Under an atheist and anti-imperialist government, foreign missionaries were expelled.</li>
+<li>The Chinese Communist Party established five national religious organizations, including the Protestant Three-Self Patriotic Movement, into which all Protestant denominations were merged, and the Chinese Patriotic Catholic Association.</li>
+<li>Mao initiated the Cultural Revolution to rid Chinese society of any opposition to Chinese communism.</li>
+<li>Churches and other places of worship were closed that contributed to foreign influence in China, including the Three-Self Patriotic Movement and the Chinese Patriotic Catholic Association.</li>
+<li>Opponents were persecuted, including Christians; some were imprisoned.</li>
+<li>The church in China moved underground, meeting in homes, and began to expand rapidly.</li>
+<li>The Cultural Revolution came to an end following the death of Mao though resistance to religion still remained.</li>
+<li>China began to open up to the world under new Communist leadership.</li>
+<li>Churches were allowed to reopen.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a></h3>
+<ul>
+<li>Ignatius Kung Pin-Mei (August 2, 1901–March 12, 2000): Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Shanghai">Shanghai</a>; opposed the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aculturalrevolutionchina">Cultural Revolution in China</a> and was imprisoned for 30 years; made <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a> by <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnPaulII">John Paul II</a> in 1979.</li>
+<li>Beda Chang (<em>c.</em> 1905–November 11, 1951): Chinese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; he was <a href="https://ref.ly/logos4/Factbook?ref=bk.%23martyr">martyred</a> under the communist government of the People's Republic of China.[^1]</li>
+</ul>
+<h3>Political Leaders</h3>
+<ul>
+<li>Mao Zedong (December 26, 1893–September 9, 1976): Chinese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Communism_Belief">communist</a> revolutionary; leader of the Chinese Communist Party; founder of the People's Republic of China; developed Maoism ideology influenced by Marxism-Leninism; author of the May 16 Notification which started the Cultural Revolution.</li>
+<li>Deng Xiaoping (September 13, 1982–November 2, 1987): Chinese revolutionary; succeeded Mao as leader of the People's Republic of China; introduced reforms in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> and relaxed governmental control over religion.</li>
+<li>Gang of Four (20th century) was a group of four officials from the Communist Party of China who were leaders of the Cultural Revolution; they were sentenced to life in prison for crimes committed during the Cultural Revolution.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25YTWu_Person">Y. T. Wu</a>: (November 4, 1893–September 17, 1979): Chinese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestant</a> leader; founded the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThreeSelfPatrioticMovement">Three-Self Patriotic Movement</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TzuchenChao_Person">Tzu-ch’en Chao</a> (1888-1979): Chinese Protestant leader and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; supporter of the Three-Self Patriotic Movement; signed <em>The Christian Manifesto</em>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WatchmanNee_Person">Watchman Nee</a> (November 4, 1903–May 30, 1972): Chinese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indigenousChurch">indigenous church</a> leader and founder of the Local Church movement; he was arrested under communist rule and died as a prisoner.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KHTing_Person">K. H. Ting</a> (September 20, 1915–November 22, 2012): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> Bishop of Zhejiang; Chinese statesman; Chairperson emeritus of the Three-Self Patriotic Movement; President emeritus of the China Christian Council.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>1949: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeoplesrepublicchina">People’s Republic of China Is Established by the Chinese Communist Party</a></li>
+<li>1950: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeoplesrepublicchinaforces">People’s Republic of China Forces Missionaries to Leave</a></li>
+<li>1952: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awatchmanneearrested">Watchman Nee Is Arrested</a></li>
+<li>1953: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achinainlandmissionleaveschina">China Inland Mission Leaves China Under the People’s Republic</a></li>
+<li>1954: The Three-Self Patriotic Movement Is Established</li>
+<li>1957: The Chinese Patriotic Catholic Association Is Established</li>
+<li>1966: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristianschina">Persecution of Christians in China</a>; churches are closed.</li>
+<li>1966–1969: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aculturalrevolutionchina">Cultural Revolution in China</a> is led by Mao Zedong to preserve communism and impose Maoism; churches and other religious institutions were closed.</li>
+<li>1979: The US and China Re-Establish Diplomatic Relations</li>
+<li>1979: Ignatius Kung Pin-Mei Is Made Cardinal by Pope Paul II</li>
+<li>1980: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achinesegovernmentallows">Chinese Government Allows Printing of 50,000 New Testaments in Chinese</a></li>
+<li>early 1980s: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchchinabeginsexperiencing">Church in China Begins Experiencing Significant Growth</a></li>
+<li>1989: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atienanmensquareprotests">Tienanmen Square Protests</a></li>
+<li>1991: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achinachristiancounciljoins">China Christian Council Joins World Council of Churches</a></li>
+<li>1991: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amanychristiansarrestedchina">Many Christians Are Arrested in China</a></li>
+<li>1991: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achinastudybiblepublished">China Study Bible Is Published</a></li>
+<li>2000: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianpopulationchinagrows">Christian Population in China Grows to 75 Million</a></li>
+<li>2000: Pope John Paul II Canonizes 120 Chinese Catholic Martyrs</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Beijing">Beijing</a> is the capital of the People's Republic of China; the Cultural Revolution originated here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> is part of the Global South; Christianity expanded here under Communist rule.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Shanghai">Shanghai</a> is the location of Moore Memorial Church, the first church to reopen following the Cultural Revolution.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li>Chinese Christian Council was established by the Protestant churches in China.</li>
+<li>Chinese Patriotic Catholic Association is part of the state-sanctioned Chinese Church; not recognized by the Vatican. </li>
+<li>Chung Hua Sheng Kung Hui was the Anglican Church in China which was merged into the Three-Self Patriotic Movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Communism_Belief">Communism</a> attempted to suppress Christianity in China.</li>
+<li>Maoism was developed by Mao Zedong as a type of communism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThreeSelfPatrioticMovement">Three-Self Patriotic Movement</a> is part of the state-sanctioned Chinese Church; advocates for self-governance, self-support, and self-propagation; originally named the Three-Self Reform Movement.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3>Bible Translations</h3>
+<ul>
+<li><em>Chinese Union Version</em> (1919): primary Chinese Bible translation used by Protestants in China.</li>
+</ul>
+<h3>Encyclicals</h3>
+<ul>
+<li><em>Cupimus imprimis</em> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusXII_Person">Pope Pius XII</a>, 1952): papal encyclical written during the persecution of Chinese Christians in the People's Republic of China; offers encouragement to Chinese Catholics who remained faithful amidst persecution.</li>
+<li><em>Ad Sinarum gentem</em> (Pope Pius XII, 1954); papal encyclical written during the persecution of Chinese Christians in the People's Republic of China; offers encouragement to Chinese Catholics who remained faithful amidst persecution.</li>
+<li><em>Ad Apostolorum principis</em> (Pope Pius XII, 1958): papal encyclical written during the persecution of Chinese Christians in the People' Republic of China; criticizes the Chinese Patriotic Catholic Association and offers encouragement to Chinese Catholics amidst persecution.</li>
+</ul>
+<h3>Governing Documents</h3>
+<ul>
+<li>Constitution of the People's Republic of China (1982): grants citizens freedom of religion; includes clause  "the State protects normal religious activities" (Article 36).[^2]</li>
+</ul>
+<h3>Manifestos</h3>
+<ul>
+<li><em>The Christian Manifesto</em> (1950): written by Protestants in China; supported the People's Republic of China and the Communist Party of China.</li>
+<li>May 16 Notification (Mao Zedong. 1966): circular issued during a meeting of the Chinese Communist Party in Beijing which launched the Cultural Revolution.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>Curtis, A. Kenneth, J. Stephen Lang, and Randy Petersen. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/437283?len=6282">"1966–1976 Chinese Church Grows Despite Cultural Revolution."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>González, Justo L. <a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/985401?len=10441">"Asia."</a> In <em>The Story of Christianity: The Reformation to the Present Day.</em> Edited by HarperOne. Revised and Updated. Vol. 2. New York, NY, 2010.</li>
+<li>Noll, Mark A. <a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/788436?len=10664">"Christian Renewal in China."</a> In <em>Turning Points: Decisive Moments in the History of Christianity.</em> Third Edition. Grand Rapids, MI: Baker Academic, 2012.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1193451?len=3121">"Growth in China and Korea."</a> In <em>Church History in Plain Language.</em> 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+<li>Woodbridge, John D., and Frank A. James III. <a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1669726?len=4513">"China."</a> In <em>Church History: From Pre-Reformation to the Present Day. Vol. 2.</em> Grand Rapids, MI: Zondervan, 2013.</li>
+</ul>
+<p>[^1]: "Beda Chang," Wikipedia, last modified March 19, 2022. <a href="https://en.wikipedia.org/wiki/Beda_Chang">https://en.wikipedia.org/wiki/Beda_Chang</a> (accessed April 26, 2022).
+[^2]: "Chapter II The Fundamental Rights and Duties of Citizens," The National People's Congress of the People's Republic of China, <a href="http://www.npc.gov.cn/zgrdw/englishnpc/Constitution/2007-11/15/content_1372964.htm">http://www.npc.gov.cn/zgrdw/englishnpc/Constitution/2007-11/15/content_1372964.htm</a> (accessed April 26, 2022).</p>

@@ -1,8 +1,6 @@
 import pandas as pd
 import re
-from typing import List, Tuple, Set, Mapping
-from preprocessing_utils import replace_special_chars_in_entity_annotations
-from markdown_preprocessing.article_structs import NERTuple
+from typing import Tuple, Mapping
 
 
 def load_faithlife_database_to_single_df(
@@ -62,73 +60,6 @@ def extract_name(input_string):
         return input_string
 
 
-def search_entity_in_faithlife_map(
-    sentence: List[str],
-    labeled_ner_tuples: List[NERTuple],
-    database_df: pd.DataFrame,
-    all_entities_in_csv: Set[str],
-) -> List[NERTuple]:
-    '''
-    TODO: Convert lookup into a map later
-
-    Need to clean up labeled_ner_tuples for comparison to work properly
-    
-    '''
-    print("sentence:", sentence)
-    print("labeled_ner_tuples:", labeled_ner_tuples)
-    sentence = sentence[0].lower()  #fix
-    print('sentence: ', sentence)
-    print('labeled_ner_tuples: ', labeled_ner_tuples)
-    # print('all_entities_in_csv: ', all_entities_in_csv)
-
-    already_labeled_entity_labels = set()
-    for ner_tuple in labeled_ner_tuples:
-        cleaned_label = replace_special_chars_in_entity_annotations(
-            ner_tuple.entity_label)
-        already_labeled_entity_labels.add(cleaned_label)
-
-    # print('already_labeled_entity_labels:', already_labeled_entity_labels)
-    entities = []
-    # Can't locate person because it add labels like "Denis Diderot (French Encyclopaedist)"
-    # for bk.%DenisDiderot_Person
-    for entity_label in all_entities_in_csv:
-        if entity_label not in already_labeled_entity_labels:
-            entity_name = database_df.loc[database_df['primary'] ==
-                                          entity_label]['label_en'].to_string(
-                                              index=False)
-            entity_name_lower = entity_name.lower()
-            if '(' in entity_name:
-                entity_name = extract_name(entity_name)
-
-            entity_type = database_df.loc[database_df['primary'] ==
-                                          entity_label]['kind'].to_string(
-                                              index=False)
-            # print('entity_name:', entity_name)
-            # print('entity_label: ', entity_label)
-            # print('entity_type: ', entity_type)
-
-            start_index = sentence.find(entity_name_lower)
-            if start_index != -1:
-                end_index = start_index + len(entity_name_lower)
-                entities.append(
-                    NERTuple(start_index, end_index, entity_type, entity_label,
-                             entity_name))
-                # entities.append([
-                #     start_index, end_index, entity_type, entity_label,
-                #     entity_name
-                # ])
-
-            #     print(
-            #         f"did find: entity_name: {entity_name} \n sentence:{sentence}"
-            #     )
-            # else:
-            #     print(
-            #         f'did not find: entity_name: {entity_name} \n sentence:{sentence}'
-            #     )
-    print('found_entities:', entities)
-    return entities
-
-
 def make_faithlife_map(faithlife_df: pd.DataFrame) -> Mapping[str, str]:
     '''Convert faithlife dataframe into a hashmap.
 
@@ -148,6 +79,50 @@ def make_faithlife_map(faithlife_df: pd.DataFrame) -> Mapping[str, str]:
     for entity_label, entity_type in zip(faithlife_df['primary'],
                                          faithlife_df['kind']):
         faithlife_map[entity_label] = entity_type
+    return faithlife_map
+
+
+def make_faithlife_map_2(
+        faithlife_df: pd.DataFrame) -> dict[str, Tuple[str, str]]:
+    faithlife_map = {}
+
+    # Remove rows in faithlife_df where the entity_type is 'thing', 'artifact', 'denom', or 'denomgroup'
+    faithlife_df = faithlife_df[faithlife_df['kind'].isin(
+        {'person', 'place', 'writing', 'concept'})]
+
+    # Remove entry where kind is a person named 'Long', ex: person,bio.long_1,Long,199945
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Long']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Pure']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Reason']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'New']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'News']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Man']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Understanding']
+    # faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Grace']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'First']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Age']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'By']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Also']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'See']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Answer']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'His']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Third']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'General']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Good']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Action']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Middle']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'A']
+    faithlife_df = faithlife_df[faithlife_df['label_en'] != 'On']
+
+    # faithlife_df = faithlife_df[faithlife_df['label_en'] != 'Hunger']
+
+    for _, df in faithlife_df[['label_en', 'primary', 'kind']].iterrows():
+        entity_name = df['label_en']
+        if '(' in entity_name:
+            entity_name = extract_name(entity_name)
+        entity_label = df['primary']
+        entity_type = df['kind']
+        faithlife_map[entity_name] = (entity_label, entity_type)
     return faithlife_map
 
 

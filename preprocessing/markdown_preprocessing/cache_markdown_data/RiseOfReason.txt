@@ -1,0 +1,144 @@
+<p>Level: 1
+Status: Released
+Identifier: RiseOfReason
+Parents: Root
+Eras: bk.era:reformationera; bk.era:modernera</p>
+<h1>The Rise of Reason Brings Challenges to Church Authority</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1543-1850">1543–1850</a></li>
+<li><strong>Description:</strong> The rise of rationalism, which advocated for reason as the foundation of knowledge and understanding, brought intellectual challenges to the church's teachings on revelation, tradition, and church authority. </li>
+</ul>
+<h2>Summary</h2>
+<p>As Europeans began to grapple with the basis of knowledge during the Renaissance and the Reformation, intellectual thinkers challenged the Christian church’s claims to supernatural revelation. Rationalism, which emphasizes human reason as the basis of knowledge, and empiricism, which emphasizes the senses and experience, developed as major movements of thinking which challenged traditional authority figures. These influential movements contributed to a larger movement known as “The Enlightenment” or the Age of Reason. While these questions of authority and tradition raised would not be resolved, Christian thinkers defended the faith against such challenges.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arenaissanceeurope">The Renaissance in Europe</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arisehumanism">rise of humanism</a> led to a more positive view of humanity (<a href="date.1400+100-1500+100">1400s–1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">The Protestant Reformation</a> challenged traditional sources of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25authority">authority</a> and religious <a href="https://ref.ly/logos4/Factbook?ref=bk.%25dogma">dogma</a> (<a href="date.1517-1648">1517–1648</a>).</li>
+<li>Modern <a href="https://ref.ly/logos4/Factbook?ref=bk.%25science">science</a> was developed during the <a href="bk.tle:scientificrevolution">Scientific Revolution</a>, and advances led to a new understanding of the universe (<a href="date.1543-1687">1543–1687</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25theEnlightenment">The Enlightenment</a> and the rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">rationalism</a> emphasized <a href="https://ref.ly/logos4/Factbook?ref=lsto.CapacitiesReason">human reason</a> as the primary source of knowledge (<a href="date.1600+100-1700+100">1600s–1700s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.SpecialRevelation">Supernatural revelation</a> was viewed in opposition to human reason and natural knowledge (<a href="date.1600+100-1700+100">1600s–1700s</a>).</li>
+<li>Some <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologians</a> argued that the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christian faith</a> was not opposed to reason but that special revelation was consistent with reason (<a href="date.1600+100-1700+100">1600s–1700s</a>).</li>
+<li>The church's influence on culture and politics declined (<a href="date.1600+100-1700+100">1600s–1700s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25deism_Belief">Deism</a>, the belief in a supreme being based on reason and natural theology, became popular in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Europe_Place">Europe</a> (<a href="date.1600+100+m-1700+100+m">mid-1600s–mid-1700s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">Philosophers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ReneDescartes">René Descartes</a> (<a href="date.1596.3.31-1650.2.11">March 31, 1596–February 11, 1650</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mathematics">mathematician</a>; "father of modern rationalism"; he argued that some ideas, such as the idea of God, are innate to humans; author of <a href="bk.%DiscourseOnMethod_Writing"><em>Discourse on Method</em></a>, which addresses his philosophical reasoning.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BaruchSpinoza_Person">Baruch Spinoza</a> (<a href="date.1632-1677">1632–1677</a>): Dutch Jewish philosopher; Enlightenment thinker; he adhered to rationalism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pantheism">pantheism</a> and influenced <a href="bk.%ProtestantLiberalism">Protestant Liberalism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnLocke_Person">John Locke</a> (<a href="date.1632.8.29-1704.10.28">August 29, 1632–October 28, 1704</a>): English philosopher; Enlightenment thinker; adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Empiricism_Belief">empiricism</a> and opposed <a href="bk.%Innatism_Belief">innatism</a>; author of <a href="bk.%EssayConcerningHumanUnderstanding_Writing"><em>An Essay Concerning Human Understanding</em></a>, which articulates his theory of the origins of knowledge.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PierreBayle_Person">Pierre Bayle</a> (<a href="date.1647.11.18-1706.12.28">November 18, 1647–December 28, 1706</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Huguenots_Person">Huguenot</a> skeptic; editor of <a href="bk.%NewsOfTheRepublicOfLetters_Writing"><em>News of the Republic of Letters</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.barondemontesquieu_1">Baron de Montesquieu</a> (<a href="date.1689.1.18-1755.2.10">January 18, 1689–February 10, 1755</a>): French philosopher; leading <a href="bk.%Philosophes_People"><em>philosophe</em></a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Encyclopaedists">Encyclopaedist</a>; author of <a href="bk.%SpiritOfTheLaw_Writing"><em>The Spirit of the Law</em></a>, which advocates for the separation of powers in government.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.FrancoisVoltaire">Voltaire</a> (<a href="date.1694.11.21-1778.5.30">November 21, 1694–May 30, 1778</a>): French philosopher; he was a leading <em>philosophe</em> and Encyclopaedist; author of <a href="bk.%DictionnairePhilosophique_Writing"><em>Dictionnaire philosophique</em></a>, which criticized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> and other institutional religions, <a href="bk.%LettersOnTheEnglish_Writing"><em>Letters on the English</em></a>, which lauds <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> as the intellectual ideal where tolerance and free thought thrived, and <a href="bk.%Candide_Writing"><em>Candide</em></a>, which attacks optimism, which was popular during the Enlightenment.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DavidHume_Person">David Hume</a> (<a href="date.1711.5.7-1776.8.25">May 7, 1711–August 25, 1776</a>): Scottish philosopher, historian, and Enlightenment thinker; he adhered to empiricism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25skepticism">skepticism</a>; opposed belief in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25miracle">miracles</a>; author of <a href="bk.%TreatiseOfHumanNature_Writing"><em>A Treatise of Human Nature</em></a>, which employed skeptical rationalism to examine human nature.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JeanJacquesRousseau_Person">Jean-Jacques Rousseau</a> (<a href="date.1712.6.1-1778.7.1">June 1, 1712–July 1, 1778</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25deism_Belief">Diest</a> author and philosopher; he was a leading <em>philosophe</em> and Encyclopaedist; he argued that human nature in its "primitive state" was morally good; author of sociopolitical works <a href="bk.%DiscourseOnInequality_Writing"><em>Discourse on Inequality</em></a> and <a href="bk.%TheSocialContract_Writing"><em>The Social Contract</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DenisDiderot_Person">Denis Diderot</a> (<a href="date.1713-1784">1713–1784</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25atheist">atheist</a> philosopher; he was a leading <em>philosophe</em> and Encyclopaedist; editor of <a href="bk.%Encyclopedie_Writing"><em>Encyclopédie</em></a>, which helped to spread the ideas of the Enlightenment. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ImmanuelKant_Person">Immanuel Kant</a> (<a href="date.1724.4.22-1804.2.12">April 22, 1724–February 12, 1804</a>): German philosopher and Enlightenment thinker; he was influenced by David Hume; advocated for a synthesis of rationalism and empiricism; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CritiqueOfPureReason"><em>Critique of Pure Reason</em></a> and <a href="bk.%CritiqueOfPracticalReason_Writing"><em>Critique of Practical Reason</em></a>, which examined the relationship between experience and understanding, and <a href="bk.%WhatIsEnlightenment_Writing"><em>What Is Enlightenment?</em></a>, from which the era of the Enlightenment takes its name.</li>
+</ul>
+<h3><a href="bk.%science">Scientists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.NicolausCopernicus">Nicolaus Copernicus</a> (<a href="date.1473.2.19-1543.5.24">February 19, 1473–May 24, 1543</a>): Polish mathematician and astronomer; he argued that the sun was the center of the universe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GalileoGalilei_Person">Galileo Galilei</a> (<a href="date.1564.2.15-1642.1.8">February 15, 1564–January 8, 1642</a>): Italian mathematician and astronomer; he confirmed the views of Copernicus regarding the universe; disciplined by the Roman Catholic Church and forced to recant his views.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannKepler_Person">Johann Kepler</a> (<a href="date.1571-1630">1571–1630</a>): German Lutheran mathematician and astronomer; he was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Neoplatonism_Belief">Neoplatonism</a>; discovered <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohanneskeplerstudiesplanetary">three laws of planetary motion</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25IsaacNewton_Person">Isaac Newton</a> (<a href="date.1642.12.25-1727.3.20">December 25, 1642–March 20, 1727</a>): English physicist and mathematician; he taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>; author of <a href="bk.%MathematicalPrinciplesOfNaturalPhilosophy_Writing"><em>Mathematical Principles of Natural Philosophy</em></a>, which articulates his theory of gravity.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1543-1687">1543–1687</a>: <a href="bk.tle:scientificrevolution">The Scientific Revolution</a> leads to new understanding of the universe.</li>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aagereasonfrance">The Age of Reason begins in France</a>.</li>
+<li><a href="date.1600+100-1700+100">1600s--1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aenlightenmentera">The Enlightenment Era in Europe and the American Colonies</a> emphasizes human reason and rationalism.</li>
+<li><a href="date.1616">1616</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ainquisitiondeclares">The Inquisition declares heliocentrism to be heretical</a>.</li>
+<li><a href="date.1637">1637</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adiscoursemethodrenedescartes"><em>Discourse on Method</em> by Rene Descartes is published</a>.</li>
+<li><a href="date.1700+100-1800+100">1700s--1800s</a>: <a href="bk.tle:voltairesbeliefspopularamong">Voltaire's beliefs become popular among the educated</a>.</li>
+<li><a href="date.1751">1751</a>: <a href="bk.tle:encyclopedieediteddenisdiderot"><em>Encyclopédie</em> edited by Denis Diderot is published</a>; contains articles written by many prominent <em>philosophes</em>.</li>
+<li><a href="date.1759">1759</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acandidevoltairepublished"><em>Candide</em> by Voltaire is published</a>.</li>
+<li><a href="date.1764">1764</a>: <a href="bk.tle:dictionnairephilosophiquevoltaire"><em>Dictionnaire Philosophique</em> by Voltaire is published</a>.</li>
+<li><a href="date.1781">1781</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acritiquepurereasonimmanuelkant"><em>Critique of Pure Reason</em> by Immanuel Kant is published</a>.</li>
+<li><a href="date.1789-1799">1789–1799</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrenchrevolution">The French Revolution</a> takes place in France.</li>
+<li><a href="date.1790+10">1790s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrancebecomessecularstate">France becomes a secular state</a>.</li>
+<li><a href="date.1793-1850">1793–1850</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afestivalreasonfrance">The Festival of Reason begins in France</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was an intellectual center of the Enlightenment.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a> was where the Enlightenment began.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Paris_Place">Paris, France</a> was the primary intellectual center of the Enlightenment.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a> was an intellectual center of the Enlightenment.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25deism_Belief">Deism</a>, the belief in a supreme being based on human <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reason">reason</a> and natural theology, arose during the Enlightenment.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Empiricism_Belief">Empiricism</a> viewed the source of knowledge as sense-experience; advocated by John Locke.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Encyclopaedists">Encyclopaedists</a> were contributors to the French <em>Encyclopédie</em>; they were opposed to orthodoxy and advocated for religious tolerance.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25theEnlightenment">The Enlightenment</a> was an intellectual and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosophy">philosophical</a> movement that emphasized reason and often challenged traditional authority.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">Humanism</a> led to a renewed interest in ancient ideas, art, and literature; Christian humanism emphasized the original languages of the Bible and early Christian writings.</li>
+<li><a href="bk.%Innatism_Belief">Innatism</a> viewed some ideas as inborn to humans, such as the idea of God; it was advocated for by Descartes. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Latitudinarianism">Latitudinarianism</a> was a movement among <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a> that emphasized revelation was consistent with reason.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NaturalTheology_Belief">Natural Theology</a> was developed by some theologians and philosophers who sought to establish knowledge of God through human reason.</li>
+<li><a href="bk.%Philosophes_People">Philosophes</a> were French intellectuals and leading thinkers of the Enlightenment who advocated for the use of reason to improve society through reforms. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">Rationalism</a> regarded reason as the primary source of knowledge; rose in popularity beginning in the <a href="date.1601+100">seventeenth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Renaissance">Renaissance</a> was a period of rebirth following the Middle Ages which led to the rise of humanism and paved the way for rationalism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25skepticism">Skepticism</a> was a philosophical approach to knowledge which was adhered to by some Enlightenment thinkers.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%academicJournal">Academic Journals</a></h3>
+<ul>
+<li><a href="bk.%NewsOfTheRepublicOfLetters_Writing"><em>News of the Republic of Letters</em></a> (Pierre Bayle, <a href="date.1601+100-1701+100">seventeenth--eighteenth centuries</a>: academic journal that published reviews of contemporary published works; popular among the intellectual community known as the Republic of Letters active during the Enlightenment.</li>
+</ul>
+<h3><a href="bk.%dictionariesAndEncyclopedias">Dictionaries and Encyclopedias</a></h3>
+<ul>
+<li><a href="bk.%DictionnairePhilosophique_Writing"><em>Dictionnaire philosophique</em></a> (Voltaire, <a href="date.1764">1764</a>): dictionary of articles on philosophy; critical of the Roman Catholic Church and other institutional religions. </li>
+<li><a href="bk.%Encyclopedie_Writing"><em>Encyclopédie</em></a> (Ecyclopaedists, <a href="date.1751">1751</a>): French encyclopedia written under the influence of rationalist humanism; supported deism; helped spread the ideas of the Enlightenment.</li>
+</ul>
+<h3><a href="bk.%essay">Essays</a></h3>
+<ul>
+<li><a href="bk.%EssayConcerningHumanUnderstanding_Writing"><em>An Essay Concerning Human Understanding</em></a> (John Locke, <a href="date.1689">1689</a>): articulates Locke's theory of the origins of knowledge and argues human understanding comes from experience; opposed to Descartes' innatism.</li>
+<li><a href="bk.%LettersOnTheEnglish_Writing"><em>Letters on the English</em></a> (Voltaire, <a href="date.1778">1778</a>): recounts Voltaire's experience of living in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25London_Place">London</a>; lauds England as the intellectual ideal where tolerance and free thought thrived.</li>
+<li><a href="bk.%WhatIsEnlightenment_Writing"><em>What Is Enlightenment?</em></a> (Immanuel Kant, <a href="date.1784">1784</a>: an essay published in the <em>Berlin Monthly</em> to address the question of enlightenment; describes enlightenment as thinking for one's self, which takes courage. </li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%DiscourseOnMethod_Writing"><em>Discourse on Method</em></a> (René Descartes, <a href="date.1637">1637</a>): addresses Descartes' philosophical methods and use of reason; includes the famous quote "I think, therefore I am."</li>
+<li><a href="bk.%MathematicalPrinciplesOfNaturalPhilosophy_Writing"><em>Mathematical Principles of Natural Philosophy</em> </a> (Isaac Newton, <a href="date.1687">1687</a>): articulates the law of gravity, which advanced humanity's understanding of the universe.</li>
+<li><a href="bk.%TreatiseOfHumanNature_Writing"><em>A Treatise of Human Nature</em></a> (David Hume, <a href="date.1739">1739</a>): philosophical work that employed skeptical rationalism to examine human nature.</li>
+<li><a href="bk.%DiscourseOnInequality_Writing"><em>Discourse on Inequality</em></a> (Jean-Jacques Rousseau, <a href="date.1755">1755</a>): examined the progress of human nature; argued that inequality among humans is unnatural.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CritiqueOfPureReason"><em>Critique of Pure Reason</em></a> (Immanuel Kant, <a href="date.1781">1781</a>): written to address skepticism and empiricism; articulates principles of critical philosophy and examines the relationship between experience and understanding.</li>
+<li><a href="bk.%CritiqueOfPracticalReason_Writing"><em>Critique of Practical Reason</em></a> (Immanuel Kant, <a href="date.1788">1788</a>): written to address moral philosophy; articulates Kant's philosophy of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CategoricalImperative">categorical imperative</a>.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/776620?len=22225">"Aiming at the Foundations: <em>The Cult of Reason</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/801311?len=32384">"The Authority of Philosophy"  in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1172082?len=87503">"Christianity in an Age of Revolutions (1770–1848)  in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/833696?len=87647">"Christianity under Duress: The Age of Lights (1680–1789)" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/245681?len=31784">"The Classical Age" (Thiselton and Sheppard) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/592476?len=29493">"Discontents of the Modern West: <em>The French Revolution</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/176089?len=2795">"English Deism and Its Opponents" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/783299?len=18011">"The Increased Authority of "Science"</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/170717?len=5371">"Leaders in the Development of Science and Their Relationship to the Church" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/447711?len=26105">"The Rationalist Option" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1082720?len=36720">"Reason and Unreason: The Rise of Rationalism" (Brown) in <em>In Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/512328?len=616">"Vatican I" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+</ul>

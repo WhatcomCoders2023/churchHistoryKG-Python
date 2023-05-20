@@ -1,0 +1,126 @@
+<p>Level: 1
+Status: Released
+Identifier: GlobalSouth
+Parents: Root
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>The Church Flourishes in the Global South</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1900-2022">1900-Present</a></li>
+<li><strong>Description:</strong> Christianity transitioned from a predominantly Western to non-Western religion during the twentieth century as church growth exploded in the Global South. </li>
+</ul>
+<h2>Summary</h2>
+<p>While Christianity has long had a presence in Africa, Asia, and, more recently, Latin America, the twentieth century saw the dramatic expansion of the church in the Global South. Globalization, which allowed for the easy transmission of ideas, as well as the missionary movement of the nineteenth century and the ecumenical and charismatic movements of the twentieth century, helped to spread the gospel and stimulate church growth among non-Western peoples. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Pentecostalism and the charismatic movement spread from North America to the Global South (<a href="date.1900+100">1900s</a>). </li>
+<li>The Bible was translated into hundreds of languages (<a href="date.1900+100-2022">1900s–2022</a>).</li>
+<li>The ecumenical movement encouraged participation in missionary outreach (<a href="date.1908-2022">1908–2022</a>).</li>
+<li>Church growth rapidly increased outside of Europe and North America, primarily in Asia, Latin America, and Africa (<a href="date.1900+100-2022">1900s–2022</a>).</li>
+<li>Decolonization led to a decline in Western influence and rise in indigenous expressions of Christianity and the appointment of native church leaders (<a href="date.1950+50">second half of the 1900s</a>).</li>
+<li>Mission efforts began to focus on training partnerships to help establish and support indigenous leaders (<a href="date.1950+50">second half of the 1900s</a>).</li>
+<li>Contextual theologies developed to address specific cultural contexts (<a href="date.1950+50">second half of the 1900s</a>).</li>
+<li>Persecution and suppression stimulated church growth through underground movements (<a href="date.1950+50">second half of the 1900s</a>).</li>
+<li>Vatican II led to reforms in the Catholic Church that encouraged the flourishing of Roman Catholicism in the Global South (<a href="date.1962-1965">1962–1965</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.@Africa">African</a> <a href="bk.%christianleader">Christian Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SimonKimbangu_Person">Simon Kimbangu</a> (<a href="date.1887.9.12-1951.10.12">September 12, 1887–October 12, 1951</a>): Congolese Baptist healer and founder of Kimbanguism; his followers established the Church of Jesus Christ by His special envoy Simon Kimbangu, an <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indigenousChurch">indigenous church</a>, which was a member of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches]">World Council of Churches</a>; he was sentenced to life in prison on charges of sedition during Belgian colonialism and died in prison.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DesmondMpiloTutu_Person">Desmond Mpilo Tutu</a> (<a href="date.1931.10.7-2021.12.26">October 7, 1931–December 26, 2021</a>): South African <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of Cape Town; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25humanRights">human rights</a> activist. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnMbiti_Person">John S. Mbiti</a> (b. <a href="date.1931">1931</a>): Kenyan Anglican theologian and the "father of modern African theology"; he was a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EcumenicalMovement">ecumenical movement</a>; author of <a href="bk.%AfricanReligionsAndPhilosophy_Writing"><em>African Religions and Philosophy</em></a> and <a href="bk.%IntroductionToAfricanReligion_Writing"><em>Introduction to African Religion</em></a>.</li>
+</ul>
+<h3><a href="bk.%west">Western</a> <a href="bk.%christianleader">Christian Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnRaleighMott_Person">John Raleigh Mott</a> (<a href="date.1865-1955">1865–1955</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>; he was a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25YMCA">YMCA (Young Men’s Christian Association)</a>; co-founder of the World Council of Churches and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldStudentChristianFederation">World Student Christian Federation</a>, and chair of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">1910 World Missionary Conference</a>; author of <a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em></a>.</li>
+</ul>
+<h3><a href="bk.@China">Chinese</a> <a href="bk.%christianleader">Christian Leaders</a></h3>
+<ul>
+<li><a href="bio.ignatiuskungpinmei">Ignatius Kung Pin-Mei</a> (<a href="date.1901.8.2-2000.3.12">August 2, 1901–March 12, 2000</a>): Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Shanghai">Shanghai</a>; he opposed the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aculturalrevolutionchina">Cultural Revolution in China</a> and was imprisoned for thirty years, after which he was made <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a> by <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnPaulII">John Paul II</a> in <a href="date.1979">1979</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WatchmanNee_Person">Watchman Nee</a> (<a href="date.1903.11.4-1972.5.30">November 4, 1903–May 30, 1972</a>): Chinese indigenous church leader and founder of the Local Church movement; he was arrested under communist rule and died in prison.</li>
+</ul>
+<h3><a href="bk.@LatinAmerica">Latin American</a> <a href="bk.%christianleader">Christian Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HelderPassoaCamara_Person">Helder Passoa Câmara</a> (<a href="date.1909-1999">1909–1999</a>): Brazilian Roman Catholic archbishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Olinda_Place">Olinda</a>; he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">liberation theology</a>; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondvaticancouncil">Second Vatican Council</a> and helped develop the council constitution <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GaudiumEtSpes_Writing"><em>Gaudium et spes</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GustavoGutierrez.1_Person">Gustavo Gutiérrez</a> (b. <a href="date.1928.6.1">June 1, 1928</a>): Peruvian Catholic priest; he was the founder of liberation theology and author of <a href="bk.%TheologyOfLiberation_Writing"><em>A Theology of Liberation</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.crenepadilla">C. René Padilla</a> (<a href="date.1932.10.12-2021.4.27">October 12, 1932–April 27, 2021</a>): Ecuadorian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> theologian and missiologist; founding member of the <a href="bk.%LatinAmericanTheologicalFellowship">Latin American Theological Fellowship</a>; staff member of the <a href="bk.%InternationalFellowshipOfEvangelicalStudents">International Fellowship of Evangelical Students</a>; he coined the term <em>misión integral</em>  ("integral mission"), which advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aEvangelism">evangelism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25socialJustice">social justice</a> within Christianity; participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstinternationalcongress2">Lausanne Conference</a>, where he addressed the influence of Western culture on the gospel, especially within the context of foreign missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeFrancis_Person">Pope Francis</a> (b. <a href="date.1936.12.17">December 17, 1936</a>): Argentine bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a>; he is the first pope elected from the Americas and the first from the Southern Hemisphere.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1900+100">1900s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arisepentecostalism">The Rise of Pentecostalism</a>.</li>
+<li><a href="date.1910">1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">World Missionary Conference in Edinburgh</a> begins the <a href="date.1901+100">twentieth century</a> missionary movement.</li>
+<li><a href="date.1926">1926</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apiusxiconsecratessixnative">Pius XI consecrates six native Chinese bishops</a>.</li>
+<li><a href="date.1939">1939</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstnativeafricanbishop">First native African bishop is appointed</a>.</li>
+<li><a href="date.1948">1948</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldcouncilchurchesfounded">World Council of Churches is founded</a>.</li>
+<li><a href="date.1950+10">1950s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstuspriestssentlatinamerica">First US priests are sent to Latin America</a>.</li>
+<li><a href="date.1960">1960</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharismaticmovementbegins">Charismatic movement begins</a> in America and spreads to the Global South.</li>
+<li><a href="date.1960">1960</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amanyafricannationsgain">Many African nations gain independence</a>.</li>
+<li><a href="date.1966">1966</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristianschina">Christians are persecuted in China</a>.</li>
+<li><a href="date.1968">1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alatinamericanepiscopal">Latin American Episcopal Conference meets at Medellín</a>.</li>
+<li><a href="date.1968">1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aliberationtheologybegins">Liberation theology begins</a> in Latin America.</li>
+<li><a href="date.1979">1979</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopejohnpauliimeetswithlatin">Pope John Paul II meets with the Latin American bishops at Puebla Mexico</a>.</li>
+<li><a href="date.1980+10">1980s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchchinabeginsexperiencing">The church in China begins experiencing significant growth</a>.</li>
+<li><a href="date.1982">1982</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconfraternityevangelicalslatin">Confraternity of Evangelicals in Latin America Meets in Panama City</a>.</li>
+<li><a href="date.1994">1994</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aafricannationsachieve">African nations achieve independence</a>.</li>
+<li><a href="date.2000">2000</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianpopulationchinagrows">Christian population in China grows to 75 million</a>.</li>
+<li><a href="date.2013">2013</a>: <a href="bk.tle:popefrancisbecomesfirstbishop">Pope Francis becomes the first bishop of Rome from the Southern Hemisphere</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> is part of the Global South; many African countries gained independence during the <a href="date.1901+100">twentieth century</a> and experienced dramatic church growth.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Asia_Place">Asia</a> is part of the Global South; many Asian countries gained independence during the <a href="date.1901+100">twentieth century</a> and experienced dramatic church growth.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40LatinAmerica">Latin America</a> is part of the Global South; many Latin American countries gained independence during the <a href="date.1801+100">nineteenth century</a>; experienced dramatic church growth in the <a href="date.1901+100">twentieth century</a> century.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible translations</a> were published in hundreds of languages as the church expanded across the globe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharismaticRenewalMovement">Charismatic renewal movement</a> spread to the Global South.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25colonialism">Colonialism</a> declined in the <a href="date.1901+100">twentieth century</a> as many countries in the Global South gained independence.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25globalization">Globalization</a> helped the spread of ideas and movements.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25growthInGlobalChristianity">Growth in global Christianity</a> increased rapidly during the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25indigenousChurch">Indigenous Churches</a> were established through missions and evangelization.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">Liberation theology</a> developed in Latin America.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missions</a> were active in the Global South in the <a href="date.1801+100-1901+100">nineteenth–twentieth centuries</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostalism</a> spread rapidly in the Global South.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GaudiumEtSpes_Writing"><em>Gaudium Et Spes</em></a> (<a href="date.1965">1965</a>): issued by the Second Vatican Council under <a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulVI">Pope Paul VI</a>; addresses modern issues in the world, including poverty and war in the Global South and the Roman Catholic Church's responsibility to address those issues.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em></a> (John Raleigh Mott, <a href="date.1900">1900</a>): addresses the goal of <a href="date.1901+100">twentieth century</a> missions.</li>
+<li><a href="bk.%TheologyOfLiberation_Writing"><em>A Theology of Liberation</em></a> (Gustavo Gutiérrez, <a href="date.1973">1973</a>): articulates liberation theology, which emphasizes social, economic, and political liberation of the poor and oppressed; definitive text on Latin American liberation theology.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/752710?len=48834">"Afterword: <em>The Character of Christianity and the Search for Turning Points</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1543570?len=37698">“An Age of Liberation” (Padilla) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1650788?len=70785">"Global Christianity: <em>A Re-Centered Faith (20th and 21st Centuries</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1175479?len=33481">"More Peoples, More Tongues: <em>Emergence of the Global South</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/358375?len=13170">"New Centers of Global Christianity" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/977538?len=65655">"Vitality at the Periphery" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

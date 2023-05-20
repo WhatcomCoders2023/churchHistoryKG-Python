@@ -1,0 +1,142 @@
+<p>Level: 2
+Status: Draft
+Identifier: ChurchAndState
+Parents: CatholicChurchReaffirmsAuthority
+Eras: bk.era:modernera</p>
+<h1>Revolution Spreads Through Europe As Church and State Separate</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 1770–1870</li>
+<li><strong>Description:</strong> The separation between church and state was solidified in Europe through revolution as papal authority over the state was abolished. </li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The Age of Reason saw the rise of rationalism and traditional authority questioned.</li>
+<li>The American Revolution inspired revolution to spread across Europe.</li>
+<li>The French Revolution secularized France.</li>
+<li>The Cult of Reason was established and churches were converted to Temples of Reason; Catholicism was no longer the national religion of France.</li>
+<li>France became a republic and goes to war against European monarchies.</li>
+<li>Napoleon reestablished the relationship between France and the Catholic Church, though the pope's full power was never restored.</li>
+<li>European monarchs were restored after the defeat of Napoleon.</li>
+<li>Liberal revolutions continued to challenge absolute monarchism in Europe.</li>
+<li>The rise of nationalism in Europe led to the establishment of nation-states.</li>
+<li>The Papal States were abolished, ending the temporal authority of the pope, as Italy became an independent nation-state.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3>Military Officers</h3>
+<ul>
+<li>Gilbert du Motier (September 6, 1757–Nay 20, 1834): Marquis de Lafayette; French noble and military officer who fought in the American and French revolutions; advocated for constitutional monarchy; author of <em>Declaration of the Rights of Man and of the Citizen</em> which articulated the natural rights of man, including freedom of religion and the right to participate in the making of laws.</li>
+</ul>
+<h3>Monarchs</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.louisxvi_1">Louis XVI</a> (August 23, 1754–January 21, 1793): king of France (1774–1792); monarchy was abolished in 1792 and the king and queen consort, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MarieAntoinette_Person">Marie Antoinette</a>, were guillotined</li>
+<li>Victor Emmanuel II (March 14, 1820–January 9, 1878): king of Sardinia (1849–1861) and Italy (1861–1878); he was excommunicated by Pius XI after a battle against papal troops; he united Italy as a nation-state and abolished the Papal States.</li>
+</ul>
+<h3>Political Leaders</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasJefferson_Person">Thomas Jefferson</a> (April 13, 1743–July 4, 1826): third president of the United States (1801–1809); Enlightenment thinker; influenced by John Locke; author of the <em>Declaration of Independence</em> (1776) which advocated for the natural rights of man.</li>
+<li>Napoleon Bonaparte (August 15, 1769–May 5, 1821): emperor of France (1804–); signed the <em>Concordat of 1801</em> with Pius VII; crowned emperor by Pius VII; instituted <em>Napoleonic Code</em> which systematized French law, including freedom of religion; worked to limit papal authority as he conquered Europe; he abdicated after his defeat at Waterloo.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusVI_Person">Pius VI</a> (December 25, 1717–August 29, 1799): pope of Rome (1775–1799); educated by the Jesuits; condemned the Civil Constitution of the Clergy as heresy; imprisoned by French Revolutionary forces after refusing to renounce his temporal authority over the Papal States; he died before being restored to the Vatican.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusVII_Person">Pius VII</a> (1742-1823): pope of Rome (1800-1823); Benedictine monk; signed the Concordat of 1801; crowned Napoleon emperor, he was later imprisoned by Napoleon after being stripped of power and the Papal States were incorporated into the French Empire; issued <em>Quum memoranda</em> excommunicating Napoleon, though it was later lifted after his reconciliation with the Catholic Church; restored to the Vatican in 1814 after Napoleon was defeated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusIX_Person">Pius IX</a> (May 13, 1792–February 7, 1878): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> of Rome (1846–1878); originally a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liberalism_Belief">liberalism</a> he later became known as a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conserve">conservatism</a>; convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstvaticancouncil">First Vatical Council</a> to address the problems caused by the rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">rationalism</a> and liberalism; excommunicated Victor Emmanuel II after a battle against papal troops; lost temporal power over the Papal States to Italy; issued <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SyllabusErrorum_Writing"><em>Syllabus Errorum</em></a> which addresses the errors of liberalism and rationalism; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ultramontanism">ultramontanism</a>.</li>
+</ul>
+<h3>Religious Orders</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a> (est. 1534): monastic order founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusLoyola.1">Ignatius of Loyola</a>; the order was expelled from Western Europe beginning in 1773 and was reestablished following the French Revolution in 1815.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>1776–1783: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aamericanrevolutionarywar">American Revolutionary War</a> inspired revolutionaries in Europe.</li>
+<li>1787: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aedicttoleranceenactedfrance">Edict of Tolerance Enacted in France</a></li>
+<li>1789: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aestatesgeneralfrance">Estates General in France</a></li>
+<li>1789–1799: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrenchrevolution">French Revolution</a></li>
+<li>1790s: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrancebecomessecularstate">France Becomes Secular State</a></li>
+<li>1793: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aexecutionlouisxivfrance">Execution of Louis XIV in France</a></li>
+<li>1793–1850: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afestivalreasonfrance">Festival of Reason in France</a></li>
+<li>1801: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconcordat1801signednapoleon">Concordat of 1801 Signed by Napoleon and Pope Pius VII</a></li>
+<li>1804: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anapoleonnameshimselfemperor">Napoleon Names Himself Emperor of France</a></li>
+<li>1815: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondrestorationpapalstates">Second Restoration of the Papal States</a></li>
+<li>1848: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aeuropeanrevolutions1848">European Revolutions of 1848</a></li>
+<li>1870: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aitalyseizesromefromchurch">Italy Seizes Rome from the Church</a> ending the Papal States.</li>
+<li>1929: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alaterantreatysigned">Lateran Treaty Is Signed</a> which established Vatican City as a sovereign state.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40AustrianEmpire">Austrian Empire</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denmark_Place">Denmark</a> established a constitutional monarchy following the Revolutions of 1848.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a>: the French Revolution became the model for secular states in Catholic Europe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was dissolved in 1806.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Hungary">Hungary</a> attempted an uprising during the Revolutions of 1848 that ultimately failed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ParisNotreDame_Place">Notre-Dame de Paris</a> was converted to a Temple of Reason during the French Revolution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a> were conquered by Victor Emmanuel II of Italy; permanently abolished with the established of the nation-state of Italy.</li>
+<li><a href="ttps://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the center of Roman Catholicism and the seat of the papacy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a> became a federal state after the Revolutions of 1848.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a>: the American Revolution establishes a separation of church and state and freedom from the British crown.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> was established as a sovereign state under the rule of the papacy in the <em>Lateran Treaty</em>; it became the new center of Roman Catholicism.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchAndState">Church and State</a> struggled for power during the revolutionary era.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CivilConstitutionOfTheClergy">Civil Constitution of the Clergy</a> reorganized the church in France and limited the power of the papacy to doctrine alone. </li>
+<li>Cult of Reason replaced the Catholic Church as the religion of France during the French Revolution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25democracy">Democracy</a> grew in popularity following the Age of Reason.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gallicanism">Gallicanism</a> challenged papal authority over temporal matters.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25revolution">Revolution</a> solidified the separation of church and state in Europe and the United States.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3>Declarations</h3>
+<ul>
+<li><em>Declaration of Independence</em> (Thomas Jefferson, 1776): addressed to King George of England; advocated for the natural rights of humans and declared America's independence from England.</li>
+<li><em>Declaration of the Rights of Man and of the Citizen</em> (Gilbert du Motier, 1789): defined human civil rights during the French Revolution.</li>
+</ul>
+<h3>Law Codes</h3>
+<ul>
+<li><em>Napoleonic Code</em> (1804): legal code instituted by Napoleon that systematized French law; granted religious freedom.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><em>Quum memoranda</em> (Pius VII, 1809): papal bull issued in response to Napoleon's decree which abolished the pope's temporal power; excommunicated Napoleon.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25lawOfGuarantees"><em>Law of Guarantees</em></a> (1871): law passed in Italy which gave the pope special status and affirmed his spiritual role but removed all temporal authority; rejected by Pius XI.</li>
+</ul>
+<h3>Treaties</h3>
+<ul>
+<li><em>Concordat of 1801</em>: agreement signed by Napoleon Bonaparte and Pope Pius VII which reconciled the Catholic Church and France; priests that had been exiled returned.</li>
+</ul>
+<h3>Treatises</h3>
+<ul>
+<li><em>The Spirit of the Law</em> (Baron de Montesquieu, 1748): advocated for the separation of powers and constitutional government; influenced the Founding Fathers of the United States Constitution.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>Detzler, Wayne A. <a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1133864?len=37377">"Europe in Revolt: Church and State in the Nineteenth Century."</a> In <em>Introduction to the History of Christianity</em>, edited by Tim Dowley, Third Edition., 459–72. Minneapolis, MN: Fortress Press, 2018.</li>
+<li>González, Justo L. <a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/680858?len=24052">"A Shifting Landscape: Western Europe."</a> In <em>The Story of Christianity: The Reformation to the Present Day.</em> Edited by HarperOne. Revised and Updated. Vol. 2. New York, NY, 2010.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/874686?len=27068">"Restoring the Fortress: <em>Catholicism in the Age of Progress</em>."</a> In <em>Church History in Plain Language.</em> 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+<li>Walton, Robert C. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/178885?len=2488">"79. Church and State in France (1589–1814)."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+<li>Woodbridge, John D., and Frank A. James III. <a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1172082?len=87503">"Christianity in an Age of Revolutions: <em>(1770–1848)</em>."</a> In <em>Church History: From Pre-Reformation to the Present Day. Vol. 2.</em> Grand Rapids, MI: Zondervan, 2013.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1496056?len=37061">"The Christian Churches on the European Continent <em>(1814–1914)</em>."</a> In <em>Church History: From Pre-Reformation to the Present Day. Vol. 2.</em> Grand Rapids, MI: Zondervan, 2013.</li>
+</ul>

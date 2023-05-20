@@ -1,0 +1,171 @@
+<p>Level: 1
+Status: Released
+Identifier: EastAndWest
+Parents: Root
+Eras: bk.era:nicenechurchera; bk.era:byzantinechurchera</p>
+<h1>The Church Separates into East and West</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.330-1215">330–1215</a></li>
+<li><strong>Description:</strong> As the church developed differently in the East and West, political, cultural, and theological tensions eventually led to the Great Schism. </li>
+</ul>
+<h2>Summary</h2>
+<p>The spread of Christianity across the sprawling Roman Empire led to a slow divide between the church in the East and the West. While Constantine and the emperors who followed succeeded in uniting the church and empire, a number of differences soon developed in a church separated by geography, language, politics, and theology. These differences came to a head in the early eleventh century when the church separated into East and West over the issue of papal authority. Though attempts at reconciliation were made, the divide between East and West was further solidified by the Crusades and violent altercations that took place in Constantinople. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantineconverts">Constantine converted to Christianity</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantinemovescapitalroman">moved the capital of the Roman Empire from Rome to Constantinople</a> in the East (<a href="date.300+100+e">early 300s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin</a> took primacy in the West, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreekLanguage_Language">Greek</a> in the East (<a href="date.300+100">300s</a>).</li>
+<li>Theological differences over <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christology</a>, the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25trinity">Trinity</a>, and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a> divided the church (<a href="date.300+100-500+100">300s–500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> fell to the Germanic tribes, further shifting political power to the East (<a href="date.400+100">400s</a>).</li>
+<li>Rome in the West grew in ecclesial power and influence (<a href="date.400+100-1200+100">400s–1200s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25iconoclasm">Iconoclast Controversy</a> deepened the divide between East and West (<a href="date.700+100">700s</a>)).</li>
+<li>Rome claimed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">papal primacy</a> while the Eastern church claimed authority was equally shared among the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pentarchy">pentarchy</a>, the five patriarchs of Rome, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antioch_Place">Antioch</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> (<a href="date.800+100-1000+100">800s–1000s</a>).</li>
+<li>East and West struggled for influence over the converted <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Slav_People">Slavs</a> (<a href="date.800+100">800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodoxy</a> spread to Russia (<a href="date.900+100">900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">Celibacy</a> was required for all <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergy</a> in the Western church while clergy were permitted to marry in the Eastern church (<a href="date.1000+100">1000s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aeastwestschism">East-West Schism</a> separated the church into Eastern Orthodoxy in the East and Roman Catholicism in the West (<a href="date.1054">1054</a>).</li>
+<li>The church launched <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acrusades">the Crusades</a> as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Islam_Belief">Islam</a> expanded in the East (<a href="date.1095-1192">1095–1192</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ConstantineI">Constantine the Great</a> (<a href="date.272.2.27-337.5.22">February 27, 272–May 22, 337</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> (<a href="date.306-337">306-337</a>); convert to Christianity; he established <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> as the new capital of the Roman Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Justinian.I_Person">Justinian I</a> (<a href="date.482-565.11.14">482-November 14, 565</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="bk.@ByzantineEmpire">Byzantine Empire</a>; he advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cesaropapism">caesaropapism</a>; issued <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Novellae_Writing"><em>Novellae Constitutiones</em></a>, which officially established the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pentarchy">pentarchy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LeoIII_Person">Leo III</a> (<a href="date.685+c-741.6.18">c. 685–June 18, 741</a>): emperor of the Byzantine Empire (<a href="date.717-741">717--741</a>); he initiated the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abyzantineiconoclasm">Iconoclast Controversy</a> in opposition to the use of icons.</li>
+</ul>
+<h3><a href="bk.%patriarchOrthodox">Patriarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Photius_Person">Photius</a> (<a href="date.820-891">820-891</a>): <a href="bk.%ecumenicalPatriarch">ecumenical patriarch</a> of Constantinople (<a href="date.858-867">858-867</a>, <a href="date.877-886">877-886</a>); elected patriarch after <a href="https://ref.ly/logos4/Factbook?ref=bk.%25IgnatiusOfConstantinople_Person">Ignatius of Constantinople</a> was deposed by Byzantine emperor <a href="bio.EmperorMichaelIII">Michael III</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintNicholasI_Person">Pope Nicholas I</a> rejected Photius and had him deposed and Ignatius reinstated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MichaelCerularius">Michael I Cerularius</a> (<a href="date.1000-1059.1.21">1000–January 21, 1059</a>): ecumenical patriarch of Constantinople (<a href="date.1043-1059">1043--1059</a>); he excommunicated the papal legation of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIX_Person">Pope Leo IX</a> following a conflict over papal authority.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoI_Person">Leo I</a> (<a href="date.400-461.11.10">400–November 10, 461</a>): <a href="bk.%pope">pope</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of Rome (<a href="date.440-461">440--461</a>); first to use the title <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">"pope"</a>; author of <a href="bk.%LetterCVIToAnatolius_Writing"><em>Letter CVI: To Anatolius, Bishop of Constantinople, in Rebuke of His Self-Seeking</em></a>, which rejects Constantinople's claim of supremacy over <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch (of Syria)</a> (<a href="leo.1.106.4-1.106.5">CVI.iv--v</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintNicholasI_Person">Nicholas I</a> (<a href="date.820-867">820-867</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and <a href="bk.%bishop">bishop</a> of <a href="bk.@Rome">Rome</a> (<a href="date.858-867">858–867</a>); he advocated for papal primacy; rejected the appointment of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Photius_Person">Photius</a> to the patriarchate of Constantinople and supported Ignatius of Constantinople, which led to the <a href="bk.tle:photianschismbegins">Photian Schism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIX_Person">Leo IX</a> (<a href="date.1002-1054">1002–1054</a>): French pope and bishop of Rome (<a href="date.1049-1054">1049-1054</a>); he was an opponent of the ecumenical patriarch Michael I Cerularius during a conflict over papal authority; his papal legate <a href="bk.%HumbertOfSilvaCandida_Person">Humbert of Silva Candida</a> excommunicated the ecumenical patriarch after Leo IX's death.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeInnocentIII">Innocent III</a> (<a href="date.1160-1216.7.16">1160–July 16, 1216</a>): pope and bishop of Rome (<a href="date.1198-1216">1198--1216</a>); he convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">Fourth Lateran Council</a>, which established papal authority over all the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a>; author of <a href="bk.%PerVenerabilem_Writing"><em>Per Venerabilem</em></a>, which declares the pope's authority to affirm or deny appointed emperors.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.330">330</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantinemovescapitalroman">Constantine moves the capital of the Roman Empire to Constantinople</a>.</li>
+<li><a href="date.381">381</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a> recognizes Constantinople as second only to Rome.</li>
+<li><a href="date.395">395</a>: <a href="bk.tle:romanempireispremanentlysplit">The Roman Empire is permanently split into Eastern and Western halves</a> after the death of Theodosius I.</li>
+<li><a href="date.431">431</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">First Council of Ephesus</a> is convened by <a href="bk.%TheodosiusII_Person">Emperor Theodosius II</a> to settle christological controversies.</li>
+<li><a href="date.449">449</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Latrocinium">Second Council of Ephesus</a> is rejected by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dyophysites">dyophysites</a>; not considered an ecumenical council.</li>
+<li><a href="date.451">451</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a> is convened by <a href="bk.%Marcian_Person">Emperor Marcian</a> to settle christological controversies on the nature(s) of Jesus; affirms dyophisitism.</li>
+<li><a href="date.476">476</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afallwesternromanempire">The Western Roman Empire falls</a>.</li>
+<li><a href="date.400+100">400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amajorityeasternchurchesreject">Majority of the Eastern churches reject the decrees of Chalcedon</a> in favor of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Miaphysitism_Belief">miaphysitism</a> and split from the church.</li>
+<li><a href="date.589">589</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltoledo1">Council of Toledo</a> adds filioque clause to the Constantinopolitan Creed.</li>
+<li><a href="date.600+100-700+100">600s–700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abyzantineiconoclasm">Byzantine Iconoclasm</a> causes controversy in the church.</li>
+<li><a href="date.600+100+m">mid-600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ariseislam">Spread of Islam</a> affects the Eastern church.</li>
+<li><a href="date.680">680</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirdCouncilOfConstantinople">Third Council of Constantinople</a> is convened to settle christological controversies on the will(s) of Jesus; rejects <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monothelitism_Belief">monothelitism</a>. </li>
+<li><a href="date.700+100">700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aiconoclismemerges">Iconoclasm emerges</a>.</li>
+<li><a href="date.787">787</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SecondCouncilofNicaea">Second Council of Nicaea</a> affirms the use of icons.</li>
+<li><a href="date.862">862</a>: <a href="bk.tle:cyrilmethodiusarecommissionedpatriarch">Cyril and Methodius are commissioned by the patriarch of Constantinople to evangelize the Slavs</a>.</li>
+<li><a href="date.858">858</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apatriarchignatius">Patriarch Ignatius of Constantinople is deposed</a> by Emperor Michael III; Photius installed as patriarch.</li>
+<li><a href="date.861-867">861–867</a>: <a href="bk.tle:photianschismbegins">The Photian Schism begins</a>.</li>
+<li><a href="date.864">864</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abulgarssoutheasterneurope">Bulgars of Southeastern Europe are converted to Christianity</a>; East and West both claim authority over Bulgaria.</li>
+<li><a href="date.869">869</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthcouncilconstantinople">Fourth Council of Constantinople</a> confirms the removal of Photius and reinstates Ignatius as patriarch; this council is not recognized by the Eastern church.</li>
+<li><a href="date.988">988</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3akievanrussiansconverted">Kievan Russians are converted to Christianity</a> and Russian Orthodoxy spreads.</li>
+<li><a href="date.1000+100">1000s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acelibacyrequiredallpriests">Celibacy is required for all priests in the Western church</a>.</li>
+<li><a href="date.1054">1054</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aeastwestschism">East-West Schism</a> separates the Eastern and Western churches.</li>
+<li><a href="date.1095-1270">1095–1270</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acrusades">The Crusades</a> solidify the divide between East and West.</li>
+<li><a href="date.1182">1182</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aantilatinriotsconstantinople">Anti-Latin riots take place in Constantinople</a>.</li>
+<li><a href="date.1202">1202</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthcrusadecaptures">Fourth Crusade captures Constantinople</a>.</li>
+<li><a href="date.1204">1204</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awesternknightsravage">Western knights ravage Constantinople</a>.</li>
+<li><a href="date.1215">1215</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">Fourth Lateran Council</a> establishes papal authority over all the church.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was the location of one-fifth of the pentarchy; Alexandrian Theology developed here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a> was the location of one-fifth of the pentarchy; Antiochene Theology developed here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40ByzantineEmpire">Byzantine Empire</a> was allied with the church in the East.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Byzantium">Byzantium</a> was renamed <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> and became the new capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> and the location of one-fifth of the pentarchy; ecclesial center of Eastern Orthodoxy and seat of the <a href="bk.%ecumenicalPatriarch">ecumenical patriarch</a>; later the capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40ByzantineEmpire">Byzantine Empire</a>; location of four ecumenical councils.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was allied with the church in the West.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> was the location of one-fifth of the pentarchy; holy site to Jews, Christians, and Muslims, and center of the Crusades.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the location of one-fifth of the pentarchy; ecclesial center and seat of the papacy; former capital of the Roman Empire.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25authority">Authority</a> ultimately belonged to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a> in Roman Catholicism and to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">Ecumenical Councils</a> in Eastern Orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cesaropapism">Caesaropapism</a> developed in the Byzantine Empire where emperors had supreme authority over the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodoxy</a> developed in the Eastern Roman Empire, later the Byzantine Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25filioque">Filioque</a> clause affirmed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoubleProcessionOfTheHolySpirit">double procession of the Holy Spirit</a>; it was added to the Constantinopolitan Creed by Western churches but rejected by Eastern churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25greekRites">Greek rites</a> were practiced in the Eastern Orthodox Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25iconoclasm">Iconoclasm</a> arose in the Byzantine Empire and caused some controversy within the church, but <a href="https://ref.ly/logos4/Factbook?ref=bk.%25icon">icons</a> were eventually affirmed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondcouncilnicea">Second Council of Nicea</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Lord’s Supper</a> was celebrated with leavened bread in the Eastern churches and unleavened bread in the Western churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25lent">Lent</a> was observed differently in the Eastern and Western churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OrientalOrthodoxChurches">Oriental Orthodox Churches</a> separated from the church after the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">First Council of Ephesus</a> over Christology; this group of churches adheres to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Miaphysitism_Belief">miaphysitism</a> and only recognize the first three <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">ecumenical councils</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">Papal primacy</a> was recognized by the Roman Catholic Church; the bishop of Rome was the supreme authority over the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pentarchy">Pentarchy</a> was recognized by the Eastern Orthodox Church; ecclesial authority was shared among the five patriarchates with Rome the "first among equals"; after the Schism, Constantinople became "first among equals."</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> developed in the Western Roman Empire, later the Holy Roman Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25romanRite">The Roman Rite</a> was practiced in the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RussianOrthodox_Denom">Russian Orthodoxy</a> developed in Russia after it was evangelized by the Eastern church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schism">Schism</a> formally separated the church into Roman Catholicism (West) and Eastern Orthodoxy (East).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25theology">Theology</a> developed differently in the Eastern and Western churches, especially in relation to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecclesiology">ecclesiology</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christology</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25soteriology">soteriology</a>.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible Translations</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Septuagint_Writing">Septuagint</a> (<a href="date.101+100">second century !!smallcaps|bc!!</a>): a Greek version of the Hebrew <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldTestament_Writing">Old Testament</a>; the preferred Old Testament text of the Eastern church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Vulgate</a> (Jerome, <a href="date.383-405">383–405</a>): Latin translation of the Bible; became the preferred text of the Western church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Church Codes and Canons</a></h3>
+<ul>
+<li><a href="bk.%CanonsOfChalcedonianCouncil_Writing"><em>The Canons of the Council of Chalcedon</em></a> (<a href="date.451">451</a>): thirty canons addressing ecclesial matters related to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergy</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a>; recognize Constantinople as the "New Rome" with authority and honor second only to Rome (Canon XXVIII); Pope Leo I declared Canon XXVIII as null in void in his letter to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anatolius_Person">Anatolius (patriarch of Constantinople)</a> (<a href="leo.1.106.4">CVI.iv</a>).</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25constantinopolitanCreed_Writing"><em>The Constantinopolitan Creed</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a>, <a href="date.381">381</a>): affirms the <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">divinity of the Son</a> and the <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheSpirit">Holy Spirit</a>; a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25filioque">filioque</a> clause, which affirms the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoubleProcessionOfTheHolySpirit">double procession of the Holy Spirit</a>, is added by the Western church at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltoledo1">Third Council of Toledo</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25symbolOfChalcedon_Writing">Symbol of Chalcedon</a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a>, 451): affirms the two natures of the Son; rejected by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OrientalOrthodoxChurches">Oriental Orthodox Churches</a>.</li>
+</ul>
+<h3><a href="bk.%DictatusPapae_Writing"><em>Dictatus papae</em></a></h3>
+<ul>
+<li><a href="bk.%DictatusPapae_Writing"><em>Dictatus papae</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.PopeGregoryVII">Pope Gregory VII</a>, <a href="date.1075">1075</a>): a list of twenty-seven statements which affirm the supreme authority of the pope, including the right to depose bishops and emperors.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="bk.%LetterCVIToAnatolius_Writing"><em>Letter CVI: To Anatolius, Bishop of Constantinople, in Rebuke of His Self-Seeking</em></a> (Pope Leo I, <a href="date.452">452</a>): rejects Constantinople's claim of supremacy over <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch (of Syria)</a> (<a href="leo.1.106.4-1.106.5">CVI.iv--v</a>).</li>
+</ul>
+<h3><a href="bk.%law">Law Codes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Novellae_Writing"><em>Novellae Constitutiones</em></a> (Emperor Justinian I, <a href="date.534">534</a>): Roman law code that affirms the See of Rome as first among the pentarchy, Constantinople second.</li>
+</ul>
+<h3><a href="bk.%newTestamentManuscripts">New Testament Manuscripts</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ByzantineTextOfTheNewTestament">Byzantine text of the New Testament</a> (<a href="date.301+100+c">c. fourth century</a>): primary New Testament text-type of the Byzantine Empire and the basis of the Eastern Orthodox New Testament. </li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/77916?len=3620">"Church and State in the Byzantine Empire (c.500–1453)" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/319487?len=49533">"The Division Between East and West: The Great Schism (1054)" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/591262?len=5196">"East and West Divide" (Clouse) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/508117?len=1810">“East-West Differences” (Rosenberg) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/625050?len=44299">"Eastern Christianity" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/520737?len=35953">“The Eastern Church” in <em>Introduction to the History of Christianity</em> (Gallatin)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/94514?len=92099">"<em>Early Middle Ages: 400–1054</em>" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/88970?len=1332">"The Primary Causes of the East-West Schism of 1054" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/874866?len=7951">"The Schism Between West and East (1054)" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/389796?len=25325">"Somewhere Between Heaven and Earth: <em>Eastern Orthodoxy</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

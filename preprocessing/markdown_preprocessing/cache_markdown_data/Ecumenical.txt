@@ -1,0 +1,142 @@
+<p>Level: 1
+Status: Released
+Identifier: Ecumenical
+Parents: Root
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>The Ecumenical Movement Unites Denominations</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1908-2022">1908–Present</a></li>
+<li><strong>Description:</strong> The ecumenical movement led to renewed relationships within the universal church.</li>
+</ul>
+<h2>Summary</h2>
+<p>Ecumenism, a movement that promoted unity and cooperation within the universal church, developed in part out of the foreign missionary movement of the nineteenth century. While Christianity has a long history of denominations dividing over doctrine and practice, from the Great Schism between East and West to the diversifying of Protestantism, the beginning of the twentieth century saw the universal church unite around a common goal of evangelism. The ecumenical movement emphasized Christian cooperation across not only denominational lines, but geographical boundaries, as churches across the globe collaborated to form the World Council of Churches. The Roman Catholic Church, in the spirit of ecumenism, appealed to unity and closer relations with the Orthodox and Protestant churches. While maintaining doctrinal distinctives, the universal church affirmed its common central belief in Jesus Christ.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenism">Ecumenism</a> developed among Protestants around the shared goal of evangelism (<a href="date.1908-2022">1908–2022</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denominations">Denominations</a> gathered at conferences to discuss <a href="bk.%evangelism">evangelism</a> and the <a href="https://ref.ly/logos4/Factbook?ref=lsto.ChurchUnity">unity of the church</a> (<a href="date.1910-2010">1910–2010</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a> was established to unify churches across denominations and geographical boundaries (<a href="date.1948">1948</a>).</li>
+<li>Some Protestant denominations merged or reunited to establish "United" denominations (<a href="date.1900+100+m">mid-1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondvaticancouncil">Vatican II</a> advocated for unity among Christians and acknowledged the dignity of other faiths outside of Christianity (<a href="date.1962-1965">1962–1965</a>).</li>
+<li>The unity of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodox</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OrientalOrthodoxChurches">Oriental Orthodox</a> churches was reaffirmed (<a href="date.1995">1995</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodox</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.germanusofconstantinople_1">Germanus V of Constantinople</a> (<a href="date.1835.12.6-1920.7.28">December 6, 1835–July 28, 1920</a>): <a href="bk.%ecumenicalPatriarch">ecumenical patriarch</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> (<a href="date.1913-1918">1913–1918</a>); author of the <a href="bk.%PatriarchalEncyclical1920_Writing"><em>Patriarchal Encyclical of 1920</em></a>, which encouraged collaboration between churches.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesHenryBrent_Person">Charles Henry Brent</a> (<a href="date.1862.4.9-1929.3.27">April 9, 1862–March 27, 1929</a>): Canadian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpiscopalChurchUSA">Episcopal</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Philippines_Place">Philippines</a> and western <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewYork_Place">New York State</a>; missionary to the Philippines; leader of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FaithAndOrder">Faith and Order</a>; president of the <a href="bk.tle:worldconferencefaithorder1927">World Conference on Faith and Order</a> in <a href="date.1927">1927</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnRaleighMott_Person">John Raleigh Mott</a> (<a href="date.1865-1955">1865–1955</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25YMCA">YMCA</a>; a founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldStudentChristianFederation">World Student Christian Federation</a>, and the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">World Missionary Conference in Edinburgh</a>; author of <a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em> </a>, which became influential to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EcumenicalMovement">ecumenical movement</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NathanSoderblom_Person">Nathan Söderblom</a> (<a href="date.1866-1931">1866–1931</a>): Swedish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Uppsala">Uppsala</a>; leader of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LifeandWork">Life and Work</a>; organized the <a href="bk.tle:worldcomferencelifework1925">World Conference on Life and Work was held at Stockholm</a> in <a href="date.1925">1925</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BillyGraham">Billy Graham</a> (<a href="date.1918.11.7-2018.2.21">November 7, 1918–February 21, 2018</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> evangelist; founder of the <a href="bk.%BGEA">Billy Graham Evangelistic Association</a>; convened the World Congress on Evangelism (<a href="date.1966">1966</a>) and the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstinternationalcongress1">First International Congress on World Evangelization</a>, which launched the <a href="bk.%LausanneMovement">Lausanne Movement</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnRobertWalmsleyStott_Person">John Stott</a> (<a href="date.1921.4.27-2011.7.27">April 27, 1921–July 27, 2011</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Preacher">preacher</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>, and evangelical leader; chairman of the Drafting Committee for <a href="bk.%LausanneCovenant_Writing"><em>The Lausanne Covenant</em></a>; author of <a href="bk.%LausanneCovenantExpositionCommentary_Writing"><em>The Lausanne Covenant: An Exposition and Commentary</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnMbiti_Person">John S. Mbiti</a> (b. <a href="date.1931">1931</a>): Kenyan Anglican theologian and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a>; a leader of the ecumenical movement; director of the World Council of Churches' Ecumenical Institute at <a href="bk.%Bossey_Place">Bossey</a>; he convened the colloquium Confessing Christ in Different Cultures in <a href="date.1977">1977</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.crenepadilla">C. René Padilla</a> (<a href="date.1932.10.12-2021.4.27">October 12, 1932–April 27, 2021</a>): Ecuadorian evangelical theologian and missiologist; he studied at <a href="bk.%WheatonCollege_Place">Wheaton College</a>; founding member of the <a href="bk.%LatinAmericanTheologicalFellowship">Latin American Theological Fellowship</a>; he coined the term <em>misión integral</em> ("integral mission") which advocated for evangelism and social justice within Christianity; participated in the Lausanne Movement.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeJohnXXIII.1_Person">John XXIII</a> (<a href="date.1881.11.25-1963.6.3">November 25, 1881–June 3, 1963</a>): Italian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1958-1963">1958–1963</a>); convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondvaticancouncil">Second Vatican Council</a>; advocated for unity among Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulVI">Pope Paul VI</a> (<a href="date.1897.9.26-1978.8.6">September 26, 1897–August 6, 1978</a>): pope and bishop of Rome (<a href="date.1963-1978">1963–1978</a>); improved relations with the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodox Church</a>; issued <a href="bk.%UnitatisRedintegratio_Writing"><em>Unitatis Redintegratio</em></a>, which addresses <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenism">ecumenism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnPaulII">John Paul II</a> (<a href="date.1920.5.18-2005.4.2">May 18, 1920–April 2, 2005</a>): pope and bishop of Rome (<a href="date.1978-2005">1978-2005</a>); issued <a href="bk.%UtUnumSint_Writing"><em>Ut unum sint</em></a>, which affirmed the unity of the Roman Catholic and Orthodox churches and advocated for unity with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1900+100+e">early 1900s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aecumenismdevelops">Ecumenism develops</a> among Christian churches.</li>
+<li><a href="date.1908">1908</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afederalcouncilchurchesfounded">Federal Council of Churches is founded in the United States</a>.</li>
+<li><a href="date.1910">1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">World Missionary Conference is held in Edinburgh</a>.</li>
+<li><a href="date.1920+10">1920s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amalinesconversationsbetween">Malines Conversations between Catholics and Anglicans</a>.</li>
+<li><a href="date.1920">1920</a>: <a href="bk.tle:germanusvissuespatriarcalencyclicalecumenism">Germanus V issues Patriarchal Encyclical on Ecumenism</a>. </li>
+<li><a href="date.1921">1921</a>: <a href="bk.tle:internationalmissionarycouncilisestablishedlondon">International Missionary Council is established in London</a>; merges with the World Council of Churches in 1961.</li>
+<li><a href="date.1925">1925</a>: <a href="bk.tle:worldcomferencelifework1925">World Conference of Life and Work meets in Stockholm</a>.</li>
+<li><a href="date.1927">1927</a>: <a href="bk.tle:worldconferencefaithorder1927">World Conference on Faith and Order meets in Lausanne</a>.</li>
+<li><a href="date.1937">1937</a>: <a href="bk.tle:oxfordlifeworkconference">Oxford Life and Work Conference</a>.</li>
+<li><a href="date.1948">1948</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldcouncilchurchesfounded">World Council of Churches is founded</a>.</li>
+<li><a href="date.1950">1950</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abillygrahamevangelistic1">Billy Graham Evangelistic Association is founded</a>.</li>
+<li><a href="date.1950">1950</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anationalcouncilchurchesfounded">National Council of Churches is founded</a>, formerly the Federal Council of Churches.</li>
+<li><a href="date.1962-1965">1962–1965</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondvaticancouncil">Second Vatican Council</a> addresses ecumenicism and the Roman Catholic Church's relation to other churches.</li>
+<li><a href="date.1966">1966</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldcongressevangelismmeets">World Congress on Evangelism meets in Berlin</a>.</li>
+<li><a href="date.1968">1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldcouncilchurchesmeets">World Council of Churches meets at Uppsala</a>.</li>
+<li><a href="date.1974">1974</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstinternationalcongress2">First International Congress on World Evangelization meets in Lausanne</a>.</li>
+<li><a href="date.1980">1980</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldevangelizationconference">World Evangelization Conference meets in Bangkok</a>.</li>
+<li><a href="date.1989">1989</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondinternationalcongress">Second International Congress on World Evangelization</a> meets in Manila.</li>
+<li><a href="date.2010">2010</a>: <a href="bk.tle:thirdinternationalcongressworldevangelization">Third International Congress on World Evangelization meets in Cape Town</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Amsterdam_Place">Amsterdam</a> was where the World Council of Churches was founded.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Bangkok">Bangkok, Thailand</a> was the location of the World Evangelization Conference (<a href="date.1980">1980</a>).</li>
+<li><a href="bk.@CapeTownSouthAfrica">Cape Town, South Africa</a> was the location of the Third International Congress on World Evangelization.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Berlin">Berlin, Germany</a> was the location of the World Congress on Evangelism (<a href="date.1966">1966</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Edinburgh">Edinburgh, Scotland</a> was the location of the World Missionary Conference.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lausanne_Place">Lausanne, Switzerland</a> was the location of the First World Conference on Faith and Order and the International Congress on World Evangelization.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Manila">Manila</a> was the location of the Second International Congress on World Evangelization.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Stockholm_Place">Stockholm</a> was the location of the World Conference of Life and Work (<a href="date.1925">1925</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Uppsala">Uppsala</a> was the location of the World Council of Churches meeting (<a href="date.1968">1968</a>).</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EcumenicalMovement">Ecumenical movement</a> arose in the <a href="date.1901+100">twentieth century</a> and sought to foster Christian unity across <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denominations">denominations</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenism">Ecumenism</a> encouraged Christians to work together for the sake of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">gospel</a>.</li>
+<li><a href="bk.%evangelism">Evangelism</a> was a top priority of the ecumenical movement that united churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FaithAndOrder">Faith and Order</a> was part of the early ecumenical movement; organized ecumenical conferences in Lausanne and Edinburgh; now a part of the World Council of Churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LifeandWork">Life and Work</a> was part of the ecumenical movement that focused on social issues; organized ecumenical conferences in Stockholm and Edinburgh.</li>
+<li><a href="bk.%LausanneMovement">Lausanne Movement</a> was established in 1976 to promote worldwide evangelism and ecumenism among denominations, also known as the Lausanne Committee for World Evangelization; was founded after the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstinternationalcongress1">International Congress on World Evangelization</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MalinesConversations">Malines Conversations</a> explored the potential reunion of the Roman Catholic Church and the Church of England.</li>
+<li><a href="bk.%WeekPrayerChristianUnity">Week of Prayer for Christian Unity</a> is an ecumenical observance that is organized by the World Council of Churches; it began as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchUnityOctave">Octave of Christian Unity</a> within the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a> was established in 1948 as an ecumenical organization of churches including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodox</a> churches; the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> is a participant but not a full member.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25covenant">Covenants</a></h3>
+<ul>
+<li><a href="bk.%LausanneCovenant_Writing"><em>The Lausanne Covenant</em></a> (Lausanne Movement, <a href="date.1974">1974</a>): issued at the First International Congress on World Evangelization; articulates theological basis for ecumenical missions and evangelism; John Stott was chairman of the Drafting Committee.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25decree">Decrees and Edicts</a></h3>
+<ul>
+<li><a href="bk.%UnitatisRedintegratio_Writing"><em>Unitatis Redintegratio (Restoration of Unity)</em></a> (Second Vatican Council, <a href="date.1964">1964</a>): promoted by Pope Paul VI; council decree on ecumenism issued by the Catholic Church during Vatican II; addresses the unity of Christians.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25encyclical">Encyclicals</a></h3>
+<ul>
+<li><a href="bk.%PatriarchalEncyclical1920_Writing"><em>Patriarchal Encyclical of 1920</em></a> (Patriarch Germanus V): addressed to "the Churches of Christ everywhere"; advocates for cooperation between churches and the establishment of a "League of Churches."</li>
+<li><a href="bk.%UtUnumSint_Writing"><em>Ut Unum Sint</em> ("That They May Be One")_</a> (Pope John Paul II, <a href="date.1995">1995</a>): papal encyclical that affirms the unity of the Roman Catholic and Orthodox Churches and advocates for unity with Protestants.</li>
+</ul>
+<h3><a href="bk.%magazine">Magazines</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.christianitytodayintl_2"><em>Christianity Today Intl</em></a> (est. <a href="date.1956">1956</a>): evangelical Christian magazine founded by Billy Graham; the magazine co-sponsored the World Congress on Evangelism in <a href="date.1966">1966</a>.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em> </a> (John Raleigh Mott, <a href="date.1900">1900</a>): addresses the goal of <a href="date.1901+100">twentieth century</a> missions and was influential to the beginning of the ecumenical movement.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/1016496?len=17729">"The Ecumenical Movement" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1891016?len=21994">"Ecumenism" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/473553?len=1433">"Introduction" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/707878?len=44831">"Mobilizing for the Future: <em>The Second Vatican Council (1962–65) and the Lausanne Congress on World Evangelization (1974)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1088188?len=23160">"New Creeds for Breakfast: The Ecumenical Movement" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1532580?len=10989">"Organizing for Unity" (Buchanan) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/523944?len=22272">"Vatican II" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+</ul>

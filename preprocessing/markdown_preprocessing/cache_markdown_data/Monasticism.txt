@@ -1,0 +1,110 @@
+<p>Level: 1
+Status: Released
+Identifier: Monasticism
+Parents: Root
+Eras: bk.era:antenicenechurchera; bk.era:nicenechurchera; bk.era:byzantinechurchera</p>
+<h1>The Spread of Monasticism</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.270-540">270–540</a></li>
+<li><strong>Description:</strong> Individuals sought out life in the desert as the Roman Empire adopted the Christian faith. Eventually, solitary ascetics and hermits formed communities and established norms for monastic life.</li>
+</ul>
+<h2>Summary</h2>
+<p>Some of the earliest Christian ascetics were those who fled to the wilderness during times of persecution. After the Roman Empire adopted Christianity and persecution declined, some Christians fled to the desert in pursuit of a deeper spiritual life separate from the comfort of the empire. At first, Christian ascetics lived in solitude. Later, desert monks and nuns began to organize into communities, establishing a closer relationship to the institutional church and adopting rules to guide monastic life. Monasticism spread across the empire and was a dominant force behind the growth of the church.</p>
+<h2>Key Developments</h2>
+<ul>
+<li>The first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25hermit">hermits</a> withdrew to live in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25wilderness">wilderness</a> (<a href="date.200+100">200s</a>).</li>
+<li>The first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a> were established to regulate the common life of <a href="bk.%monkReligiousBrother">monks</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">nuns</a> (<a href="date.300+100">300s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christianity</a> became the dominant religion in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> (<a href="date.300+100">300s</a>). </li>
+<li>Monastic rules were developed to provide guidelines on the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">monastic life</a> (<a href="date.300+100-500+100">300s–500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missionary</a> efforts by monks, including the establishment of monasteries across the Roman Empire, helped aid the spread of Christianity (<a href="date.300+100-500+100">300s–500s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DesertFathers_People">Desert Fathers and Mothers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DesertFathers_People">Desert Fathers and Mothers</a> (<a href="date.201+100-301+100">third--fourth centuries</a>: Christian <a href="https://ref.ly/logos4/Factbook?ref=lco.Prophets_and_ascetics">ascetics</a> living in the desert of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Egypt_Place">Egypt</a>; their lives and teachings are the subject of <a href="bk.%SayingsOfTheDesertFathers_Writing"><em>The Sayings of the Desert Fathers</em></a>.</li>
+<li><a href="bk.%SaintPaulofThebes_Person">Paul of Thebes</a> (<a href="date.227+c-340+c">c. 227–340</a>): traditionally, the first known <a href="https://ref.ly/logos4/Factbook?ref=lco.Prophets_and_ascetics">ascetic</a> to withdraw into the wilderness in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Egypt_Place">Egypt</a>; subject of <a href="bk.%LifeOfPaulus_Writing"><em>The Life of Paulus the First Hermit</em></a> by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerome_Person">Jerome</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AnthonyEgypt">Anthony of Egypt</a> (<a href="date.251-356">251–356</a>): Coptic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25hermit">hermit</a>; leader among the ascetic group of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">monks</a> known as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DesertFathers_People">Desert Fathers</a>; lived as an ascetic in the wilderness and later organized the first communities of hermits; subject of <a href="bk.%LifeOfAnthony_Writing"><em>Life of Anthony</em></a>, which describes his life as a desert monk.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPachomius_Person">Pachomius</a> (<a href="date.287-346">287–346</a>): father of communal monasticism; founder of monastery at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tabennisi_Place">Tabennisi</a>.</li>
+<li><a href="bio.SyncleticaOfAlexandria">Syncletica of Alexandria</a> (<a href="date.301+100">fourth century</a>): Desert Mother and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25anchorite">anchoress</a> in the desert of Egypt; her sayings are recorded in <em>The Sayings of the Desert Fathers</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BasilCaesarea">Basil of Caesarea</a> (<a href="date.330-379">330–379</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Caesarea_Place">Caesarea</a> and monk; he is known as the "father of Eastern communal monasticism"; adherent of asceticism; cofounder of a monastic community in Pontus with his sister Macrina the Younger; author of several letters that address asceticism, as well as <a href="bk.%RuleOfSaintBasil_Writing"><em>The Rule of Saint Basil</em></a>, which is followed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Basilians_People">Basilians</a>.</li>
+</ul>
+<h3><a href="bk.%monkReligiousBrother">Monks</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">Nuns</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintMacrina_Person">Macrina the Younger</a> (<a href="date.327+c-379">c. 327–379</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">nun</a> and teacher; adherent of asceticism; cofounder of a monastic community in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pontus_Place">Pontus</a> with her brother Basil of Caesarea; subject of <a href="bk.%LifeOfMacrina_Writing"><em>Life of Macrina</em></a>, which was written by her brother <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintGregoryOfNyssa_Person">Gregory of Nyssa</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinTours">Martin of Tours</a> (<a href="date.335-397.11.8">335–November 8, 397</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Tours">Tours</a> and monk; converted to Christianity from paganism; associate of <a href="https://ref.ly/logos4/Factbook?ref=bio.HilaryPoitiers">Hilary of Poitiers</a>; founder of a monastery at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Liguge_Place">Ligugé</a>; subject of <a href="bk.%LifeOfStMartin_Writing"><em>On the Life of St. Martin</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine of Hippo</a> (<a href="date.354.11.13-430.8.28">November 13, 354–August 28, 430</a>): North African convert to Christianity; bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hippo">Hippo</a> and monk; founder of a monastic community; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessionsOfSaintAugustine_Writing"><em>Confessions</em></a>, an autobiographical work on his youth and conversion to Christianity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPaula_Person">Paula of Rome</a> (<a href="date.347-404">347–404</a>): Roman <a href="bk.#widow">widow</a> and founder of the first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conventKJV">nunnery</a> at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bethlehem_Place">Bethlehem</a>; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25asceticism">asceticism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnCassian_Person">John Cassian</a> (<a href="date.360-435">360–435</a>): monk and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; studied Egyptian monasticism; author of <a href="bk.%InstitutesOfTheCoenobia_Writing"><em>The Institutes of the Coenobia</em></a>, which describes the monastic life and inspired many of the monastic rules developed later.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintSimeonStylites_Person">Simeon Stylites</a> (<a href="date.390+c-459.9.2">c. 390–September 2, 459</a>): Syrian Christian ascetic; founder of the Stylites known for living atop a small platform on top of a pillar.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BenedictNursia">Benedict of Nursia</a> (<a href="date.480-543">480–543</a>): Roman <a href="https://ref.ly/logos4/Factbook?ref=bk.%25abbot">abbot</a> and hermit; he is known as the "father of Western monasticism"; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RuleOfSaintBenedict_Writing"><em>Rule of Saint Benedict</em></a>, which gives instruction for monastic life and reform and is followed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictines</a>; founder of a monastery at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MonteCassino">Monte Cassino</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FlaviusMagnusAureliusCassiodorusSenatorCassiodorus_Person">Flavius Magnus Aurelius Cassiodorus</a> (<a href="date.485-585">485–585</a>): Roman politician and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; founder of a <a href="bk.%VivariumMonastery_Place">Vivarium</a>, which was a center for monastic studies and location of a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scriptorium"><em>scriptorium</em></a>; he advocated for monastic learning.</li>
+</ul>
+<h2>Key Events</h2>
+<ul>
+<li><a href="date.200+100">200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonachismspringsupegypt">Monachism springs up in Egypt</a> as the first Christian ascetics retreat into the desert.</li>
+<li><a href="date.250">250</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder1">Persecution of Christians under Decius</a> forces some Christians to flee into the wilderness.</li>
+<li><a href="date.250">250</a>: <a href="bk.tle:paulthebesliveshermit">Paul of Thebes lives as a hermit</a>.</li>
+<li><a href="date.270">270</a>: <a href="bk.tle:anthonyegyptliveshermit">Anthony of Egypt lives as a hermit</a>.</li>
+<li><a href="date.303-311">303–311</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder2">Christians are persecuted under Diocletian</a>.</li>
+<li><a href="date.312">312</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantineconverts">Constantine converts to Christianity</a> and Christianity spreads through the Roman Empire.</li>
+<li><a href="date.320">320</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonasteryfoundedpachomiusnag">Pachomius founds a monastery in Nag Hammadi</a>.</li>
+<li><a href="date.358+c">c. 358</a>: <a href="bk.tle:macrinabasilfoundmonasticcommunitypontus">Macrina and Basil found a monastic community in Pontus</a>.</li>
+<li><a href="date.380">380</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atheodosiusideclares">Theodosius I declares Christianity the imperial religion of the Roman Empire</a>.</li>
+<li><a href="date.300+100+l">late 300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amenformmonasticcommunities">Monastic communities are formed in the Valley of Egypt</a>.</li>
+<li><a href="date.540">540</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abenedictineruleestablished">The Benedictine Rule is established</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Egypt_Place">Egypt</a> was where the first Christian ascetics lived.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Kellia_Place">Kellia</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NitrianDesert_Place">Nitrian Desert</a> was a center of early Egyptian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">monasticism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MountAthos_Place">Mount Athos</a> was a center of early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodox</a> monasticism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MonteCassino">Monte Cassino</a> was the location of the first Benedictine monastery and home of <a href="https://ref.ly/logos4/Factbook?ref=bio.BenedictNursia">Benedict of Nursia</a>.</li>
+<li><a href="bk.%Nitria_Place">Nitria</a> in the Nitrian Desert was a center of early Egyptian monasticism.</li>
+<li><a href="bk.%Scetis_Place">Scetis</a> in the Nitrian Desert was a center of early Egyptian monasticism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Syria_Place">Syria</a> was where the first monks lived.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tabennisi_Place">Tabennisi</a> was the location of the first communal monastery founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPachomius_Person">Pachomius</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheThebaid">Thebaid</a> was the center of early monastic asceticism.</li>
+<li><a href="bk.%VivariumMonastery_Place">Vivarium</a> was the location of a monastery founded by Cassiodorus; it included a library and scriptorium that preserved early Christian writings.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25anchorite">Anchorites</a> sought seclusion as extreme forms of religious devotion during the early <a href="https://ref.ly/logos4/Factbook?ref=bk.era%3amedievalchurchera">Middle Ages</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25asceticism">Asceticism</a> was a key feature of desert spirituality; became a defining mark of deep Christian spirituality after the decline of persecution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishops</a> were given authority over monasteries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">Celibacy</a> eventually became the standard for clergy and the monastic life.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cenobite_Person">Cenobites</a> adhered to asceticism and live in community.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25desert">Deserts</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25wilderness">wilderness</a> were the primary locations for early monastic communities.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25hermit">Hermits</a> helped establish early monastic communities.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hesychasm_Belief">Hesychasm</a> was practiced by the monks of Mount Athos.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">Monasteries</a> were first established in the 4th century as desert ascetics joined together to form communities.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">Monasticism</a> developed among the desert ascetics and hermits and spread across the Roman Empire.</li>
+<li><a href="bk.%monkReligiousBrother">Monks</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">nuns</a> initially lived in solitude before forming communities dedicated to monastic life.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious orders</a> followed a specific monastic rule.</li>
+</ul>
+<h2>Key Documents</h2>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25hagiography">Hagiographies</a></h3>
+<ul>
+<li><a href="bk.%LifeOfAnthony_Writing"><em>Life of Anthony</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.AthanasiusAlexandria">Athanasius of Alexandria</a>, <a href="date.360+c">c. 360</a>): narrates the life of a desert ascetic; describes spiritual battles with <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Satan">Satan</a> in the desert where Anthony made use of Scripture and the name of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Christ">Christ</a> to drive the devil away.</li>
+<li><a href="bk.%LifeOfPaulus_Writing"><em>The Life of Paulus the First Hermit</em></a> (Jerome, <a href="date.375+c">c. 375</a>): narrates the life of a desert ascetic; the life of Paul of Thebes is described as the ideal spiritual life of a hermit.</li>
+<li><a href="bk.%LifeOfStMartin_Writing"><em>Life of St. Martin</em></a> (Sulpicius Severus, <a href="date.401+100+c">c. fifth century</a>): narrates the life of the monk Martin of Tours.</li>
+</ul>
+<h3><a href="bk.%monasticRule">Monastic Rules</a></h3>
+<ul>
+<li><a href="bk.%RuleOfSaintBasil_Writing"><em>The Rule of Saint Basil</em></a> (Basil of Caesarea, <a href="date.358+c-364">c. 358–364</a>): instructions for communal living in monasteries found in <a href="bk.%TheLongRules_Writing"><em>The Long Rules</em></a> and <a href="bk.%TheShorterRules_Writing"><em>The Shorter Rules</em></a>; followed by Basilians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RuleOfSaintBenedict_Writing"><em>The Rule of Saint Benedict</em></a> (Benedict of Nursia, <a href="date.540">540</a>): instructions for monastic life and reform; followed by the Benedictines.</li>
+</ul>
+<h3><a href="bk.%wisdomSayings">Wisdom Sayings</a></h3>
+<ul>
+<li><a href="bk.%SayingsOfTheDesertFathers_Writing"><em>Apophthegmata Patrum (Sayings of the Desert Fathers)</em></a> (<a href="date.301+100-401+100">fourth--fifth centuries</a>: a collection of sayings and stories related to the hermits and ascetics, known as the Desert Fathers and Mothers, living in the deserts of Egypt; describes early desert spirituality.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/438663?len=39017">"Ascetics and Monks: The Rise of Christian Monasticism" (Smith) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/486140?len=13732">"The Church in the Fourth and Early Fifth Centuries: <em>Monasticism, Expansion, Life, and Worship</em>" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/324798?len=22833">"Exiles from Life: <em>Beginnings of Monasticism</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/86272?len=4389">"Growth of the Visible Church" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/71135?len=2425">"Monasticism in the Ancient Church" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/218846?len=52502">"The Monastic Rescue of the Church: <em>Benedict's Rule(530)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/347358?len=33732">"The Origins of Monasticism" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/179430?len=3896">"Religious Orders" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+</ul>

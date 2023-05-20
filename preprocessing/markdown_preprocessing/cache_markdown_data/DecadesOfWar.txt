@@ -1,0 +1,134 @@
+<p>Level: 1
+Status: Released
+Identifier: DecadesOfWar
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>Protestants and Catholics Forge Peace after Decades of War</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1555-1648">1555-1648</a></li>
+<li><strong>Description:</strong> Clashes between Protestants and Roman Catholics, along with political and economic strife, led to decades of war in Europe.</li>
+</ul>
+<h2>Summary</h2>
+<p>After a settlement was reached with the Peace of Augsburg, the Holy Roman Empire was divided into Lutheran and Roman Catholic states in an attempt to end the political and religious struggle that arose during the Reformation. As Protestantism continued to spread across the empire and European states expanded, new conflicts arose that eventually led to war. While there were further attempts to reconcile Protestants with the Roman Catholic Church, the political aims of European rulers and the theological distinctives of a diversifying Protestantism proved insurmountable. Decades later, with establishment of the Peace of Westphalia, Roman Catholicism, Lutheranism, and Calvinism were legally recognized in the Holy Roman Empire. In addition to greater religious toleration, some states gained independence or expanded territories.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceOfAugsburg">Peace of Augsburg</a> recognized both <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheranism</a>, but did not recognize <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> (<a href="date.1555">1555</a>).</li>
+<li>Divisions within Protestantism and between Protestants and Roman Catholics deepened as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> was refined and solidified in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">confessional statements</a> (<a href="date.1560-1700">1560–1700</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25civilWar">Civil war</a> erupted between Roman Catholics and Protestants in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a> (<a href="date.1562-1648">1562-1648</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceofWestphalia">Peace of Westphalia</a> ends the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyyearswar">Thirty</a> and <a href="bk.tle:eightyyearswar">Eighty Years' Wars</a> (<a href="date.1648">1648</a>).</li>
+<li>Calvinism was recognized alongside Roman Catholicism and Lutheranism as legal expressions of Christianity (<a href="date.1648">1648</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Netherlands_Place">The Netherlands</a> gained independence from Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a> (<a href="date.1648">1648</a>).</li>
+<li>European rulers gained authority to establish the religion of their territories and allow for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousToleration">tolerance</a> of Roman Catholicism and Protestantism (<a href="date.1648-1806">1648–1806</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FerdinandII_Person">Ferdinand II</a> (<a href="date.1578-1637">1578–1637</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1619-1637">1619–1637</a>); he was educated by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a>; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CounterReformation">Catholic Reformation</a>; supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> in the Thirty Years' War; his son, Ferdinand III, became emperor after his death and participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeacewestphaliaendsthirtyyears">Peace of Westphalia</a> to end the war.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25kingship">Monarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CatherineDeMedici_Person">Catherine De' Medici</a> (<a href="date.1519.4.13-1589.1.5">April 13, 1519–January 5, 1589</a>): Roman Catholic queen-consort of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> (<a href="date.1547-1559">1547–1559</a>) and queen-mother (<a href="date.1559-1589">1559-1589</a>; she persecuted Protestants during the Thirty Years' War; instigated the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3astbartholomewsdaymassacre">St. Bartholomew's Day Massacre</a>.</li>
+<li><a href="bio.maximilianielectorofbavaria">Maximilian I</a> (<a href="date.1573.4.17-1651.9.27">April 17, 1573–September 27, 1651</a>): duke and elector of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Bavaria">Bavaria</a>; he supported Catholicism in the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianIV.1_Person">Christian IV</a> (<a href="date.1577.4.12-1648.2.28">April 12, 1577–February 28, 1648</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23king">king</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denmark_Place">Denmark</a> (<a href="date.1588-1648">1588–1648</a>); he supported Protestantism in the Thirty Years' War.</li>
+<li><a href="bio.philipivofspain_1">Philip IV</a> (<a href="date.1605.4.8-1665.9.17">April 8, 1605–September 17, 1665</a>): Roman Catholic king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a> (<a href="date.1621-1665">1621–1665</a>; he supported Catholicism in the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GustavusIlAdolphus_Person">Gustavus II Adolphus</a> (<a href="date.1594.12.9-1632.11.6">December 9, 1594–November 6, 1632</a>): Lutheran king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Sweden">Sweden</a> (<a href="date.1611-1632">1611-1632</a>); he supported Protestantism in the Thirty Years' War.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> (<a href="date.1483.11.10-1546.2.18">November 10, 1483–February 18, 1546</a>): German Reformer; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augustinians_People">Augustinian</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">monk</a>; leader of <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">the Protestant Reformation</a>; educated and taught at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Wittenberg">Wittenberg</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NinetyFiveTheses_Writing"><em>Ninety-Five Theses</em></a>, which addresses the selling of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indulgence">indulgences</a> and initiated the Reformation in Germany; he was condemned at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietworms">Diet of Worms</a> (<a href="date.1521">1521</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli</a> (<a href="date.1484.1.1-1531.10.11">January 1, 1484–October 11, 1531</a>): Swiss Reformer; leader of the Reformation in German-speaking <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a>; he was educated at the University of Basel; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a> but opponent of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aradicalreformationzurichbegins">Radical Reformation</a>; author of <a href="bk.%sixtySevenArticles_Writing"><em>Sixty-Seven Theses</em></a>, which addresses corruption in the Roman Catholic Church and advocates for return to the church of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>, initiating the Reformation in Switzerland. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a> (<a href="date.1509.7.10-1564.5.27">July 10, 1509–May 27, 1564</a>): French Reformer and theologian; father of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a>; leader of the Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Geneva">Geneva</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Institutes_Writing"><em>The Institutes of the Christian Religion</em></a>, a systematic theology written to defend <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReformedTheology">Reformed doctrine</a>; author of <a href="bk.%confessionGeneva_Writing"><em>The Confession of Geneva</em></a>, which articulates Christian doctrine affirmed by the Genevan church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Huguenots_Person">Huguenots</a> (<a href="date.1501+100-1601+100">sixteenth–seventeenth centuries</a>): French Calvinists; they were persecuted under the Catholic monarchy in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeInnocentX_Person">Innocent X</a> (<a href="date.1574-1655">1574–1655</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1644-1655">1644–1655</a>); he opposed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceofWestphalia">Peace of Westphalia</a>, which affirmed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceOfAugsburg">Peace of Augsburg</a> and extended <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousToleration">religious toleration</a> to the Calvinists and restricted Rome's involvement in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">German</a> affairs. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.CardinalRichelieu">Cardinal Richelieu</a> (<a href="date.1585.9.9-1642.12.4">September 9, 1585–December 4, 1642</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a> and politician; an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gallicanism">Gallicanism</a>, he was aligned with the Protestants during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyyearswar">Thirty Years' War</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1555">1555</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaugsburgsettlementreached">Augsburg settlement is reached</a>, granting religious freedom to Lutherans in Germany.</li>
+<li><a href="date.1555">1555</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acalvinismspreadsfrance">Calvinism spreads to France</a>.</li>
+<li><a href="date.1559">1559</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agallicanconfessionwritten">The Gallican Confession is written</a> and adopted by the Reformed church in France.</li>
+<li><a href="date.1561">1561</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acolloquypoissy">Colloquy at Poissy</a> attempts to reconcile Catholics and Protestants.</li>
+<li><a href="date.1562">1562</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aheidelbergcatechismwritten">Protestant confessional called the Heidelberg Catechism is written</a>.</li>
+<li><a href="date.1562-1570">1562–1570</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awarsreligionfrance">Wars of Religion take place in France</a>.</li>
+<li><a href="date.1568-1648">1568–1648</a>: <a href="bk.tle:eightyyearswar">Eighty Years' War</a> ends with Calvinist Dutch independence from Catholic Spain.</li>
+<li><a href="date.1572">1572</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3astbartholomewsdaymassacre">St. Bartholomew’s Day Massacre</a> is instigated by Catherine De' Medici against the Huguenots.</li>
+<li><a href="date.1598">1598</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryivissuesedictnantes">Henry IV issues the Edict of Nantes</a> granting additional rights to the Huguenots.</li>
+<li><a href="date.1608">1608</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EvangelicalUnion">Evangelical Union</a> is established by Protestant German states.</li>
+<li><a href="date.1618-1648">1618–1648</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyyearswar">Thirty Years’ War</a> takes place in the Holy Roman Empire.</li>
+<li><a href="date.1619">1619</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anetherlandsgainindependence">The Netherlands gain independence from Spain</a>.</li>
+<li><a href="date.1627">1627</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahugenotcitylarochelleattacked">Huguenot city of La Rochelle is attacked by Cardinal Richelieu</a>.</li>
+<li><a href="date.1632">1632</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantvictorybattlelutzen">Protestants achieve victory in the Battle of Lutzen</a>.</li>
+<li><a href="date.1648">1648</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeacewestphaliaendsthirtyyears">Peace of Westphalia ends the Thirty Years’ War</a> and the Eighty Years' War, and recognizes Roman Catholicism, Lutheranism, and Calvinism. </li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bohemia_Place">Bohemia</a> was the location of a Protestant rebellion against the Holy Roman Emperor that attempted to replace him with Calvinist Frederick III, initiating the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denmark_Place">Denmark</a> was predominantly Lutheran; fought in the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a> was at the center of religious wars, namely the Thirty Years' War, between Catholics and Protestants.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> was divided over Catholicism and Protestantism; the Huguenots were persecuted here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was the birthplace of Lutheranism; center of fighting during the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was the location of the Thirty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of Roman Catholicism; residency of the papacy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a> was a predominantly Catholic country that ruled over the Habsburg Netherlands.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Netherlands_Place">The Netherlands</a> was home to Dutch Calvinists who fought for independence from Spain.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceOfAugsburg">Peace of Augsburg</a> recognized both Catholicism and Lutheranism but did not recognize Calvinism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceofWestphalia">Peace of Westphalia</a> recognized Calvinism as a legitimate expression of Christianity, along with Catholicism and Lutheranism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a> fought in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirtyYearsWar">Thirty Years' War</a> and the Eighty Years' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousToleration">Religious toleration</a> increased after the Thirty Years' War.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GallicanConfession">Gallican Confession</a> (John Calvin and <a href="https://ref.ly/logos4/Factbook?ref=bio.antoinedelarochechandieu">Antoine de la Roche Chandieu</a>, <a href="date.1559">1559</a>): French Reformed confession of faith written during persecution from the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BelgicConfession_Writing">Belgic Confession</a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.guidodebres">Guido de Brès</a>, 1561): confession of the Dutch Reformed Church; includes thirty-seven articles defining the doctrines of the Reformed faith; written during persecution from the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25colloquyAtLeipzig_Writing">The Colloquy at Leipzig</a> (<a href="date.1631">1631</a>): confession written at the Colloquy at Leipzig during the Thirty Years' War by Lutheran and Reformed theologians.[^1]</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25colloquyOfThorn_Writing">The Colloquy of Thorn</a> (<a href="date.1645">1645</a>): confession written at the Colloquy of Thorn during the Thirty Years' War; the colloquy included Lutheran, Reformed, Bohemian, and Catholic representatives.[^2]</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25decree">Decrees and Edicts</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EdictofNantes_Writing"><em>Edict of Nantes</em></a> (<a href="date.1598">1598</a>): issued by King Henry IV, it granted rights to the Huguenots in France; Catholicism remained the state religion.</li>
+</ul>
+<h3><a href="bk.%treaty">Treaties</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceOfAugsburg">Peace of Augsburg</a> (<a href="date.1555">1555</a>): treaty between the Holy Roman Empire and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchmalkaldicLeague">Schmalkaldic League</a>; recognized both Roman Catholicism and Lutheranism and allowed rulers to choose which would be the official confession of their respective territories.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceofWestphalia">Peace of Westphalia</a> (<a href="date.1640">1640</a>): treaty between the Holy Roman Empire, Spain, France, Sweden, and the Netherlands; ended the Thirty Years' War and the Eighty Years' War; recognized Roman Catholicism, Lutheranism, and Calvinism.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/385592?len=8121">"Extent of Catholicism within Europe" in <em>New Short History of the Catholic Church.</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/681665?len=28977">"The Political and Religious Situation in 1598" in <em>Church History: From Pre-Reformation to the Present Day.</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/159736?len=1829">"Religious Wars of the Reformation" in <em>Chronological and Background Charts of Church History.</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/951557?len=2540">"The Thirty Years' War" (Linder) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/331376?len=28307">"The Thirty Years' War" in <em>The Story of Christianity: The Reformation to the Present Day.</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/754080?len=21743">"Unwilling to Die for an Old Idea: <em>Denominations</em>" in <em>Church History in Plain Language.</em> (Shelley)</a></li>
+</ul>
+<p>[^1]: James T. Dennison, Jr., <a href="https://ref.ly/res/LLS:RFRMD17TPNDXS14/2020-12-03T16:54:59Z/6255214?len=2322">"Leipzig Colloquy (1631),"</a> in <em>Reformed Confessions of the 16th and 17th Centuries in English Translation: 1523–1693.</em> vol. 1–4 (Grand Rapids, MI: Reformation Heritage Books, 2008–2014).
+[^2]: ---------. <a href="https://ref.ly/res/LLS:RFRMD17TPNDXS14/2020-12-03T16:54:59Z/6342457?len=3867">"The Colloquy of Thorn (1645),</a> in <em>Reformed Confessions of the 16th and 17th Centuries in English Translation: 1523–1693.</em> vol. 1–4. (Grand Rapids, MI: Reformation Heritage Books, 2008–2014).</p>

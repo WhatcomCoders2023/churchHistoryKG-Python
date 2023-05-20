@@ -1,0 +1,72 @@
+<p>Level: 2
+Status: Draft
+Identifier: WorshipEarlyChurch
+Parent: 
+Child:
+Era: </p>
+<h1>Worship Develops in the Early Church</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!!date</li>
+<li><strong>Description:</strong> </li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Observance of the Sabbath moved to Sundays in remembrance of Jesus' resurrection from the dead.</li>
+<li>Unbaptized believers were prepared for baptism through catechumen training.</li>
+<li>The Eucharist was practiced by baptized Christians, and often accompanied by the love feast, a communal meal shared by believers. </li>
+<li>Christian holy days were celebrated.</li>
+<li>Liturgical writings were developed to instruct leaders on the order of worship as early Christian practices became more uniform.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Paul">Paul</a> (c. 10–67): Jewish apostle the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">Gentiles</a>; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulsLetters_Writting"><em>Pauline Epistles</em></a> which</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Hipppolytus">Hippolytus of Rome</a> (): Church Father and theologian; traditional author of <em>Apostolic Tradition</em> which addresses early church liturgy, organization, and ethics.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>150: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstapologyjustinmartyr">First Apology by Justin Martyr Is Written</a> which describes early worship practices of the church in Rome.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li></li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25epiclesis">epiclesis</a> developed as a prayer to consecrate the breed and wine in the Eucharist.</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Lord’s Supper</a> was at the center of early Christian worship.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LoveFeast">Love Feasts</a> were shared among believers in the early church, at times in conjunction with the Eucharist.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3>Church Orders</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Didache_Writing"><em>Didache</em></a> (1st century): manual on early Christian practices and ethics; includes instructions on baptism, the Eucharist, prayer and fasting, and more.</li>
+<li><em>Apostolic Traditions</em> (Hippolytus of Rome, c. 200): addresses early church liturgy, organization, and ethics; includes a liturgy for the Eucharist.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicConstitutionsAndCanons_Writing"><em>Apostolic Constitutions and Canons</em></a> (c. 350–380): manual on early Christian practices and ethics that originated from Syria; includes two collections, the <em>Apostolic Constitutions</em> and the <em>Apostolic Canons</em>.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>James, Frank A., III. <a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/34018?len=6953">"Worship in the Early Church."</a> In <em>CH101 Introducing Church History I: Obscurity to Christendom.</em> Logos Mobile Education. Bellingham, WA: Lexham Press, 2016.</li>
+<li>Walton, Robert C. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/38894?len=3741">"Worship in the Early Church."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+</ul>

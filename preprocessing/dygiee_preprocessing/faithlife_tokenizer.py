@@ -7,8 +7,8 @@ class FaithlifeTokenizer:
     def __init__(self):
         pass
 
-    def tokenize_article_sentences(self,
-                                   sentences: List[str]) -> List[List[str]]:
+    def tokenize_article_sentences(
+            self, sentences: List[List[str]]) -> List[List[str]]:
         '''Tokenizes sentences in article.
 
         Args:
@@ -17,11 +17,11 @@ class FaithlifeTokenizer:
         Returns:
         '''
         tokenized_sentences = []
-        for i, sentence in enumerate(sentences):
-
-            tokenized_sentence = self.tokenize_sentence(sentence)  #
-            print(f'sentence{i}: {tokenized_sentence}')
-            tokenized_sentences.append(tokenized_sentence)
+        for sent_idx, sentence_list in enumerate(sentences):
+            for sentence in sentence_list:
+                tokenized_sentence = self.tokenize_sentence(sentence)  #
+                # print(f'sentence {sent_idx}: {tokenized_sentence}')
+                tokenized_sentences.append(tokenized_sentence)
         return tokenized_sentences
 
     def tokenize_sentence(self, sentence: str) -> List[str]:
@@ -46,13 +46,14 @@ class FaithlifeTokenizer:
             tokens = [token.replace(f'{{{i}}}', match) for token in tokens]
 
         #deal with period at the end
-        if tokens and tokens[-1] == '.':
+        if tokens and tokens[-1][-1] == '.':
             punctuation_mark = tokens[-1][-1]
             tokens[-1] = tokens[-1][0:len(tokens[-1]) - 1]
             tokens.append(punctuation_mark)
 
         tokens = self.seperate_punctuation_marks(tokens)
         tokens = self.separate_parentheses(tokens)
+
         return tokens
 
     def tokenize_entity(self, entity: str) -> List[str]:

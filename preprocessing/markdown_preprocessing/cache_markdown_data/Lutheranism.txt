@@ -1,0 +1,190 @@
+<p>Level: 1
+Status: Released
+Identifier: Lutheranism
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>Lutheranism Is Established in Germany</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1510-1555">1510–1555</a></li>
+<li><strong>Description:</strong> Pushes for reform in the Roman Catholic Church led to the establishment of Lutheranism in Germany.</li>
+</ul>
+<h2>Summary</h2>
+<p>Traditionally, the Protestant Reformation began with Martin Luther's nailing of the <em>Ninety-Five Theses</em> on the doors of Castle Church in Wittenberg. While a number of factors had prompted earlier calls for reform, including the decline of papal authority in Europe and perceived abuses and corruption within the Roman Catholic Church, it was the church's practice of selling indulgences that Luther initially challenged. Like many Reformers of that time, Luther did not seek to break from the established church, but as his criticisms of Roman Catholic doctrine increased, and his understanding of Christianity developed and became popular under the name Lutheranism, he encountered intense opposition from the Catholic Church. As the Protestant Reformation quickly moved beyond theological and ecclesial issues to political ones, Luther gained the support of the German princes within the Holy Roman Empire who helped challenge papal authority and establish Lutheranism within Germany.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The <a href="bk.%RomanCatholicism_Belief">Roman Catholic Church</a> began selling indulgences to raise money during <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acrusades">the Crusades</a> (<a href="date.1095-1291">1095–1291</a>).</li>
+<li>Martin Luther protested the selling of <a href="bk.%indulgence">indulgences</a> and argued that salvation was <a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaFide">by faith in Christ alone</a> (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li>Luther challenged papal authority, arguing that <a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaScriptura">Scripture alone</a> holds authority for establishing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li>Luther initiated <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">reforms</a> in <a href="bk.%churchOfficers">church leadership</a> by abolishing the office of <a href="bk.%bishop">bishop</a> and <a href="bk.%celibacy">celibacy</a> (<a href="date.1520+10+e">early 1520s</a>).</li>
+<li>The <a href="bk.%Bible_Writing">Bible</a> and the Latin liturgy were translated into German (<a href="date.1520+10-1530+10">1520s–1530s</a>).</li>
+<li>Lutheran church services focused on the preaching of <a href="bk.$scripture">Scripture</a>, and hymn-writing was encouraged (<a href="date.1520+10-1540+10">1520s–1540s</a>).</li>
+<li><a href="bk.%monasticism">Monasticism</a> was challenged by Protestant Reformers (<a href="date.1520+10-1530+10">1520s–1540s</a>).</li>
+<li>Luther found support among the German nobility as <a href="bk.%Lutheranism_Belief">Lutheranism</a> spread (<a href="date.1520+10-1540+10">1520s–1540s</a>).</li>
+<li>German peasants revolted against the nobility but were condemned by Luther after turning violent (<a href="date.1524-1525">1524–1525</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesV_Person">Emperor Charles V</a> attempted to suppress the growing Lutheran movement and defeated the <a href="bk.%SchmalkaldicLeague">Schmalkaldic League</a> (<a href="date.1546-1547">1546–1547</a>).</li>
+<li>Lutheranism was officially recognized in the <a href="bk.@HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1555">1555</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesV_Person">Charles V</a> (<a href="date.1500.2.24-1558.9.21">February 24, 1500–September 21, 1558</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1519-1555">1519--1555</a>); he condemned Martin Luther at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietworms">Diet of Worms</a> and issued the <a href="bk.%EdictOfWorms_Writing">Edict of Worms</a> declaring Luther an outlaw; he went to war against the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchmalkaldicLeague">Schmalkaldic League</a>, but later granted toleration to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutherans</a> at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietaugsberg">Diet of Augsburg</a>; he abdicated in <a href="date.1556">1556</a> and retired to a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monastery</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=lco.Official">Officials</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FrederickIII_Person">Frederick III</a> (<a href="date.1463.1.17-1525.5.5">January 17, 1463–May 5, 1525</a>): <a href="bk.%elector">Elector</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Saxony">Saxony</a>; founder of the <a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a>; as a supporter of Luther, he refused to enforce <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartinlutherexcommunicated">Pope Leo X's excommunication</a> and sheltered Luther at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Wartburg">Wartburg Castle</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestant Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> (<a href="date.1483.11.10-1546.2.18">November 10, 1483–February 18, 1546</a>): German Protestant Reformer; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AugustinianHermits_People">Augustinian</a> monk under <a href="https://ref.ly/logos4/Factbook?ref=bk.%25VicarGeneral">Vicar General</a> <a href="bk.%JohannesVonStaupitz_Person">Johannes Von Staupitz</a>, who served as his advisor and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25confessor">confessor</a>; leader of the Protestant Reformation; he studied and taught at the University of Wittenberg; <a href="bk.tle:lutherdebatesjohanneckleipzig">he debated papal authority and indulgences against Johann Eck at Leipzig</a>; condemned at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietworms">Diet of Worms</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25excommunication">excommunicated</a> by Pope Leo X in <a href="date.1521">1521</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NinetyFiveTheses_Writing"><em>Ninety-Five Theses</em></a>, which argued against the selling of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indulgence">indulgences</a>; translator of the <a href="bk.%LutherBible_Writing">Luther Bible</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AndreasBodensteinvonKarlstadt.1_Person">Andreas Karlstadt</a> (<a href="date.1486-1541.12.24">1486–December 24, 1541</a>): German Protestant Reformer; he taught at University of Wittenberg; adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">scholasticism</a> before becoming a supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">Protestant Reformation</a>; debated with Luther against Johann Eck at <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Leipzig">Leipzig</a> over papal authority and indulgences; he later became involved in the Radical Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ThomasMuntzer">Thomas Müntzer</a> (<a href="date.1490-1525.5.27">1490–May 27, 1525</a>): German Protestant Reformer; he studied at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UniversityOfLeipzig_Place">University of Leipzig</a> and taught at the University of Wittenberg; supported Luther at the Leipzig Debate; became a Radical Reformer and opponent of Luther as the Protestant Reformation progressed; supported and participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a>; executed following the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abattlefrankenhausengerman">Battle of Frankenhausen</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinBucer_Person">Martin Bucer</a> (<a href="date.1491.11.11-1551.2.28">November 11, 1491–February 28, 1551</a>): German Protestant Reformer; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominican</a> monk; leader of Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Strasbourg_Place">Strasbourg</a>; converted to Lutheranism after hearing Luther speak in <a href="date.1518">1518</a>; advocated for unity within Protestantism and attempted to mediate between Luther and Ulrich Zwingli on the issue of the <a href="https://ref.ly/logos4/Factbook?ref=lsto.LordsSupper">Eucharist</a>; taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>; he co-authored the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TetrapolitanConfession">Tetrapolitan Confession</a> with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WolfgangCapito_Person">Wolfgang Capito</a>, which is a Reformed confession of faith; he was excommunicated in <a href="date.1523">1523</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AndreasOsiander_Person">Andreas Osiander</a> (<a href="date.1496-1552">c. 1496–1552</a>): German Lutheran theologian and Protestant Reformer; he attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amarburgcolloquy">Colloquy of Marburg</a> and the Diet of Augsburg (<a href="date.1530">1530</a>); despite his conversion to Lutheranism, he came to oppose some of Luther's doctrine related to salvation and justification; author of <a href="bk.%DeJustificatione_Writing"><em>De Justificatione</em></a>, which articulates his views on justification.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilippMelanchthon_Person">Philip Melanchthon</a> (February 16, 1497--April 19, 1560): German Protestant Reformer, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>, and <a href="bk.%theologian">theologian</a>; supporter of <a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> and an intellectual leader of the Lutheran Reformation; he taught at the <a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a>; author of <a href="bk.%LociCommunes_Writing"><em>Loci communes</em></a>, which was the first Lutheran systematic theology; those who adhered to his view of Lutheranism were known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Philippists_People">Philippists</a> and were more ecumenical than those known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gnesiolutherans_People">Gnesiolutherans</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KatharinaVonBora_Person">Katharina Von Bora</a> (<a href="date.1499-1552">1499–1552</a>): Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun]">nun</a>; she left her <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conventKJV">convent</a> and became the wife of Martin Luther.  </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinChemnitz_Person">Martin Chemnitz</a> (<a href="date.1522.11.9-1586.4.8">November 9, 1522–April 8, 1586</a>): German Reformer; Lutheran theologian; he studied at the University of Wittenberg, where he was a student of Philip Melanchthon and also taught; author of <a href="bk.%ExaminationCouncilTrent_Writing"><em>Examination of the Council of Trent</em></a>, which addresses the decrees and canons of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CouncilofTrent">Council of Trent</a> from a Lutheran point of view; co-author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FormulaOfConcord_Writing">Formula of Concord</a>, which is a Lutheran statement of faith intended to unify the Lutheran Church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LeoX_Person">Leo X</a> (<a href="date.1475-1521">1475–1521</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1513-1521">1513–1521</a>); he was an opponent of Martin Luther and Protestantism; author of <a href="bk.%DecetRomanumPontificem_Writing"><em>Decet Romanum Pontificem</em></a>, which excommunicated Luther.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannTetzel_Person">Johann Tetzel</a> (<a href="date.1465+c-1519">c. 1465–1519</a>): German  Dominican preacher; he studied at the University of Leipzig; he is known for the practice of selling indulgences to release souls from purgatory, which was challenged by Martin Luther; he authored 106 theses in response to Luther's <em>Ninety-Five Theses</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.DesideriusErasmus">Desiderius Erasmus</a> (<a href="date.1466.10.27-1536.7.12">October 27, 1466–July 12, 1536</a>): Dutch <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> Reformer, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanist</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; pushed for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">reforms</a> but did not break with the Roman Catholic Church; he both supported and opposed Martin Luther on various topics; author of <a href="bk.%TheFreedomOfTheWill_Writing"><em>The Freedom of the Will</em></a> in opposition to Luther's views.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasDeVioCajetan_Person">Thomas De Vio Cajetan</a> (<a href="date.1469.2.20-1534.8.9">February 20, 1469–August 9, 1534</a>): Italian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">Cardinal</a> in the Roman Catholic Church and Vicar General of the Dominicans;  philosopher and theologian; adherent of scholasticism; he was an opponent of Martin Luther and Protestantism and authored several works against Protestantism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannesCochlaeus_Person">Johannes Cochlaeus</a> (<a href="date.1479-1552.1.10">1479–January 10, 1552</a>): Roman Catholic humanist and controversialist; he was an opponent of Martin Luther and Protestantism; attended the Diet of Worms and the Diet of Augsburg (1530); author of <a href="bk.%CommentariesActsWritingsMLuther_Writing"><em>Commentaries on the Acts and Writings of M. Luther</em></a>, which was a polemical work on the life of Luther.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohannEck">Johann Eck</a> (<a href="date.1486.11.13-1543.2.13">November 13, 1486–February 13, 1543</a>): Roman Catholic scholar and theologian; he taught at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfIngolstadt_Place">Ingolstadt</a>; opponent of Luther and Protestantism; debated papal authority and indulgences against Luther in Leipzig; attended the Diet of Augsburg (1530); author of <a href="bk.%EnchiridionAgainstLuther_Writing"><em>Enchiridion of Common Places Against Luther and Other Enemies of the Church</em></a>; author of a Roman Catholic German translation of the Bible published in 1537.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1510-1511">1510–1511</a>: <a href="bk.tle:luthervisitsrome">Luther visits Rome</a> and becomes disillusioned with the Roman Catholic Church. </li>
+<li><a href="date.1517.10.31">October 31, 1517</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aluthernails95theseschurch">Martin Luther posts <em>Ninety-Five Theses</em> at the church in Wittenberg</a> protesting the selling of indulgences.</li>
+<li><a href="date.1517-1648">1517–1648</a>: <a href="bk.tle:protestantreformation">The Protestant Reformation</a> emerges.</li>
+<li><a href="date.1518">1518</a>: <a href="bk.tle:lutherisexamineddietaugsburg">Luther is examined at the Diet of Augsburg</a> by Cardinal Cajetan.</li>
+<li><a href="date.1519">1519</a>: <a href="bk.tle:lutherdebatesjohanneckleipzig">Luther debates Johann Eck at Leipzig</a>.</li>
+<li><a href="date.1520">1520</a>: <a href="bk.tle:popeleoxissuesexsurgedomine">Pope Leo X issues <em>Exsurge Domine</em></a> threatening to excommunicate Luther if he does not recant his writings.</li>
+<li><a href="date.1521.1">January 1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartinlutherexcommunicated">Martin Luther is excommunicated</a>.</li>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartinlutherexcommunicated">Diet of Worms</a> is convened by Charles V; Luther is called to recant his writings but he refuses.</li>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aedictwormsissued">The Edict of Worms is issued</a> by Charles V declaring Luther an outlaw.</li>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartinluthergoesintohiding">Martin Luther goes into hiding at Wartburg Castle</a>.</li>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alocicommunesphilipmelancthon"><em>Loci Communes</em> by Philip Melanchthon is published</a>; it is the first systematic Lutheran theology.</li>
+<li><a href="date.1522">1522</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agermantranslationnewtestament">A German translation of the New Testament by Luther is published</a>.</li>
+<li><a href="date.1523">1523</a>: <a href="bk.tle:germantranslationpentateuch">A German translation of the Pentateuch by Luther is published</a>.</li>
+<li><a href="date.1523">1523</a>: <a href="bk.tle:radicalreformationzurichbegins">Radical Reformation in Zurich begins</a>.</li>
+<li><a href="date.1524.6-1525.5">June 1524–May 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agermanpeasantswar">The German Peasants' War</a> is condemned by Luther; the movement leads to the Radical Reformation in Germany.</li>
+<li><a href="date.1525+c">c. 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alutheranismestablishedprussia">Lutheranism is established in Prussia</a>.</li>
+<li><a href="date.1530.6.25">June 25, 1530</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaugsburgconfessionwritten">The Augsburg Confession is written</a> at the Diet of Augsburg.</li>
+<li><a href="date.1534">1534</a>: <a href="bk.tle:germantranslationoldtestament">A German translation of the Old Testament by Luther is published</a>.</li>
+<li><a href="date.1539">1539</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aluteranismbeginsspreadrapidly">Lutheranism begins to spread rapidly in Eastern Europe</a>.</li>
+<li><a href="date.1545-1563">1545–1563</a>: <a href="bk.tle:counciltrent1">The Council of Trent</a> addresses the spread of Protestantism. </li>
+<li><a href="date.1546">1546</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharlesvmovesagainstlutherans">Charles V moves against Lutherans and provokes a rebellion</a>; the Schmalkaldic League is defeated by Charles V, but Lutheranism continues to spread across Europe.</li>
+<li><a href="date.1547-1548">1547-1548</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietaugsberg">Diet of Augsburg</a> accepts the Augsburg Interim in attempt to resolve tensions between Roman Catholics and Lutherans.</li>
+<li><a href="date.1555">1555</a>: <a href="bk.tle:augsburgsettlementreached">The Augsburg Settlement is reached</a> recognizing Lutheranism and Catholicism in the Holy Roman Empire.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augsburg_Place">Augsburg</a> was the location of the Diet of Augsburg at which the Augsburg Confession was read.</li>
+<li><a href="bk.@HolyRomanEmpire">Holy Roman Empire</a> acknowledged both Roman Catholicism and Lutheranism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Leipzig">Leipzig</a> was the location of the debate between German Reformers and Johann Eck; Luther studied here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Speyer">Speyer</a> was the location of a parliament meeting at which several German princes protested against the anti-Lutheran Edict of Worms; the term "Protestant" is first used here.</li>
+<li><a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a> was where Martin Luther and other Protestant Reformers taught.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Wartburg">Wartburg</a> was the castle where Luther hid while he was an outlaw after the Diet of Worms; Luther's German translation of the New Testament was completed here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Wittenberg">Wittenberg</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where the Protestant Reformation began; location of the University of Wittenberg and home to Luther.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.Baptism">Baptism</a> was one of three sacraments recognized by Luther.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">Humanism</a> was influential to the Protestant Reformation; led to a renewed interest in ancient ideas, art, and literature; Christian humanism emphasized the original languages of the Bible, early Christian writings, and the church of the New Testament which influenced Protestant Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25indulgence">Indulgences</a> were sold by the Roman Catholic Church; Luther protested this practice in his <em>Ninety-Five Theses</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Lord's Supper</a> was one of three sacraments recognized by Luther.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheranism</a> was established as the state religion in Germany, Scandinavia, and other parts of Europe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeaceOfAugsburg">Peace of Augsburg</a> was a settlement between Emperor Charles V and the Schmalkaldic League (made up of German prince-electors) which acknowledged both Lutheranism and Catholicism in Germany; German princes could choose either as the confession of their imperial state.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a> was an insurrection by German peasants who were inspired and condemned by Luther.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.Penance">Penance</a> was one of three sacraments recognized by Luther.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Renaissance">Renaissance</a> was a period of rebirth following the Middle Ages which led to the rise of humanism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">Sacraments</a> of the Roman Catholic Church were challenged by Luther; he established new criteria for the sacraments based on his views of Scripture.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaFide">Sola Fide</a>, a maxim that declares salvation is by faith in Christ alone, was affirmed by Luther and other Protestant Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchmalkaldicLeague">Schmalkaldic League</a>, an alliance between German Lutheran princes, opposed Emperor Charles V and supported Lutheranism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaGratia">Sola Gratia</a>, a maxim that declares salvation is by grace alone, was affirmed by Luther and other Protestant Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25solaScriptura">Sola Scriptura</a>, a maxim that declares Scripture alone is authoritative in matters of Christian faith and practice, was affirmed by Luther and other Protestant Reformers.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25address">Addresses</a></h3>
+<ul>
+<li><a href="bk.%AddressToTheChristianNobility_Writing"><em>Address to the Christian Nobility of the German Nation</em></a> (Martin Luther, <a href="date.1520">1520</a>): one of three reform treatises; addressed to the German princes (electors) calling on them to push for reform in the church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NinetyFiveTheses_Writing"><em>Ninety-Five Theses</em></a> (Martin Luther, <a href="date.1517">1517</a>): written in response to the Roman Catholic Church's selling of indulgences.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessionOfAugsburg_Writing">Augsburg Confession</a> (Philip Melanchthon, <a href="date.1530">1530</a>): presented to Emperor Charles V; this confession summarizes the faith of the Lutheran Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TetrapolitanConfession">Tetrapolitan Confession</a> (Martin Bucer and Wolfgang Capito, <a href="date.1530">1530</a>): a Protestant confession of faith written at the Diet of Augsburg; presented to Emperor Charles V; largely based off of the Augsburg Confession; this confession attempted to unify Lutherans and Zwinglians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25firstHelveticConfession_Writing">The First Helvetic Confession</a> (Martin Bucer, <a href="date.1536">1536</a>): twenty-seven articles that articulate the Reformed faith; written to encourage unity among the Zwinglians and Lutherans.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchmalkaldicArticles_Writing"><em>Schmalkaldic Articles</em></a> (Martin Luther, <a href="date.1537">1537</a>): commissioned by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnFrederick.1_Person">John Frederick (Elector of Saxony)</a> in preparation for an ecumenical council; summarizes Lutheran doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25InterimOfAugsburg">Interim of Augsburg</a> (<a href="date.1548">1548</a>): doctrinal formula developed as a provisional agreement between Roman Catholics and Protestants at the behest of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesV_Person">Charles V</a> after defeating the Schmalkaldic League; predominantly supported Roman Catholic doctrine while making concessions to allow clerical marriage and communion in both kinds (bread and wine); accepted at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietaugsberg">Diet of Augsburg</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25decree">Decrees and Edicts</a></h3>
+<ul>
+<li><a href="bk.%EdictOfWorms_Writing">Edict of Worms</a> (<a href="date.1521">1521</a>): issued by Emperor Charles V; declares Martin Luther an outlaw.</li>
+</ul>
+<h3><a href="bk.%enchiridion">Enchiridia</a></h3>
+<ul>
+<li><a href="bk.%EnchiridionAgainstLuther_Writing"><em>Enchiridion of Common Places Against Luther and Other Enemies of the Church</em></a> (Johann Eck, <a href="date.1536">1536</a>): addresses Protestant objections to Roman Catholic beliefs.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DomineExsurge"><em>Exsurge Domine</em></a> (Pope Leo X, <a href="date.1520">1520</a>): papal bull which threatened to excommunicate Martin Luther if he did not recant his teachings that went against the Roman Catholic Church. </li>
+<li><a href="bk.%DecetRomanumPontificem_Writing"><em>Decet Romanum Pontificem</em></a> (Pope Leo X, <a href="date.1521">1521</a>): papal bull which excommunicated Luther. </li>
+</ul>
+<h3><a href="bk.%polemic">Polemics</a></h3>
+<ul>
+<li><a href="bk.%TheFreedomOfTheWill_Writing"><em>The Freedom of the Will</em></a> (Desiderius Erasmus, <a href="date.1524">1524</a>): a polemical attack on the teachings of Martin Luther concerning free will and grace; Luther responded with <a href="bk.%BondageOfTheWill_Writing"><em>On the Bondage of the Will</em></a> (<a href="date.1525">1525</a>).</li>
+<li><a href="bk.%CommentariesActsWritingsMLuther_Writing"><em>Commentaries on the Acts and Writings of M. Luther</em></a> (Johannes Cochlaeus, <a href="date.1549">1549</a>): a polemical biography of Martin Luther; offers a contemporary account of Luther's life.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%LociCommunes_Writing"><em>Loci Communes</em></a> (Philip Melanchthon, <a href="date.1521">1521</a>): the first systematic Lutheran theology.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%TheBabylonianCaptivity_Writing"><em>The Babylonian Captivity of the Church</em></a> (Martin Luther, <a href="date.1520">1520</a>): one of three reform treatises; examines the sacraments of the Roman Catholic Church; Luther rejected all but three <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a> (baptism, penance, and communion).</li>
+<li><a href="bk.%TheFreedomOfAChristian_Writing"><em>The Freedom of a Christian</em></a> (Martin Luther, <a href="date.1520">1520</a>): one of three reform treatises; a confession of the Christian life and salvation based on Scripture; further developed the doctrine of justification by faith.</li>
+<li><a href="bk.%TreatisePowerPrimacyPope_Writing"><em>Treatise on the Power and Primacy of the Pope</em></a> (Philip Melanchthon, <a href="date.1537">1537</a>): an appendix added to the Schmalkaldic Articles; addresses the Lutheran view of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a>.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/198244?len=6291">"1517 Martin Luther Posts His Ninety-five Theses" in <em>The 100 Most Important Events in Christian History</em> (Curtis, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/369021?len=56586">"The Beginnings of Protestantism: <em>The Diet of Worms (1521)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/147933?len=36445">"The Era of the Reformation" (Muller) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/385592?len=18480">"Extent of Catholicism within Europe" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/123453?len=2175">"Four Major Reformers" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/61132?len=7642">"Luther's Reformation" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/311025?len=17546">"Luther's Reformation: <em>A Conscience Unbound</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/88899?len=21187">"Luther's Theology" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/31674?len=36264">"Martin Luther: Pilgrimage to Reformation" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/125629?len=1664">"Other German Reformers" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/114634?len=1199">"A Timeline of the Reformation in Germany" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/67939?len=20959">"An Uncertain Decade" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

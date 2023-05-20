@@ -1,0 +1,148 @@
+<p>Level: 1
+Status: Released
+Identifier: Poverty
+Parents: Root
+Eras: bk.era:medievalchurchera; bk.era:reformationera</p>
+<h1>The Medieval Poverty Movement Pushes for Church Reform</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1139-1498">1139–1498</a></li>
+<li><strong>Description:</strong> The medieval poverty movement embraced asceticism and encouraged reform within the church. While the movement was generally tolerated within monasticism, the Roman Catholic Church identified some groups and teachings within the movement as heretical. </li>
+</ul>
+<h2>Summary</h2>
+<p>A return to apostolic poverty within monasticism led to the establishment of new mendicant orders and poverty movements among lay people. The renewed emphasis on asceticism and simplicity stood in stark contrast to the church's accumulation of wealth and extravagances. Rejecting material possessions and embracing voluntary poverty was seen as the Christian ideal, a defining characteristic of the spiritual life. While some sought to reform the church's practices, others took aim at the teachings of the church. The Roman Catholic Church responded by rooting out teachings that criticized the church.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="bk.%apostolicPoverty">Apostolic poverty</a> was reestablished as the Christian ideal (<a href="date.1100+100-1200+100">1100s–1200s</a>).</li>
+<li>Voluntary poverty rose among lay people (<a href="date.1100+100-1200+100">1100s–1200s</a>).</li>
+<li>The Roman Catholic Church tasked <a href="bk.%bishop">bishops</a>, and eventually the temporal powers of the state, with discovering and punishing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heretic">heretics</a> (<a href="date.1100+100+l-1200+100">late 1100s–1200s</a>).</li>
+<li>Dissidents accused the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a>, and more specifically, the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a>, of worldliness and corruption (<a href="date.1100+100-1400+100">1100s–1400s</a>).</li>
+<li>New <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MendicantOrders">mendicant orders</a> were established that prohibited owning personal property and relied on begging for provisions (<a href="date.1200+100+e">early 1200s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">Heresy</a> was punished as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25treason">treason</a> and heretics were burned alive (<a href="date.1200+100+m">mid-1200s</a>).</li>
+<li>Medieval Reformers challenged papal authority and church <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> (<a href="date.1300+100-1400+100">1300s–1400s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeLuciusIII_Person">Pope Lucius III</a> (<a href="date.1097+c-1185.11.25">c. 1097–November 25, 1185</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and <a href="bk.%bishop">bishop</a> of <a href="bk.@Rome">Rome</a> (<a href="date.1181-1185">1181--1185</a>); he issued the papal bull <a href="bk.%AdAbolendam_Writing"><em>Ad Abolendam</em></a>, which required bishops to root out <a href="bk.%heresy">heresy</a> within their diocese,  establishing the <a href="bk.%EpiscopalInquisition">Episcopal Inquisition</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeInnocentIII">Innocent III</a> (<a href="date.1160-1216.7.16">1160–July 16, 1216</a>): pope and bishop of Rome (<a href="date.1198-1216">1198-1216</a>); he convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">Fourth Lateran Council</a>; authorized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franciscans_People">Franciscans</a> as a new <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">religious order</a>; initiated the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aalbigensiancrusade">Albigensian Crusade</a> in southern <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeGregoryIX">Gregory IX</a> (d. <a href="date.1241.8.22">August 22, 1241</a>): pope and bishop of Rome (<a href="date.1227-1241">1227–1241</a>); he established the <a href="bk.%PapalInquisition">Papal Inquisition</a> to root out heresy; issued the papal bull <a href="bk.%Excommunicamus_Writing"><em>Excommunicamus</em></a>, which condemns heretics and decrees punishment by the secular state for those who do not repent.</li>
+</ul>
+<h3><a href="bk.%reform">Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ArnoldOfBrescia_Person">Arnold of Brescia</a> (<a href="date.1090-1155">1090–1155</a>): Italian Reformer and revolutionary; member of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonsRegular">canons regular</a>;  he preached in favor of apostolic poverty and called on the church to renounce the owning of property and its accumulation of wealth and power; he was condemned for his teachings at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25councilOfLateran1139">Second Lateran Council</a> and at the <a href="bk.tle:councilofsens1141">Council of Sens</a> along with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeterAbelard_Person">Peter Abelard</a>, whom he supported; executed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> under <a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingFrederickI_Person">Frederick I</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeterWaldo_Person">Peter Waldo</a> (<a href="date.1150+c-1218">c. 1150–1218</a>): Reformer and founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Waldenses_Belief">Waldenses</a>; a wealthy merchant who used his fortune to provide for the poor; he advocated for voluntary poverty; excommunicated by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeLuciusIII_Person">Pope Lucius III</a> in <a href="date.1183">1183</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RobertGrosseteste_Person">Robert Grosseteste</a> (<a href="date.1175-1253.10.9">1175–October 9, 1253</a>): bishop of <a href="bk.%Lincoln_Person">Lincoln</a>; Franciscan professor and Reformer; he protested papal abuses and sought reform within the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a>; taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">University of Oxford</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.FrancisAssisi">Francis of Assisi</a> (<a href="date.1182-1226.10.3">1182–October 3, 1226</a>): Italian <a href="bk.%friar">friar</a> and Reformer; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franciscans_People">Franciscans</a>, which was a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MendicantOrders">mendicant order</a> and part of the <a href="bk.%inquisition">Inquisition</a>; co-founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PoorClares_People">Poor Clares</a>; he was born into a wealthy family but eventually renounced his status to embrace a life of poverty; author of <a href="bk.%RuleOfSaintFrancis_Writing"><em>The Rule of Francis</em></a>, the monastic rule for the Franciscans.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintClareOfAssisi_Person">Clare of Assisi</a> (<a href="date.1194-1253">1194–1253</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25abbess">abbess</a> and reformer; co-founder of the Poor Clares; she embraced voluntary poverty and became an associate of Francis of Assisi.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Dominic">Dominic</a> (<a href="date.1170.8.8-1221.8.6">August 8, 1170–August 6, 1221</a>): <a href="bk.%parishPriest">priest</a> and friar; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a>, which was a mendicant order and part of the Inquisition. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnWycliffe_Person">John Wycliffe</a> (<a href="date.1330-1384">1330-1384</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a> and Reformer; he is known as the "Morningstar of the Reformation"; challenged the authority of the pope, papal abuses, the church's accumulation of wealth, and the selling of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indulgence">indulgences</a>; he was condemned as a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnWycliffe_Person">heretic</a> at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstance">Council of Constance</a>; his followers were known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lollardy">Lollards</a> and emphasized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25authorityOfTheBible">authority of Scripture</a> and vernacular translations of the Bible.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnHuss_Person">Jan Hus</a> (<a href="date.1369-1415.7.6">1369-July 6, 1415</a>): Bohemian Reformer, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a>, and martyr; he taught and preached as rector at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UniversityOfPrague_Place">University of Prague</a>; he was influenced by the writings of John Wycliffe and challenged the authority of the pope and the selling of indulgences; he was condemned at the Council of Constance and was burned at the stake for heresy; his followers were known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hussites_People">Hussites</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.girolamosavonarola">Girolamo Savonarola</a> (<a href="date.1452.9.21-1498.5.23">September 21, 1452–May 23, 1498</a>): Italian Dominican friar, preacher, and reformer; he advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25asceticism">asceticism</a> and preached against corruption in the church and society; he was excommunicated by <a href="bk.%PopeAlexanderVI_Person">Pope Alexander VI</a> in <a href="date.1497">1497</a> and was later executed as a heretic.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humiliati">Humiliati</a> (est. <a href="date.1101+100">twelfth century</a>): group of lay men and women who adhered to a simple lifestyle and <a href="bk.%RuleOfSaintBenedict_Writing"><em>The Rule of Saint Benedict</em></a>; practiced <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mortify">mortification</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25carmeliteOrder">Carmelites</a> (est. <a href="date.1209">1209</a>): order of mendicant friars who lived near <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MountCarmel_Place">Mount Carmel</a>; adhered to a vow of poverty that prohibited ownership of individual and corporate property; adhered to <a href="bk.%CarmeliteRule_Writing"><em>The Carmelite Rule</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FranciscanOrder_People">Franciscan Order</a> (est. <a href="date.1209">1209</a>): order of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MendicantFriars_People">mendicant friars</a> founded by Francis of Assisi; adhered to vow of poverty that prohibited ownership of individual and corporate property; appointed by Pope Gregory IX to carry out the Papal Inquisition. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PoorClares_People">Poor Clares</a> (est. <a href="date.1212+c-1214">ca. 1212–1214</a>): second order cofounded by Francis of Assisi and Clare of Assisi; adhered to the <a href="bk.%RuleOfSaintClare_Writing"><em>The Rule of Saint Clare</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a> (est. <a href="date.1216">1216</a>): order of mendicant friars founded by Dominic; adhered to <a href="bk.%RuleOfSaintAugustineOfHippo"><em>The Rule of Saint Augustine</em></a> and a vow of poverty that prohibited ownership of individual and corporate property; appointed by Pope Gregory IX to carry out the Papal Inquisition.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AugustinianHermits_People">Augustinian Hermits</a> (est. <a href="date.1244">1244</a>): an order of mendicant friars that adhered to <em>The Rule of Saint Augustine</em>; adhered to vow of poverty that prohibited ownership of individual and corporate property.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schism">Schisms</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Waldenses_Belief">Waldenses</a> (est. <a href="date.1101+100+l">late twelfth century</a>): a reform movement in the Roman Catholic Church established by Peter Waldo; they were denounced as heretics at the Fourth Lateran Council; the Waldenses affirmed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25waldensianCatechism_Writing">The Waldensian Catechism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25waldensianConfession_Writing">The Waldensian Confession</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Waldenses_Belief">Hussites</a> (est. <a href="date.1301+100">fourteenth century</a>): followers of Jan Hus; they advocated for church reform and led the Bohemian Reformation; the Hussites affirmed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bohemianCatechism_Writing">The Bohemian Catechism</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sect">Sects</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cathari_People">Cathari</a> (est. <a href="date.1101+100">twelfth century</a>): group of dissidents who challenged many of the Roman Catholic Church's doctrines; held to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25dualism">dualistic</a> theology and saw all matter as evil; renounced material possessions and other physical practices such as marriage and sexual intercourse; condemned as heretical by the Fourth Lateran Council; the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Albigenses">Albigenses</a> were a branch of the Cathari in southern France who were the targets of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aalbigensiancrusade">Albigensian Crusade</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1100+100+e">early 1100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aalbigensiansectemerges">Albigensian sect emerges</a> and advocates for voluntary poverty.</li>
+<li><a href="date.1139">1139</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondlaterancouncilbrings">The Second Lateran Council</a> convenes in Rome.</li>
+<li><a href="date.1170-1180">1170–1180</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awaldensianmovementfounded">The Waldensian Movement is founded</a> when Peter Waldo begins a life of voluntary poverty.</li>
+<li><a href="date.1184">1184</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abeginningepiscopalinquisition">The Episcopal Inquisition begins</a>.</li>
+<li><a href="date.1100+100+l">late 1100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahumiliatifoundeditalyapproved">The Humiliati are founded in Italy and approved by Innocent III</a>.</li>
+<li><a href="date.1209">1209</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aalbigensiancrusade">The Albigensian Crusade</a> is initiated by Pope Innocent III to eliminate the Albigensian sect. </li>
+<li><a href="date.1209">1209</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afoundingcarmeliteorderholyland">St. Simon Stock founds the Carmelite Order in the Holy Land </a>.</li>
+<li><a href="date.1209">1209</a>: <a href="bk.tle:franciscanorderfounded">The Franciscan Order is founded</a>.</li>
+<li><a href="date.1212+c-1214">c. 1212–1214</a>: <a href="bk.tle:poorclaresfounded">The Poor Clares are founded</a>.</li>
+<li><a href="date.1215">1215</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">The Fourth Lateran Council under Innocent III</a> grants authority to the state to punish heretics and condemns the teachings of the Waldenses and Cathari.</li>
+<li><a href="date.1216">1216</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adominicanorderfounded">The Dominican Order is founded</a>.</li>
+<li><a href="date.1229">1229</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltoulouse">The Fourth Council of Toulouse</a> establishes procedures for discovering and punishing heresy, including the appointment of inquisitors.</li>
+<li><a href="date.1231+c">c. 1231</a>: <a href="bk.tle:beginningpapalinquisition">The Papal Inquisition begings</a> under Pope Gregory IX.</li>
+<li><a href="date.1244">1244</a>: <a href="bk.tle:augustinianorderfounded">The Augustinian Order is founded</a>.</li>
+<li><a href="date.1301+100+e">early fourteenth century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aalbigensiansectdiminishes">The Albigensian sect diminishes</a>.</li>
+<li><a href="date.1300+100-1400+100">1300s--1400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alollardsspeakoutagainstabuses">Lollards speak out against abuses in the church</a>.</li>
+<li><a href="date.1380+c-1436+c">c. 1380–c. 1436</a>: <a href="bk.tle:bohemianreformation">Reformation takes place in Bohemia</a>.</li>
+<li><a href="date.1415">1415</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathjanhus">Jan Hus is executed</a> for heresy.</li>
+<li><a href="date.1498">1498</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathgirolamosavonarola">Girolamo Savonarola is executed</a> for heresy.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Assisi_Place">Assisi</a> was the birthplace of St. Francis and where the Franciscan Order originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bohemia_Place">Bohemia</a> was where the <a href="bk.tle:bohemianreformation">Bohemian Reformation</a> took place; Jan Hus was born here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> was the center of the Waldensian and Cathari movements; the Albigensian Crusade took place here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> was where the Augustinian Order originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Lombardy">Lombardy</a> was where the Humiliati originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MountCarmel_Place">Mount Carmel</a> is where the Carmelite Order originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of Roman Catholicism; the Fourth Lateran Council was convened here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Toulouse">Toulouse</a> was where the Dominican Order originated; the Albigenses sect originated here.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="bk.%apostolicPoverty">Apostolic poverty</a> was advocated for by the medieval poverty movement; it was adopted by monastic orders and lay movements.</li>
+<li><a href="bk.%EpiscopalInquisition">Episcopal Inquisition</a> was lead by bishops who were charged with rooting out and punishing heresy within their dioceses.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">Heresy</a> was rooted out by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25inquisition">Inquisition</a> and punished; some sects that advocated for apostolic poverty were deemed heretical by the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MendicantOrders">Mendicant orders</a> were established during the medieval poverty movement; they practiced voluntary poverty and prohibited owning personal <a href="https://ref.ly/logos4/Factbook?ref=bk.%25property">property</a>.</li>
+<li><a href="bk.%PapalInquisition">Papal Inquisition</a> established the Inquisition under the authority of the pope who appointed inquisitors to root out and punish heresy. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25wealth">Wealth</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25worldly">worldliness</a> were viewed as corruptive forces that diminished the Christian life.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%monasticRule">Monastic Rules</a></h3>
+<ul>
+<li><a href="bk.%RuleOfSaintAugustineOfHippo"><em>The Rule of Saint Augustine</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine of Hippo</a>, <a href="date.301+100+l">late fourth century</a>): provides instruction on communal living; followed by the Augustinian hermits and most of the canons regular.</li>
+<li><a href="bk.%RuleOfSaintBenedict_Writing"><em>The Rule of Saint Benedict</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.BenedictNursia">Benedict of Nursia</a>, <a href="date.540">540</a>): provides instruction on communal living; followed by the Dominicans and Humiliati.</li>
+<li><a href="bk.%CarmeliteRule_Writing"><em>The Carmelite Rule</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25AlbertOfVercelli_Person">Albert Avogadro</a>, <a href="date.1208+c">c. 1208</a>): provides instruction on communal living with an emphasis on poverty and the prohibition of personal property; followed by the Carmelites.</li>
+<li><a href="bk.%RuleOfSaintFrancis_Writing"><em>The Rule of Saint Francis</em></a> (Francis of Assisi, <a href="date.1223">1223</a>): provides instruction on communal living; prohibits friars from receiving money and allows them only to accept what is necessaary to provide for physical needs; followed by the Franciscans.</li>
+<li><a href="bk.%RuleOfSaintClare_Writing"><em>The Rule of Saint Clare</em></a> (Clare of Assisi, <a href="date.1253">1253</a>): provides instruction on communal life with an emphasis on poverty and the prohibition of personal property; first monastic rule established in the Roman Catholic Church that was written by a woman; followed by the Poor Clares.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="bk.%AdAbolendam_Writing"><em>Ad Abolendam</em></a> (Pope Lucius III, <a href="date.1184">1184</a>): decrees bishops were responsible for rooting out heresy within their dioceses. </li>
+<li><a href="bk.%Excommunicamus_Writing"><em>Excommunicamus</em></a> (Pope Gregory IX, <a href="date.1231">1231</a>): excommunicates and anathematizes heretics, including the Cathari and Waldenses (under the name <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PoorMenofLyons">Poor Men of Lyons</a>); decrees condemned heretics are to be handed over to the state authorities for punishment.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/318699?len=19615">"Attempts at Reform" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/348175?len=19607">"Challenges to Western Christendom" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/884093?len=51852">"John Wycliffe" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/1117317?len=18751">"Late Medieval Dissent: The Problem of Division" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/762260?len=14612">"The Mendicant Orders" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/1054874?len=16571">"The Mendicant Religious Orders" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/747907?len=11449">"Poor Franciscans?" (Finucane) in  <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/532292?len=27464">"A Song to Lady Poverty: Francis and the Apostolic Lifestyle" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

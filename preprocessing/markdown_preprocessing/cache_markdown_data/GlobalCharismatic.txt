@@ -1,0 +1,140 @@
+<p>Level: 1
+Status: Released
+Identifier: GlobalCharismatic
+Parents: Root
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>The Rise of Pentecostalism and the Global Charismatic Movement</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1901-2022">1900–Present</a></li>
+<li><strong>Description:</strong> Pentecostalism developed in North America and spread across the globe. </li>
+</ul>
+<h2>Summary</h2>
+<p>Pentecostalism has been one of the most influential forces behind the growth of the Christian church in the modern age. The Pentecostal movement developed among believers who experienced a post-conversion baptism of the Holy Spirit, many of whom also spoke in tongues. Decades later, a renewed interest in the baptism of the Holy Spirit and the charismatic gifts led to the spread of charismatic Christianity throughout North America and beyond, rapidly spreading through the Global South. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesFoxParham_Person">Charles Fox Parham</a> founded the <a href="bk.%BethelBibleSchool_Place">Bethel Bible School</a> where Pentecostal doctrine developed; students began experiencing the <a href="https://ref.ly/logos4/Factbook?ref=lsto.SpiritBaptism">baptism of the Holy Spirit</a> evidenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25giftOfTongues">speaking in tongues</a> (<a href="date.1900">1900</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamJosephSeymour_Person">William J. Seymour</a> held revival meetings in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40LosAngeles">Los Angeles</a>), and participants spoke in tongues (<a href="date.1906-1910">1906–1910</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostalism</a> spread among the poor (<a href="date.1900+100+e">early 1900s</a>).</li>
+<li>Critics of the Pentecostal movement argued that the spiritual gifts had ceased with the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicAge">apostolic age</a> (<a href="date.1900+100+e">early 1900s</a>). </li>
+<li>Pentecostalism  and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charismatic_Belief">charismatic</a> Christianity spread across the globe (<a href="date.1900+100+e-2022">early 1900s–2022</a>).</li>
+<li>A <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharismaticRenewalMovement">renewal movement</a>, primarily among the middle class, arose as mainline <a href="bk.%Protestantism_Belief">Protestants</a> began experiencing and advocating for the baptism of the Holy Spirit (<a href="date.1960+10">1960s</a>).</li>
+<li>The charismatic movement spread to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> beginning in the universities (<a href="date.1960+10+l">late 1960s</a>).</li>
+<li>The charismatic movement emphasized the work of the Holy Spirit in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25spiritualWarfare">spiritual warfare</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25giftOfHealing">miraculous healing</a> (<a href="date.1900+100+l-2022">late 1900s–2022</a>).</li>
+<li>The charismatic movement spread through <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelism">evangelism</a> with an emphasis on <a href="https://ref.ly/logos4/Factbook?ref=bk.%25miracle">miracles</a> (<a href="date.1900+100+l-2022">late 1900s–2022</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charismatic_Belief">Charismatics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.dennisbennett">Dennis Bennett</a> (<a href="date.1917-1991">1917–1991</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Episcopalian">Episcopal</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharismaticRenewalMovement">charismatic renewal movement</a> after parishioners began speaking in tongues.</li>
+<li><a href="bio.larrychristenson_1">Larry Christenson</a> (<a href="date.1928-2017">1928–2017</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pastor">pastor</a>; leader of the charismatic renewal movement; author of <a href="bk.%TheCharismaticRenewalAmongLutherans_Writing"><em>The Charismatic Renewal Among Lutherans</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KathrynJohannaKuhlman_Person">Kathryn Johanna Kuhlman</a> (<a href="date.1910+c-1976">c. 1910–1976</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a> and faith healer; held healing crusades across the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a>; host of TV show <a href="bk.%IBelieveInMiracles"><em>I Believe in Miracles</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.chucksmithpastor">Chuck Smith</a> (<a href="date.1927.6.25-2013.10.3">June 25, 1927–October 3, 2013</a>): American evangelist and pastor; founded <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CalvaryChapel_Denom">Calvary Chapel</a> movement in <a href="date.1965">1965</a>, which is a charismatic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> fellowship of churches.</li>
+<li><a href="bio.raphkeifer">Ralph Keifer</a> (<a href="date.1901+100">twentieth century</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25professor">professor</a>; he taught at <a href="bk.%DuquesneUniversity_Place">Duquesne University</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Pittsburgh">Pittsburgh</a>; experienced the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptismOfTheSpirit">baptism of the Spirit</a> at a prayer meeting and became a leader of the Catholic charismatic movement.</li>
+<li><a href="bio.williamstorey">William Storey</a> (<a href="date.1901+100">twentieth century</a>): Roman Catholic professor; he taught at Duquesne University; experienced baptism of the Holy Spirit at a prayer meeting and became a leader of the Catholic charismatic movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PatRobertson_Person">Pat Robertson</a> (b. <a href="date.1930.3.22">March 22, 1930</a>): American charismatic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25southernBaptistConvention">Southern Baptist</a> televangelist and businessman; founded the <a href="bk.%CBN">Christian Broadcasting Network (CBN)</a>, <a href="bk.%RegentUniversity_Place">Regent University</a>, and several other organizations; host of <a href="bk.%700Club"><em>The 700 Club</em></a>, which is a Christian talk show.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnWimber_Person">John Wimber</a> (<a href="date.1934-1997">1934–1997</a>): American charismatic pastor and musician; founder of the Department of Church Growth at <a href="bk.%FullerTheologicalSeminary_Place">Fuller Theological Seminary</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AssociationVineyardChurches_Denom">Vineyard Movement</a>; author of <a href="bk.%PowerEvangelism_Writing"><em>Power Evangelism</em></a>, which advocates for the <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aHolySpirit_Gifts">gifts of the Holy Spirit</a> ("signs and wonders") as a normal Christian experience. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamJosephSeymour_Person">William Joseph Seymour</a> (<a href="date.1870-1922">1870–1922</a>): Black American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolinessMovement">Holiness</a> preacher and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostal</a> revivalist; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aazusastreetrevival">Azusa Street Revival</a>; pastor of the <a href="bk.%ApostolicFaithGospelMission_Place">Apostolic Faith Gospel Mission</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40LosAngeles">Los Angeles</a>; studied at Parham's Houston school; founded <a href="bk.%TheApostolicFaithNewspaper_Writing"><em>The Apostolic Faith</em></a> newspaper.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesFoxParham_Person">Charles Fox Parham</a> (<a href="date.1873.6.4-1929.1.29">June 4, 1873–January 29, 1929</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> Pentecostal preacher and evangelist; founded the <a href="bk.%BethelHealingHome_Place">Bethel Healing Home</a> and <a href="bk.%BethelBibleSchool_Place">Bethel Bible School</a>; advocated for the baptism of the Holy Spirit and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25giftOfTongues">speaking in tongues</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AimeeMcPherson">Aimee Semple McPherson</a> (<a href="date.1890.10.9-1994.9.27">October 9, 1890–September 27, 1994</a>): Canadian Pentecostal revivalist and evangelist; <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaimeesemplemcphersondedicates">founded Angelus Temple</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25InternationalChurchTheFoursquareGospel_Denom">International Church of the Foursquare Gospel</a>; advocated for speaking in tongues and the baptism of the Holy Spirit.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GranvilleOralRoberts_Person">Granville Oral Roberts</a> (<a href="date.1918.1.24-2009.12.15">January 24, 1918–December 15, 2009</a>): American Pentecostal evangelist, faith healer, and televangelist; he founded <a href="bk.%OralRobertsEvangelisticAssoc">Oral Roberts Evangelistic Association</a> in <a href="date.1947">1947</a> and <a href="bk.%OralRobertsUniversity_Place">Oral Roberts University</a> in <a href="date.1963">1963</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DemosShakarian_Person">Demos Shakarian</a> (<a href="date.1913-1996">1913-1996</a>): Armenian-American Pentecostal dairy farmer; he founded Full Gospel Business Men's Fellowship International in <a href="date.1951">1951</a>, which spread to many other countries across the globe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DavidJohannesDuPlessis_Person">David Johannes Du Plessis</a> (<a href="date.1905-1987">1905–1987</a>): South African <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AssembliesOfGod">Assemblies of God</a> pastor; leader of the Pentecostal movement; he attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SecondVaticanCouncil">Second Vatican Council</a>. </li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1900+100">1900s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arisepentecostalism">The Rise of Pentecostalism</a>.</li>
+<li><a href="date.1901">1901</a>: <a href="bk.tle:baptismholyspiritbethelbible">Baptism of the Holy Spirit is experienced at Bethel Bible School</a>.</li>
+<li><a href="date.1905">1905</a>: <a href="bk.tle:charlesfoxparhamopensschoolhouston">Charles Fox Parham opens a school in Houston</a>, which is attended by William J. Seymour.</li>
+<li><a href="date.1906-1910">1906–1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aazusastreetrevival">Azusa Street Revival</a> launches the Pentecostal movement.</li>
+<li><a href="date.1911">1911</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apentecostalmovementintroduced">Pentecostal movement is introduced in Brazil</a>.</li>
+<li><a href="date.1914">1914</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aassembliesgodfounded">Assemblies of God is founded</a>.</li>
+<li><a href="date.1960">1960</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharismaticmovementbegins">Charismatic movement begins</a>.</li>
+<li><a href="date.1960+10-1970+10">1960s-1970s</a>: <a href="bk.tle:jesusmovement">The Jesus Movement begins</a>; the Calvary Chapel and Vineyard movements grew out of this movement.</li>
+<li><a href="date.1967.3">March 1967</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acatholiccharismaticmovement">Catholic charismatic movement begins</a>.</li>
+<li><a href="date.1982.9">September 1982</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apentecostalworldconference1">Pentecostal World Conference meets in Nairobi</a>.</li>
+<li><a href="date.1989.10+3+s">Autumn 1989</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apentecostalworldconference2">Pentecostal World Conference meets in Singapore</a>.</li>
+<li><a href="date.1991.7">July 1991</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ainternationalcharismatic">International Charismatic Conference meets in Brighton, England</a>.</li>
+<li><a href="date.2000">2000</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aassembliesgodmembershipexceeds">Assemblies of God membership exceeds 16 million</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> has a large population of charismatic and Pentecostal Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Asia_Place">Asia</a> has a large population of charismatic and Pentecostal Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40TopekaKansas">Topeka</a> was where Pentecostalism originated; <a href="bk.%BethelHealingHome_Place">Bethel Healing Home</a> and <a href="bk.%BethelBibleSchool_Place">Bethel Bible School</a> were established here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40LatinAmerica">Latin America</a> has a large population of charismatic and Pentecostal Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40LosAngeles">Los Angeles</a> was the location of the the Azusa Street Revival.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Pennsylvania">Pennsylvania</a> was where the Catholic charismatic renewal movement originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Seattle_Place">Seattle</a> was the center of the modern charismatic renewal movement.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AssembliesOfGod">Assemblies of God</a> is the largest Pentecostal denomination; emphasizes the baptism of the Holy Spirit and speaking in tongues.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AssociationVineyardChurches_Denom">Association of Vineyard Churches</a> was established during the charismatic renewal movement. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptismOfTheSpirit">Baptism of the Spirit</a> is a distinctive characteristic of Pentecostalism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cessationism">Cessationism</a> is a position held by opponents of the charismatic movement which argues that the gifts of the Holy Spirit ceased with the apostolic age.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charismatic_Belief">Charismatic</a> denominations and movements were established in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharismaticRenewalMovement">Charismatic renewal movement</a> began in America and spread across the globe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25giftOfTongues">Gift of tongues</a> is a defining characteristic of Pentecostalism. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aHolySpirit_Gifts">Gifts of the Spirit</a> are a defining characteristic of charismatic and Pentecostal churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JesusMovement">Jesus Movement</a> arose in the <a href="date.1960+10-1970+10">1960s--1970s</a> and was influenced by Pentecostalism; Calvary Chapel and Vineyard movements grew out of this movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecost">Pentecost</a> the event after which Pentecostalism is named during with the Holy Spirit descended upon the followers of Jesus (Acts 2:1–41).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostalism</a> grew out of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolinessMovement">Holiness Movement</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ProsperityGospel">Prosperity gospel</a> is advocated by some in the charismatic and Pentecostal movements.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%autobiography">Autobiographies</a></h3>
+<ul>
+<li><a href="bk.%TheCrossAndTheSwitchblade_Writing"><em>The Cross and the Switchblade</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.davidwilkerson">David Wilkerson</a>, <a href="https://ref.ly/logos4/Factbook?ref=bio.johnsherrill">John Sherrill</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bio.elizabethsherrill">Elizabeth Sherrill</a>, <a href="date.1963">1963</a>): an autobiography of Pentecostal preacher Wilkerson; inspired the Catholic charismatic renewal movement at Duquesne University.</li>
+</ul>
+<h3><a href="bk.%MalinesDocuments_Writing"><em>Malines Documents</em></a></h3>
+<ul>
+<li><a href="bk.%MalinesDocuments_Writing"><em>Malines Documents</em></a> (Cardinal Leo Joseph Suenens, <a href="date.1973-1988">1973-1988</a>): collection of writings supporting the Catholic charismatic renewal.</li>
+</ul>
+<h3><a href="bk.%newspaper">Newspapers</a></h3>
+<ul>
+<li><a href="bk.%TheApostolicFaithNewspaper_Writing"><em>The Apostolic Faith</em></a> (William J. Seymour, <a href="date.1906-1908">1906-1908</a>): newspaper which reported on the Azusa Street Revival and rising Pentecostal movement.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%TheySpeakWithOtherTongues_Writing"><em>They Speak with Other Tongues</em></a> (John Sherrill, <a href="date.1964">1964</a>): details contemporary accounts of speaking in tongues, which inspired the Catholic charismatic renewal movement at Duquesne Unviersity.</li>
+<li><a href="bk.%PowerEvangelism_Writing"><em>Power Evangelism</em></a> (John Wimber and Kevin Springer, <a href="date.1986">1986</a>): describes the work of the Holy Spirit through signs and wonders in the life of Christians and its relation to evangelism. </li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/366494?len=4952">"The Charismatic Movement" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/202444?len=1733">"Forerunners of Pentecostalism" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/265678?len=2597">"Leading Figures of the Pentecostal and Charismatic Movements" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1500048?len=21262">"Pentecostalism and the Charismatic Movement" (Dunn) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1196573?len=4236">"Pentecostalism's Progress" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/268276?len=1190">"Pentecostals and Charismatics---A Comparison" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1060392?len=7596">"Return of the Old-Time Religion" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/760103?len=8359">"The Rise and Spread of Pentecostalism" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/361037?len=5445">"The Rise of Global Pentecostalism" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1691179?len=20919">"The Rise of Pentecostalism" in <em>Church History: From Pre-Reformation to the Present Day.</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/977538?len=38957">"Vitality at the Periphery" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

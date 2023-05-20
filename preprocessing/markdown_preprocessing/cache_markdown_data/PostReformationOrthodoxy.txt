@@ -1,0 +1,145 @@
+<p>Level: 1
+Status: Released
+Identifier: PostReformationOrthodoxy
+Parents: Root
+Eras: bk.era:reformationera; bk.era:modernera</p>
+<h1>Post-Reformation Protestantism Refines Its Orthodoxy</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1560-1700">1560--1700</a></li>
+<li><strong>Description:</strong> Protestant orthodoxy was defined during the sixteenth and seventeenth centuries through confessional documents and theological polemics. </li>
+</ul>
+<h2>Summary</h2>
+<p>While Roman Catholic and Protestant armies were engaged in political battles following the Reformation, scholars and theologians engaged in polemical battles over dogma. A revivalism of scholasticism and the methods of Aristotle led to the development of Lutheran, Reformed, and Puritan orthodoxies. Confessional documents were written to identify and define doctrinal distinctives within these Protestant denominations, as well as reject teachings and beliefs that were deemed unorthodox to their particular expression of Protestantism.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Divisions among <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a> deepened as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> was refined and solidified in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">confessional statements</a> (<a href="date.1500+100+m-1600+100">mid-1500s–1600s</a>).</li>
+<li><a href="bk.%protestantScholasticism_Belief">Protestant scholasticism</a> developed as a theological method among <a href="bk.%Lutheranism_Belief">Lutheran</a>, <a href="bk.%ReformedGroup_Denom">Reformed</a>, and <a href="bk.%Puritanism_Belief">Puritan</a> theologians, reestablishing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">Aristotelianism</a> as a method for developing theology (<a href="date.1500+100+m-1600+100">mid-1500s–1600s</a>).</li>
+<li>Protestant denominations established orthodoxy in <a href="bk.%creedsAndConfessions">confessional statements</a> (<a href="date.1500+100+m-1600+100">mid-1500s–1600s</a>).</li>
+<li>Protestants engaged in <a href="bk.%polemic">polemics</a> to defend their orthodoxy against <a href="bk.%RomanCatholicism_Belief">Roman Catholicism</a> (<a href="date.1500+100+m-1600+100">mid-1500s–1600s</a>).</li>
+<li>Protestant <a href="bk.%scholar">scholars</a> and <a href="bk.%theologian">theologians</a> defined and defended orthodox methods of <a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleInterpretation">biblical interpretation</a> and the <a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleAuthority">authority of the Bible</a> (<a href="date.1500+100+m-1600+100">mid 1500s–1600s</a>).</li>
+<li>Many <a href="bk.%PolyglotBibles_Writing">polyglot Bibles</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25commentary.explication">commentaries</a> were published (<a href="date.1500+100+l-1600+100">late 1500s–1600s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25covenantTheology">Covenant theology</a> was developed by Reformed theologians (<a href="date.1500+100+l-1600+100">late 1500s–1600s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietism</a> developed in response to Lutheran orthodoxy (<a href="date.1600+100-1700+100">1600s–1700s</a>).</li>
+<li><a href="bk.%Arminianism_Belief">Arminianism</a> was rejected by the Reformed Church in favor of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> in the <a href="bk.%CanonsofDort_Writing">Canons of Dort</a> (<a href="date.1618-1619">1618–1619</a>).</li>
+<li>The rise of Puritanism in <a href="bk.@England">England</a> led to <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aenglishcivilwar">civil war</a> (<a href="date.1642-1651">1642–1651</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%Lutheranism_Belief">Lutherans</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilippMelanchthon_Person">Philipp Melanchthon</a> (<a href="date.1497.2.16-1560.4.19">February 16, 1497--April 19, 1560</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestant</a> Reformer, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>, and <a href="bk.%theologian">theologian</a>; supporter of <a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> and an intellectual leader of the Lutheran Reformation; he taught at the <a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a>; author of <a href="bk.%LociCommunes_Writing"><em>Loci communes</em></a>, which was the first Lutheran systematic theology; those who adhered to his view of Lutheranism were known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Philippists_People">Philippists</a> and were more ecumenical than those known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gnesiolutherans_People">Gnesiolutherans</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartinChemnitz_Person">Martin Chemnitz</a> (<a href="date.1522.11.9-1586.4.8">November 9, 1522--April 8, 1586</a>): German Lutheran theologian and Protestant Reformer; he studied at the University of Wittenberg, where he was a student of Philipp Melanchthon and also taught; he helped developed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FormulaOfConcord_Writing">Formula of Concord</a>, a Lutheran creed intended to unify the Lutheran Church, and co-authored the <a href="bk.%bookOfConcord_Writing">Book of Concord</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JakobAndreae_Person">Jakob Andreae</a> (<a href="date.1528.3.25-1590.1.7">March 25, 1528--January 7, 1590</a>): German Lutheran theologian and Protestant Reformer; he taught at the <a href="bk.%UniversityOfTubingen_Place">University of Tübingen</a>; he helped develop the Formula of Concord, a Lutheran creed intended to unify the Lutheran Church, and co-authored the Book of Concord, which compiles Lutheran doctrine; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acolloquypoissy">Colloquy of Poissy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GeorgCalixtus_Person">Georg Calixtus</a> (<a href="date.1586.12.14-1656.3.19">December 14, 1586–March 19, 1656</a>): German Lutheran theologian; he was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilippMelanchthon_Person">Philipp Melanchthon</a>; author of <a href="bk.%JudiciumDeControversiis_Writing"><em>Judicium de controversiis theologicis quae inter Lutheranos et Reformatos agitantur, et de mutua partium fraternitate atque tolerantia propter consensum in fundamentis</em></a>, which advocates for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25syncretism">syncretism</a> within Christian theology; Abraham Calovius opposed him due to his views on syncretism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AbrahamCalovius_Person">Abraham Calovius</a> (<a href="date.1612.4.16-1686.2.25">April 16, 1612–February 25, 1686</a>): German Lutheran theologian; he defended strict Lutheran orthodoxy and opposed Georg Calixtus and syncretism, as well as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Socinian_Belief">Socinianism</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilippJakobSpener_Person">Philipp Jakob Spener</a> (<a href="date.1635.1.13-1705.2.5">January 13, 1635–February 5, 1705</a>): German Lutheran theologian and pastor; an early leader of German <a href="bk.%Pietism_Belief">Pietism</a>, he faced opposition from proponents of Lutheran orthodoxy; author of <a href="bk.%PiaDesideria_Writing"><em>Heart's Desire</em></a>, which addresses the aims of German Pietism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AugustFrancke">August Hermann Francke</a> (<a href="date.1663.3.22-1727.6.8">March 22, 1663–June 8, 1727</a>): German Lutheran theologian, scholar, and social reformer; adherent of pietism; he was mentored by Philipp Jakob Spener; taught theology and Greek at the <a href="bk.@UniversityOfHalle">University of Halle</a>; author of <a href="bk.%ManuductioAdLectionem_Writing"><em>Manuductio ad Lectionem Scripturae Sacrae</em></a>, which addresses biblical interpretation.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Puritanism_Belief">Puritans</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamAmes_Person">William Ames</a> (<a href="date.1576-1633">1576–1633</a>): English Puritan theologian; he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> and opposed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arminianism_Belief">Arminianism</a> during the Arminian controversy; author of <a href="bk.%MarrowOfSacredDivinity_Writing"><em>The Marrow of Sacred Divinity</em></a>, which articulates Puritan theology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnOwen_Person">John Owen</a> (<a href="date.1616-1683.8.24">1616–August 24, 1683</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Congregationalism">Congregationalist</a> Puritan theologian and pastor; prior to converting to Congregationalism, he adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterianism</a>; he studied at Oxford University, where he later was appointed dean of Christ Church and vice-chancellor; associate of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OliverCromwell_Person">Oliver Cromwell</a>, whom he served as chaplain; author of <a href="bk.%DeathOfDeath_Writing"><em>Death of Death in the Death of Christ</em></a> and other works that articulate Puritan doctrine.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReformedGroup_Denom">Reformed Protestants</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreBeza_Person">Theodore Beza</a> (<a href="date.1519.6.24-1605.10.13">June 24, 1519–October 13, 1605</a>): French Calvinist theologian, scholar, and Protestant Reformer; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanism</a>; a disciple of <a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a>, he helped develop <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinist</a> orthodoxy in Geneva and taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GenevanAcademy">Genevan Academy</a>; editor of <a href="bk.%BezaNovumTestamentum_Writing"><em>Novum Testamentum</em></a>, a Greek New Testament in parallel with the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin Vulgate</a> and his own annotated Latin translation; the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25newTestamentManuscripts">New Testament manuscript</a> <a href="https://ref.ly/logos4/Factbook?ref=bibms.1.20005">Codex Bezae (D)</a> is named after Beza, who at one time was in possession of the text before giving it to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JacobusArminius_Person">Jacobus Arminius</a> (<a href="date.1560.10.10-1609.10.19">October 10, 1560–October 19, 1609</a>): Dutch Protestant Reformer and theologian; he opposed the Calvinist <a href="https://ref.ly/logos4/Factbook?ref=lsto.Predestination">doctrine of predestination</a> and developed a theology that emphasized freedom of the will known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arminianism_Belief">Arminianism</a>; his followers were known as the <a href="bk.%Remonstrants_People">Remonstrants</a>, so named for the document <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Remonstrance_Writing"><em>Remonstrance</em></a>, which articulates the five points of Arminianism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohannesCocceius">Johannes Cocceius</a> (<a href="date.1603.8.9-1669.11.4">August 9, 1603–November 4, 1669</a>): Dutch Reformed theologian and pastor; known as the father of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25covenantTheology">covenant theology</a>; he was a student of William Ames; author of <a href="bk.%SummaDoctrinaeDeFoedere_Writing"><em>Comprehensive Treatise on the Doctrines of the Covenant and Testament of God</em></a>, which systematizes covenant theology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.francisturretin">Francis Turretin</a> (<a href="date.1623.10.17-1687.9.28">October 17, 1623--September 28, 1687</a>): Genevan-Italian Reformed theologian and pastor; he taught at the Genevan Academy; supporter of orthodox Calvinism and adherent of Reformed scholasticism; co-author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25helveticConsensusFormula_Writing">Helvetic Consensus</a>, a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SwissProtestant_Denom">Swiss Reformed</a> confession of faith.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1500+100">1500s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asocinianismemerges">Socinianism emerges</a>, which is deemed unorthodox by Roman Catholics and Protestants.</li>
+<li><a href="date.1558">1558</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atheodorebezamovesgeneva">Theodore Beza moves to Geneva</a> to teach at the Genevan Academy.</li>
+<li><a href="date.1561">1561</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acolloquypoissy">Colloquy at Poissy</a> attempts to reconcile Roman Catholics and Protestants.</li>
+<li><a href="date.1562-1570">1562–1570</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awarsreligionfrance">Wars of Religion in France</a> between Roman Catholics and French Protestants.</li>
+<li><a href="date.1564.5.27">May 27, 1564</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathjohncalvin">Death of John Calvin</a>; Theodore Beza succeeds him in Geneva.</li>
+<li><a href="date.1577">1577</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aformulaconcordestablished">Formula of Concord is established</a> to unify Lutherans.</li>
+<li><a href="date.1580">1580</a>: <a href="bk.tle:bookofconcordispublished">The Book of Concord is published</a> to unify Lutherans and compile Lutheran doctrine.</li>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alutheranscholasticismdeveloped">Lutheran scholasticism is developed</a>.</li>
+<li><a href="date.1600+100-1700+100">1600s--1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apietismrevivaloccurs">Pietism revival occurs</a> in Europe.</li>
+<li><a href="date.1603">1603</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aarminiantheologybegins">Arminian theology begins</a>.</li>
+<li><a href="date.1618-1619">1618–1619</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asynoddort">Synod of Dort</a> rejects Arminianism and affirms Calvinism as Reformed orthodoxy. </li>
+<li><a href="date.1630">1630</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apuritansmigratenewengland">Puritans migrate to New England</a></li>
+<li><a href="date.1643.7.1">July 1, 1643</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awestminsterassemblyconvenes">Westminster Assembly convenes for the first time</a> and begins to establish Reformed orthodoxy.</li>
+<li><a href="date.1643">1643</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awestminsterconfessionwritten">Westminster Confession is written</a>.</li>
+<li><a href="date.1661.4.15-1661.7.24">April 15, 1661--July 24, 1661</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asavoyconference">Savoy Conference</a> attempts to reconcile Anglicans and Puritans and revise the Book of Common Prayer. </li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was where Puritanism developed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was the birthplace of Lutheranism and the Pietist movement; Lutheran orthodoxy developed here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Netherlands_Place">The Netherlands</a> were a center of Reformed orthodoxy after the Protestant Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a> was a center of Reformed orthodoxy after the Protestant Reformation.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arminianism_Belief">Arminianism</a> was developed by Jacobus Arminius in response to Calvinism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25biblicalInterpretation">Biblical interpretation</a> within Protestant orthodoxy emphasized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiteralMeaning">literal meaning</a> of Scripture and use of the original <a href="https://ref.ly/logos4/Factbook?ref=bk.%25biblicalLanguages">biblical languages</a>.</li>
+<li><a href="bk.%covenantTheology">Covenant theology</a> was central to the development of Protestant orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25dogma">Dogma</a> was emphasized by Protestant scholastics.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietism</a> developed in response to Lutheran orthodoxy.</li>
+<li><a href="bk.%protestantScholasticism_Belief">Protestant scholasticism</a> developed in the <a href="date.1501+100-1601+100">sixteenth–seventeenth centuries</a> to define and defend Protestant orthodoxy; it made use of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">Aristotelianism</a> in the study of theology similar to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">medieval scholastics</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Puritanism_Belief">Puritanism</a> emphasized reform of the Church of England, as well as personal piety.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lco.Religious_denominations">Religious denominations</a> were established by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25separatists">Separatists</a> and others who sought <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousToleration">religious toleration</a>. </li>
+<li><a href="bk.%Remonstrants_People">Remonstrants</a>, so named for the document articulating their beliefs, were supporters of Jacobus Arminius.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WestminsterAssembly1643">Westminster Assembly</a>, a council of theologians, assembled during the English Civil War to reform the Church of England and developed the Westminster Confession.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FormulaOfConcord_Writing">Formula of Concord</a> (Jakob Andreae and Martin Chemnitz, <a href="date.1577">1577</a>): statement of faith intended to bring unity to the Lutheran Church and establish an orthodox interpretation of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessionOfAugsburg_Writing">Augsburg Confession</a>; addresses various theological doctrines, including <a href="https://ref.ly/logos4/Factbook?ref=lsto.OriginalSin">original sin</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.CapacitiesWill">free will</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.Justification">justification by faith</a>, and the <a href="https://ref.ly/logos4/Factbook?ref=lsto.LordsSupper">Eucharist</a>.</li>
+<li><a href="bk.%bookOfConcord_Writing">Book of Concord</a> (Jakob Andreae and Martin Chemnitz, <a href="date.1580">1580</a>): collection of Lutheran confessions and catechism representative of Lutheran orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Remonstrance_Writing"><em>Remonstrance</em></a> (<a href="bio.JohannesWtenbogaert">Johannes Uitenbogaert</a>, <a href="date.1610">1610</a>): statement of faith articulating the five points of Arminianism; opposed Calvinism, particularly in regard to predestination.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CanonsofDort_Writing">Canons of Dort</a> (Synod of Dort, <a href="date.1618-1619">1618--1619</a>): doctrinal statements addressing the Arminian controversy; rejects the theological views articulated in <em>Remonstrance</em> and affirms Calvinistic doctrines related to salvation and predestination.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WestminsterConfession">Westminster Confession</a> (Westminster Assembly, <a href="date.1648">1648</a>): Presbyterian confession of faith written during the English Civil War; addresses major Christian doctrines such as the authority of Scripture and the doctrine of the Trinity, as well as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchDiscipline">church discipline</a> and councils.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SavoyDeclaration_Writing">Savoy Declaration</a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.thomasgoodwin">Thomas Goodwin</a> and John Owen, <a href="date.1658">1658</a>): Congregational confession of faith; modified version of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WestminsterConfession">Westminster Confession</a>; urged toleration between Congregationalists and Presbyterians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25helveticConsensusFormula_Writing">Helvetic Consensus</a> (Francis Turretin, <a href="bio.johannheinrichheidegger">Johann Henry Heidegger</a>, and Lucas Gernler, <a href="date.1675">1675</a>): Swiss Reformed confession of faith written to address doctrinal challenges taught at the French Academy of Saumur.</li>
+</ul>
+<h3><a href="bk.%PolyglotBibles_Writing">Polyglot Bibles</a></h3>
+<ul>
+<li><a href="bk.%LondonPolyglot_Writing">London Polyglot</a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25BrianWalton_Person">Brian Walton</a>), <a href="date.1657">1657</a>): a polyglot Bible featuring nine languages including Hebrew, Aramaic, Greek, Latin, Samaritan, Ethiopic, Syriac, Arabic, and Persian.</li>
+</ul>
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%MarrowOfSacredDivinity_Writing"><em>The Marrow of Sacred Divinity</em></a> (William Ames, <a href="date.1627">1627</a>): manual and textbook which articulates Puritan theology; addresses <a href="https://ref.ly/logos4/Factbook?ref=lsto.Covenants">covenants</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.God">the doctrine of the Triune God</a>, <a href="https://ref.ly/logos4/Factbook?ref=bible.2.20.1-2.20.17">the Ten Commandments</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.Justification">justification</a>, and other theological topics. </li>
+<li><a href="bk.%SummaDoctrinaeDeFoedere_Writing"><em>Comprehensive Treatise on the Doctrines of the Covenant and Testament of God</em></a> (Johannes Cocceius, <a href="date.1648">1648</a>): a systematic presentation of covenant theology.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%JudiciumDeControversiis_Writing"><em>Judicium de controversiis theologicis quae inter Lutheranos et Reformatos agitantur, et de mutua partium fraternitate atque tolerantia propter consensum in fundamentis</em></a> (Georg Calixtus, <a href="date.1650">1650</a>): articulates syncretism, differentiating error (non-fundamental doctrine) and heresy (fundamental doctrine) within Christian theology.</li>
+<li><a href="bk.%CriticiSacri_Writing"><em>Critici Sacri, sive, Annotata Doctissimorum Virorum in Vetus ac Novum Testamentum</em></a> (John Pearson, Anthony Scattergood, and Francis Gouldman, <a href="date.1660">1660</a>): a compilation of scholastic writings from some of the most important theologians of the <a href="date.1501+100-1601+100">sixteenth–seventeenth centuries</a>; addresses biblical interpretation from Protestant perspectives.</li>
+<li><a href="bk.%PiaDesideria_Writing"><em>Pia Desideria</em> ("Heart's Desire")</a> (Philipp Jakob Spener, <a href="date.1675">1675</a>): articulates the objectives of the Pietist movement, including deeper study of the Bible and an emphasis on personal devotion and piety.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/322773?len=242210">"Orthodoxy, Rationalism, and Pietism" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/184379?len=47910">"The Post-Reformation Era" (Muller) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/151456?len=4690">"Protestant Creeds of the Reformation Era" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/255820?len=12836">"Refining the Reformation" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/583834?len=73288">"Refining the Reformation: <em>Theological Currents in the Seventeenth Century</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+</ul>

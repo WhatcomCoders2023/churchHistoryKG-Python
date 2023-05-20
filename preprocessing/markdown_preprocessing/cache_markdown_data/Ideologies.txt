@@ -1,0 +1,172 @@
+<p>Level: 1
+Status: Released
+Identifier: Ideologies
+Parents: Root
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>Twentieth-Century Ideologies Threaten to Divide and Stagnate the Church</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1914-1991">1914–1991</a></li>
+<li><strong>Description:</strong> Competing ideologies led to worldwide conflicts and civil unrest in the twentieth century. Christians struggled to maintain unity as these ideologies threatened to divide the church and stagnate its mission and influence.</li>
+</ul>
+<h2>Summary</h2>
+<p>The rise of modernism and decline of Christendom made room for new ideologies to take root in the hearts and minds of twentieth-century societies. These ideological changes created global political challenges, as well as challenges for the global Christian church, which grappled with is role in society and politics. Nationalism, communism, and individualism were among the most prominent and influential post-Christian ideologies.[^1] As nationalism developed in the nineteenth century, the influence of religion declined as people began to identify more strongly with their nation-states. A variety of ideologies, such as communism, Nazism, and fascism, developed out of nationalism, with the interests of the nation-state and its people of utmost importance. Conflict erupted as these ideologies came into conflict with one another, resulting in two World Wars. While fascism and Nazism experienced a decline after World War II, communism continued to spread in Eastern Europe, Cuba, and in parts of Asia. During the Cold War, the world was divided over those who supported communism and those who were against it, a divide drawn along national lines between East and West. Ethnic and racial tensions in the United States and South Africa led to civil disruptions and divisions within the church. While the global impact of the Age of Ideology proved challenging for the church, Christianity continued to spread across the globe and found unity in the twentieth-century ecumenical movement.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25religion">Religion</a> was viewed with hostility or as a means of exerting influence and control over citizens (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25nationalism">Nationalism</a> led to a rise in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Totalitarianism">totalitarian</a> regimes and a greater emphasis on <a href="https://ref.ly/logos4/Factbook?ref=lco.National_pride">national identities</a> (<a href="date.1800+100+l-1900+100+e">late 1800s–early 1900s</a>.</li>
+<li>Jim Crow law enforced racial <a href="bk.%segregation">segregation</a> in the <a href="bk.@UnitedStates">United States</a> (<a href="date.1800+100+l-1900+100+m">late 1800s–mid-1900s</a>). </li>
+<li>Theologians debated Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ethics">ethics</a> and morality, and the church's relation to the state and society (<a href="date.1900+100">1900s</a>).</li>
+<li><a href="bk.tle:worldwari">World War I</a> was fought between the Allied and Central powers (<a href="date.1914-1918">1914--1918</a>).</li>
+<li>The <a href="bk.tle:russianrevolution">Russian Revolution</a> divided the <a href="bk.tle:RussianOrthodox">Russian Orthodox Church</a> and disestablished it as the state religion (<a href="date.1917-1923">1917–1923</a>).</li>
+<li><a href="bk.%Communism_Belief">Communism</a> developed in <a href="bk.@Russia">Russia</a> (<a href="date.1917-1989">1917–1989</a>).</li>
+<li><a href="bk.%nazism_Belief">Nazism</a> developed in <a href="bk.@Germany">Germany</a> (<a href="date.1918-1945">1918–1945</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiSemitism">Anti-Semitism</a> was on the rise in <a href="bk.@Europe">Europe</a> (<a href="date.1918-1945">1918–1945</a>).</li>
+<li><a href="bk.%fascism_Belief">Fascism</a> developed in <a href="bk.%Italy_Place">Italy</a> (<a href="date.1930+10">1930s</a>).</li>
+<li><a href="bk.tle:worldwarii">World War II</a> was fought between Axis and Allied powers (<a href="date.1939-1945">1939–1945</a>).</li>
+<li>The German church divided over Nazism (<a href="date.1934-1948">1934–1948</a>).</li>
+<li>While Nazism and fascism declined after World War II, communism spread as anticommunist sentiment grew in the West (<a href="date.1945-1989">1945–1989</a>).</li>
+<li>The United States and Russia engaged in the <a href="bk.tle:coldwar">Cold War</a> over the spread of communism (<a href="date.1945-1990">1945–1990</a>).</li>
+<li>Apartheid enforced racial segregation in South Africa (<a href="date.1948-1990">1948–1990</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilrightsmovement">Civil Rights Movement</a> fought institutional racial segregation and discrimination and led to denominational schisms in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> (<a href="date.1954-1968">1954–1968</a>).</li>
+<li>Churches in <a href="bk.@China">China</a> were suppressed under communism during the <a href="bk.tle:culturalrevolutionchina">Cultural Revolution</a> (<a href="date.1966-1969">1966–1969</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%civilLawAndJustice">Civil Rights Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.nelsonmandela_1">Nelson Mandela</a> (<a href="date.1918.7.18-2013.12.5">July 18, 1918–December 5, 2013</a>): Black South African <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25civilLawAndJustice">civil rights</a> activist and revolutionary; South Africa's first Black <a href="https://ref.ly/logos4/Factbook?ref=bk.%25president">president</a>; imprisoned for twenty-seven years during <a href="bk.tle:apartheidbeginssouthafrica">Apartheid</a>; after his release he helped to abolish Apartheid and led the process of reconstruction and establishment of a nonracial democracy in <a href="bk.%SouthAfrica_Place">South Africa</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLutherKingJr">Martin Luther King Jr.</a> (<a href="date.1929.1.15-1968.4.4">January 15, 1929–April 4, 1968</a>): Black American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Baptists">Baptist</a> minister and civil rights activist; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilrightsmovement">Civil Rights Movement</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a>; he helped pass the <a href="bk.%CivilRightsAct1964_Writing">Civil Rights Acts of 1964</a> and the <a href="bk.%VotingRightsAct1965_Writing">Voting Rights Act of 1965</a>; author of <a href="bk.%LetterFromBirminghamJail_Writing">"Letter from Birmingham Jail"</a>; he was influenced by the theological work of Paul Tillich and Reinhold Niebuhr.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DesmondMpiloTutu_Person">Desmond Mpilo Tutu</a> (<a href="date.1931.10.7-2021.12.26">October 7, 1931–December 26, 2021</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="bk.@CapeTownSouthAfrica">Cape Town</a>; Black South African theologian and human rights activist; leader of the <a href="bk.%TruthAndReconciliationCommision">Truth and Reconciliation Commission</a>, which was established after the end of Apartheid to promote restorative justice in South Africa. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusXI_Person">Pope Pius XI</a> (<a href="date.1857-1939">1857–1939</a>): <a href="bk.%pope">pope</a> and <a href="bk.%bishop">bishop</a> of <a href="bk.@Rome">Rome</a> (<a href="date.1922-1939">1922–1939</a>); the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alaterantreatysigned">Lateran Treaty was signed</a> during <a href="bk.tle:papacypiusxibegins">his papacy</a>, granting <a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> sovereignty and recognizing the state of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a>; signed concordat with Adolf Hitler guaranteeing freedom to practice Catholicism in Germany; issued encyclicals <a href="bk.%MitbrennenderSorge"><em>Mit Brennender Sorge</em></a>, which condemns communism, and <a href="bk.%DiviniRedemptoris_Writing"><em>Divini Redemptoris</em></a>, which condemns Nazism.</li>
+</ul>
+<h3><a href="bk.%theologian">Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KarlBarth_Person">Karl Barth</a> (<a href="date.1886.5.10-1968.12.10">May 10, 1886–December 10, 1968</a>): Swiss <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReformedGroup_Denom">Reformed</a> theologian; founder of the Neo-Orthodox movement; he studied at the universities of Berlin, Tübingen, and Marburg, and taught at the universities of <a href="bk.%UniversityOfGottingen_Place">Göttingen</a> and <a href="bk.%UniversityOfMunster_Place">Münster</a>; opposed Protestant liberalism; he was opposed to Nazism; a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConfessingChurch">Confessing Church</a> movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.DietrichBonhoeffer">Dietrich Bonhoeffer</a> (<a href="date.1906.2.4-1945.4.9">February 4, 1906–April 9, 1945</a>): German Lutheran Neo-Orthodox theologian and pastor; he was influenced by Barth; opposed Nazism; a leader of the Confessing Church movement; <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomdietrichbonhoeffer">he was executed</a> for participating in assassination plot against Adolf Hitler during World War II; author of <a href="bk.%TheCostOfDiscipleship_Writing"><em>The Cost of Discipleship</em></a>, which emphasizes "costly grace" over what he perceived as the "cheap grace" of liberalism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReinholdNiebuhr_Person">Reinhold Niebuhr</a> (<a href="date.1892.6.21-1971.6.1">June 21, 1892–June 1, 1971</a>): American Neo-Orthodox theologian and pastor; taught at Union Theological Seminary; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian socialism</a> and founder of <a href="bk.%FellowshipOfSocialistChristians">The Fellowship of Socialist Christians</a>; developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Realism_Belief">Christian realism</a> and opposed pacifism, urging Christians not to remain neutral during wartime; author of <a href="bk.%MoralManAndImmoralSociety_Writing"><em>Moral Man and Immoral Society</em></a>, which argues that individual morality influences group morality.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HelmutRichardNiebuhr_Person">Helmut Richard Niebuhr</a> (<a href="date.1894.9.3-1962.7.5">September 3, 1894–Jul 5, 1962</a>): American Neo-Orthodox theologian and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ethics">ethicist</a>; brother of Reinhold Niebuhr; he taught at <a href="bk.%YaleDivinitySchool_Place">Yale Divinity School</a>; influenced by Karl Barth and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ErnstTroeltsch_Person">Ernst Troeltsch</a>; author of <a href="bk.%ChristAndCulture_Writing"><em>Christ and Culture</em></a>, which addresses five ways Christians have approached the relation between Christ and society.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulTillich_Person">Paul Tillich</a> (<a href="date.1896-1965">1896–1965</a>): German-American Protestant Neo-Orthodox theologian; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25existentialism">Christian existentialism</a> and Christian socialism; he studied at the universities of Berlin, Tübingen, and <a href="bk.%UniversityOfHalle_Place">Halle</a>, and taught at the universities of Marburg, <a href="bk.%UniversityOfFrankfurt_Place">Frankfurt</a>, <a href="bk.%UnionTheologicalSeminary">Union Theological Seminary</a>, <a href="bk.%HarvardDivinitySeminary_Place">Harvard Divinity School</a>, and the <a href="bk.%UniversityOfChicago_Place">University of Chicago</a>; author of <a href="bk.%TheSocialistDecision_Writing"><em>The Socialist Decision</em></a>, which was written during the rise of Nazism and was critical of the movement, and <a href="bk.%TillichSystematicTheology_Writing"><em>Systematic Theology</em></a>, which reflects his adherence to Christian existentialism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnHowardYoder_Person">John Howard Yoder</a>[^2] (<a href="date.1927-1997">1927–1997</a>): American <a href="bk.%Mennonites_People">Mennonite</a> theologian and ethicist; he studied at the <a href="bk.%UniversityOfBasel_Place">University of Basel</a> and taught at the <a href="bk.%UniversityOfNotreDame">University of Notre Dame</a>; author of <a href="bk.%PoliticsOfJesus_Writing"><em>The Politics of Jesus</em></a>, which advocates for Christian pacifism and opposes the Christian realism of Reinhold Niebuhr.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Totalitarianism">Totalitarian Leaders</a></h3>
+<ul>
+<li><a href="bio.vladimirlenin_1">Vladimir Lenin</a> (<a href="date.1870.4.22-1924.1.21">April 22, 1870–January 21, 1924</a>): Russian revolutionary and a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arussianrevolution">Russian Revolution</a>; chairman of the Council of People's Commissars of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40USSR">Soviet Union</a>; founder of the Communist Party of the Soviet Union; he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Marxism_Belief">Marxism</a> and founder of <a href="bk.%Leninism_Belief">Leninism</a>.</li>
+<li><a href="bio.josephstalin">Joseph Stalin</a> (<a href="date.1878.12.18-1953.3.5">December 18, 1878–March 5, 1953</a>): Georgian revolutionary and dictator of the Soviet Union; general secretary of the Communist Party of the Soviet Union; founder of <a href="bk.%MarxismLeninism_Belief">Marxism-Leninism</a> and <a href="bk.%Stalinism_Belief">Stalinism</a>.</li>
+<li><a href="bio.benitomussolini_1">Benito Mussolini</a> (<a href="date.1883.7.29-1945.4.28">July 29, 1883–April 28, 1945</a>): Prime Minister of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> (<a href="date.1922-1943">1922–1943</a>); founder of the National Fascist Party; he signed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranTreaty"><em>Lateran Treaty</em></a>, which established Vatican City as a sovereign state.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AdolfHitler_Person">Adolf Hitler</a> (<a href="date.1889.4.20-1945.4.30">April 20, 1889–April 30, 1945</a>): Austrian-born German politician and dictator of Germany; leader of the Nazi Party; he started World War II with the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anazigermanyinvades">invasion of Poland</a>; author of <a href="bk.%MeinKampf_Writing"><em>Mein Kampf</em></a>, which articulates Hitler's political ideology.</li>
+<li><a href="bio.chairmanmaozedong_1">Mao Zedong</a> (<a href="date.1893.12.26-1976.9.9">December 26, 1893–September 9, 1976</a>): Chinese communist revolutionary; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeoplesrepublicchina">Chinese Communist Party and founder of the People's Republic of China</a>; developed <a href="bk.%Maoism_Belief">Maoism</a>, an ideology influenced by Marxism-Leninism.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1914-1918">1914–1918</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldwari">World War I</a> begins in Europe.</li>
+<li><a href="date.1917">1917</a>: <a href="bk.tle:russianrevolution">Russian Revolution in Russia</a> leads to communism in Russia.</li>
+<li><a href="date.1917">1917</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arussianorthodoxchurchrussia">Russian Orthodox Church in Russia is disestablished as the state religion</a>.</li>
+<li><a href="date.1919">1919</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anazipartyfounded">Nazi Party is founded</a> in Germany.</li>
+<li><a href="date.1930+10">1930s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arisefascismeurope">Rise of fascism in Europe</a>, beginning in Italy.</li>
+<li><a href="date.1931">1931</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afascismcondemnedpope">Fascism is condemned by the pope</a>.</li>
+<li><a href="date.1934.1.4">January 4, 1934</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconfessingchurchledkarlbarth">The “Confessing Church” in opposition to the Nazi “German Christian” Church officially organizes</a>.</li>
+<li><a href="date.1939-1945">1939–1945</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldwarii">World War II</a> draws the world into a global conflict.</li>
+<li><a href="date.1941">1941</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anazigermanydetermines">Nazi Germany determines to exterminate the Jews</a>.</li>
+<li><a href="date.1942">1942</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apiusxiicondemnsracismhis">Pius XII condemns racism in his Christmas speech</a>.</li>
+<li><a href="date.1945-1990">1945–1990</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acoldwar">Cold War</a> between the United States and the Soviet Union; conflicting ideologies and the spread of communism fuel tensions between the political super powers.</li>
+<li><a href="date.1945">1945</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anorthvietnamestablishes">North Vietnam establishes a communist state</a>.</li>
+<li><a href="date.1948">1948</a>: <a href="bk.tle:apartheidbeginssouthafrica">Apartheid begins in South Africa</a> with the election of the Nationalist Party.</li>
+<li><a href="date.1949">1949</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeoplesrepublicchina">People’s Republic of China is established by the Chinese Communist Party</a>.</li>
+<li><a href="date.1950+10">1950s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acubancommunistrevolution">Cuban Communist Revolution</a> continues the spread of communism.</li>
+<li><a href="date.1954-1968">1954–1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilrightsmovement">Civil Rights Movement</a> takes place in the United States.</li>
+<li><a href="date.1964">1964</a>: <a href="bk.tle:civilrightsact1964passes">Civil Rights Act of 1964 passes</a> in the United States.</li>
+<li><a href="date.1965">1965</a>: <a href="bk.tle:votingrightsactpassesus">Voting Rights Act passes in the United States</a>.</li>
+<li><a href="date.1980">1980</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acollapsecommunism">Collapse of communism</a> begins as the Soviet Union declines.</li>
+<li><a href="date.1990">1990</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aapartheidabolishedsouthafrica">Apartheid is abolished in South Africa</a>.</li>
+<li><a href="date.1991.12.26">December 26, 1991</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asovietuniondissolves">Soviet Union dissolves</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> became a communist state during the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where Nazism developed and flourished leading up to and during World War II.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Russia">Russia</a> became a communist state during the <a href="date.1901+100">twentieth century</a>; it promoted the spread of communism and established the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40USSR">Soviet Union</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SouthAfrica_Place">South Africa</a> was where Apartheid began in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> apposed the spread of communism; the location of the Civil Rights Movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40VaticanCity">Vatican City</a> was established as a sovereign state under the rule of the papacy by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranTreaty"><em>Lateran Treaty</em></a>.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apartheid">Apartheid</a> segregated non-white South Africans and denied them basic human rights during the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian socialism</a> was a popular ideology among some theologians in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25civilLawAndJustice">Civil rights</a> defined the <a href="date.1960+10">1960s</a> movement to address <a href="https://ref.ly/logos4/Factbook?ref=bk.%25racism">racism</a>, discrimination, and <a href="bk.%segregation">segregation</a> in the United States.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Communism_Belief">Communism</a> was a dominant ideology in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25fascism_Belief">Fascism</a> was a dominant ideology in the <a href="date.1901+50">first half of the twentieth century</a>; fascist governments are a form of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25authoritarianism">authoritarianism</a>.</li>
+<li><a href="bk.%nazism_Belief">Nazism</a> was a dominant ideology in the <a href="date.1901+50">first half of the twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25nationalism">Nationalism</a> was a dominant ideology in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Totalitarianism">Totalitarianism</a>, an extreme form of authoritarianism, helped the spread of Nazism, fascism, and communism.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%academicJournal">Academic Journals</a></h3>
+<ul>
+<li><a href="bk.%ChristianityAndCrisis_Writing"><em>Christianity and Crisis</em></a> (Reinhold Niebuhr, <a href="date.1941-1993">1941–1993</a>): a biweekly founded during World War II; addresses a wide variety of religious and social issues.</li>
+</ul>
+<h3><a href="bk.%creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BarmenDeclaration"><em>Barmen Declaration</em></a> (Confessing Church, <a href="date.1934">1934</a>): statement opposing Germany's Nazi government's influence over the German church; signed by Karl Barth and Dietrich Bonhoeffer.</li>
+</ul>
+<h3><a href="bk.%encyclical">Encyclicals</a></h3>
+<ul>
+<li><a href="bk.%DiviniRedemptoris_Writing"><em>Divini Redemptoris</em></a> (Pope Pius XI, <a href="date.1937">1937</a>): papal encyclical issued prior to World War II; condemned atheistic communism and its dangers to the Christian faith; specifically addresses communism in Russia.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MitbrennenderSorge"><em>Mit Brennender Sorge</em></a> (Pius XI, <a href="date.1937">1937</a>): encyclical issued during the rise of Nazism in Germany; written in German, instead of the typical Latin, it criticized Nazism and advocated for Roman Catholics to resist the oppression and influence of the Nazi state.</li>
+</ul>
+<h3><a href="bk.%law">Legislative Acts</a></h3>
+<ul>
+<li><a href="bk.%CivilRightsAct1964_Writing">Civil Rights Act of 1964</a> (<a href="bio.emmanuelcellar">Emmanuel Cellar</a>): civil rights and labor law passed in the United States; signed by <a href="bio.lyndonbjohnson">President Lyndon B. Johnson</a> during the Civil Rights Movement; outlaws discrimination based on race, color, religion, sex, and national origin.</li>
+<li><a href="bk.%VotingRightsAct1965_Writing">Voting Rights Act of 1965</a> (<a href="bio.mikemansfield">Mike Mansfield</a> and <a href="bio.everettdirksen">Everett Dirksen</a>): civil rights law passed in the United States; signed by President Lyndon B. Johnson during the Civil Rights Movement; prohibits racial discrimination in voting.</li>
+</ul>
+<h3><a href="bk.%letter">Letters</a></h3>
+<ul>
+<li><a href="bk.%ACallForUnity_Writing">"A Call for Unity"</a> (<a href="bio.charlescarpenter">Charles Carpenter</a>, <a href="bio.josephadurick">Joseph A. Durick</a>, <a href="bio.miltonlgrafman">Milton L. Grafman</a>, <a href="bio.paulhardin">Paul Hardin</a>, <a href="bio.nolanbharmon_1">Nolan B. Harmon</a>, <a href="bio.georgemmurray">George M. Murray</a>, <a href="bio.edwardvramage">Edward V. Ramage</a>, and <a href="bio.earlstallings">Earl Stallings</a>, <a href="date.1963.4.12">April 12, 1963</a>): an open letter written during Marin Luther King Jr.'s imprisonment in Birmingham, Alabama; it was signed by eight Birmingham clergymen in response to the demonstrations taking place as a part of the Civil Rights Movement; discouraged protests and advocated for addressing issues of racial discrimination in the courts; refers to "outsiders" who led demonstrations in Birmingham. </li>
+<li><a href="bk.%LetterFromBirminghamJail_Writing">"Letter from Birmingham Jail"</a> (Martin Luther King Jr., <a href="date.1963.4.16">April 16, 1963</a>): an open letter written while Martin Luther King, Jr., was imprisoned for leading a protest march in Birmingham, Alabama; the letter was written in response to "A Call for Unity" and addresses the Christian's responsibility to confront social injustices and advocate for civil rights; includes King's well-known statement, "Injustice anywhere is a threat to justice everywhere."</li>
+</ul>
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%TillichSystematicTheology_Writing"><em>Systematic Theology</em></a> (Paul Tillich, <a href="date.1951-1963">1951–1963</a>): highly influential systematic theology in three volumes; presents Tillich's theological method of correlation, which seeks to correlate Christian theology to questions raised by existentialism.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%MoralManAndImmoralSociety_Writing"><em>Moral Man and Immoral Society</em></a> (Reinhold Niebuhr, <a href="date.1932">1932</a>): addresses <a href="https://ref.ly/logos4/Factbook?ref=lsto.PersonalSin">personal</a> and <a href="https://ref.ly/logos4/Factbook?ref=lsto.StructuralSin">structural human sin</a> with an emphasis on the communal nature of sin; argues that individual morality influences group morality; rejects the optimistic <a href="bk.%Humanism_Belief">humanism</a> of liberal theology.</li>
+<li><a href="bk.%TheSocialistDecision_Writing"><em>The Socialist Decision</em></a> (Paul Tillich, <a href="date.1933">1933</a>): written during the rise of Nazism in Germany; critical of Nazism, which is described as a form of political <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Romanticism">romanticism</a>; advocates for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25socialism">socialism</a>.</li>
+<li><a href="bk.%ChristAndCulture_Writing"><em>Christ and Culture</em></a> (H. Richard Niebuhr, <a href="date.1951">1951</a>): addresses five ways Christians have approached the relation between Christ, who is perfect and without sin, and society, which is imperfect and marred by sin.</li>
+<li><a href="bk.%PoliticsOfJesus_Writing"><em>The Politics of Jesus</em></a> (John Howard Yoder, <a href="date.1972">1972</a>): advocates for Christian pacifism and opposes the Christian realism of Reinhold Niebuhr.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1326414?len=929610">“An Age of Ideology” (Pierard) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/805021?len=14635">"Benedict XV to Pius XII" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/900537?len=33714">"Crisis at the Center: Protestantism in Europe" in <em>The Story of Christianity: The Reformation to the Present Day</em> </a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/934252?len=43285">"Crisis at the Center: Protestantism in the United States" in <em>The Story of Christianity: The Reformation to the Present Day</em> </a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1033341?len=25709">"Graffiti on a Wall of Shame: <em>Twentieth-Century Ideologies</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>
+<p>[^1]: See Richard Pierard, <a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1326444?len=240">“An Age of Ideology,”</a> in <a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED"><em>Introduction to the History of Christianity</em></a>, ed. Tim Dowley, 3rd ed (Minneapolis, MN: Fortress Press, 2018), 533, and 
+Bruce L. Shelley, <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1034821?len=442">"Post-Christian Gods for the Masses,"</a> in <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD"><em>Church History in Plain Language</em></a>, ed. Marshall Shelley, 5th ed. (Grand Rapids, MI: Zondervan Academic, 2020), 490.
+[^2]: John Howard Yoder committed sexual violations during his teaching career. For more info, see: <a href="https://www.ambs.edu/ambs-response-to-victims-of-john-howard-yoder-abuse/">AMBS Response to Victims of John H. Yoder Abuse</a>. </p>

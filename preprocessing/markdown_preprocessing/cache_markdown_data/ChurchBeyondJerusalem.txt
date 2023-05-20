@@ -1,0 +1,142 @@
+<p>Level: 1
+Status: Released
+Identifier: ChurchBeyondJerusalem
+Parents: Root
+Eras: bk.era:theearlychurch</p>
+<h1>The Early Church Expands Beyond Jerusalem</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.33-312">33–312</a></li>
+<li><strong>Description:</strong> The early church grew rapidly in its early years as it expanded across the Roman Empire.</li>
+</ul>
+<h2>Summary</h2>
+<p>In its early years, Christianity existed within Judaism. Despite conflicts between Christians and Jews, the church experienced rapid growth under the leadership of the apostles following the events of Pentecost. The destruction of Jerusalem pushed the early church beyond its Jewish context, and the new Jewish sect became a predominantly gentile religion through missional efforts that spread the Gospel throughout the Mediterranean. While Jewish Christianity declined, gentile Christianity flourished throughout the Roman Empire.</p>
+<h2>Key Developments</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christianity</a> developed as a movement within <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Judaism</a> (<a href="date.33+c-70">c. 33-70</a>).</li>
+<li>The early church experienced rapid growth in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> after <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecost">Pentecost</a> (<a href="date.33+c-70">c. 33–70</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Hellenists">Hellenistic Jews</a> faced <a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">persecution</a> from the Hebraic Jews and left Jerusalem (<a href="date.33+c">c. 33</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Church.2">church at Antioch</a> grew and became the center of early Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">missions</a> (<a href="date.33+c-70">c. 33–70</a>).</li>
+<li>Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%24synagogue">synagogues</a> became evangelistic centers for the early church (<a href="date.33+c-90">c. 33–90</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">gospel</a> spread to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">gentiles</a> and the resulting communities were largely influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hellenism">Hellenism</a> (<a href="date.33+c-312">c. 33–312</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianityspreadsquickly2">Christianity spread across the Roman Empire</a> despite <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansroman1">periods of persecution</a> (<a href="date.33-312">33–312</a>).</li>
+<li>Conflict erupted over disagreements about <a href="https://ref.ly/logos4/Factbook?ref=bk.%25circumcision">circumcision</a> and adherence to the <a href="https://ref.ly/logos4/Factbook?ref=bible.2.20.22-2.31.18">Mosaic law</a> (<a href="date.49+c">c. 49</a>).</li>
+<li>Thousands of Jewish Christians fled Jerusalem during the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstJewishRevolt">Jewish Revolt</a> (<a href="date.66-73">66–73</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajerusalemdestroyed">Jerusalem fell to the Romans and the temple was destroyed</a> bringing an end to the Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacrificialOfferings">sacrificial system</a> (<a href="date.70">70</a>).</li>
+<li>Jerusalem declined and was no longer the center of early Christianity (<a href="date.70">70</a>).</li>
+<li>Jewish Christianity declined as gentile Christianity flourished (<a href="date.70-312">70–312</a>).</li>
+<li>Christians were recognized by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> as separate from the Jews and were viewed with suspicion, which led to periods of persecution (<a href="date.1+100+l">late first century</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">Apostles</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23James.4">James</a> (d. <a href="date.62+c">c. 62</a>): Jewish brother and apostle of Jesus; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Church.1">church at Jerusalem</a>; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistleOfJames_Writing">Epistle of James</a>; he participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.*JerusalemCouncil">Council of Jerusalem</a>; martyred by Jewish leaders in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Peter">Peter</a> (d. <a href="date.64+c">c. 64</a>): Jewish apostle of Jesus to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Jews">Jews</a>; leader of the early church; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesofSaintPeter">Epistles of Peter</a>; subject of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfActs_Writing">book of Acts</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.*PetersSermon">preached at Pentecost</a>, where three thousand believers were added to the church (Acts 2:41); he participated in the Council of Jerusalem, where he opposed requiring gentiles to be <a href="https://ref.ly/logos4/Factbook?ref=bk.%25circumcision">circumcised</a> (Acts 15:7–11).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Paul">Paul</a> (<a href="date.10+c-67">c. 10–67</a>): Jewish apostle to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">gentiles</a> and early Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a> who, prior to his <a href="https://ref.ly/logos4/Factbook?ref=bk.*PaulConversion">conversion</a> persecuted the early church; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulsLetters_Writting">Pauline Epistles</a>; subject of the book of Acts, which details <a href="https://ref.ly/logos4/Factbook?ref=bk.*paulsmissionsperiod">Paul's missions</a> to the gentiles; he participated in the Council of Jerusalem; opposed requiring gentiles to be circumcised.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John (Son of Zebedee)</a> (d. <a href="date.100">100</a>): Jewish fisherman and apostle of Jesus; traditional author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannineLiterature_Writing">Johannine literature</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>; traditionally associated with the churches in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AsiaMinor_Place">province of Asia</a>, especially the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Church.11">church at Ephesus</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Disciples">Disciples</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Stephen.1">Stephen</a> (d. <a href="date.36+c">c. 36</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Hellenists">Hellenistic Jew</a>, the first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25deacon">deacon</a> and Christian martyr; <a href="https://ref.ly/logos4/Factbook?ref=bk.*StephenStoned">he was stoned</a> after giving a speech before the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Sanhedrin">Sanhedrin</a> (Acts 6:8–8:1; Paul witnessed his martyrdom before <a href="https://ref.ly/logos4/Factbook?ref=bk.*PaulConversion">he was converted</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Luke.1">Luke</a> (d. <a href="date.84+c">c. 84</a>): gentile Christian evangelist and travel companion of Paul; author of the book of Acts, which narrates the life of the early church under the leadership of the apostles.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EmperorTitus_Person">Emperor Titus</a> (<a href="date.41-81">41–81</a>): emperor of Rome (<a href="date.79-81">79--81</a>); he conquered Jerusalem and destroyed <a href="https://ref.ly/logos4/Factbook?ref=bk.%24HerodianTemple">Herod’s Temple</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">Gentiles</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">Gentiles</a>: non-Jewish people; many converted to Christianity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23GodFearer">God-Fearers</a>: Gentiles who worshiped the Jewish God but did not adhere to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LawOfMoses_Writing">Mosaic law</a>---namely, the rite of circumcision; many converted to Christianity.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Jews">Jews</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Jews.5">Early Jewish Christians</a>: Hebrew-speaking Jews (Hebraic Jews) who were more likely to be opposed to gentiles and Greek culture.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Hellenists">Hellenists</a>: Greek-speaking Jews who lived in Jerusalem; their culture and customs were influenced by their interaction with gentiles; some of the earliest converts to Christianity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Judaizer">Judaizers</a>: Christian Jews who insisted that converts conform to Jewish customs and adhere to the Mosaic law; they were opposed by Paul.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1+100">first century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianityspreadsquickly1">Christianity spreads quickly through Palestine</a>.</li>
+<li><a href="date.1+100">first century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianityextendsaround">Christianity extends around the Mediterranean</a>.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*pentecostepisode">Pentecost</a> marks the beginning of the church.</li>
+<li><a href="date.36+c">c. 36</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*PaulConversion">Paul converts</a> from Judaism.</li>
+<li><a href="date.40+c">c. 40</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearliestevidencechristianity2">Earliest evidence of Christianity in Antioch</a>.</li>
+<li><a href="date.40+10-50+10">40s--50s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*paulsmissionsperiod">Paul’s missions</a> help spread the gospel and establish the church across the Mediterranean.</li>
+<li><a href="date.44">44</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansjudea">Persecution of Christians in Judea</a> deepened the divide between Judaism and Christianity.</li>
+<li><a href="date.49+c">c. 49</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*counciljerusalemseries">Council in Jerusalem</a> debated whether Christian converts were required to be circumcised.</li>
+<li><a href="date.50+10-60+10">50s--60s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apetertravelsrome">Peter travels to Rome</a>.</li>
+<li><a href="date.60+c">c. 60</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*PaulLivesRome">Paul lives in Rome</a>.</li>
+<li><a href="date.66-67">66–67</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amanychristiansfleejerusalem">Many Christians flee Jerusalem</a>.</li>
+<li><a href="date.66-73">66–73</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajewsrebelagainstrome">Jews rebel against Rome in The Great Revolt</a>.</li>
+<li><a href="date.70">70</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajerusalemdestroyed">Titus of Rome destroys Jerusalem and the Second Temple</a></li>
+<li><a href="date.100+100">100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearliestevidencechristianity1">Earliest evidence of Christianity in Alexandria</a>.</li>
+<li><a href="date.132-135">132–135</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abarcochbarevoltspalestine">Jews revolt against Rome in the Bar Cochba Revolt</a> during which the Jerusalem church is persecuted.</li>
+<li><a href="date.180">180</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearliestevidencechristianity">Earliest evidence of Christianity in North Africa</a>.</li>
+<li><a href="date.200+100">200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aedessacenterchristianity">Edessa is a center of Christianity</a>.</li>
+<li><a href="date.300+100+e">early 300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianityminorityreligion">Christianity is a minority religion in the Roman Empire</a>.</li>
+<li><a href="date.303">303</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aarmeniabecomeschristiannation">Armenia becomes a Christian nation</a>.</li>
+<li><a href="date.312+c">c. 312</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantineconverts">Constantine converts to Christianity</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was the second largest city in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a>; a center of early church growth in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Egypt_Place">Egypt</a>; the church here was traditionally founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Mark.1">John Mark</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch (of Syria)</a> was the third largest city of the Roman Empire; center of the early church following the decline of Jerusalem and where followers of Jesus were first called Christians; largely influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Hellenists">Hellenists</a>; the church here was traditionally founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Peter">Peter</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Armenia">Armenia</a> experienced a mass conversion to Christianity, which was established as the state religion.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a> was a center of early church growth in North <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Edessa">Edessa (Mesopotamia)</a> was a center of Christianity by the <a href="date.201+100">third century</a>; traditionally founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Thaddaeus.1">Thaddaeus</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a> was home to a prominent church in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AsiaMinor_Place">Asia Minor</a>; founded by Paul and traditionally associated with <a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> was the center of Judaism and early Christianity; <a href="https://ref.ly/logos4/Factbook?ref=bk.%23James.4">James</a> was leader of the church here; experienced decline after it was conquered by Titus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the largest city in and the capital of the Roman Empire; became the center of the Western church; both Peter and Paul traveled to Rome.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christianity</a> developed out of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Judaism</a> and spread rapidly across the Roman Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25followersOfTheWay">"Followers of the Way"</a> was an early designation for Christians.</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">Gospel</a> spread across the Roman Empire through early Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">missions</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%24HerodianTemple">Herod's Temple</a> was the center of Jewish life; it was destroyed by Titus during the siege of Jerusalem.</li>
+<li>The Jews rejected Jesus as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Messiah_Person">Messiah</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecost">Pentecost</a> marked the beginning of the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%24synagogue">Synagogues</a> were centers of early evangelism.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%apostolicActs">Apostolic Acts</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfActs_Writing">Book of Acts</a> (Luke, <a href="date.62+c-64">c. 62–64</a>): recounts the development of the early church and Paul's missionary travels; part of the New Testament canon.</li>
+</ul>
+<h3><a href="bk.%bibleTranslations">Bible Translations</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Septuagint_Writing">Septuagint</a> (<a href="date.b300+100-b200+100">c. third--second century !!smallcaps|bc!!</a>: Greek translation of the Hebrew Bible which was quoted by Jesus (e.g., Lk 4:16–19), the writers of the New Testament, and the early church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulsLetters_Writting">Pauline Epistles</a> (<a href="date.50+10+c-60+10">c. 50s--60s</a>: epistles that were circulated among the early churches and recognized as Scripture; recount events from Paul's missionary travels and the development of the early church; part of the New Testament canon.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">Gospels</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfMatthew_Writing">Gospel of Matthew</a> (<a href="date.70+c-110">c. 70–110</a>): narrative of the life and ministry of Jesus; first Gospel in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>; one of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SynopticGospels_Writing">Synoptic Gospels</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfMark_Writing">Gospel of Mark</a> (<a href="date.65+c-75">c. 65–75</a>): narrative of the life and ministry of Jesus; second Gospel in the New Testament; one of the Synoptic Gospels; scholars generally agree this was the first Gospel written.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfLuke_Writing">Gospel of Luke</a> (<a href="date.70+c-85">c. 70–85</a>): narrative of the life and ministry of Jesus; third Gospel in the New Testament; one of the Synoptic Gospels.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfJohn_Writing">Gospel of John</a> (<a href="date.90+c-100">c. 90–100</a>): narrative of the life and ministry of Jesus; fourth Gospel in the New Testament.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/57078?len=23582">“The Church Begins: From Jerusalem to Rome” (Gasque) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/73947?len=58912">"The Church Pushed out on its Own: The Fall of Jerusalem" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/90664?len=26272">"Only 'Worthless' People: Catholic Christianity" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/35247?len=2255">"The Twelve Disciples and Paul after the Death of Jesus" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/63083?len=26843">"Wineskins Old and New: The Gospel to the Gentiles" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

@@ -1,0 +1,174 @@
+<p>Level: 1
+Status: Released
+Identifier: Trinitarian
+Parents: Root
+Eras: bk.era:antenicenechurchera; bk.era:nicenechurchera</p>
+<h1>Trinitarian Controversies Are Settled</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.180-388">180-388</a></li>
+<li><strong>Description:</strong> The early church defined the doctrine of the Trinity and identified nontrinitarian heresies.</li>
+</ul>
+<h2>Summary</h2>
+<p>The doctrine of the Trinity was central to the development of early Christian theology during the fourth century. While Trinitarian language developed early in the church, the exact nature and relationship of the three persons in the Trinity were debated. The conversion of Constantine the Great and the acceptance of Christianity in the Roman Empire turned disagreements within the church into potential disruptions to the empire's peace. Church councils were convened to define the doctrine of the Trinity, establish orthodoxy, and identify heresies. While Trinitarianism was affirmed through ecumenical councils, variations of Arianism continued to thrive within the Roman Empire until Nicene Christianity was established as the orthodox religion of the state.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchFathers_People">church fathers</a> developed <a href="https://ref.ly/logos4/Factbook?ref=lsto.God">the doctrine of the Trinity</a> in their writings (<a href="date.100+100-300+100">100s–300s</a>).</li>
+<li>The term <a href="https://ref.ly/logos4/Factbook?ref=bk.%25trinity">"Trinity"</a> was used to describe the relationship between the <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheFather">Father</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheSon">Son</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolySpirit_Deity">Holy Spirit</a> (<a href="date.180+c-184">c. 180–184</a>).</li>
+<li>Competing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christologies</a> developed within the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">Alexandrian</a> schools as theologians debated the nature of <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusPerson">Jesus' person</a> and <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">divinity</a> (<a href="date.100+100+m-500+100">mid-100s–500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> and other <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nontrinitarian_Denom">nontrinitarian</a> views developed within early Christianity and were debated within the church (<a href="date.200+100-300+100">200s–300s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstCouncilofNicaea">First Council of Nicaea</a> defined <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodox</a> Trinitarianism in the Nicene Creed (<a href="date.325">325</a>).</li>
+<li>The church affirmed the divinity of the Son who is co-equal and co-eternal with the Father (<a href="date.325">325</a>).</li>
+<li>Nicene Christianity was established as orthodox <a href="https://ref.ly/logos4/Factbook?ref=bk.%25catholic.universal">catholic</a> Christianity by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> under <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodosiusI_Person">Theodosius I</a> (<a href="date.380">380</a>).</li>
+<li>Arianism and other nontrinitarian views were condemned as heresy by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">ecumenical councils</a> (<a href="date.325-381">325-381</a>).</li>
+<li>The church affirmed the divinity of the Holy Spirit who proceeds from the Father (<a href="date.381">381</a>).</li>
+<li>The Nicene Crede was reaffirmed and amended at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a> (<a href="date.381">381</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.EusebiusNicomedia">Eusebius of Nicomedia</a> (d. <a href="date.341">341</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a>; supporter of <a href="bio.Arius">Arius</a> and adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a>; he was exiled by <a href="https://ref.ly/logos4/Factbook?ref=bio.ConstantineI">Constantine the Great</a> after attending the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstCouncilofNicaea">First Council of Nicaea</a>, though he was later reconciled and baptized the emperor before his death; tutor of the emperor <a href="https://ref.ly/logos4/Factbook?ref=bio.JulianEmperor">Julian</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Arius">Arius</a> (<a href="date.250-336">250–336</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25presbyter">presbyter</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a>; founder and adherent of Arianism, which affirmed <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">Jesus’ divinity</a> but denied that the <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheFather">Father</a> and <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheSon">Son</a> were of the same essence; he was an opponent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Sabellianism_Belief">Sabellianism</a>; attended the First Council of Nicaea and was officially condemned at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a> after his death.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eunomius_Person">Eunomius</a> (<a href="date.335+c-394">c. 335–394</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cyzicus_Place">Cyzicus</a>; adherent of Arianism and leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anomoeans_People">Anomoeans</a>, a radical sect of Arians; author of <a href="bk.%FirstApologyOfEunomius_Writing"><em>First Apology of Eunomius</em></a>, which was rebutted by Basil of Caesarea's <a href="bk.%AgainstEunomiusBasil_Writing"><em>Against Eunomius</em></a>, and <a href="bk.%SecondApologyOfEunomius_Writing"><em>Second Apology of Eunomius</em></a>, which was rebutted by Gregory of Nyssa's <a href="bk.%AgainstEunomiusGregory_Writing"><em>Against Eunomius</em></a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ConstantineI">Constantine the Great</a> (<a href="date.272.2.27-337.5.22">February 27, 272–May 22, 337</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> (<a href="date.306-337">306–337</a>); <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantineconverts">converted to Christianity</a>; he convened and attended the First Council of Nicaea to resolve the Arian controversy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConstantiusII_Person">Constantius II</a> (<a href="date.317.8.7-361.11.3">August 7, 317–November 3, 361</a>): emperor of the Roman Empire (<a href="date.337-361">337-361</a>); adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25semiarianism">Semiarianism</a>; convened the <a href="bk.tle:councilofseleucia359">Council of Seleucia</a> to establish a compromise between the Arian and Nicene bishops.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConstansI_Person">Constans I</a> (<a href="date.320+c-350">c. 320–350</a>): emperor of the Roman Empire (<a href="date.337-350">337–350</a>); son of Constantine the Great; supporter of Nicene <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodoxy</a> and opponent of Arianism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JulianEmperor">Julian the Apostate</a> (<a href="date.332-363.6.26">332–June 26, 363</a>): emperor of the Roman Empire (<a href="date.361-363">361-363</a>); nephew of Constantine the Great; originally an adherent of Arianism and tutored by <a href="https://ref.ly/logos4/Factbook?ref=bio.EusebiusNicomedia">Eusebius of Nicomedia</a>, he later converted to <a href="bk.%paganism_Belief">paganism</a>; he was the last non-Christian emperor of the Roman Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodosiusI_Person">Theodosius I</a> (<a href="date.347.1.11-395.1.17">January 11, 347–January 17, 395</a>): emperor of the Roman Empire (<a href="date.379-395">379–395</a>); established orthodox Christianity as the sole religion of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a>; convened the First Council of Constantinople; opponent of Arianism, which he officially condemned as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a> in <a href="date.388">388</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monarchians_People">Monarchians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Noetus_Person">Noetus</a> (<a href="date.101+100">second century</a>): <a href="bk.%teacher">teacher</a> at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Smyrna</a>; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Patripassianism">Patripassianism</a>; he was condemned a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heretic">heretic</a> by the presbyters of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Smyrna</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Praxeas_Person">Praxeas</a> (<a href="date.101+100-201+100">second-third century</a>): adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Patripassianism">Patripassianism</a> and leader of the Patripassian Monarchians; he taught Patripassianism in Rome and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>; opponent of Tertullian and addressee of his <a href="bk.%AgainstPraxeas_Writing"><em>Against Praxeas</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.sabellius">Sabellius</a> (<a href="date.201+100">third century</a>): an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monarchianism">Monarchianism</a> who taught in Rome; his teachings, called <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Sabellianism_Belief">Sabellianism</a>, viewed the Father, Son, and Spirit as different "modes" of God.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulofSamosata_Person">Paul of Samosata</a> (<a href="date.200+c-275">c. 200–275</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a>; an adherent of Dynamic Monarchianism, he argued that Jesus was merely a human whom the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Logos">Logos</a> of God had inspired and filled; he was deposed and his teaching condemned.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25semiarianism">Semiarians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eustathius_Person">Eustathius</a> (<a href="date.300+c-377">c. 300–377</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Sebaste_Place">Sebaste</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pneumatomachi_Person">Pneumatomachi</a>, a heretical sect that denied the divinity of the Holy Spirit; student of Arius; though he signed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NiceneCreed_Writing">Nicene Creed</a>, he adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25semiarianism">Semiarianism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Macedonius_Person">Macedonius</a> (d. <a href="date.362+c">c. 362</a>): bishop of Constantinople; founder of the Pneumatomachi; an adherent of Semiarianism, he defended the position at the Council of Seleucia (<a href="date.359">359</a>).</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Trinitarian_Person">Trinitarians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theophilus.1_Person">Theophilus of Antioch</a> (d. <a href="date.184">184</a>): bishop of Antioch; <a href="bk.%GreekChurchFathers_People">Greek church father</a>; author of <a href="bk.%ToAutolycus_Writing"><em>To Autolycus</em></a>, which contains the first extant use of the word <a href="https://ref.ly/logos4/Factbook?ref=bk.%25trinity">"Trinity,"</a> !!greek|Τριάδος!! (<a href="au+theophilus.1725.001.2.15">2.15</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Origen">Origen</a> (<a href="date.185-254">185-254</a>): North African theologian and Greek church father; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a>; head of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">Catechetical School of Alexandria</a>; wrote about <a href="https://ref.ly/logos4/Factbook?ref=lsto.TrinityUnity">the unity of the Trinity</a> and the distinction between God the Father and God the Son.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tertullian_Person">Tertullian</a> (<a href="date.160+c-230">c. 160–230</a>): North African <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apologists">apologist</a>; <a href="bk.%LatinChurchFathers_People">Latin church father</a>; first to use the Latin term <em>trinitas</em> (Trinity); author of <em>Against Praxeas,</em> which opposes Patripassianism and describes an early doctrine of the Trinity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Hipppolytus">Hippolytus of Rome</a> (<a href="date.170+c-235">c. 170–235</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pontus_Place">Pontus</a>; Greek church father; one of the most important theologians of the third century; opponent of <a href="https://ref.ly/logos4/Factbook?ref=bio.sabellius">Sabellius.</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AthanasiusAlexandria">Athanasius of Alexandria</a> (<a href="date.296-373.5.2">296-May 2, 373</a>): bishop of Alexandria; Greek church father; assistant of <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeAlexanderAlexandria">Pope Alexander of Alexandria</a>; friend of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApollinarisOfLaodicea_Person">Apollinaris of Laodicea</a>; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a>; opponent of Arianism; he attended the First Council of Nicaea; exiled after Constantine reconciled with Arius, and continued to defend Nicene orthodoxy as emperors supported Arianism; author of <em>On the Incarnation,</em> which defends the doctrine of <a href="https://ref.ly/logos4/Factbook?ref=lsto.Incarnation">Jesus’ incarnation</a> as the eternal <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheSon">Son of God</a> against objections from both <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Jews</a> and <a href="bk.%Gentiles_People">Gentiles</a>, and <em>Defense of the Nicene Definition,</em> which is a defense of the Nicene definition of the Trinity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeAlexanderAlexandria">Pope Alexander of Alexandria</a> (d. <a href="date.328">328</a>): <a href="bk.%patriarchOrthodox">patriarch</a> of Alexandria and Coptic Orthodox <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a>; he was an opponent of Arius and mentor of Athanasius of Alexandria; attended the First Council of Nicaea.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintGregoryOfNyssa_Person">Gregory of Nyssa</a> (<a href="date.335-395">335-395</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nyssa_Place">Nyssa</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CappadocianFathers_People">Cappadocian father</a>; opposed Arianism; attended the First Council of Constantinople; author of <em>Against Eunomius,</em> which addresses the doctrine of the Trinity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.GregoryNazianzus">Gregory of Nazianzus</a> (<a href="date.329-389">329-389</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CappadocianFathers_People">Cappadocian father</a>; opposed Arianism; presided over the First Council of Constantinople; author of <a href="bk.%FiveTheologicalOrations_Writing"><em>Five Theological Orations,</em></a> which addresses the doctrine of the Trinity, including the procession of the Holy Spirit.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BasilCaesarea">Basil of Caesarea</a> (<a href="date.330-379">330-379</a>): bishop of Caesarea; Cappadocian father; opposed Arianism; author of <a href="bk.%OnTheHolySpiritBasil_Writing"><em>On the Holy Spirit,</em></a> which affirms the divinity of the Holy Spirit, and <em>Against Eunomius,</em> which addresses the doctrine of the Trinity.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.101+100">second century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aheresymonarchianismstarted">The heresy Monarchianism is started</a> in an attempt to preserve the unity of God.</li>
+<li><a href="date.150+c">c. 150</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adoctrineadoptionismarises">doctrine of Adoptionism arises</a> in the Roman Empire.</li>
+<li><a href="date.180+c-184">c. 180–184</a>: <a href="bk.tle:theophilusantiochdescribestrinityautolycus">Theophilus of Antioch describes the Trinity in his <em>Apology To Autolycus</em>.</a></li>
+<li><a href="date.100+100+l">late 100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atertullianintroducesterm">Tertullian introduces the term “Trinity”</a> in his writings.</li>
+<li><a href="date.300+100">300s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arisearianism">rise of Arianism</a> in the Roman Empire.</li>
+<li><a href="date.300+100-400+100">300s–400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atermtrinitycomesintocommon">The term “Trinity” comes into common use.</a></li>
+<li><a href="date.325">325</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstCouncilofNicaea">First Council of Nicaea</a> establishes the doctrine of the Trinity.</li>
+<li><a href="date.325">325</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anicenecounciladoptscreed">Nicene Council adopts creed</a> which defines the Trinity.</li>
+<li><a href="date.359">359</a>: The <a href="bk.tle:councilofseleucia359">Council of Seleucia</a> is convened to resolve issues between Arian and Nicene bishops.</li>
+<li><a href="date.380">380</a>: The <a href="bk.tle:edictthessalonicarecognizesnicenechristianity">Edict of Thessalonica recognizes Nicene Christianity</a> as the official religion of the Roman Empire.</li>
+<li><a href="date.381">381</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a> reaffirms the Nicene Creed and the divinity of the Holy Spirit.</li>
+<li><a href="date.388">388</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aarianismcondemnedemperor">Arianism is condemned by Emperor Theodosius I.</a></li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was home to the Catechetical School of Alexandria, which emphasized the divinity of Christ and unity of his person; Arianism and Sabellianism were developed here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a> was home to the Catechetical School of Antioch, which emphasized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25humanityOfChrist">humanity of Christ</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> was the capital of the Roman Empire beginning in 330; the location of an <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">ecumenical council</a> that affirmed the divinity of the Holy Spirit.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Nicaea">Nicaea</a> was the location of the first ecumenical council that affirmed the divinity of the Son and produced the Nicene Creed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the capital of the Roman Empire until 330; the ecclesial center of the Western church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Seleucia_Place">Seleucia</a> was the location of a church council convened by Constantius II to resolve the Arian controversy; the council was divided and did not reach a compromise.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Smyrna</a> was where Patripassianism originated.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25adoptionism">Adoptionism</a> was a form of Dynamic Monarchianism; opposed to Nicene orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a> was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Platonism_Belief">Platonism</a> and emphasized the divinity of Jesus and the unity of his person in contrast to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene Theology</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene Theology</a> emphasized the humanity of Jesus in contrast to Alexandrian Theology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> was condemned at the First Council of Nicaea.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Homoousion">Homoousion</a> was used in the Nicene Creed to describe the relationship between God the Father and God the Son within the Trinity; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25consubstantial">consubstantial</a> was used to describe this relationship in the Western church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">Jesus' divinity</a> was affirmed at the First Council of Nicaea.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pneumatomachi_Person">Pneumatomachi</a> was a nontrinitarian sect that developed in the fourth century !!smallcaps|ad!!.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monarchianism">Monarchianism</a> emphasized the unity of the Godhead and affirmed the divinity of <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodTheFather">God the Father</a> alone; opposed to Nicene orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Patripassianism">Patripassianism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Sabellianism_Belief">Sabellianism</a> were forms of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Modalism_Belief">Modalistic</a> Monarchianism; both were opposed to Nicene orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25semiarianism">Semiarianism</a>, a moderate form of Arianism, developed in the fourth century !!smallcaps|ad!!; opposed to Nicene orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25trinity">Trinity</a> was defined at the first councils of Nicaea and Constantinople.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apology.defense">Apologies</a></h3>
+<ul>
+<li><a href="bk.%ToAutolycus_Writing"><em>To Autolycus</em></a> (Theophilus of Antioch, <a href="date.180+c-184">ca. 180–184</a>): addressed to Autolycus; describes the Trinity as "God, and His Word, and His wisdom" (<a href="au+theophilus.1725.001.2.15">II.XV</a>); this is the first extant use of the word "Trinity" (!!gk|Τριάδος!!).</li>
+<li><a href="bk.%OnTheIncarnation_Writing"><em>On the Incarnation of the Word</em></a> (Athanasius of Alexandria, <a href="date.317+c-328">c. 317–328</a>): defends the doctrine of <a href="https://ref.ly/logos4/Factbook?ref=lsto.Incarnation">Jesus’ incarnation</a> as the eternal Son of God against objections from both Jews and Gentiles.</li>
+<li><a href="bk.%FirstApologyOfEunomius_Writing"><em>First Apology</em></a> (Eunomius, <a href="date.360+c">c. 360</a>): argues that God the Father and God the Son are not of the same essence.</li>
+<li><a href="bk.%SecondApologyOfEunomius_Writing"><em>Second Apology</em></a> (Eunomius, <a href="date.378+c">c. 378</a>): written in response to Basil's <em>Against Eunomius</em>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldRomanCreed">Old Roman Creed</a> (<a href="date.150+c">c. 150</a>): an older, shorter version of the Apostles' Creed; features a Trinitarian structure with sections on God the Father, Jesus, and the Holy Spirit.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostlesCreed_Writing">Apostles’ Creed</a> (<a href="date.300+c">c. 300</a>): early statement of Christian belief which developed out of the Old Roman Creed; features a Trinitarian structure with sections on God the Father, Jesus, and the Holy Spirit; currently used by the Western church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NiceneCreed_Writing">Nicene Creed</a> (<a href="date.325">325</a>): Trinitarian creed issued by the First Council of Nicaea; affirms the full divinity of the Son.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25constantinopolitanCreed_Writing">The Constantinopolitan Creed</a> (<a href="date.381">381</a>): Trinitarian creed issued by the First Council of Constantinople; reaffirms the Nicene Creed and affirms the full divinity of the Holy Spirit.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25decree">Decrees and Edicts</a></h3>
+<ul>
+<li><a href="bk.%EdictOfThessalonica_Writing">Edict of Thessalonica</a> (<a href="date.380">380</a>): issued by emperors Theodosius, <a href="bio.FlaviusGratianus">Gratian</a>, and <a href="bio.valentinianii_1">Valentinian II</a>; established Nicene Christianity as the religion of the state; affirms Trinitarianism and threatens punishment for those who do not adhere to the Nicene doctrine of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25trinity">Trinity</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="bk.%DefenseNiceneDefinition_Writing"><em>Defense of the Nicene Definition</em></a> (Athanasius of Alexandria, <a href="date.350+c-355">c. 350–355</a>): a letter that addresses the proceedings of the First Council of Nicaea and defends the Nicene definition of the Trinity; this is a primary source for the First Council of Nicaea.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25oration">Orations</a></h3>
+<ul>
+<li><a href="bk.%FiveTheologicalOrations_Writing"><em>Five Theological Orations</em></a> (Orations 27–31) (Gregory of Nazianzus, <a href="date.380">380</a>): a series of five sermons preached in Constantinople; addresses the doctrine of the Trinity and the relationship of the persons in the Godhead, including the procession of the Holy Spirit.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25polemic">Polemics</a></h3>
+<ul>
+<li><a href="bk.%RefutationOfAllHeresies_Writing"><em>The Refutation of All Heresies</em></a> (Hippolytus of Rome, <a href="date.200+c">c. 200</a>): a catalog of pagan, gnostic, and other beliefs deemed heretical, including those of the Monarchians <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Noetus_Person">Noetus</a> and <a href="https://ref.ly/logos4/Factbook?ref=bio.sabellius">Sabellius</a>.</li>
+<li><a href="bk.%AgainstPraxeas_Writing"><em>Against Praxeas</em></a> (Tertullian, <a href="date.213">213</a>): addressed to Praxeas; opposes Patripassianism and describes an early doctrine of the Trinity; includes the <a href="bk.%secondFormTertullianRule_Writing">second form of Tertullian’s Rule of Faith</a>.</li>
+<li><a href="bk.%AgainstEunomiusBasil_Writing"><em>Against Eunomius</em></a> (Basil of Caesarea, <a href="date.365+c">c. 365</a>): written in response to Eunomius' <em>First Apology</em>; defends the doctrine of the Trinity.</li>
+<li><a href="bk.%AgainstEunomiusGregory_Writing"><em>Against Eunomius</em></a> (Gregory of Nyssa, <a href="date.380+c">c. 380</a>): contains two prefatory letters addressed to his brother <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPeterOfSebaste_Person">Peter of Sebaste</a>; written in response to Eunomius' <em>Second Apology</em>; defends the doctrine of the Trinity.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%OnTheHolySpiritBasil_Writing"><em>On the Holy Spirit</em></a> (Basil of Caesarea, <a href="date.325+c">c. 325</a>): a theological work on the Trinity which affirms the divinity of the Holy Spirit.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/67862?len=663">"Ancient Church Trinitarian Heresies" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/401304?len=17592">"Arius and the Council of Nicaea" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/127573?len=23584">"Canon and Trinity" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/418897?len=27699">"The Church in the Fourth Century: <em>Doctrine, Organization, and Literature</em>" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/292758?len=63714">“Councils and Creeds: Defining and Defending the Faith” (Wright) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/400189?len=53404">"The Outbreak of the Controversy" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/132860?len=42690">"Realities of Empire: <em>The Council of Nicaea (325)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/282460?len=21537">"Splitting Important Hairs: The Doctrine of the Trinity" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

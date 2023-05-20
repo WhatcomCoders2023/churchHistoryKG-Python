@@ -1,0 +1,114 @@
+<p>Level: 1
+Status: Released
+Identifier: SpreadsToEurope
+Parents: Root
+Eras: bk.era:nicenechurchera; bk.era:byzantinechurchera</p>
+<h1>Christianity Spreads to Europe</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.341-800">341–800</a></li>
+<li><strong>Description:</strong> Christianity spread across Europe through the efforts of monastic missionaries. </li>
+</ul>
+<h2>Summary</h2>
+<p>Christianity continued to expand after the union of the church and the Roman Empire primarily through the missional efforts of monks. After Constantine moved the capital of the Roman Empire to Constantinople in the East, the Western Roman Empire was left to fend off invasions from the Goths and Vandals from the North. Encounters with the German tribes provided the church an opportunity to spread the Christian message while expanding its reach and influence through the establishment of monasteries. As barbarian kings were converted, Christendom spread throughout Europe and reached its culmination in the crowning of Charlemagne as Holy Roman Emperor.</p>
+<h2>Key Developments</h2>
+<ul>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Goths_People">Goths</a> were evangelized and converted to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> (<a href="date.300+100-500+100">300s–500s</a>).</li>
+<li>The divide between the churches in the East and West deepened (<a href="date.330-1215">330–1215</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a> evangelized Europe (<a href="date.300+100+m-700+100">mid-300s–700s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a> developed in the Western church (<a href="date.300+100-800+100">300s–800s</a>).</li>
+<li>Germanic tribes from the North invaded <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a>, ending the succession of Roman <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperors</a> and shifting political power to the East (<a href="date.400+100">400s</a>).</li>
+<li>Europe converted to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NiceneCreed_Writing">Nicene Orthodoxy</a> as Arianism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pagans">paganism</a> declined (<a href="date.500+100">500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CelticChurches">Celtic Christianity</a> developed in Europe with distinctive practices and liturgy from that of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> (<a href="date.600+100">600s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Islam_Belief">Islam</a> spread in the Near East (<a href="date.600+100+m">mid-600s</a>).</li>
+<li>The <a href="bk.@HolyRomanEmpire">Holy Roman Empire</a> was established (<a href="date.800">800</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="bio.Charlemagne">Charlemagne</a> (<a href="date.742.4.2-814.1.28">April 2, 742–January 28, 814</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a>  (800--814), which was ruled by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carolingians_People">Carolingians</a> and united much of western Europe; he was crowned emperor in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIII_Person">Pope Leo III</a>, which is often regarded as the culmination of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christendom">Christendom</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ulfilas_Person">Ulfilas</a> (<a href="date.311+c-382+c">c. 311–c. 382</a>): bishop of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Goths_People">Goths</a>; Cappadocian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a> and Bible translator; he translated the Bible into <a href="https://ref.ly/logos4/Factbook?ref=bk.%25gothicVersions">Gothic</a> and is credited with creating the Gothic alphabet; an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a>, he helped to spread Arian Christianity among the Western Goths.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Patrick.1">Patrick</a> (<a href="date.385+c-461+c">c. 385–c. 461</a>): bishop and missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Ireland">Ireland</a>; he was captured by Irish pirates and lived in captivity for six years before he was able to escape; he later returned to Ireland after receiving religious training in order to evangelize the island; author of <a href="bk.%ConfessionOfStPatrick_Writing"><em>Confession of Saint Patrick</em></a>, which recounts his life, captivity, conversion, and calling to evangelize Ireland.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintColumba_Person">Columba</a> (<a href="date.521.12.7-597.6.9">December 7, 521–June 9, 597</a>): Irish missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25abbot">abbot</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Iona_Place">Iona</a>; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a> at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Iona_Place">Iona</a> and <a href="bk.@Durrow">Durrow</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AugustineCanterbury">Augustine of Canterbury</a> (d. <a href="date.604">604</a>): the first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a>  of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Canterbury">Canterbury</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augustinians_People">Augustinian</a> <a href="bk.%monkReligiousBrother">monk</a> and missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a>; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AngloSaxonChurch">Anglo Saxon Church</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintWilfrid_Person">Wilfrid</a> (<a href="date.634-709">634–709</a>):  English missionary to Sussex and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40York">York</a>; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Abbey">abbey</a> at Selsey; an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine monasticism</a>, he introduced the Rule of <a href="https://ref.ly/logos4/Factbook?ref=bio.BenedictNursia">Benedict</a> while serving as abbot of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ripon_Place">Ripon</a>; helped spread <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman</a> liturgy and practices in the English church in lieu of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25celticLiturgy">Celtic liturgy</a> and practices.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Boniface">Boniface</a> (<a href="date.675-754.6.5">675–June 5, 754</a>): Anglo-Saxon monk and missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a>; archbishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Mainz">Mainz</a>; he established several monasteries in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40FrankishEmpire">Frankish Empire</a>.</li>
+</ul>
+<h3><a href="bk.%kingship">Monarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingClovis_Person">Clovis</a> (<a href="date.466-511">466–511</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%23king">king</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franks_People">Franks</a>; he converted to Nicene Christianity and went to war against the Arian Visgoths in southern France. </li>
+<li><a href="bio.SigismundOfBurgundy">Sigismund</a> (<a href="date.475+c-524">c. 475–524</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burgundy_Place">Burgundy</a>; he converted from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> to Nicene Orthodoxy; the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burgundians_People">Burgundians</a> also converted.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Recared_Person">Recared</a> (<a href="date.559+c-601.12">c. 559–December 601</a>): king of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Visigoths_People">Visigoths</a> (<a href="date.586-601">586--601</a>); he converted from Arianism to Nicene Orthodoxy; the nobles and clergy also converted.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintEthelbert_Person">Ethelbert of Kent</a> (d. <a href="date.616">616</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Kent">Kent</a>; first English king to convert to Christianity.</li>
+</ul>
+<h3><a href="bk.%pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintGregoryI_Person">Gregory I</a> (<a href="date.540-604">540-604</a>): <a href="bk.%pope">pope</a> and bishop of Rome (<a href="date.590-604">590--604</a>); an advocate for missions, he commissioned the Gregorian mission to the Anglo-Saxons which was led by Augustine of Canterbury.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIII_Person">Leo III</a> (<a href="date.750-816.6.12">750-June 12, 816</a>): pope and bishop of Rome (<a href="date.795-816">795--816</a>); he crowned Charlemagne emperor of the Holy Roman Empire.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">Scholars</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.IsidoreSeville">Isidore of Seville</a> (<a href="date.560-636.4.4">560–April 4, 636</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; archbishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Seville_Place">Seville</a>; <a href="bk.%LatinChurchFathers_People">Latin church father</a>; author of <a href="bk.%Etymologies_Writing"><em>Etymologies</em></a>, which compiles and classifies the knowledge of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ancient">antiquity</a> available during the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MiddleAges">Middle Ages</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.saintbedevenerable">Bede the Venerable</a> (<a href="date.672-735.5.26">672–May 26, 735</a>): monk and first English historian; author of <a href="bk.%EcclesiasticalHistoryOfTheEnglish_Writing"><em>Ecclesiastical History of the English People</em></a>, which documents Roman Catholic missions in England and addresses the conflict between the supporters of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25romanRite">Roman Rite</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25celticLiturgy">Celtic liturgy</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<ul>
+<li><a href="date.341">341</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aulfilaordainedbishop">Ulfilas is ordained as bishop</a> to the Goths.</li>
+<li><a href="date.410">410</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3avisigothssiegerome">Visigoths lay siege to Rome</a>; Rome declines.</li>
+<li><a href="date.432">432</a>: <a href="bk.tle:patricksmissionirelandbegins">Patrick's mission to Ireland begins</a>.</li>
+<li><a href="date.455">455</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3avandalssackrome">Vandals sack Rome</a>.</li>
+<li><a href="date.476">476</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afallwesternromanempire">The Western Roman Empire falls</a>.</li>
+<li><a href="date.520">520</a>: <a href="bk.tle:monasteriesflourishireland">Monasteries flourish in Ireland</a>.</li>
+<li><a href="date.589">589</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltoledo1">The Council of Toledo</a> announces the conversion of Recared and the Visigoths.</li>
+<li><a href="date.597">597</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopegregorygreatcommissions">Pope Gregory the Great commissions Augustine to convert Great Britain</a>.</li>
+<li><a href="date.600+100">600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adiscrepanciesbetweenroman">Discrepancies arise between Roman and Celtic churches</a>.</li>
+<li><a href="date.601">601</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abaptismkingathelbertkent">King Athelbert of Kent is baptized</a>.</li>
+<li><a href="date.600+100+m">mid-600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ariseislam">The rise of Islam</a> in the Near East.</li>
+<li><a href="date.664">664</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SynodofWhitby">The Synod of Whitby</a> favors Roman practices over Celtic.</li>
+<li><a href="date.732">732</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abattletours">The Franks defeat Islamic invaders in the Battle of Tours</a> preventing the spread of Islam to the West.</li>
+<li><a href="date.768">768</a>: <a href="bk.tle:charlemagneconquerswesterneurope">Charlemagne conquers Western Europe</a>.</li>
+<li><a href="date.800">800</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharlemagnecrownedholyroman">Charlemagne is crowned Holy Roman Emperor</a> by Leo III.</li>
+</ul>
+<h2>Key Places</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was evangelized by Augustine of Canterbury.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was evangelized by Boniface, formerly the eastern <a href="https://ref.ly/logos4/Factbook?ref=bk.%40FrankishEmpire">Frankish Empire</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Ireland">Ireland</a> was evangelized by Patrick.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40NearEast">Near East</a> was the birthplace and center of Islam beginning in the <a href="date.601+100">seventh century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a> was evangelized by Columba.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> originally spread among the Germanic tribes but eventually declined as they converted to Nicene Orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CelticChurches">Celtic churches</a> helped to spread Celtic Christianity in Europe, which was distinct from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> in its liturgy and practices.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25christendom">Christendom</a> spread throughout Europe during the early Middle Ages and led to the founding of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missions</a> were commissioned by popes to the peoples of Europe and helped to spread Nicene Orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">Monasteries</a> were established throughout Europe by missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NiceneCreed_Writing">Nicene Creed</a> established Nicene Orthodoxy and the doctrine of the Trinity. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pagans">Paganism</a> declined as Christianity spread through Europe.</li>
+</ul>
+<h2>Key Documents</h2>
+<h3><a href="bk.%confessionLiterature">Confessions</a></h3>
+<ul>
+<li><a href="bk.%ConfessionOfStPatrick_Writing"><em>Confession of Saint Patrick</em></a> (<a href="date.401+100">fifth century</a>): a spiritual autobiography that recounts Saint Patrick's life, captivity, conversion, and calling to Ireland and its people.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25history">Histories</a></h3>
+<ul>
+<li><a href="bk.%EcclesiasticalHistoryOfTheEnglish_Writing"><em>Ecclesiastical History of the English People</em></a> (Bede the Venerable, <a href="date.731">731</a>): a history of the church in England and the English people; addresses the conflict between the supporters of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25romanRite">the Roman Rite</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25celticLiturgy">Celtic liturgy</a>; includes accounts of missionary activity in Europe.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Summa">Summae</a></h3>
+<ul>
+<li><a href="bk.%Etymologies_Writing"><em>Etymologies</em></a> (Isidore of Seville, <a href="date.600+c-625">c. 600–625</a>): etymological encyclopedia compiling and classifying the knowledge of antiquity available in the early Middle Ages; preserves a number of classical texts.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/77580?len=332">"The Conversion of the Barbarian Tribes" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/271349?len=48137">"The Culmination of Christendom: <em>The Coronation of Charlemagne (800)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/96096?len=23646">"Expansion" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/567125?len=18394">"The Germanic Kingdoms" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/459090?len=24486">"The Search for Unity: Charlemagne and Christendom" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/616746?len=43875">"Transitions to the Middle Ages: <em>Germanic Migrations, Doctrinal Developments, and the Papacy</em>" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/477681?len=43055">“The West in Crisis” (Rosenberg) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+</ul>

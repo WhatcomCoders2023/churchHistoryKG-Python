@@ -5,10 +5,10 @@ import os
 
 # input_path = 'faithlife_model_data/faithlife_data.jsonl'
 input_path = 'faithlife_model_data'
-output_train_path = 'ml/data/train1.json'
-output_dev_path = 'ml/data/dev1.json'
-output_no_label_path = 'ml/data/no_label1.json'
-output_test_path = 'ml/data/test1.json'
+output_train_path = 'ml/data/train.json'
+output_dev_path = 'ml/data/dev.json'
+output_no_label_path = 'ml/data/no_label.json'
+output_test_path = 'ml/data/test.json'
 
 no_label_doc_keys = [
     'ChristianApologists', 'OrganizationUnderBishops',
@@ -27,7 +27,6 @@ def new_split(input_path: str):
         file_path = os.path.join(input_path, json_file_path)
         with open(file_path, 'r') as f:
             for line in f:
-                json_obj = json.loads(line.strip())
                 json_obj = json.loads(line.strip())
                 doc_key = json_obj['doc_key']
                 if doc_key in no_label_doc_keys:

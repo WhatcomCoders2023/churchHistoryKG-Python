@@ -1,0 +1,144 @@
+<p>Level: 1
+Status: Released
+Identifier: MonasticReform
+Parents: Root
+Eras: bk.era:byzantinechurchera; bk.era:medievalchurchera</p>
+<h1>Monastic Reform Spreads to the Papacy</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.909-1215">909–1215</a></li>
+<li><strong>Description:</strong> Revival within medieval monasticism led to reforms within the church and papacy.</li>
+</ul>
+<h2>Summary</h2>
+<p>Western Christendom experienced a period of political and spiritual decline in the ninth century. Under the influence of feudalism, the medieval church struggled to retain its spiritual devotion; meanwhile, monasticism languished as monasteries were destroyed by Viking invaders in search of wealth. Dissatisfied with the state of the church and the encroaching effect of lay control, monastic reformers revived monasticism. This reform movement was characterized by a return to the Rule of Saint Benedict and the establishment of monasteries under the authority of Rome, releasing monastic orders from the control of the laity. The monastic reform movement eventually spread to the papacy. Widespread reforms were established within the Roman Catholic Church as papal reformers sought to reassert the authority of the church and the office of the pope in the continued struggle between church and state. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feudalism">feudalism</a> placed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">churches</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a> under the control of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25laity">laity</a> (<a href="date.700+100-1000+100">700s–1000s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25wealth">Wealth</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25worldly">worldly</a> influences led to corruption and laxity within monasteries and the church (<a href="date.800+100-900+100">800s–900s</a>).</li>
+<li>Monasteries were destroyed by invaders from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denmark_Place">Denmark</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Norway_Place">Norway</a> (<a href="date.800+100-900+100">800s–900s</a>).</li>
+<li>The practice of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25simony">simony</a> became widespread (<a href="date.800+100-1100+100">800s–1100s</a>).</li>
+<li>New <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">monastic orders</a> were founded with the goal of reforming monasticism through strict adherence to the <a href="bk.%RuleOfSaintBenedict_Writing">Rule of Saint Benedict</a>, most notably at <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Cluny">Cluny</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Clairvaux_Place">Clairvaux</a> (<a href="date.900+100-1000+100">900s–1000s</a>).</li>
+<li>Monastic reform established independence from the local feudal lords and placed monasteries under the authority of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a> (<a href="date.900+100-1000+100">900s–1000s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">Celibacy</a> was required for all <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergy</a> (<a href="date.1000+100">1000s</a>).</li>
+<li>Several <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CluniacsCluny">Cluniac monks</a> ascended to the papacy and continued to implement religious reforms within the church (<a href="date.1000+100">1000s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25investitureControversy">Investiture Controversy</a> was resolved (<a href="date.1076-1122">1076–1122</a>).</li>
+<li>The power of the church was centralized under the papacy (<a href="date.1215">1215</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%monasticism">Monastic Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintOdo.1_Person">Odo</a> (<a href="date.878-942.11.18">878–November 18, 942</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25abbot">abbot</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Cluny">Cluny</a> (<a href="date.927-942">927-942</a>); <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkReligiousBrother">monk</a>; led monastic reforms in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalLegate">papal legate</a> of <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeGregoryVII">Pope Gregory VII</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintHughOfCluny_Person">Hugh</a> (<a href="date.1024.5.13-1109.4.28">May 13, 1024–April 28, 1109</a>): abbot of Cluny; the monastery at Cluny became highly influential during his time as abbot, and many new monasteries were established throughout <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Europe_Place">Europe</a>; he was an advisor to several reforming popes, including Leo IX and Urban II.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BernardClairvaux">Bernard of Clairvaux</a> (<a href="date.1090-1153.8.20">1090–August 20, 1153</a>): French abbot; Benedictine monk; he lead monastic reforms in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burgundy_Place">Burgundy</a> (present-day France); established <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cistercians_People">Cistercian</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monastery</a> at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Clairvaux_Place">Clairvaux</a>; pushed for simplicity in monastic life.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PetertheVenerable_Person">Peter the Venerable</a> (<a href="date.1092+c-1156">c. 1092-1156</a>): abbot of Cluny; Benedictine monk; he lead monastic reforms within the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CluniacsCluny">Cluniac order</a>; achieved financial and intellectual reforms.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIX_Person">Leo IX</a> (<a href="date.1002-1054">1002–1054</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1048-1054">1048-1054</a>); papal reformer; enforced <a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">celibacy</a> among <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergy</a>; issued decrees against <a href="bk.%simony">simony</a>; he established the Sacred College of Cardinals in Rome.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeGregoryVII">Gregory VII</a> (<a href="date.1015+c-1085.5.25">c. 1015–May 25, 1085</a>): pope and bishop of Rome (<a href="date.1073-1085">1073--1085</a>); papal reformer; advisor to Pope Leo IX; initiated <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agregorianreformchurch">Gregorian Reforms</a> within the clergy; prior to his papacy, he was a Benedictine monk at Cluny; author of <a href="bk.%DictatusPapae_Writing"><em>Dictatus papae</em></a>, which affirms the supreme authority of the pope.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeUrbanII">Urban II</a> (<a href="date.1042-1099">1042–1099</a>): pope and bishop of Rome (<a href="date.1088-1099">1088–1099</a>); papal reformer; he supported Gregorian reforms; prior to his papacy, he was <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ostia_Place">Ostia</a> and a Benedictine monk at Cluny.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeCallistusII">Callistus II</a> (<a href="date.1050-1124.12.13">1050–December 13, 1124</a>): pope and bishop of Rome (<a href="date.1119-1124">1119–1124</a>); he was elected pope at Cluny and reigned during the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25investitureControversy">Investiture Controversy</a>; he established the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConcordatofWorms_Writing">Concordat of Worms</a> with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HenryVOfGermany_Person">Henry V</a>; convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25councilOfLateran1123">First Lateran Council</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeInnocentIII">Innocent III</a> (<a href="date.1160-1216.7.16">1160–July 16, 1216</a>): pope and bishop of Rome (<a href="date.1198-1216">1198--1216</a>); he convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">Fourth Lateran Council</a>, which established papal authority over all the church; author of <a href="bk.%PerVenerabilem_Writing"><em>Per Venerabilem</em></a>, which affirms the pope's authority to affirm or deny appointed emperors.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictines</a> (est. <a href="date.529">529</a>): monastic order founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.BenedictNursia">Benedict of Nursia</a>; monasteries revived the strict adherence to the Rule of Saint Benedict in the ninth and tenth centuries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CluniacsCluny">Cluniacs</a> (est. <a href="date.910">910</a>): monastic order founded by <a href="bio.WilliamThePious">William the Pious</a>; center of monastic reform in the early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MiddleAges">Middle Ages</a>; followed strict interpretation of the Rule of Saint Benedict.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cistercians_People">Cistercians</a> (est. <a href="date.1098">1098</a>): monastic order co-founded by <a href="bk.%SaintRobert_Person">Robert of Molesme</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintStephenHarding_Person">Stephen Harding</a>, and others; followed strict interpretation of the Rule of Saint Benedict. </li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.793">793</a>: <a href="bk.tle:vikingsraidmonasteryatlindisfarne">Vikings raid the monastery at Lindisfarne</a>, beginning the Age of the Vikings.</li>
+<li><a href="date.800+100">800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3avikingsinvadeeurope">Vikings invade Europe</a>.</li>
+<li><a href="date.800+100-900+100">800s–900s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adanishnormanbarbariansdestroy">Danish and Norman barbarians destroy many monasteries in France and England</a>.</li>
+<li><a href="date.909">909</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adukeaquitaineestablishes">duke of Aquitaine establishes a monastery at Cluny</a>.</li>
+<li><a href="date.962">962</a>: <a href="bk.tle:ottoirevivesholyromanempire">Otto I revives the Holy Roman Empire</a> and is crowned Holy Roman Emperor by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeJohnXII_Person">Pope John XII</a>.</li>
+<li><a href="date.1000+100">1000s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agregorianreformchurch">Gregorian Reform in the church</a> opposes the abuse of simony and establishes papal reforms.</li>
+<li><a href="date.1000+100">1000s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acelibacyrequiredallpriests">Celibacy is required for all priests in the western church</a>.</li>
+<li><a href="date.1000+100-1100+100">1000s--1100s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonasteryclunyflourishes">monastery at Cluny flourishes</a>.</li>
+<li><a href="date.1050">1050</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asacredcollegecardinalsrome">Sacred College of Cardinals in Rome is established</a> by Pope Leo IX.</li>
+<li><a href="date.1054">1054</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aeastwestschism">East-West Schism</a> separates the church into Roman Catholicism and Eastern Orthodoxy.</li>
+<li><a href="date.1059">1059</a>: <a href="bk.tle:popenicholasiidecreescardinalselectpope">Pope Nicholas II decrees that cardinals elect the Pope</a>.</li>
+<li><a href="date.1076">1076</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopegregoryviiexcommunicates">Pope Gregory VII excommunicates Emperor Henry IV</a>.</li>
+<li><a href="date.1115">1115</a>: <a href="bk.tle:bernardclairvauxestablishescistercianmonastery">Bernard of Clairvaux establishes a Cistercian monastery</a>.</li>
+<li><a href="date.1122">1122</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConcordatofWorms_Writing">Concordat of Worms</a> ends the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25investitureControversy">Investiture Controversy</a>.</li>
+<li><a href="date.1123">1123</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25councilOfLateran1123">First Lateran Council</a> confirms the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConcordatofWorms_Writing">Concordat of Worms</a>, prohibiting lay investiture.</li>
+<li><a href="date.1139">1139</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25councilOfLateran1139">Second Lateran Council</a> establishes reforms among the clergy.</li>
+<li><a href="date.1179">1179</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirdlaterancouncil">Third Lateran Council</a> condemns the practice of simony and establishes other clerical reforms.</li>
+<li><a href="date.1202">1202</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopeinnocentiiiclaims">Pope Innocent III claims jurisdiction over European rulers</a>.</li>
+<li><a href="date.1215">1215</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afourthlaterancouncil">Fourth Lateran Council under Innocent III</a> affirms the pope's authority over all the church.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burgundy_Place">Burgundy</a> (present-day <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a>) was a center of monastic reform in the Middle Ages; Clairvaux and Cluny were a part of the Kingdom of Burgundy. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Citeaux_Place">Cîteaux</a> was the original house of the Cistercian Oder.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Clairvaux_Place">Clairvaux</a> was the location of the Cistercian monastery Clairvaux Abbey that established several other monasteries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Cluny">Cluny</a> was the center of medieval monastic reform; the Cluniac Order originated here and established a Benedictine monastery.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> was revived with the crowning of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OttoI_Person">Otto I</a> by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeJohnXII_Person">Pope John XII</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of the Western church; residency of the papacy.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">Cardinal</a> was established as an office of the church to elect and advise the pope and to help govern the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25celibacy">Celibacy</a> was imposed on clergy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25excommunication">Excommunication</a> was used by the papacy to exert authority over emperors.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25investitureControversy">Investiture Controversy</a> was resolved by the Concordat of Worms between Pope Callistus II and Holy Roman Emperor Henry V; the power to select and appoint bishops and abbots resided with the pope while the emperor had the authority to grant temporal powers to the clergy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LateranCouncils">Lateran councils</a> were convened to establish reforms within the Roman Catholic Church and affirmed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">papal primacy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">Monasteries</a> were destroyed by Viking invaders; new monasteries were established during a period of monastic reform.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">Monasticism</a> experienced a revival in the Middle Ages.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ProprietaryChurch">Proprietary churches</a> were established under <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feudalism">feudalism</a> and were under the control of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25laity">laity</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">Reform</a> developed out of monastic revival and spread to the papacy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25simony">Simony</a> was opposed by monastic reformers.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%custumal">Custumals</a></h3>
+<ul>
+<li><a href="bk.%CustumalOfCluny_Writing"><em>Custumal of Cluny</em></a> (<a href="date.1001+100">eleventh century</a>): describes life in the Cluniac monasteries and the customs and routines of the monks.</li>
+</ul>
+<h3><a href="bk.%DictatusPapae_Writing"><em>Dictatus papae</em></a></h3>
+<ul>
+<li><a href="bk.%DictatusPapae_Writing"><em>Dictatus papae</em></a> (Gregory VII, <a href="date.1075">1075</a>): a list of twenty-seven statements that affirm the supreme authority of the pope, including the right to depose bishops and emperors.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FalseDecretals">False Decretals</a></h3>
+<ul>
+<li><a href="bk.%PseudoIsidorianDecretals_Writing"><em>Pseudo-Isidorian Decretals</em></a> (<a href="date.801+100+c">c. ninth century</a>): collection of forged and modified documents; assert the supremacy of Rome over all the church as well as the church's independence from the state.</li>
+</ul>
+<h3><a href="bk.%monasticRule">Monastic Rules</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RuleOfSaintBenedict_Writing"><em>The Rule of Saint Benedict</em></a> (<a href="date.530">530</a>): rule used to guide monastic life; followed strictly by reformed monasteries in the Middle Ages.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="bk.%PerVenerabilem_Writing"><em>Per Venerabilem</em></a> (Pope Innocent III, <a href="date.1202">1202</a>): addressed to the Duke of Zähringen; addresses the authority of the pope to approve of the appointment of emperors.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/841819?len=40998">"Decline and Renewal of Vitality in the West: <em>The Ninth to Eleventh Centuries"</em> in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/556691?len=25004">"Flowering: The Western Church: Reform and Resurgence" (Clouse) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/675781?len=25650">"Monasticism in the West" (Finucane) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/685479?len=50219">"New Invasions" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/250243?len=8616">"Popes, Councils, and Princes" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/276665?len=3651">"Religious Orders and Beguines" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/478343?len=5227">"Setting in Order the House of God" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

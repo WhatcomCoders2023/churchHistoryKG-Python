@@ -1,0 +1,151 @@
+<p>Level: 1
+Status: Released
+Identifier: BibleTranslated
+Parents: Root
+Eras: bk.era:nicenechurchera; bk.era:byzantinechurchera; bk.era:medievalchurchera; bk.era:reformationera</p>
+<h1>The Christian Bible Is Translated Into Many Languages</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.382-1611">382-1611</a></li>
+<li><strong>Description:</strong> Following the canonization of the New Testament, the Christian Bible was translated into other languages and became widely available with the invention of the printing press.</li>
+</ul>
+<h2>Summary</h2>
+<p>The Septuagint, the Greek version of the Old Testament, was the Bible of the early church. Other writings, those of the apostles and other influential Christian leaders, were circulated among the churches. Soon the church began to collect these writings and establish the New Testament canon. As Latin prevailed in the Western church, the number of Latin translations in use grew. The translation of the Vulgate, originally based on the Greek Septuagint but later amended to reflect the Hebrew Bible, eventually became the authorized version of the Roman Catholic Church, and translation of the Bible into the vernacular was discouraged. The rise of humanism during the Renaissance and Reformation led to a renewed interest in the original Hebrew and Greek texts of the Bible and renewed demands for vernacular translations. As Protestantism spread across Europe and gained the support of monarchs, the Bible was translated into a variety of languages and became even more accessible with the invention of the printing press.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25manuscript">Biblical manuscripts</a> were <a href="bk.%translationOfTheBible">translated</a> into <a href="https://ref.ly/logos4/Factbook?ref=bk.%25oldLatinVersions">Latin</a> (<a href="date.100+100+l">late 100s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a> was <a href="https://ref.ly/logos4/Factbook?ref=bk.%25newTestamentCanon">canonized</a> (<a href="date.300+100+m">mid-300s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Latin Vulgate</a> was translated (<a href="date.302-405">382–405</a>.</li>
+<li>Woodblock <a href="https://ref.ly/logos4/Factbook?ref=bk.%25printing">printing</a> was invented in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> (<a href="date.600+100">600s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleTranslation">Bible translations</a> into the vernacular that were not approved by the Roman Catholic Church were discouraged and eventually prohibited by the church and some European monarchs (<a href="date.800+100-1800+100">800s–1800s</a>).</li>
+<li>The rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanism</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MiddleAges">Late Middle Ages</a> led to a renewed interest in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreekLanguage_Language">Greek</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HebrewLanguage_Language">Hebrew</a> texts of the Bible (<a href="date.1350+c">c. 1350</a>).</li>
+<li>Reformers emphasized the <a href="https://ref.ly/logos4/Factbook?ref=lsto.BibleAuthority">authority of Scripture</a> as the basis for Christian doctrine (<a href="date.1300+100-1500+100">1380s–1500s</a>.</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ainventionprintingpress">printing press was invented</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> (<a href="date.1450+c">c. 1450</a>).</li>
+<li>The first Bible was printed (<a href="date.1453-1456">1453–1456</a>).</li>
+<li>The number of Bible translations grew rapidly despite facing opposition from state and church authorities <a href="date.1453-1500+100">1453–1500s</a>).</li>
+<li>As <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestantism</a> spread and was established as the state religion throughout Europe, Bible translations were commissioned by heads of state (<a href="date.1541-1611">1541-1611</a>).</li>
+<li>The Vulgate became the official Bible of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> (<a href="date.1546">1546</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible Translators</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerome_Person">Jerome</a> (<a href="date.347-420.9.30">347–September 30, 420</a>): <a href="bk.%LatinChurchFathers_People">Latin church father</a>; translator of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Vulgate</a>, which became the official text of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintBedeTheVenerable_Person">Bede the Venerable</a> (<a href="date.672-735.5.26">672–May 26, 735</a>): English <a href="bk.%monkReligiousBrother">monk</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; he translated the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfJohn_Writing">Gospel of John</a> into Old English.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnWycliffe_Person">John Wycliffe</a> (<a href="date.1330-1384">1330–1384</a>): English scholar and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; he advocated for, and possibly played some role in the translation of, an English vernacular version of the Bible which resulted in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WyclifsVersion_Writing">Wycliffe Bible</a> (English); he was declared a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heretic">heretic</a> after his death.</li>
+<li><a href="bio.niccolomalermi">Niccolò Malermi</a> (<a href="date.1422+c-1481">c. 1422–1481</a>): Italian biblical scholar; translator of the <a href="bk.%MalermiBible_Writing">Malermi Bible</a>, which was the first printed Italian translation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JacobusFaber_Person">Jacques Lefèvre d’Étaples</a> (<a href="date.1455-1536">1455–1536</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanist</a>; he was the first to translate the Bible into French.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.DesideriusErasmus">Desiderius Erasmus</a> (<a href="date.1466.10.27-1536.7.12">October 27, 1466–July 12, 1536</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dutch_People">Dutch</a> Roman Catholic theologian, scholar, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanist</a>; he translated the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a> into <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin</a> based off the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Vulgate</a> and included a collation of Greek texts which became known as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TextusReceptus_Writing">Textus Receptus</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> (<a href="date.1483.11.10-1546.2.18">November 10, 1483–February 18, 1546</a>): German Protestant Reformer; translator of the <a href="bk.%LutherBible_Writing">Luther Bible</a> (German).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamTyndale_Person">William Tyndale</a> (<a href="date.1494-1536.10.6">1494–October 6, 1536</a>): English Protestant Reformer; translator of the <a href="bk.%Tyndale_BibleTranslation">Tyndale Bible</a>, which was the first Bible printed in English; he was burned at the stake after being charged with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.antoniobrucioli_1">Antonio Brucioli</a> (<a href="date.1498+c-1566.12.6">c. 1498–December 6, 1566</a>): Italian writer, publisher, and humanist; first to translate the Bible into Italian.</li>
+<li><a href="bio.casiodorodereina">Casiodoro de Reina</a> (<a href="date.1520+c-1594.3.15">c. 1520–March 15, 1594</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spanish</a> theologian; he translated the first complete Spanish Bible.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GiovanniDiodati_Person">Giovanni Diodati</a> (<a href="date.1576.6.6-1649.10.3">June 6, 1576–October 3, 1649</a>): Italian theologian; adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a>; translator of <a href="bk.%GiovanniDiodatiBibbia_Writing">Diodati Bible</a>, which was used by Italian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a>.</li>
+</ul>
+<h3><a href="bk.%kingship">Monarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.GustavusVasa">Gustav I</a> (<a href="date.1496.5.12-1560.9.29">May 12, 1496–September 29, 1560</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%23king">king</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Sweden">Sweden</a> (<a href="date.1523-1560">1523-1560</a>); established <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheranism</a> as the state religion; commissioned the translation of the <a href="bk.%GustavVasaBible_Writing">Gustav Vasa Bible</a>, which was the first Bible printed in Swedish.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianIII.1_Person">Christian III</a> (<a href="date.1503.8.12-1559.1.1">August 12, 1503–January 1, 1559</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denmark_Place">Denmark</a> (<a href="date.1534-1559">1534--1559</a>) and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Norway_Place]">Norway</a> (<a href="date.1537-1559">1537--1559</a>); established Lutheranism as the state religion; commissioned the <a href="bk.%ChristianIIIBible_Writing">Christian III Bible</a>, which was the first Bible printed in Danish.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingJamesIEngland_Person">James I</a> (<a href="date.1566.6.19-1625.3.27">June 19, 1566–March 27, 1625</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Ireland">Ireland</a> (<a href="date.1603-1625">1603--1625</a>) and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Scotland">Scotland</a> (<a href="date.1567-1625">1567-1625</a>); he commissioned the translation of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingJamesVersion_Writing">King James Version</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeDamasusI">Damasus I</a> (<a href="date.305-384.12.11">305–December 11, 384</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.366-384">366--384</a>); he commissioned <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerome_Person">Jerome</a> to translate the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Vulgate</a>.</li>
+</ul>
+<h3><a href="bk.%printing">Printers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannesMentelin_Person">Johannes Mentelin</a> (<a href="date.1410+c-1478.12.12">c. 1410–December 12, 1478</a>): German printer of the <a href="bk.%MentelinBible_Writing">Mentelin Bible</a>, which was the first German Bible printed, as well as the first Bible printed in any language other than Latin.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannGutenberg_Person">Johann Gutenberg</a> (<a href="date.1398-1468.2.3">1398–February 3, 1468</a>): German inventor, printer, and publisher; he invented the moveable-type printing press and printed the first Bible known as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MazarinBible_Object">Gutenberg Bible</a>, an edition of the Latin Vulgate.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.300+100+m">mid-300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anewtestamentcanonsetteled">New Testament canon is settled</a>.</li>
+<li><a href="date.382-405">382–405</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3avulgatestjeromewritten">The Vulgate by St. Jerome is translated</a>, which becomes the official text of the Roman Catholic Church.</li>
+<li><a href="date.616">616</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abibletranslatedintoaramaic">The Bible is translated into Syriac by Thomas Harkel</a>.</li>
+<li><a href="date.1229">1229</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltoulouse">Council of Toulouse</a> forbids laity from possessing vernacular translations of the Bible, with exceptions made for the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfPsalms_Writing">Psalter</a> and liturgical books.</li>
+<li><a href="date.1234">1234</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounciltarragona">Council of Tarragona</a> forbids vernacular translations of the Bible.</li>
+<li><a href="date.1380+10">1380s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstappearancejohnwycliffes">First appearance of John Wycliffe's translation of the Bible</a>.</li>
+<li><a href="date.1414-1418">1414–1418</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstance">Council of Constance</a> condemns John Wycliffe.</li>
+<li><a href="date.1450+c">c. 1450</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ainventionprintingpress">Invention of the printing press</a> revolutionizes the production of written works.</li>
+<li><a href="date.1453-1456">1453–1456</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agutenbergbiblepublished">Gutenberg Bible is published</a>.</li>
+<li><a href="date.1466">1466</a>: <a href="bk.tle:johannmentelinprintsfirstgermanbible">Johann Mentelin prints the first German Bible</a>.</li>
+<li><a href="date.1522">1522</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agermantranslationnewtestament">German translation of the New Testament by Luther is published</a>.</li>
+<li><a href="date.1523">1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrenchtranslationbiblelefevre2">Lefevre's French translation of the Bible of is published</a>, the first of its kind.</li>
+<li><a href="date.1528">1528</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atyndalecondemnedtranslating">Tyndale is condemned for translating the Bible</a>.</li>
+<li><a href="date.1539">1539</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agreatbiblepublished">The Great Bible is published</a> with support from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasCranmer_Person">Thomas Cranmer</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasCromwell_Person">Thomas Cromwell</a>.</li>
+<li><a href="date.1541">1541</a>: <a href="bk.tle:gustavvasabibleispublished">The Gustav Vasa Bible is published</a> and is the first printed Swedish translation.</li>
+<li><a href="date.1550">1550</a>: <a href="bk.tle:christianiiibibleispublished">The Christian III Bible is printed</a> and is the first printed Danish translation.</li>
+<li><a href="date.1560">1560</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agenevabiblepublished">The Geneva Bible is published</a>.</li>
+<li><a href="date.1569">1569</a>: <a href="bk.tle:casiodorodereinatranslatesbiblespanish">Casiodoro de Reina translates the Bible into Spanish</a>.</li>
+<li><a href="date.1603">1603</a>: <a href="bk.tle:giovannidiodatitranslatesbibleitalian">Giovanni Diodati translates the Bible into Italian</a>.</li>
+<li><a href="date.1611">1611</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3akingjamesversionbiblepublished">King James Version of the Bible is published</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> was where woodblock printing was invented.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> experienced a surge in English Bible translations after the Reformation and the invention of the printing press.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where the moveable-type printing press was invented.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the center of the Roman Catholic Church; Jerome translated the Vulgate here.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agutenbergbiblepublished">Bible translations</a> were published in the vernacular of the people.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25englishVersionsOfTheBible">English versions of the Bible</a> became popular soon after the Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">Persecution</a> was experienced by many who attempted to translate the Bible.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25printing">Printing</a> allowed for mass production of Bibles.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25oldLatinVersions">Vetus Latina</a> were Latin translations of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Septuagint_Writing">Septuagint</a> from <a href="bk.@NorthAfrica">North Africa</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a>; translated earlier than Jerome's Vulgate.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible Translations</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Septuagint_Writing">Septuagint</a> (<a href="date.101+100">second century !!smallcaps|bc!!</a>): a Greek version of the Hebrew <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldTestament_Writing">Old Testament</a> that was used for many Bible translations.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Vulgate_Writing">Vulgate</a> (Jerome, <a href="date.383-405">383–405</a>): Latin translation of the Bible; became the official text of the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HarkleanVersion">Harclean Version</a> (<a href="bio.thomasofharkel">Thomas Harkel</a>, <a href="date.616">616</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SyriacLanguage_Language">Syriac</a> translation of the New Testament; included in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25syriacVersions">Syriac Bible</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WyclifsVersion_Writing">Wycliffe's Version </a> (John Wycliffe, <a href="date.1380-1384">1380–1384</a>): English vernacular translation based on the Latin Vulgate; used by English Catholics in the <a href="date.1501+100">sixteenth century</a>; it is unclear what Wycliffe's exact role in this translation was, whether he was responsible for translating, provided supervision, or merely inspired the translation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MazarinBible_Object">Gutenberg Bible</a> (Johann Gutenberg, <a href="date.1453-1456">1453–1456</a>): first printed Bible using the Latin Vulgate.</li>
+<li><a href="bk.%MentelinBible_Writing">Mentelin Bible</a> (Johann Mentelin, <a href="date.1466">1466</a>): first printed German Bible and first printed Bible in any language other than Latin.</li>
+<li><a href="bk.%MalermiBible_Writing">Malermi Bible</a> (Niccolò Malermi, <a href="date.1471">1471</a>): first Italian printed Bible.</li>
+<li><a href="bk.%LutherBible_Writing">Luther Bible</a> (Martin Luther, <a href="date.1522-1534">1522–1534</a>): German translation of the Bible based on <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TextusReceptus_Writing">Textus Receptus</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25masoreticText">Masoretic Text</a>.</li>
+<li><a href="bk.%Tyndale_BibleTranslation">Tyndale Bible</a> (William Tyndale, <a href="date.1525-1530">1525–1530</a>): English translation of the Pentateuch and New Testament based on Textus Receptus.</li>
+<li><a href="bk.%GustavVasaBible_Writing">Gustav Vasa Bible</a> (<a href="bio.laurentiusandreae">Laurentius Andreae</a>, <a href="bio.laurentiuspetri">Laurentius Petri</a>, and <a href="bio.olauspetri">Olaus Petri</a>, <a href="date.1541">1541</a>): commissioned by Gustav I of Sweden; the first Swedish Bible printed.</li>
+<li><a href="bk.%ChristianIIIBible_Writing">Christian III Bible</a> (<a href="date.1550">1550</a>): commissioned by Christian III of Denmark and Norway; the first Danish Bible printed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GenevaBible_Writing">Geneva Bible</a> (<a href="date.1560">1560</a>): English translation of the Bible with Calvinist influences; translated by a team of English Protestant scholars who were in exile during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignmaryiengland">reign of Mary I</a>; it was the primary English Protestant Bible during the Reformation; the English rendering was dependent on the Tyndale Bible; the New Testament was dependent on the Textus Receptus; first English Bible to use verse numbers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingJamesVersion_Writing">King James Version</a> (<a href="date.1611">1611</a>): English version authorized by King James I based on Textus Receptus.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25oldTestamentManuscripts">Old Testament Manuscripts</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25masoreticText">Masoretic Text</a> (<a href="date.600+c-950">c. 600–950</a>): traditional Hebrew text of the Old Testament preserved by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Masoretes">Masoretes</a> that was used for many Bible translations.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TextusReceptus_Writing">Textus Receptus</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TextusReceptus_Writing">Textus Receptus</a> (Desiderius Erasmus, <a href="date.1516">1516</a>): Greek text of the New Testament that was used for several Bible translations.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/87339?len=4340">"405 Jerome Completes the Vulgate" in <em>The 100 Most Important Events in Christian History</em> (Curits, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/185533?len=2926">"1456 Johann Gutenberg Produces the First Printed Bible" in <em>The 100 Most Important Events in Christian History</em> (Curits, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/240061?len=2807">"1611 Publication of the King James Bible" in <em>The 100 Most Important Events in Christian History</em> (Curits, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/176929?len=4053">"<em>Circa</em> 1380 Wycliffe Oversees English Bible Translation" in <em>The 100 Most Important Events in Christian History</em> (Curits, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/868940?len=12707">"A Flood of Bibles: Scripture in the Vernacular" (Lane) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/422186?len=2855">"The Vulgate" (Demarest) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+</ul>

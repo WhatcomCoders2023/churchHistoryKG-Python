@@ -1,0 +1,142 @@
+<p>Level: 1
+Status: Released
+Identifier: DeclinePapacy
+Parents: Root
+Eras: bk.era:medievalchurchera</p>
+<h1>The Decline of the Papacy in the Middle Ages</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1294-1512">1294–1512</a></li>
+<li><strong>Description:</strong> The decline of papal sovereignty over Europe and rise of national states led to a divided papacy at the end of the Middle Ages.</li>
+</ul>
+<h2>Summary</h2>
+<p>Near the end of the Middle Ages, national states began to develop and expand in Europe as monarchs attempted to consolidate power, weakening a once unified Christendom. As conflicts arose between these developing nations, the authority of the church and papacy in temporal matters was challenged. Throughout the fourteenth and fifteenth centuries, the church and state struggled to establish their respective authority amidst disputes over taxation and the appointment of church officials. Relations between France and Rome were especially volatile; at one point, France's king Philip IV had the sitting pope, Boniface VIII, kidnapped. Rome's conflict with France soon spread beyond the papacy to the College of Cardinals, causing division when it came time to elect a new pope. Under the growing influence of the French monarchy, the papacy moved to Avignon, which resulted in more conflict between the church and the expanding European monarchies. While the papacy briefly returned to Rome during the tenure of Gregory XI, he died shortly after. The next papal election led to the Great Western Schism; Urban VI's election as pope was quickly disputed, and another pope, Clement VII, was elected. While France supported the Avignon papacy, England gave its support to the Roman popes. For the next four decades, division over the papacy escalated, with two, and later three, rival popes attempting to rule at one time. The Great Western Schism was finally resolved at the Council of Constance with one pope resigning, another deposed, and Martin V elected as the one, true pope. </p>
+<h2>Key Developments</h2>
+<ul>
+<li>European monarchs restricted papal authority as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchAndState">church and state</a> struggled for absolute authority (<a href="date.1200+100-1400+100">1200s–1400s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Templars">Templars</a> were suppressed and persecuted (<a href="date.1200+100+l-1300+100+e">late 1200s–early 1300s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacymovesavignon">papacy moved to Avignon, France</a> (<a href="date.1309-1376">1309–1376</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> declined in the absence of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a> (<a href="date.1300+100">1300s</a>).</li>
+<li>The papacy returned to <a href="bk.@Rome">Rome</a> followed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agreatschism">Great Western Schism</a>, which divided the papacy between Rome and France (<a href="date.1377-1417">1377–1417</a>).</li>
+<li>The failed <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilpisa">Council at Pisa</a> resulted in the election of three popes, one in Rome, one in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Avignon">Avignon</a>, and one in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Pisa">Pisa</a> (<a href="date.1409">1409</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstance">Council of Constance</a> resolved the Great Western Schism; <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeMartinV">Martin V</a> was elected <a href="bk.%pope">pope</a> (<a href="date.1414-1418">1414–1418</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConciliarTheory">conciliar theory</a> emerged following the success of the Council of Constance (<a href="date.1400+100">1400s</a>).</li>
+<li>Conciliarism was condemned at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afifthlaterancouncil">Fifth Lateran Council</a> (<a href="date.1512-1517">1512–1517</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="bk.%emperor">Emperors</a></h3>
+<ul>
+<li><a href="bio.louisivholyromanemperor_1">Louis IV</a> (<a href="date.1283+c-1347.10.11">c. 1283–October 11, 1347</a>): <a href="bk.%emperor">emperor</a> of the <a href="bk.@HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1328-1347">1328--1347</a>); he was crowned emperor by the Romans during the Avignon papacy; deposed <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnXXII">Pope John XXII</a> and installed <a href="bio.AntipopeNicholasV">Antipope Nicholas V</a> as <a href="bk.%pope">pope</a> in <a href="bk.@Rome">Rome</a>; Nicholas V's papacy was short-lived, and he eventually submitted to John XXII.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25kingship">Monarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.EdwardI">Edward I</a> (<a href="date.1239.6.17-1307.7.7">June 17, 1239–July 7, 1307</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%23king">king</a> of <a href="bk.@England">England</a> (<a href="date.1272-1307">1272–1307</a>); he attempted to tax the church, without permission from the pope, in an attempt to raise funds for his political feud with Philip IV of France, which resulted in Pope Boniface VIII issuing the papal bull <a href="bk.%ClericisLaicos"><em>Clericis laicos</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilipIV_Person">Philip IV</a> (<a href="date.1268-1314">1268–1314</a>): king of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> (<a href="date.1285-1314">1285--1314</a>); he opposed Edward I during a conflict between England and France over land; opposed Pope Boniface VIII over the authority to appoint <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergy</a> and plotted to depose him, eventually having him kidnapped; Philip IV attempted to have Boniface VIII posthumously condemned, but the matter was eventually dropped; after Boniface's death, Philip supported Pope Clement V and pressured him to move to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Avignon">Avignon</a>; he also opposed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Templars">Templars</a>, viewing them as a threat to his power, and had the order suppressed by Pope Clement V at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilvienne">Council of Vienne</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">Mystics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintBridgetOfSweden_Person">Bridget of Sweden</a> (<a href="date.1303-1373.7.23">1303–July 23, 1373</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">mystic</a> and founder of the <a href="bk.%Bridgettines_People">Bridgettines</a>; she founded the new religious order after receiving instructions in a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25vision">vision</a>; urged <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeUrbanV_Person">Pope Urban V</a> to return the papacy to Rome; author of <a href="bk.%Revelaciones_Writing"><em>The Revelations of Saint Bridget</em></a>, which records her visions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.CatherineSiena">Catherine of Siena</a> (<a href="date.1347.3.25-1380.4.29">March 25, 1347–April 29, 1380</a>: Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a>, mystic, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoctorsOfTheChurch">Doctor of the Church</a>; she worked to bring peace during the <a href="bk.tle:wareightsaints">War of the Eight Saints</a> between the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">papal states</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeGregoryXI_Person">Pope Gregory XI</a> during the Avignon papacy; author of <a href="bk.%LettersOfSaintCatherineOfSiena_Writing"><em>Letters of Saint Catherine of Siena</em></a>, which include several letters that address the Avignon papacy and her desire to see the pope return to Rome; she was an advocate for church reform and exerted substantial influence over both Gregory XI and Urban VI.</li>
+</ul>
+<h3><a href="bk.%philosopher">Philosophers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DanteAlighieri_Person">Dante Alighieri</a> (<a href="date.1265-1321">1265–1321</a>): Italian poet and philosopher; he opposed Boniface VIII during the feud between <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Guelphs_People">Black and White Guelphs</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Florence_Place">Florence</a>; author of <a href="bk.%DeMonarchia_Writing"><em>De Monarchia</em></a>, which advocates for the separation between church and state with the Holy Roman emperor exercising authority over temporal matters, which should not be influenced by the pope, who is over spiritual matters; he is best known for his poem <a href="bk.%Inferno_Writing"><em>The Divine Comedy</em></a>, which addresses the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Afterlife">afterlife</a> and refers to Pope Boniface VIII, whom he assigned to one of the lowest circles of <a href="https://ref.ly/logos4/Factbook?ref=lsto.Hell">hell</a> among those guilty of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25simony">simony</a>; during the reign of Pope Clement V in Avignon, he advocated for the return of the papacy to Rome.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MarsiglioofPadua_Person">Marsiglio of Padua</a> (<a href="date.1275-1342">1275–1342</a>): Italian scholar and political philosopher; author of <a href="bk.%DefensorPacis_Writing"><em>Defensor Pacis</em></a>, which argues that the church is subjugated to the power of the state; he was critical of popes Boniface VIII, Clement V, and John XXII, and opposed the papacy's claims to temporal authority; he supported emperor Louis IV in his dispute with John XXII.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeBonifaceVIII">Boniface VIII</a> (<a href="date.1235-1303.10.11">1235–October 11, 1303</a>): Italian pope and <a href="bk.%bishop">bishop</a> of Rome (<a href="date.1294-1303">1294--1303</a>); he declared papal authority over spiritual matters as well as all monarchs; established the pope's authority over temporal matters; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">papal bulls</a> <a href="bk.%ClericisLaicos"><em>Clericis Laicos</em></a>, which threatened <a href="https://ref.ly/logos4/Factbook?ref=bk.%25excommunication">excommunication</a> to anyone who taxed the church, and <a href="bk.%UnamSanctam"><em>Unam Sanctam</em></a>, which required kings to submit to the pope; excommunicated Philip IV, who then kidnapped him; he died shortly after.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeClementV">Clement V</a> (<a href="date.1264-1314.4.20">1264–April 20, 1314</a>): Avignon pope and bishop of Rome (<a href="date.1305-1314">1305--1314</a>); he moved the papacy from Rome to Avignon after being pressured by Philip IV of France; largely influenced by the French monarchy during his papacy, which marked the beginning of the period known as the "Babylonian captivity" of the papacy, he is also known for suppressing the Templars at the behest of Philip IV.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnXXII">John XXII</a> (d. <a href="date.1334.12.4">December 4, 1334</a>): Avignon pope and bishop of Rome (<a href="date.1316-1334">1316–1334</a>); he advocated for supreme papal authority over both spiritual and temporal matters; was opposed by emperor Louis IV, who invaded Italy, had himself crowned Holy Roman emperor, and installed Antipope Nicolas V as pope in Rome; Nicholas's papacy was rejected and he eventually submitted to John XXII; </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeUrbanV_Person">Urban V</a> (<a href="date.1309-1370">1309–1370</a>): Avignon pope and bishop of Rome (<a href="date.1362-1370">1362--1370</a>); <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine monk</a>; he attempted to return the papacy to Rome, during which time he approved the new religious order, the Bridgettines, but later returned to France due to political unrest in Europe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeGregoryXI_Person">Gregory XI</a> (<a href="date.1329-1378">1329–1378</a>): Avignon pope and bishop of Rome (<a href="date.1370-1378">1370--1378</a>); the last Avignon pope, he returned the papacy to Rome under the advisement of Catherine of Siena; the Great Western Schism began after his death.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeUrbanVI_Person">Urban VI</a> (<a href="date.1318+c-1389.10.15">c. 1318–October 15, 1389</a>): Italian pope and bishop of Rome (<a href="date.1378-1389">1378--1389</a>); he was deposed by the college of French cardinals, who instead recognized Clement VII as pope; he responded by creating a new college of Italian cardinals and opposing Clement VII and his adherents; his papacy was supported by England.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntipopeClementVII_person">Clement VII</a> (<a href="date.1342-1394.9.16">1342–September 16, 1394</a>): Swiss antipope elected by French cardinals during the papacy of Urban VI; he resumed the papacy in Avignon at the beginning of the Great Western Schism; his papacy was supported by France.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeMartinV">Martin V</a> (<a href="date.1368-1431.2.20">1368–February 20, 1431</a>): Italian pope and bishop of Rome (<a href="date.1417-1431">1417–1431</a>); his election as pope at the Council of Constance ended the Great Western Schism; convened the Council of Basel, which reaffirmed the authority of <a href="bk.%generalCouncils">General Councils</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1300+100">1300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adoctrinegallicanismdefends">The doctrine of Gallicanism defends royal intervention in the church</a>.</li>
+<li><a href="date.1302">1302</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopebonifaceviiiissuespapal">Pope Boniface VIII issues the papal bull <em>Unam Sanctam</em></a>, which asserts the pope's authority over both spiritual and temporal matters.</li>
+<li><a href="date.1309-1376">1309–1376</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacymovesavignon">The papacy moves to Avignon</a> during the reign of Clement V.</li>
+<li><a href="date.1311">1311</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilvienne">The Council of Vienne</a> disbands the Templars.</li>
+<li><a href="date.1312">1312</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aknightstemplarpersecuted">Knights Templar are persecuted throughout Europe</a>.</li>
+<li><a href="date.1314-1316">1314–1316</a>: <a href="bk.tle:papalconclaveconvenestwoyearsavignonpapacy">Papal conclave convenes for two years during the Avignon papacy</a>; the church is without a pope after the death of Clement V as cardinals are divided over the papacy.</li>
+<li><a href="date.1321">1321</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adivinecomedydante"><em>Divine Comedy</em> by Dante is written</a>.</li>
+<li><a href="date.1324">1324</a>: <a href="bk.tle:marsigliopaduawritesdefensorpacis">Marsiglio of Padua writes <em>Defensor Pacis</em></a>.</li>
+<li><a href="date.1337-1453">1337–1453</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahundredyearswar">The Hundred Years’ War</a> takes place between England and France.</li>
+<li><a href="date.1342-1352">1342–1352</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacyclementvi">Papacy of Clement VI</a> during the Hundred Years' War; Avignon pope <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeClementVI">Clement VI</a> favors France.</li>
+<li><a href="date.1347-1349">1347–1349</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ablackdeathpandemiceurope">The Black Death pandemic in Europe</a>.</li>
+<li><a href="date.1375-1378">1375–1378</a>: <a href="bk.tle:wareightsaints">The War of the Eight Saints</a> takes place between Pope Gregory XI and the papal states, led by Florence. </li>
+<li><a href="date.1377">1377</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopegregoryxireturnsrome">Pope Gregory XI returns to Rome</a>.</li>
+<li><a href="date.1378">1378</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agreatschism">The Great Western Schism</a> divides the papacy.</li>
+<li><a href="date.1378">1378</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acatherinesienaservespopeurban">Catherine of Siena serves Pope Urban VI</a>, working to establish peace among the papal states.</li>
+<li><a href="date.1400+100">1400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconciliarismemergescatholic">Conciliarism emerges in the Roman Catholic Church</a>.</li>
+<li><a href="date.1408">1408</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aavignonpopeabandonedformer">The Avignon pope is abandoned by former supporters and the king of France</a>.</li>
+<li><a href="date.1409">1409</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilpisa">Council at Pisa</a> attempts to end the Great Western Schism; Benedict XIII and Gregory XII are deposed and Alexander V elected pope; this council is not convened by a pope and is rejected by the Council of Constance.</li>
+<li><a href="date.1413">1413</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aemperorsigismundforcespopejohn">Emperor Sigismund forces Pope John XXI to summon a council</a>.</li>
+<li><a href="date.1414.11.5-1418.4.22">November 5, 1414–April 22, 1418</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstance">The Council of Constance</a> resolves the Great Western Schism and affirms the authority of General Councils over the papacy.</li>
+<li><a href="date.1417-1431">1417–1431</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacymartinv">The papacy of Martin V</a> ends the Great Western Schism.</li>
+<li><a href="date.1431">1431</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilbasel">Council of Basel</a> reaffirms the supremacy of General Councils over the papacy.</li>
+<li><a href="date.1439">1439</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilbaselmovedflorence">The Council of Basel is moved to Florence</a>.</li>
+<li><a href="date.1512-1517">1512–1517</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afifthlaterancouncil">Fifth Lateran Council</a> reaffirmed the authority of the pope.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Avignon">Avignon</a> was the residency of the papacy from <a href="date.1309-1376">1309–1376</a>; one of the temporary residencies of the papacy during the Great Western Schism; supported by <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> during the majority of the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Constance_Place">Constance</a> was the location of the ecumenical council that ended the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Florence_Place">Florence</a> led the coalition of Papal States during the War of the Eight Saints; location of an ecumenical council.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a> experienced political instability during the <a href="date.1301+100">fourteenth century</a>, which contributed to the papacy's move to Avignon; supported the Roman papacy during the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Pisa">Pisa</a> was one of the temporary residencies of the papacy during the Great Western Schism; gained support from France at the end of the Great Western Schism; location of church council in <a href="date.1409">1409</a> that was not convened under the authority of a pope.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the traditional residency of the papacy; supported by <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> during the Great Western Schism.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SacredCollege">College of Cardinals</a> were divided over the papacy during the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConciliarTheory">Conciliar theory</a>, which advocated for the authority of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25generalCouncils">General Councils</a> over the pope, emerged after the resolution of the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">Papacy</a> was divided during the Great Western Schism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a> were elected in Rome, Avignon, and Pisa during the Great Western Schism; Avignon popes elected after <a href="date.1378">1378</a> are considered <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antipope">antipopes</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25taxation">Taxation</a> of the church, without the pope's expressed permission, was grounds for excommunication.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Templars">Templars</a>, a military order established during <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acrusades">the Crusades</a>, were suppressed by Pope Clement V at the Council of Vienne under the influence of Philip IV of France, who brought against the order charges of heresy; they had acquired large amounts of land and wealth in Europe and the Middle East.</li>
+</ul>
+<h2>Key Documents</h2>
+<h3><a href="bk.%decree">Decrees and Edicts</a></h3>
+<ul>
+<li><a href="bk.%HaecSancta_Writing">Haec Sancta Synodus</a> (Council of Constance, <a href="date.1415">1415</a>): addresses <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">papal primacy</a> and conciliarism; asserts the authority of General Councils over the pope.</li>
+</ul>
+<h3><a href="bk.%letter">Letters</a></h3>
+<ul>
+<li><a href="bk.%LettersOfSaintCatherineOfSiena_Writing"><em>Letters of Saint Catherine of Siena</em></a> (<a href="date.1301+100">fourteenth century</a>): a collection of letters to various religious men and women, as well as political rulers, addressing various subjections, including church reform and the papacy; includes several letters written during the Avignon papacy, including letters to Pope Gregory XI addressing the return of the papacy to Rome and attempts to establish peace between the pope and Florence, a letter announcing peace between the papacy and Florence, and letters urging obedience to Pope Urban VI during the Great Western Schism.</li>
+</ul>
+<h3><a href="bk.%literature">Literature</a></h3>
+<ul>
+<li><a href="bk.%Inferno_Writing"><em>The Divine Comedy</em></a> (Dante Alighieri, <a href="date.1321">1321</a>): an allegorical poem that addresses the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Afterlife">afterlife</a>, <a href="bk.%Heaven">heaven</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.Hell">hell</a>, and <a href="bk.%purgatory">purgatory</a>; refers to several contemporary figures, including Pope Boniface VIII, whom he assigned to one of the lowest circles of hell among those guilty of simony.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="bk.%ClericisLaicos"><em>Clericis Laicos</em></a> (Pope Boniface VIII, <a href="date.1296">1296</a>): papal bull issued in opposition to England and France's attempts to tax the church without the permission of the pope; threatens excommunication to any clergy who pay taxes as well as the rulers who imposed taxes.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UnamSanctam"><em>Unam Sanctam</em></a> (Pope Boniface VIII, <a href="date.1302">1302</a>): papal bull issued during conflict with King Philip IV of France over the extent of papal authority; asserts the pope's authority over all monarchs; threatens excommunication of those who reject the pope's supremacy.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25privateRevelations">Private Revelations</a></h3>
+<ul>
+<li><a href="bk.%Revelaciones_Writing"><em>The Revelations of Saint Bridget</em></a> (Bridget of Sweden, <a href="date.1400+c-1451">c. 1400–1451</a>): a collection of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25revelation">revelations</a> Bridget received during her lifetime and published posthumously; addresses a wide variety of subjects, including church <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">reform</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostasy">apostasy</a>. </li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%DefensorPacis_Writing"><em>Defensor Pacis ("Defender of the Peace")</em></a> (Marsiglio of Padua, <a href="date.1324">1324</a>): written during the conflict between Pope John XXII and the emperor Louis IV; addresses the <a href="bk.%churchAndState">church and state</a>; argues it is the state that holds authority over the church, the empire over the papacy.</li>
+<li><a href="bk.%DeMonarchia_Writing"><em>De Monarchia</em></a> (Dante Alighieri, <a href="date.1312+c-1313">c. 1312–1313</a>): advocates for the separation between church and state, with the Holy Roman emperor exercising authority over temporal matters; argues temporal matters should not be influenced by the pope, who is over spiritual matters.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/712770?len=54811">“An Age of Unrest: The Western Church in the Late Middle Ages” (Finucane) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/559757?len=22454">"Chaos and the Law of Necessity: Decline of the Papacy" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/825774?len=48467">"The Collapse" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/875545?len=8547">"The Conciliar Movement" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/39216?len=102984">"European Christianity in an Age of Adversity, Renaissance, and Discovery" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/109709?len=3046">"The Great Schism of the Papacy (1378–1417)" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/308033?len=10665">"Late Medieval Maelstrom" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/250243?len=26421">"Popes, Councils and Princes" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+</ul>

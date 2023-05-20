@@ -1,5 +1,6 @@
 import markdown
 import bs4
+import pathlib
 
 from loadChurchMarkdownData import LoadChurchData
 from markdown_preprocessing.article_structs import *
@@ -14,8 +15,9 @@ class MarkdownDataProcessor:
         html_data: List of html strings, from converted markdown files.
     '''
 
-    def __init__(self, dataloader: LoadChurchData):
+    def __init__(self, dataloader: LoadChurchData, cache_data: bool = False):
         self.dataloader = dataloader
+        self.cache_data = cache_data
         self.html_data = self.markdown_to_html()
 
     def markdown_to_html(self) -> Sequence[str]:
@@ -28,8 +30,21 @@ class MarkdownDataProcessor:
         for markdown_file in self.dataloader.markdown_data_files:
             f = open(markdown_file, 'r')
             html_from_markdown = markdown.markdown(f.read())
+            if self.cache_data:
+                self.cache_html_data_to_output(markdown_file,
+                                               html_from_markdown)
             html_data.append(html_from_markdown)
         return html_data
+
+    def cache_html_data_to_output(self, markdown_file: str,
+                                  html_data: str) -> None:
+        article_name = markdown_file.split('/')[-1].split('.')[0]
+        pathlib.Path('markdown_preprocessing/cache_markdown_data').mkdir(
+            parents=True, exist_ok=True)
+        with open(
+                f'markdown_preprocessing/cache_markdown_data/{article_name}.txt',
+                'w') as f:
+            f.write(html_data)
 
     def process_html(self) -> List[Article]:
         '''Processes list of html strings and converts to dataclasses.
@@ -39,7 +54,6 @@ class MarkdownDataProcessor:
         '''
         articles = []
         for html in self.html_data:
-            print("len:", len(articles))
             soup = bs4.BeautifulSoup(html, "html.parser")
             new_article = Article()
 
@@ -54,7 +68,6 @@ class MarkdownDataProcessor:
 
             h2_header = self.parse_article_sections(soup)
             new_article = self.get_data_from_h2_header(new_article, h2_header)
-            print(articles)
             articles.append(new_article)
         return articles
 
@@ -204,10 +217,17 @@ class MarkdownDataProcessor:
 
                 for h3_header in all_h3_subsections:
                     articleSubsection = ArticleSubsection()
-                    h3_value = h3_header.findNext('a')
-                    articleSubsection.section_title = (
-                        h3_value.text, h3_value['href'].split(
-                            'https://ref.ly/logos4/Factbook?ref=')[-1])
+
+                    articleSubsection.section_title = h3_header.text
+                    if 'href' in h3_header:
+                        h3_header['href'].split(
+                            'https://ref.ly/logos4/Factbook?ref=')[-1]
+                    # article.ner_tuples.append([])
+
+                    # h3_value = h3_header.findNext('a')
+                    # articleSubsection.section_title = (
+                    #     h3_value.text, h3_value['href'].split(
+                    #         'https://ref.ly/logos4/Factbook?ref=')[-1])
                     subsection = h3_header.find_next('ul')
 
                     articleSubsection.ner_tuples = {}

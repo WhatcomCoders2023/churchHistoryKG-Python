@@ -1,0 +1,140 @@
+<p>Level: 1
+Status: Released
+Identifier: Christological
+Parents: Root
+Eras: bk.era:nicenechurchera; bk.era:byzantinechurchera</p>
+<h1>Christological Controversies Are Settled</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.325-681">325-681</a></li>
+<li><strong>Description:</strong> The early church defined its doctrine of the person of Christ and the nature of the incarnation.</li>
+</ul>
+<h2>Summary</h2>
+<p>Christology was central to the development of early Christian theology as the early church debated the person and work of Christ, as well as the nature of the incarnation. Two dominant schools of thought developed in the catechetical schools at Alexandria and Antioch. While Alexandrian Christology emphasized the divinity of Jesus and the unity of his person, Antiochene Christology emphasized the humanity of Jesus and the duality of his person. Church councils were convened to define the doctrine of the nature and work of Christ, as well as identify christological heresies. Chalcedonian Christianity was established as orthodoxy, affirming the hypostatic union of Jesus' human and divine nature.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Competing <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christologies</a> developed within the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian</a> catechetical schools as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologians</a> debated the nature of <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusPerson">Jesus' person</a> and <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusDivinity">divinity</a> (<a href="date.100+100+m-500+100">mid-100s–500s</a>).</li>
+<li>Extreme expressions of Alexandrian and Antiochene Christology developed, including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apollinarianism_Belief">Apollinarianism</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorianism_Belief">Nestorianism</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eutychianism_Belief">Eutychianism</a> (<a href="date.300+100-400+100">300s–400s</a>).</li>
+<li>After the divinity of Jesus was affirmed at <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilnicea">Nicaea</a>, the church continued to debate the nature of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25incarnation">incarnation</a> and the relation between the Son's humanity and divinity (<a href="date.325-680">325–680</a>).</li>
+<li>Unorthodox christological views were condemned as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a> by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">ecumenical councils</a> (<a href="date.325-681">325–681</a>).</li>
+<li>Disagreements over Christology deepened the divide between Eastern and Western Christianity (<a href="date.400+100-600+100">400s–600s</a>).</li>
+<li>The church affirmed <a href="https://ref.ly/logos4/Factbook?ref=lsto.JesusUnity">the unity of Jesus' person</a> (<a href="date.451">451</a>).</li>
+<li>The church affirmed the two natures of Christ (<a href="date.451">451</a>).</li>
+<li>Some Christians in the East rejected the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a> and split from the church (<a href="date.451">451</a>).</li>
+<li>The church affirmed the two wills of Christ (<a href="date.680">680</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%AexandrianTheology">Alexandrian Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApollinarisOfLaodicea_Person">Apollinaris of Laodicea</a> (d. <a href="date.382">382</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Laodicea_Place">Laodicea</a>; friend of <a href="https://ref.ly/logos4/Factbook?ref=bio.AthanasiusAlexandria">Athanasius of Alexandria</a>; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a>; opponent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreofMopsuestia_Person">Theodore of Mopsuestia</a>; he developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apollinarianism_Belief">Apollinarianism</a>, which argued that Jesus' human spirit was replaced by the divine <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Logos">Logos</a>; condemned as a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heretic">heretic</a> at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.CyrilAlexandria">Cyril of Alexandria</a> (<a href="date.376-444">376-444</a>): <a href="bk.%patriarchOrthodox">patriarch</a> of Alexandria (<a href="date.412-444">412–444</a>); <a href="bk.%GreekChurchFathers_People">Greek church father</a>; nephew of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theophilus.2_Person">Theophilus (patriarch of Alexandria)</a>; he was an adherent of Alexandrian Theology and opponent of <a href="https://ref.ly/logos4/Factbook?ref=bio.JohnChrysostom.1">John Chrysostom</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreofMopsuestia_Person">Theodore of Mopsuestia</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorius_Person">Nestorius</a>; advocated for the veneration of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Mary.1">Mary (Mother of Jesus)</a>; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">First Council of Ephesus</a>, where he lead the deposition against Nestorius; he was condemned by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodosiusII_Person">Theodosius II</a> and declared a heretic at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondcouncilephesus">Second Council of Ephesus</a>; author of <a href="bk.%EpistleOfCyrilToNestorius_Writing"><em>Epistle of Cyril to Nestorius</em></a> and <a href="bk.%TwelveAnathemasOfCyril_Writing"><em>The Twelve Anathemas of Cyril Against Nestorius</em></a>, which condemn <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorianism_Belief">Nestorianism</a> and were approved at the First Council of Ephesus and the Council of Chalcedon.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eutyches_Person">Eutyches</a> (<a href="date.378-454">378-454</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archimandrite">archimandrite</a> near <a href="bk.@Constantinople">Constantinople</a>; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eutychianism_Belief">Eutychianism</a>, a form of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monophysitism_Belief">Monophysitism</a>, which denies the two distinct natures of Christ; he was an opponent of Nestorius at the First Council of Ephesus; he was condemned as a heretic at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a>.</li>
+</ul>
+<h3><a href="bk.%Antiochenetheology">Antiochene Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Diodore_Person">Diodore of Tarsus</a> (d. <a href="date.394+c">c. 394</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tarsus_Place">Tarsus</a>; supporter of Nicene orthodoxy and adherent of Antiochene Christology; he opposed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a> and the allegorical interpretation of Scripture; opponent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arianism_Belief">Arianism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apollinarianism_Belief">Apollinarianism</a>; he taught <a href="https://ref.ly/logos4/Factbook?ref=bio.JohnChrysostom.1">John Chrysostom</a> and Theodore of Mopsuestia; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreofMopsuestia_Person">Theodore of Mopsuestia</a> (<a href="date.350-428">350–428</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Mopsuestia">Mopsuestia</a>; friend of John Chrysostom; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene Theology</a>; he taught <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorius_Person">Nestorius</a>; opponent of Apollinaris; opposed Alexandrian Theology and the allegorical interoperation of Scripture; condemned as a heretic after his death at the First Council of Ephesus and the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a> and by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Justinian.I_Person">Emperor Justinian</a> during the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheThreeChapters">Three Chapters</a> Controversy due to charges of supporting <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorianism_Belief">Nestorianism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorius_Person">Nestorius</a> (<a href="date.381-451">381-451</a>): patriarch of Constantinople; he studied at the Catechetical School of Antioch; opponent of <a href="https://ref.ly/logos4/Factbook?ref=bio.CyrilAlexandria">Cyril of Alexandria</a>; rejected the title of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theotokos">Theotokos</a> for Mary, Jesus' mother; he developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorianism_Belief">Nestorianism</a>, which argues that there were two separate persons in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25incarnation">incarnation</a>; his teachings were condemned at the First Council of Ephesus.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="bk.%Marcian_Person">Marcian</a> (<a href="date.396-457">396–457</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> in the East (<a href="date.450-457">450--457</a>); he convened the Council of Chalcedon to refine the church's <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christology</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPulcheria_Person">Pulcheria</a> (<a href="date.399-453">399–453</a>): empress of the Roman Empire in the East (<a href="date.450-453">450--453</a>); advisor to her brother Theodosius II; wife of Marcian; she opposed Nestorianism; convened the Council of Chalcedon to refine the church's Christology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodosiusII_Person">Theodosius II</a> (<a href="date.401-450">401-450</a>): emperor of the Roman Empire in the East (<a href="date.408-450">408–450</a>); he convened the First Council of Ephesus, which rejected Nestorianism, and the Second Council of Ephesus, which acquitted <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eutyches_Person">Eutyches</a> of the charges of heresy and reinstated him as archimandrite.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Justinian.I_Person">Justinian I</a> (<a href="date.482-565.11.14">482–November 14, 565</a>): emperor of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40ByzantineEmpire">Byzantine Empire</a> (<a href="date.527-565">527–565</a>); he was a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25symbolOfChalcedon_Writing">Chalcedonian</a> orthodoxy; he issued the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Henoticon">Henoticon</a> in an attempt to establish a compromise between the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monophysitism_Belief">Monophysites</a> and Chalcedonians, which was accepted in the East but ignored in the West, and then condemned the writings of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreofMopsuestia_Person">Theodore of Mopsuestia</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theodoret_Person">Theodoret of Cyrrhus</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ibas_Person">Ibas of Edessa</a> at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstantinople">Second Council of Constantinople</a> during the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheThreeChapters">Three Chapters</a> Controversy.</li>
+</ul>
+<h3><a href="bk.%patriarchOrthodox">Patriarchs</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.severusantioch">Severus of Antioch</a> (<a href="date.459-538">459-538</a>): patriarch of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a> (<a href="date.512-538">512–538</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25asceticism">ascetic</a> <a href="bk.%monkReligiousBrother">monk</a>; adherent of Non-Chalcedonian Christianity; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SyrianOrthodoxChurch">Syrian Orthodox Church</a>; he opposed the Council of Chalcedon.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Sergius.1_Person">Sergius I</a> (d. <a href="date.638">638</a>): patriarch of Constantinople (<a href="date.610-638">610–638</a>); leading adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monothelitism_Belief">Monothelitism</a>; he was condemned at the Third Council of Constantinople.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoI_Person">Leo I</a> (<a href="date.400-461.11.10">400–November 10, 461</a>): Italian <a href="bk.%pope">pope</a> and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.440-461">440--461</a>); he was an adherent of Chalcedonian orthodoxy, which affirmed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25hypostaticUnion">hypostatic union</a>; author of the <a href="bk.%TomeofLeo_Writing"><em>Tome of Leo</em></a>, which addresses Christology and shaped the doctrine established by the Council of Chalcedon.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.300+100">300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearliestchristological">Earliest christological discussions over the incarnate state</a> take place in the early church.</li>
+<li><a href="date.300+100">300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aheresyapollinarismstarted">The heresy of Apollinarianism is started</a>.</li>
+<li><a href="date.325">325</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstCouncilofNicaea">The First Council of Nicaea</a> affirms the divinity of Christ.</li>
+<li><a href="date.381">381</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">The First Council of Constantinople</a> condemns Apollinarianism and reaffirms the Nicene Creed.</li>
+<li><a href="date.400+100">400s</a>: <a href="bk.tle:nestorianismemerges">Nestorianism emerges</a>.</li>
+<li><a href="date.431">431</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">The First Council of Ephesus</a> condemns Nestorianism and reaffirms the Nicene Creed.</li>
+<li><a href="date.451">451</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">The Council of Chalcedon</a> condemns and excommunicates Eutyches and affirms the union of the human and divine natures of Christ.</li>
+<li><a href="date.400+100+m">mid-400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amajorityeasternchurchesreje">The majority of the Eastern churches reject the decrees of Chalcedon</a>.</li>
+<li><a href="date.400+100+l">late 400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonophysitepatriarchsplaced">Monophysite patriarchs are placed at Antioch</a>.</li>
+<li><a href="date.553">553</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilconstantinople">The Second Council of Constantinople</a> condemns the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheThreeChapters">Three Chapters</a> on charges of Nestorianism.</li>
+<li><a href="date.600+100+e">early 600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonothelitismpropagated">Monothelitism is propagated</a>.</li>
+<li><a href="date.680">680</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirdCouncilOfConstantinople">The Third Council of Constantinople</a> condemns <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monothelitism_Belief">Monotheletism</a> and affirms that Christ has two wills, human and divine.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was the location of the Catechetical School of Alexandria where Alexandrian Christology developed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a> was the location of the Catechetical School of Antioch where Antiochene Christology developed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Chalcedon_Place">Chalcedon</a> was the location of an ecumenical council that debated Christology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> was the capital of the Roman Empire, dubbed the "New Rome"; location of three ecumenical councils that debated Christology; ecclesial center of Eastern Christianity.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a> was the location of an ecumenical council that debated Christology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of Western Christianity.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a> was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Platonism_Belief">Platonism</a> and emphasized the divinity of Jesus and the unity of his person in contrast to Antiochene Theology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene Theology</a> emphasized the humanity of Jesus and the duality of his person in contrast to Alexandrian Theology.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apollinarianism_Belief">Apollinarianism</a> developed out of Alexandrian Christology and argued that Christ did not have a human rational soul.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25christology">Christology</a> was the focus of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecumenicalCouncil">ecumenical councils</a> in the <a href="date.301+100-601+100">fourth--seventh centuries</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Eutychianism_Belief">Eutychianism</a> developed out of Alexandrian Christology and argued that Christ's human nature is absorbed into his divine nature; it was condemned at the First Council of Constantinople.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monophysitism_Belief">Monophysitism</a> developed out of Alexandrian Christology and argued that Christ has one divine nature; many Eastern churches separated from the Catholic Church and established <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monophysitism_Belief">Monophysite</a> churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Monothelitism_Belief">Monothelitism</a> argued that Christ has only one will; condemned as heresy at the Third Council of Constantinople.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Miaphysitism_Belief">Miaphysitism</a> was affirmed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OrientalOrthodoxChurches">Oriental Orthodox Churches</a>, which rejected the Council of Chalcedon and separated from the catholic church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nestorianism_Belief">Nestorianism</a> developed out of Alexandrian Christology and emphasized the separateness of Christ's two natures; condemned as heresy at the First Council of Ephesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">School of Alexandria</a> promulgated "Word-Flesh" Christology, which emphasized the unity and deity of Christ.</li>
+<li>School of Antioch promulgated "Word-Man" Christology, which emphasized the duality and humanity of Christ.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theotokos">Theotokos</a> was a term applied to <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Mary.1">Mary, the mother of Jesus</a>, which was rejected by Nestorius.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AthanasianCreed_Writing">Athanasian Creed</a> (<a href="date.450+c">c. 450</a>): Trinitarian statement of faith misattributed to <a href="https://ref.ly/logos4/Factbook?ref=bio.AthanasiusAlexandria">Athanasius of Alexandria</a>; reflects the affirmations of the First Council of Ephesus and the Council of Chalcedon.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25symbolOfChalcedon_Writing"><em>The Symbol of Chalcedon</em></a> (<a href="date.451">451</a>): issued by the Council of Chalcedon; affirms the human and divine natures of Christ in response to Nestorianism and Eutychianism.</li>
+<li><a href="bk.%CreedOfTheSixthEcumenicalCouncil_Writing">The Definition of Faith</a> (<a href="date.680">680</a>): issued by the Third Council of Constantinople to address Monothelitism; expands upon the <em>Symbol of Chalcedon</em> with an added emphasis on the human and divine wills of Christ.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="bk.%EpistleOfCyrilToNestorius_Writing"><em>Epistle of Cyril to Nestorius</em></a> (Cyril of Alexandria, <a href="date.431">431</a>): addressed to Nestorius; condemns Nestorianism and includes details of Nestorius' condemnation at synods at Rome and Alexandria; includes <a href="bk.%TwelveAnathemasOfCyril_Writing"><em>The Twelve Anathemas of Cyril Against Nestorius</em></a>; both the letter and list of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25anathema">anathemas</a> were approved at the First Council of Ephesus; the letter was also approved at the Council of Chalcedon.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%24letter">Letters</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TomeofLeo_Writing"><em>Tome of Leo</em></a> (Pope Leo I, <a href="date.499">499</a>): addressed to <a href="https://ref.ly/logos4/Factbook?ref=bk.%SaintFlavian_Person">Flavian, Patriarch of Constantinople</a>; defines christological doctrine on the two natures of Christ; formally accepted at the Council of Chalcedon.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/68526?len=1402">"Ancient Church Christological Heresies" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/546091?len=28409">"Christological Controversies to Chalcedon (451)" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/627454?len=32354">"The Christological Debates to the Council of Chalcedon" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/186017?len=23271">"Christology" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/292758?len=63714">“Councils and Creeds: Defining and Defending the Faith” (Wright) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/175551?len=43294">"Doctrine, Politics, and Life in the Word: The Council of Chalcedon (451)" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/128214?len=22615">"Ecumenical Councils" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/303998?len=20810">"Emmanuel!: Christ in the Creeds" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

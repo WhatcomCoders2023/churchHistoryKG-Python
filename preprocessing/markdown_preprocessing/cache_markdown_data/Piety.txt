@@ -1,0 +1,122 @@
+<p>Level: 1
+Status: Released
+Identifier: Piety
+Parents: Root
+Eras: bk.era:reformationera; bk.era:modernera</p>
+<h1>Spiritual Renewal in the West Emphasizes Personal Piety and Faith</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1654-1797">1654-1797</a></li>
+<li><strong>Description:</strong> Evangelical revivals in North America and Great Britain were influenced by German Pietism and English Puritanism. These renewal movements emphasized personal conversion, religious devotion, and evangelism.</li>
+</ul>
+<h2>Summary</h2>
+<p>The solidification of Protestant orthodoxy in the years following the Reformation, which was largely an academic effort, and the increasing spiritual decline in both the church and society during the Enlightenment left many in Christendom longing for a deeper spiritual experience. The Age of Reason soon gave way to spiritual renewal movements within Protestantism. Beginning with German Pietism, a renewal movement that developed in response to Lutheran orthodoxy, conversion, personal faith, and piety were emphasized as the defining characteristics of the Christian life. Small groups, or <em>Collegia pietatis</em> ("schools of piety"), were established to facilitate communal Bible study, prayer, and religious devotion. Pietist missionary efforts were far reaching. These developments influenced later evangelical revivals in England and North America. While Jonathan Edwards was at the forefront of the early years of the Great Awakening in New England, George Whitefield and John Wesley engaged in open-air preaching that led to the Evangelical Revival in England and the establishment of Methodism. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Christians, predominantly Protestants, migrated to North America and established the English Colonies (<a href="date.1600+100">1600s</a>).</li>
+<li>Spiritual renewal led to the rise of Pietism in Europe (<a href="date.1600+100-1800+100">1600s–1800s</a>).</li>
+<li>Spiritual renewal and revival led to a surge in hymn-writing (<a href="date.1600+100-1800+100">1600s-1800s</a>).</li>
+<li>Spiritual renewal movements within Protestantism emphasized personal conversion, evangelism, and sanctification (<a href="date.1600+100+m-1700+100">mid-1600s–1700s</a>).</li>
+<li>New denominations were established under religious tolerance (<a href="date.1600+100+m-1700+100">mid-1600s–1700s</a>).</li>
+<li>Church and society in industrialized England experienced spiritual decline (<a href="date.1700+100">1700s</a>).</li>
+<li>The Great Awakening spread throughout the American Colonies (<a href="date.1726-1760">1726–1760</a>).</li>
+<li>Methodism was established in England (<a href="date.1729-1797">1729–1797</a>).</li>
+<li>Renewal movements led to an emphasis on social reform and missions (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnWesley.1">John Wesley</a> (<a href="date.1703.6.28-1791.2.24">June 28, 1703–February 24, 1791</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="bk.%theologian">theologian</a>, <a href="bk.%evangelist">evangelist</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Revivalism_Belief">revivalist</a>; co-founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodism</a>, which began as an <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> revival movement in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchOfEngland">Church of England</a>; he studied at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a>, where the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolyClub">"Oxford Methodists" (Holy Club)</a> gathered for prayer, personal piety, and Bible study; he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Arminianism_Belief">Arminianism</a>); author of <a href="bk.%CircumcisionOfTheHeart_Writing">"The Circumcision of the Heart,"</a> a sermon addressing Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Perfectionism_Belief">perfectionism</a>, which was a defining theological view of Wesley's, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25twentyFiveArticles_Writing"><em>The Twenty-Five Articles of Religion</em></a> of the Methodist Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.CharlesWesley">Charles Wesley</a> (<a href="date.1707.12.18-1788.3.29">December 18, 1707–March 29, 1788</a>): English Anglican hymn writer and co-founder of Methodism; he wrote over six-thousand hymns, including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristTheLordIsRisenToday_Writing">"Christ the Lord Is Risen Today,"</a> that were influential to the development of Methodism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.GeorgeWhitefield">George Whitefield</a> (<a href="date.1714.12.16-1770.9.30">December 16, 1714–September 30, 1770</a>): English Methodist evangelist and preacher;  he studied at Oxford University, where he was a member of the Holy Club; influential leader of the Great Awakening in America and the Evangelical Revival in England; his adherence to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a> eventually led to a break with John and Charles Wesley; author of <a href="bk.%MarksOfTrueConversion_Writing">"The Marks of a True Conversion,"</a> which addresses <a href="https://ref.ly/logos4/Factbook?ref=lsto.Conversion">conversion</a>, and many other sermons.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Congregationalism">Congregationalists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JonathanEdwards_Person">Jonathan Edwards</a> (<a href="date.1703.10.5-1758.3.22">October 5, 1703–March 22, 1758</a>): American Calvinist theologian and preacher; he led a <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arevivalnorthampton">revival in Northampton, Massachusetts</a>, and was a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstgreatawakening">First Great Awakening</a>; author of <a href="bk.%SomeThoughtsConcerningRevival_Writing"><em>Some Thoughts Concerning the Present Revival of Religion in New England</em></a>, which defends the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Revivalism_Belief">revivals</a> taking place during the First Great Awakening, and <a href="bk.%ReligiousAffections_Writing"><em>A Treatise Concerning Religious Affections</em></a>, which addresses true Christian <a href="https://ref.ly/logos4/Factbook?ref=lsto.Conversion">conversion</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhilippJakobSpener_Person">Philipp Jakob Spener</a> (<a href="date.1635.1.13-1705.2.5">January 13, 1635–February 5, 1705</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> theologian and <a href="bk.%pastor">pastor</a>; "the father of German Pietism," he was a leader of the early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietist</a> movement and faced opposition from proponents of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LutheranOrthodoxy">Lutheran orthodoxy</a>; he studied at the <a href="bk.%UniversityOfStrasbourg_Place">University of Strasbourg</a>; he established a small group known as <em>collegia pietatis</em> dedicated to Bible study and prayer; author of <a href="bk.%PiaDesideria_Writing"><em>Pia Desideria</em> ("Heart's Desire")</a>, which addresses the aims of German Pietism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AugustFrancke">August Hermann Francke</a> (<a href="date.1663.3.22-1727.6.8">March 22, 1663–June 8, 1727</a>): German Pietist leader and social reformer; he was mentored by Philipp Jakob Spener; he taught Hebrew at the <a href="bk.%UniversityOfLeipzig_Place">University of Leipzig</a> and theology and Greek at the <a href="bk.@UniversityOfHalle">University of Halle</a>; he also founded an orphanage as well as a school for poor children, the first of several established as a part of the <a href="bk.%FranckeFoundations_Place">Franke Foundations</a>, which helped spread Pietism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NikolausLudwigGrafvonZinzendorf_Person">Nikolaus Ludwig Graf von Zinzendorf</a> (<a href="date.1700.5.26-1760.5.9">May 26, 1700–May 9, 1760</a>): German pietist, hymn-writer, theologian, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MoravianBrethren">Moravian</a> <a href="bk.%bishop">bishop</a>; godson of Philipp Jakob Spener; he studied at the Francke Foundations under August Hermann Francke, and at the <a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a>; he was a leader of the Moravian <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arevivalherrnhut">revival at Herrnhut</a>, which later sent out missionaries and <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amoravianmissionsestablished">established Moravian missions around the world</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apietistecclesiologyemerges">Pietist ecclesiology emerges in Germany</a>.</li>
+<li><a href="date.1600+100-1800+100">1600s–1800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apietismrevivaloccurs">Pietism revival occurs</a>.</li>
+<li><a href="date.1630">1630</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apuritansmigratenewengland">Puritans migrate to New England</a>.</li>
+<li><a href="date.1700+100">1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aevangelicalrevivals">Evangelical revivals</a> take place in North America, Great Britain, and Europe.</li>
+<li><a href="date.1726-1760">1726--1760</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstgreatawakening">First Great Awakening</a> takes place in North America.</li>
+<li><a href="date.1727">1727</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arevivalherrnhut">Moravian revival takes place at Herrnhut</a>.</li>
+<li><a href="date.1729">1729</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amethodistmovementbegins">Methodist movement begins</a>.</li>
+<li><a href="date.1739">1739</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awhitefieldbeginsopenair">George Whitefield is ordained and begins open-air preaching tour</a>.</li>
+<li><a href="date.1739">1739</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohnwesleybeginspreachingtour">John Wesley begins preaching tour</a>.</li>
+<li><a href="date.1741">1741</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asinnershandsangrygodjonathan"><em>Sinners in the Hands of an Angry God</em> by Jonathan Edwards is preached</a>.</li>
+<li><a href="date.1701+100+m">mid-eighteenth century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amoravianmissionsestablished">Moravian missions are established around the world</a>.</li>
+<li><a href="date.1780.4">April 1780</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohnwesleyvisitsmoravians">John Wesley visits the Moravians</a>.</li>
+<li><a href="date.1784">1784</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aarticlesreligionadopted">Articles of Religion are adopted by the Methodist Church</a>.</li>
+<li><a href="date.1797">1797</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amethodistsseparatefromchurch">Methodists separate from the Church of England</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was the location of the evangelical revival that eventually split off to form the Methodist Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was the birthplace of the Pietist movement; location of University of Halle.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Herrnhut">Herrnhut</a> was the location of a Moravian revival.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a> was where the Holy Club was founded, which developed into the early Methodist movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40ThirteenColonies">Thirteen Colonies</a> was where the Puritans settled after fleeing from persecution in <a href="bk.@Europe">Europe</a>; new denominations were established here under religious tolerance; the First Great Awakening took place here.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreatAwakening">The Great Awakening</a> was an evangelical revival in North America that emphasized religious devotion and personal conversion.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolyClub">Holy Club</a> was the nickname given to the group of early Methodists formed by John and Charles Wesley at Oxford University; George Whitefield was also a member.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25hymn">Hymn</a> writing became popular with the rise of Pietism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pietism_Belief">Pietism</a> developed in response to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LutheranOrthodoxy">Lutheran orthodoxy</a>; it also influenced <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25piety">Piety</a> was a defining characteristic of new religious movements in the period after the Reformation.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%articlesOfFaith">Articles of Faith</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25twentyFiveArticles_Writing"><em>The Twenty-Five Articles of Religion</em></a> (John Wesley, <a href="date.1784">1784</a>): official doctrinal statement of Methodism; abridged version of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirtyNineArticles_Writing"><em>Thirty-Nine Articles</em></a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchOfEngland">Church of England</a>.</li>
+</ul>
+<h3><a href="bk.%sermon">Sermons</a></h3>
+<ul>
+<li><a href="bk.%MarksOfTrueConversion_Writing">"The Marks of a True Conversion"</a> (George Whitefield, <a href="date.1701+100">eighteenth century</a>): a sermon addressing conversion, Calvinism, and Arminianism.</li>
+<li><a href="bk.%CircumcisionOfTheHeart_Writing">"Circumcision of the Heart"</a> (John Wesley, <a href="date.1733.1.1">January 1, 1733</a>): a sermon delivered at Oxford; addresses perfectionism, justification, and sanctification. </li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PiaDesideria_Writing"><em>Pia desideria</em> ("Heart's Desire")</a> (Philipp Jakob Spener, <a href="date.1675">1675</a>): addresses spiritual decline in Germany and the objectives of Pietism, including deeper study of the Bible and an interest in personal devotion and piety.</li>
+<li><a href="bk.%SomeThoughtsConcerningRevival_Writing"><em>Some Thoughts Concerning the Present Revival of Religion in New England</em></a> (Jonathan Edwards, <a href="date.1742">1742</a>): written during the First Great Awakening to defend the revivals taking place in the English colonies.</li>
+<li><a href="bk.%ReligiousAffections_Writing"><em>A Treatise Concerning Religious Affections</em></a> (Jonathan Edwards, <a href="date.1746">1746</a>): written during the First Great Awakening; addresses conversion, <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aGod_Grace">grace</a>, and genuine Christian experience; distinguishes between true and false signs of religious affections.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1017166?len=65553">“Awakening: The Evangelical Revival and the Great Awakening” (Wood) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/181374?len=1537">"German Pietism and English Methodism---A Comparison" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/798846?len=26475">"The Heart and Its Reasons: Pascal and the Pietists" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/537185?len=55290">"The New Piety: <em>The Conversion of the Wesleys (1738)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/322773?len=242210">"Orthodoxy, Rationalism, and Pietism: Chronology" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/248837?len=19757">"Refining the Reformation" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/583834?len=73288">"Refining the Reformation: <em>Theological Currents in the Seventeenth Century</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+</ul>

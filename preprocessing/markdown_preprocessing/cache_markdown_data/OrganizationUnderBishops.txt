@@ -1,0 +1,123 @@
+<p>Level: 2
+Status: Draft
+Identifier: OrganizationUnderBishops
+Parents: Orthodoxy
+Eras: bk.era:theearlychurch; bk.era:antenicenechurchera; bk.era:nicenechurchera</p>
+<h1>The Church Organizes Under Bishops</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 50–451</li>
+<li><strong>Description:</strong> The early church developed under the care and leadership of bishops, elders, and deacons/deaconesses. </li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The apostles Paul and Barnabas appointed elders in the early church.</li>
+<li>The early church was ruled by elders, or bishops, and served by a community of deacons under the leadership of the apostles.</li>
+<li>A three-fold structure of bishops, elders, and deacons developed; one bishop per congregation with multiple elders and deacons/deaconesses.</li>
+<li>The power of the bishop grew; Rome was "first among equals" but bishops began to assert supremacy.</li>
+<li>The office of deaconesses began to decline, disappearing by the Middle Ages.</li>
+<li>Bishops in Rome, Alexandria, Antioch, Constantinople, and Jerusalem gain prestige, known as patriarchs; Constantinople second to Rome.</li>
+<li>Leo I claimed authority over all bishops and the church based on primacy of the apostle Peter.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3>Bishops</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeClementI">Clement of Rome</a> (AD 30 – 100): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstEpistleOfClement_Writing"><em>First Epistle of Clement</em></a> which addressed issues of church authority and governance, and affirmed the apostolic authority of the clergy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusAntioch.1">Ignatius of Antioch</a> (50 – 110): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Syrian Antioch</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfIgnatius_Writing"><em>Epistles of Ignatius</em></a> which <strong>...</strong></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Polycarp">Polycarp</a> (c. 69–c. 155): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Smyrna</a> and disciple of John the Apostle; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistleOfPolycarp_Writing"><em>Epistle of Polycarp</em></a> which addresses early church practices and governance. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Irenaeus">Irenaeus</a> (130–202): bishop of Lyons<strong>...</strong></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CyprianOfCarthage_Person">Cyprian of Carthage</a> (AD 201–258): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>; author of <em>On the Unity of the Church</em> in which he asserted the unity of the bishops.</li>
+</ul>
+<h3>Popes</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoI_Person">Leo I</a> (400–November 10, 461): Italian pope(440–461); argued for primacy of the papacy; first to use the title "Pope."</li>
+</ul>
+<h3>Church Fathers</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.tertullian">Tertullian</a> (c. AD 160–230): Christian apologist; he wrote extensively in Latin and is often regarded as the "Father of the Latin Church".</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>50: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apaulappointselders">Paul Appoints Elders</a></li>
+<li>100s: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abishopricformsgadaraearly">Bishopric Forms at Gadara</a></li>
+<li>2nd century: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aofficebishopinstitutedchurch">Office of Bishop Is Instituted in the Church</a></li>
+<li>3rd century: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abishopschosenvotepeople">Bishops Are Chosen by the Vote of the People</a></li>
+<li>251: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aunitychurchcyprianwritten"><em>On the Unity of the Church</em> by Cyprian Is Written</a></li>
+<li>300s: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atermspastorbishopsynonymous">Pastor and Bishop Are Used Synonymously</a></li>
+<li>325: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilnicaea">Council of Nicaea</a> established patriarchal bishops of Antioch, Alexandria, and Rome.</li>
+<li>381: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilconstantinople">First Council of Constantinople</a>:</li>
+<li>451: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a></li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Chalcedon_Place">Chalcedon</a>: location of the Council of Chalcedon in 451.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a>: capital of the Roman Empire after 324; location of the First Council of Constantinople.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Nicaea">Nicaea</a>: location of the First Council of Nicaea.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>: capital of the Roman Empire until 324; residency of the Roman papacy.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="[https://ref.ly/logos4/Factbook?ref=bk.%25apostolicSuccession">Apostolic Succession</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishop</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchOfficers">Church Officers</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25deacon">Deacon</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25deaconess">Deaconess</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25elderInTheNt">Elder in the NT</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25episcopacy">Episcopacy</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">Papal Primacy</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Pope</a></li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3>?</h3>
+<ul>
+<li><em>On the Unity of the Church</em> (Cyprian of Carthage, 251): asserts the unity of the bishops. </li>
+</ul>
+<h3>Apologies</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApologyOfQuadratus_Writing"><em>Apology of Quadratus</em></a> (c. AD 117–125): addressed to emperor Hadrian; apologetic defense of Jesus' miracles.</li>
+</ul>
+<h3>Canons</h3>
+<ul>
+<li><em>Canons of Chalcedon</em> (Council of Chalcedon, 451): contains guidelines on the behavior of bishops and ordination of deaconesses.</li>
+</ul>
+<h3>Epistles</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstEpistleOfClement_Writing">First Epistle of Clement (<em>c.</em> late 1st century)</a>: addressed to church of Corinth; addresses issues of church authority and governance, and affirmed the apostolic authority of the clergy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfIgnatius_Writing">Epistles of Ignatius</a> (c. early 2nd century AD): collection of seven letters; six letters are addressed to churches in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Magnesia_Place">Magnesia</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Tralles">Tralles</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Philadelphia_Place">Philadelphia</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Symrna</a>, and one addressed to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Polycarp_Person">Polycarp</a>; addresses issues of church authority and governance.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>Curtis, A. Kenneth, J. Stephen Lang, and Randy Petersen. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/36030?len=4151">"177 Irenaeus Becomes Bishop of Lyons."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/40183?len=3431]]">"<em>Circa</em> 196 Tertullian Begins to Write Christian Books."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/48829?len=4504">"251 Cyprian Writes <em>On the Unity of the Church</em>."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/71583?len=5226">"385 Bishop Ambrose Defies the Empress."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/81994?len=5343">"398 John Chrysostom Becomes Bishop of Constantinople."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>Ferguson, Everett. <a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/446597?len=5090">"II. Organization of teh Church."</a> In <em>Church History: From Christ to Pre-Reformation.</em> Vol. 1. Grand Rapids, MI: Zondervan, 2005.</li>
+<li>González, Justo L. <a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/252954?len=4646">"The Organization of the Church."</a> In <em>The Story of Christianity: The Early Church to the Dawn of the Reformation.</em> Edited by HarperOne. New York, NY, 2010.</li>
+<li>James, Frank A., III. <a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/28402?len=5615">"Structure of the Early Church."</a> In <em>CH101 Introducing Church History I: Obscurity to Christendom.</em> Logos Mobile Education. Bellingham, WA: Lexham Press, 2016.</li>
+<li>Noll, Mark A. <a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/113352?len=6625">"Episcopacy."</a> In <em>Turning Points: Decisive Moments in the History of Christianity.</em> Third Edition. Grand Rapids, MI: Baker Academic, 2012.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/186295?len=21040">"Chapter 7: School for Sinners: A Structure That Fits."</a> In <em>Church History in Plain Language.</em> 5th Edition. Grand Rpaids, MI: Zondervan Academic, 2020.</li>
+<li>Todd, Richard A. <a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/381454?len=11847">"Chapter 12: Clergy, Bishops, and Pope: The Church Builds an Organization."</a> In <em>Introduction to the History of Christianity</em>, edited by Tim Dowley, Third Edition., 145–50. Minneapolis, MN: Fortress Press, 2018.</li>
+<li>Walton, Robert C. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/63228?len=1208">"22. Development of Episcopacy in the First Five Centuries."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+</ul>

@@ -1,0 +1,125 @@
+<p>Level: 2
+Status: Draft
+Identifier: SporadicPersecution
+Parents: Persecuted
+Eras: bk.era:theearlychurch; bk.era:antenicenechurchera</p>
+<h1>The Early Church Experiences Sporadic Persecution</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 64–249</li>
+<li><strong>Description:</strong> The early church faced persecution under the rule of several Roman emperors, though it remained sporadic and localized.</li>
+</ul>
+<h2>Key Developments</h2>
+<ul>
+<li>Jerusalem falls to the Romans and the Temple is destroyed; a few years earlier Christians in Jerusalem fled to Pella.</li>
+<li>Christianity and Judaism separate as tensions between the two faiths intensify.</li>
+<li>The early church continues to expand across the Roman empire.</li>
+<li>The new Christian faith presents a challenge to the paganism of Rome.</li>
+<li>Christians are accused of secrecy and gross immorality, including cannibalism and orgies, as well as atheism, which leads to increased distrust of the new faith. </li>
+<li>Emperor worship increases in popularity.</li>
+<li>Early Christian writers encourage followers to remain faithful in the face of persecution and martyrdom.</li>
+</ul>
+<h2>Key People</h2>
+<h3>Martyrs</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Peter">Peter</a> (d. c. AD 64): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostle</a> and leader of the early church; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesofSaintPeter">Epistles of Peter</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>; according to <a href="https://ref.ly/logos4/Factbook?ref=bio.EusebiusCaesarea">Eusebius</a>, Peter was martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansundernero">Neronian persecution</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Paul">Paul</a> (AD 10–67): apostle to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Gentiles">Gentiles</a> and early Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a> who prior to his <a href="https://ref.ly/logos4/Factbook?ref=bk.*PaulConversion">conversion</a> persecuted the early church; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PaulsLetters_Writting">Pauline Epistles</a> in the New Testament; subject of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfActs_Writing">Book of Acts</a> which details <a href="https://ref.ly/logos4/Factbook?ref=bk.*paulsmissionsperiod">Paul's missions</a> and the events leading up to <a href="https://ref.ly/logos4/Factbook?ref=bk.*paulstrialvoyageromeseries">Paul's trial and voyage to Rome</a> where he was imprisoned under house arrest; according to <a href="https://ref.ly/logos4/Factbook?ref=bio.EusebiusCaesarea">Eusebius</a>, Paul was martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansundernero">Neronian persecution</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusAntioch.1">Ignatius of Antioch</a> (AD 50–110): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Syrian Antioch</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfIgnatius_Writing"><em>Epistles of Ignatius</em></a> which were written while traveling to Rome where he was martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areigntrajanrome">reign of Trajan</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Polycarp_Person">Polycarp</a> (AD 69–155): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Smyrna</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%23disciple">disciple</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John</a>; subject of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartyrdomOfPolycarp_Writing">Martydom of Polycarp</a> which details the events leading up to <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathpolycarpbishopsmyrna">his death</a> when he was burned at the stake during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignantoninuspius">reign of Antoninus Pius</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JustinMartyr_Person">Justin Martyr</a> (AD 100–165): Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apologists">apologist</a>; author of <em>First Apology</em> which is addressed to Antoninus Pius and contains a defense of the Christian faith and an argument against the persecution of Christians; author of <em>Second Apology</em> which also addresses persecution; he was martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignmarcusaureliusrome">reign of Marcus Aurelius</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.vibiaperpetua_1">Perpetua</a> (c. AD 181–203): African noblewoman and martyr; subject of the <em>Passion of St. Perpetua and St. Felicity</em> which recounts the execution of Perpetua, along with her companions and slave, Felicity, in the arena at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Leonides.1_Person">Leonides</a> (2nd–3rd centuries AD): father of <a href="https://ref.ly/logos4/Factbook?ref=bio.Origen">Origen</a>, martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignseptimiusseverusrome">reign of Septimius Severus</a>.</li>
+</ul>
+<h3>Christian Writers</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John (Son of Zebedee)</a> (d. AD 100): apostle; possible author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfRevelation_Writing">Book of Revelation</a> in the New Testament; according to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tertullian_Person">Tertullian</a>, he was persecuted in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> before being exiled to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Patmos_Place">Patmos</a> (<a href="https://ref.ly/logosres/anf03?ref=ecf.1.3.1.11.0.36"><em>The Prescription against Heretics</em> 36.14–15</a>) during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignemperordomitianrome">reign of Domitian</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeClementI">Clement of Rome</a> (AD 30–100): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; likely author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstEpistleOfClement_Writing"><em>First Epistle of Clement</em></a> which likens schisms within the church to those who persecute Christians and mentions the martyrdoms of Peter and Paul. (<a href="https://ref.ly/logosres/anf10?ref=ecf.1.10.3.1.0.5">1 Clem 5</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ClementAlexandria">Clement of Alexandria</a> (AD 150–215): Church Father and theologian; author of <em>Stromata, or Miscellanies</em> which addresses martyrdom (Book IV).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tertullian_Person">Tertullian</a> (c. AD 160–230): African Church Father and apologist; author of several works that speak of persecution and offer a defense of the Christian faith including <em>Apoligeticum</em>, <em>Ad nationes</em>, and <em>Ad martyras</em>.</li>
+</ul>
+<h3>Roman Officials</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Nero">Nero</a> (AD 37–68): emperor of Rome (AD 54–68); following the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirerome">fire in Rome</a> he blamed the Christians after which many were arrested and brutally executed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EmperorTitus_Person">Titus</a> (AD 41–81): emperor of Rome (AD 79–81); conquered Jerusalem and destroyed the Temple (AD 70).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EmperorDomitian_Person">Domitian</a> (AD 51–96): emperor of Rome (AD 81–96); demanded he be worshiped which led to persecution against Christians and Jews; exiled John to Patmos.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EmperorTrajan_Person">Trajan</a> (AD 53–117): emperor of Rome (AD 98–117); recipient of a letter from Pliny in which he asks for guidance on how to deal with accused Christians (<em>Letters</em> 10.96); Trajan agreed with Pliny's policy of not seeking out Christians and only punishing those who refused to recant if accused.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.plinyyounger">Pliny</a> (AD 61–113): Roman <a href="https://ref.ly/logos4/Factbook?ref=bk.%25senator">senator</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%23governor">governor</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bithynia_Place">Bithynia</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pontus_Place">Pontus</a> (AD 100–112); author of a letter to Trajan in which he asks for guidance on how to deal with accused Christians (<em>Letters</em> 10.96); Trajan agreed with Pliny's policy of not seeking out Christians and only punishing those who refused to recant.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntoninusPius_Person">Antoninus Pius</a> (AD 86–161): emperor of Rome (AD 138–161); Polycarp was martyred during his reign.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MarcusAurelius">Marcus Aurelius</a> (AD 121–180): emperor of Rome (AD 161–180); held a similar view towards Christians as Trajan and did not seek out but allowed persecution; Justin Matryr was martyred during his reign.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SeptimiusSeverus_Person">Septimius Severus</a> (AD 145–211): emperor of Rome (193–211); many Christians were martyred during his reign including Leonides (the father of Origen), Perpetua, and Felicity.</li>
+</ul>
+<h2>Key Events</h2>
+<ul>
+<li>AD 54–68: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignnerorome">Reign of Nero in Rome</a></li>
+<li>AD 54–68: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansundernero">Persecution of Christians Under Nero</a></li>
+<li>AD 64: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirerome">Fire in Rome</a></li>
+<li>AD 64: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdompaul">Martyrdom of Paul</a></li>
+<li>c. AD 64: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdonpeter">Martyrdom of Peter</a></li>
+<li>AD 79–81: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignemperortitusrome">Reign of Emperor Titus in Rome</a></li>
+<li>AD 81–96: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignemperordomitianrome">Reign of Emperor Domitian in Rome</a></li>
+<li>AD 90–95: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajohnseesvisionpatmos">John Sees a Vision on Patmos</a></li>
+<li>c. AD 95: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder">Persecution of Christians Under Domitian</a></li>
+<li>AD 98–117: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areigntrajanrome">Reign of Trajan in Rome</a></li>
+<li>100s AD: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomglorified">Martyrdom Is Glorified</a></li>
+<li>AD 100: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aclementromewritespeters">Clement of Rome Writes of Peter's Martyrdom</a></li>
+<li>AD 100: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aemperorworshipestablishedrome">Emperor Worship Established in Rome</a></li>
+<li>AD 100–112: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agovernorshipplinybithynia">Governorship of Pliny in Bithynia and Pontus</a></li>
+<li>AD 112: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atrajanrequireschristiansoffer">Trajan Requires Christians to Offer Wine and Incense Before His Statue</a></li>
+<li>AD 138–161: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignantoninuspius">Reign of Antoninus Pius in Rome</a></li>
+<li>AD 161–180: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignmarcusaureliusrome">Reign of Marcus Aurelius in Rome</a></li>
+<li>AD 177: Persecution of Christians in Gaul at Lyon and Vienne</li>
+<li>AD 193–211: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignseptimiusseverusrome">Reign of Septimius Severus in Rome</a></li>
+<li>c. AD 200: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomperpetuaherslave">Martyrdom of Perpetua and Her Slave Felicity</a></li>
+<li>c. AD 202: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomorigensfatherleonides">Martyrdom of Origen's Father, Leonides</a></li>
+</ul>
+<h2>Key Places</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>: location of persecution during the reign of Septimius Severus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a>: location of <a href="https://ref.ly/logos4/Factbook?ref=bk.%24HerodianTemple">Herod's Temple</a>; center of early church leadership.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Gaul">Gaul</a>: location of persecution in AD 177 during the reign of Marcus Aurelius. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Patmos_Place">Patmos</a>: island where John, the author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfRevelation_Writing">Revelation</a>, was exiled.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>: capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a>; location of early persecutions and martyrdoms.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperorWorship">Emperor Worship</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25martyrdom">Martydrom</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">Persecution</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecutionOfTheEarlyChurch">Persecution of the Early Church</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25romanImperialCult">Roman Imperial Cult</a></li>
+</ul>
+<h2>Key Documents</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfRevelation_Writing">Book of Revelation</a> (ca. AD 90–100):</li>
+<li><em>The First Apology of Justin Martyr</em> (AD 150): written by Justin Martyr; addressed to Emperor Antoninus Pius; apologetic defense of Christianity with agruments against persecution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MartyrdomOfPolycarp_Writing">Martyrdom of Polycarp</a> (c. AD 155): details the events leading up to the death of Polycarp when he was burned at the stake.</li>
+<li><em>Apoligeticum</em> (c. AD 196): written by Tertullian; offers a defense of Christianity and argues for toleration towards Christians.</li>
+<li><em>Ad nationes</em> (c.197): written by Tertullian; offers a defense of Christianity and argues for toleration towards Christians.</li>
+<li><em>Ad martyras</em> (c. 197): written by Tertullian; an exhortation for Christians to remain faithful in the face of persecution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstEpistleOfClement_Writing"><em>First Epistle of Clement</em></a> (c. late 1st century AD): likely written by Clement of Rome; addressed to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Church.14">church at Corinth</a>; likens schisms within the church to those who persecute Christians and mentions the martyrdoms of Peter and Paul.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfIgnatius_Writing"><em>Epistles of Ignatius</em></a> (c. early 2nd century AD): seven letters written by Ignatius of Antioch while traveling to Rome where he was martyred during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areigntrajanrome">reign of Trajan</a>; six letters are addressed to churches in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Magnesia_Place">Magnesia</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Tralles">Tralles</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Philadelphia_Place">Philadelphia</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Smyrna_Place">Symrna</a>, and one addressed to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Polycarp_Person">Polycarp</a>.</li>
+<li><em>Passion of St. Perpetua and St. Felicity</em> (AD 203): possibly written by Tertullian or an associate; details the events leading up to the martydoms of Perpetua and others who were executed at Carthage.</li>
+<li><em>Ecclesiastical History</em> (AD 325): written by <a href="https://ref.ly/logos4/Factbook?ref=bio.EusebiusCaesarea">Eusebius</a>; contains accounts of several martyrdoms during persecution at Smyrna, Gaul, and Rome (see <a href="https://ref.ly/logosres/npnf15?ref=ecf.3.1.1.1.4.11">4.15</a>, <a href="https://ref.ly/logosres/npnf15?ref=ecf.3.1.1.1.5.2">5.1</a>, and <a href="https://ref.ly/logosres/npnf15?ref=ecf.3.1.1.1.5.22">5.21</a>).</li>
+<li><em>Stromata, or Miscellanies</em> (): written by Clement of Alexandria; addresses martyrdom (Book IV)</li>
+</ul>
+<h2>See Also</h2>
+<ul>
+<li>Curtis, A. Kenneth, J. Stepehen Lang, and Randy Peterson. <a href="https://ref.ly/logosres/9781585581290?art=R7">"64 The Fire in Rome."</a> In <em>The 100 Most Important Events in Christian History.</em> Grand Rapids, MI: Revell, 1998.</li>
+<li>---------. <a href="https://ref.ly/logosres/9781585581290?art=R10">"Circa 156 The Martyrdom of Polycarp."</a></li>
+<li>Frend, William H.C. <a href="https://ref.ly/logosres/ncyncntchrstnty?art=P.151">"Persecutions."</a> In <em>Encyclopedia of Ancient Christianity</em>, edited by Angelo Di Berardino and James Hoover, translated by Joseph T. Papa, Erik A. Koenke, and Eric E. Hewett, 3:144–51. Downers Grove, IL: IVP Academic; InterVarsity Press, 2014.</li>
+<li>James, Frank A., III. <a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/49159?len=26402">"Persecution in the Early Church."</a> In  <em>CH101 Introducing Church History I: Obscurity to Christendom.</em> Logos Mobile Education. Bellingham, WA: Lexham Press, 2016.</li>
+<li>Noll, Mark A. <a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/88695?len=6174">"Outward from Jerusalem."</a> <em>Turning Points: Decisive Moments in the History of Christianity.</em> Third Edition. Grand Rapids, MI: Baker Academic, 2012.</li>
+<li>Rordorf, Willy, Victor Saxer, Stefan Heid, Noël Duval, and Fabrizio Bisconti. <a href="https://ref.ly/logosres/ncyncntchrstnty?art=M.93.1">"I. Christian Martyrdom."</a> In <em>Encyclopedia of Ancient Christianity</em>, edited by Angelo Di Berardino and James Hoover, translated by Joseph T. Papa, Erik A. Koenke, and Eric E. Hewett, 2:700–710. Downers Grove, IL: IVP Academic; InterVarsity Press, 2014.</li>
+<li>Rusten, Sharon with E. Michael. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH2.50">"64---Fire Raves Rome."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH2.51">"65---Peter Is Martyred."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>Schaff, Philip, and David Schley Schaff. </li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH2.51">"68---Paul Is Martyred."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH2.60">"81---Domitian Becomes Caesar."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH3.1">"110---Ignatius of Antioch Is Martyred."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH3.2">"110---Persecution Begins under Emperor Trajan."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH3.8">"156---Polycarp Is Martyred."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>---------. <a href="https://ref.ly/logosres/combkwhnwhr?art=CH3.15">"202---Persecution Begins under Septimius Severus."</a> In <em>The Complete Book of When &amp; Where in the Bible and throughout History.</em> Wheaton, IL: Tyndale House Publishers, Inc., 2005.</li>
+<li>Schaff, Philip, and David Schley Schaff. 
+<a href="https://ref.ly/res/LLS:6.10.3/2019-07-18T23:12:27Z/4922824?len=56594">Chapter II. Persecution of Christianity and Christian Martyrdom."</a>  In <em>History of the Christian Church.</em> New York: Charles Scribner’s Sons, 1910.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/116937?len=22715">"Chapter 4. If the Tiber Floods: The Persecution of Christians."</a> In <em>Church History in Plain Language.</em> Edited by Marshall Shelley. 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+<li>Walton, Robert C. <a href="https://ref.ly/logosres/ws-9fe5f34b7d4849c49972a11a6ec570fc?art=R30">"20. Roman Persecutions of Christians."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+</ul>

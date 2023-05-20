@@ -13,7 +13,8 @@ faithlife_model_data/
 analysis_data/*.csv
 preprocessing/cache_model_data/
 preprocessing/cache_processed_data/
-
+*.jsonl
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

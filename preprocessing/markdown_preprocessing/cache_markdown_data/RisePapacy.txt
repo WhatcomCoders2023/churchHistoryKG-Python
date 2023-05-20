@@ -1,0 +1,117 @@
+<p>Level: 1
+Status: Released
+Identifier: RisePapacy
+Parents: EastAndWest
+Eras: bk.era:nicenechurchera; bk.era:byzantinechurchera; bk.era:medievalchurchera </p>
+<h1>The Rise of the Papacy</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.325-800">325–800</a></li>
+<li><strong>Description:</strong> The authority of the Western church was centralized in Rome under the papacy.</li>
+</ul>
+<h2>Summary</h2>
+<p>The power of the bishop grew in Rome as the church continued to expand across the Roman and Byzantine Empires. While the church in the East recognized the equal rule of five ecumenical patriarchs, the church in the West recognized the pope as the supreme head of the church. Rome established papal primacy, the supreme ecclesial authority of the pope and bishop of Rome over the universal church, based on the primacy of Peter. As Peter was the first among equals among the twelve apostles, and traditionally considered the first bishop of Rome appointed by Jesus (Matt 16:18–19), so, too, were the bishops of Rome who succeeded him. The power, prestige, and authority of the papacy continued to grow as the Western church expanded.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilnicea">First Council of Nicea</a> recognized the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25preeminence">preeminence</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25episcopal">episcopates</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antioch_Place">Antioch</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.325">325</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantinemovescapitalroman">Constantine moves the capital of the Roman Empire to Constantinople</a>, which was dubbed the "New Rome" (<a href="date.330">330</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a> recognized <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> as second only to Rome (<a href="date.451">451</a>).</li>
+<li>The title of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">"pope"</a> began being used exclusively for the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of Rome (<a href="date.400+100+m">mid-400s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pentarchy">pentarchy</a> developed in the East with <a href="bk.%patriarchOrthodox">patriarchs</a> recognized in Rome, Constantinople, Alexandria, Antioch, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> (<a href="date.500+100-600+100">500s–600s</a>).</li>
+<li>Rome claimed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">papal primacy</a> through <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostolicSuccession">apostolic succession</a> and asserted the authority of the bishop of Rome (<a href="date.500+100+l-600+100+e">late 500s–early 600s</a>).</li>
+<li>Rulers donated territory to be governed by the church, establishing the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a> and granting <a href="https://ref.ly/logos4/Factbook?ref=bk.%25temporalPower">temporal authority</a> to the pope (<a href="date.700+100+m">mid-700s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIII_Person">Pope Leo III</a> crowned <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharlemagnecrownedholyroman">Charlemagne emperor of the Holy Roman Empire</a> (<a href="date.800">800</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ConstantineI">Constantine the Great</a> (<a href="date.272.2.27-337.5.22">February 27, 272–May 22, 337</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; convert to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Christianity_Belief">Christianity</a>; moved the capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> from Rome to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Justinian.I_Person">Justinian I</a> (<a href="date.482-565.11.14">482-November 14, 565</a>): emperor of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ByzantineEmpire_Place">Byzantine Empire</a>; asserted authority of the emperor as the head of the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charlemagne_Person">Charlemagne</a> (<a href="date.742.4.2-814.1.28">April 2, 742–January 28, 814</a>): Holy Roman Emperor of Western <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a> (<a href="date.800-814">800--814</a>), which was later known as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a>; king of the Franks (<a href="date.768-814">768--814</a>); king of the Lombards (<a href="date.774-814">774--814</a>); he was crowned emperor by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIII_Person">Pope Leo III</a>; supporter and defender of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">papacy</a>.</li>
+</ul>
+<h3><a href="bk.%pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoI_Person">Leo I</a> (<a href="date.400-461.11.10">400–November 10, 461</a>): <a href="bk.%pope">pope</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of Rome (<a href="date.440-461">440--461</a>); he was the first to use the title <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">"pope"</a>; author of <a href="bk.%LetterCVIToAnatolius_Writing"><em>Letter CVI: To Anatolius, Bishop of Constantinople, in Rebuke of His Self-Seeking</em></a>, which rejects Constantinople's claim of supremacy over <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch (of Syria)</a> (<a href="leo.1.106.4-1.106.5">CVI.iv--v</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintGregoryI_Person">Gregory the Great</a> (<a href="date.540-604.3.12">540–March 12, 604</a>): pope and bishop of Rome (<a href="date.590-604">590--604</a>); Latin <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoctorsOfTheChurch">Doctor of the Church</a>; he claimed papal supremacy and authority of the pope over church councils; extremely popular and wielded great authority.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintLeoIII_Person">Leo III</a> (<a href="date.750-816.6.12">750–June 12, 816</a>): pope and bishop of Rome (<a href="date.795-816">795--816</a>); he crowned Charlemagne emperor of the Romans, setting a new precedent.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.325">325</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilnicaea">First Council of Nicaea</a> recognizes the preeminence of the bishops of Alexandria, Antioch, and Rome.</li>
+<li><a href="date.330">330</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aconstantinemovescapitalroman">Constantine moves the capital of the Roman Empire to Constantinople</a>.</li>
+<li><a href="date.440-461">440–461</a>: <a href="bk.tle:papacyleoi">Papacy of Leo I</a>.</li>
+<li><a href="date.451">451</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilchalcedon">Council of Chalcedon</a> recognizes Constantinople as the "New Rome" and second in authority and honor to Rome alone. </li>
+<li><a href="date.476">476</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afallwesternromanempire">fall of the western Roman Empire</a>.</li>
+<li><a href="date.527">527</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignjustinianibyzantineempire">Reign of Justinian I in the Byzantine Empire</a>.</li>
+<li><a href="date.590-604">590–604</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacygregoryigreat">Papacy of Gregory I the Great</a>.</li>
+<li><a href="date.700+100">700s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adonationconstantinewritten"><em>Donation of Constantine</em> is written</a>, which grants authority to the bishop of Rome over the other episcopates.</li>
+<li><a href="date.756">756</a>: <a href="bk.tle:pepinshortdonateslandpapacy">Pepin the Short donates land to the papacy</a>.</li>
+<li><a href="date.795-816">795–816</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacyleoiii">Papacy of Leo III</a>.</li>
+<li><a href="date.800">800</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acharlemagnecrownedholyroman">Charlemagne is crowned Holy Roman Emperor</a> by Pope Leo III.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was the location of one-fifth of the pentarchy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch</a> was the location of one-fifth of the pentarchy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40ByzantineEmpire">Byzantine Empire</a> was the center of the Eastern church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> was the ecclesial center of the Eastern church and capital of the Roman Empire and later the Byzantine Empire; location of one-fifth of the pentarchy; location of ecumenical councils.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> was the location of one-fifth of the pentarchy; holy site to Jews, Christians, and Muslims and center of the Crusades.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40PapalStates">Papal States</a> were established as lands were donated to the papacy to be governed by the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of the Western church, traditionally founded by the apostles Peter and Paul; location of one-fifth of the pentarchy; home of the Western papacy; former capital of the Roman Empire.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishops</a> of larger churches and regions had greater authority; were sent to church councils to debate and resolve ecclesial and theological matters.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchGovernment">Church government</a> developed to reflect the  structure of the Roman Empire after Christianity became the religion of the empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papacy">Papacy</a> grew in power and influence as the church organized under bishops.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">Papal primacy</a> developed within <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a>.</li>
+<li>The power and honor of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25patriarchate">patriarchate</a> was confirmed by church councils.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">"Pope"</a> was first used as a title reserved only for the bishop of Rome by Leo I.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pentarchy">Pentarchy</a> developed within <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EasternOrthodoxy_Belief">Eastern Orthodoxy</a>.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Church Codes and Canons</a></h3>
+<ul>
+<li><a href="bk.%CanonsOfChalcedonianCouncil_Writing"><em>The Canons of the Council of Chalcedon</em></a> (<a href="date.451">451</a>): thirty canons addressing ecclesial matters related to clergy and monasteries; recognizes Constantinople as the "New Rome" with authority and honor second only to Rome (Canon XXVIII).</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstEpistleOfClement_Writing">First Epistle of Clement</a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25ClementOfRome_Person">Clement of Rome</a>, <a href="date.1+100+c+l">c. late first century</a>: addressed to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Church.14">church at Corinth</a>; addresses issues of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchGovernment">church authority and governance</a> in response to the deposition of presbyters; affirms the apostolic authority of the episcopate as God's established order for the church.</li>
+</ul>
+<h3><a href="bk.%FalseDecretals">False Decretals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DonationOfConstantine"><em>Donation of Constantine</em></a> (<a href="date.701+100+c">c. eight century</a>): a forged document from Constantine the Great to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintSylvesterI_Person">Pope Sylvester I</a>; grants authority to the bishop of Rome over all other bishops.</li>
+</ul>
+<h3><a href="bk.%law">Law Codes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Novellae_Writing"><em>Novellae Constitutiones</em></a> (<a href="date.534">534</a>): issued by Justinian I; affirms Rome as first among the pentarchy, and Constantinople as second.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/381454?len=14770">“Clergy, Bishops, and Pope: The Church Builds an Organization” (Todd) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/483571?len=25954">"Lifted in a Mystic Manner: The Papacy and the Crusader" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/776873?len=14765">"One Flock Under One Shepherd" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/595199?len=19186">"The Papacy" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/277032?len=18927">"The Rise of the Papacy" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+</ul>

@@ -1,0 +1,162 @@
+<p>Level: 1
+Status: Released
+Identifier: RadicalReformers
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>Radical Reformers Diverge from Magisterial Protestants</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1523-1542">1523–1542</a></li>
+<li><strong>Description:</strong> Dissatisfied with the German and Swiss Reformations, those known as Radical[^1] Reformers pushed for greater reforms in the church and its relation to the state powers.</li>
+</ul>
+<h2>Summary</h2>
+<p>Radical Reformers, those who sought to revive what they believed to be primitive Christianity, are often categorized into three main groups: 1) the mainstream Anabaptists, known for their practice of believers' baptism and appeal to Scripture as the ultimate authority; 2) the Spiritualists, who were influenced by mysticism and advocated for the inner word of God; 3) and the Rationalists, known for their rejection of Nicene Trinitarianism and emphasis on human reason.[^2] There were also those among the Radical Reformers who advocated for a more revolutionary, and at times violent, approach to reform. The Anabaptists took an alternative approach to revolution, opting instead for various forms of pacifism. While the Radical Reformers were diverse in their beliefs and approaches to reform, they had in common a desire to re-establish the church as it was in the New Testament, a church separate from the world and its institutions. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Reformation">Reformation</a> began in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a> as Reformers challenged papal authority and perceived abuses and corruption in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">Humanist</a> Radical Reformers embraced <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">mysticism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">rationalism</a> (<a href="date.1500+100">1500s</a>).</li>
+<li>Radical Reformers were viewed as extremists by Roman Catholics and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a> (<a href="date.1500+100">1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anabaptists">Anabaptists</a> faced severe <a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">persecution</a> and many were drowned in attempts to suppress the movement (<a href="date.1500+100">1500s</a>).</li>
+<li>Radical Reformers pushed for more expansive reforms in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchAndState">church and state</a> (<a href="date.1520+10-1530+10">1520s–1530s</a>).</li>
+<li>Peasants, inspired by the Reformation, rose up against the nobility in Germany to demand economic and religious rights (<a href="date.1524-1525">1524–1525</a>).</li>
+<li>Radical Reformers broke from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli's</a> reform movement after they were banned from spreading their views (<a href="date.1525">1525</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25credobaptism_Belief">Believers' baptism</a> was established; Radical Reformers rejected <a href="https://ref.ly/logos4/Factbook?ref=bk.%25infantBaptism">infant baptism</a> (<a href="date.1525">1525</a>).</li>
+<li>Revolutionaries advocated for the imminent <a href="https://ref.ly/logos4/Factbook?ref=lsto.SecondComing">return of Christ</a> and attempted to establish a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theocracy">theocracy</a> (<a href="date.1534-1535">1534–1535</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anabaptists">Anabaptists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BalthasarHubmaier_Person">Balthasar Hübmaier</a> (<a href="date.1480-1528.3.10">1480–March 10, 1528</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anabaptists">Anabaptist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25author">author</a>, and <a href="bk.%martyr">martyr</a>; student of <a href="https://ref.ly/logos4/Factbook?ref=bio.JohannEck">Johann Eck</a>; author of tracts that opposed magisterial Reformers <a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli</a>; he was executed for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AndreasBodensteinvonKarlstadt.1_Person">Andreas Karlstadt</a> (<a href="date.1486-1541.12.24">1486–December 24, 1541</a>): German Radical Reformer; he taught at the <a href="bk.%UniversityOfWittenberg_Place">University of Wittenberg</a>; adhered to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">scholasticism</a> before becoming a supporter of <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">the Protestant Reformation</a> and of Luther; debated Johann Eck at <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Leipzig">Leipzig</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MichaelSattler_Person">Michael Sattler</a> (<a href="date.1495-1527">1495–1527</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine</a> monk who became an Anabaptist Radical Reformer and a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SwissBrethren_People">Swiss Brethren</a>; author of the <a href="bk.%schleitheimConfession"><em>Schleitheim Confession</em></a>, which describes the defining characteristics of the Anabaptist movement, including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25peacemaking">pacifism</a>, <a href="bk.%credobaptism_Belief">believers' baptism</a>, and separation from the world; he was tortured and executed for heresy.</li>
+<li><a href="bio.GeorgBlaurock">George Blaurock</a> (<a href="date.1492+c-1529">c. 1492–1529</a>): Swiss Anabaptist leader, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>, and martyr; co-founder of the Swiss Brethren; <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ageorgeblaurockrebaptized">he was re-baptized</a> by Conrad Grebel; executed for heresy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MennoSimons_Person">Menno Simons</a> (<a href="date.1496-1561.1.31">1496–January 31, 1561</a>): Dutch Anabaptist leader and Radical Reformer; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Mennonites_People">Mennonites</a>; he advocated for pacifism; author of Anabaptist texts <a href="bk.%FoundationOfChristianDoctrineMenno_Writing"><em>Foundation of Christian Doctrine</em></a> and <a href="bk.%TheTrueChristianFaithMenno_Writing"><em>The True Christian Faith</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConradGrebel_Person">Conrad Grebel</a> (<a href="date.1498-1526">1498–1526</a>): Anabaptist Radical Reformer; leader and co-founder of the Swiss Brethren; he advocated for pacifism and believers' baptism; arrested for re-baptizing George Blaurock.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FelixManz_Person">Felix Manz</a> (<a href="date.1498-1527.1.5">1498–January 5, 1527</a>): Swiss Anabaptist Radical Reformer and martyr; co-founder of the Swiss Brethren; he advocated for believers' baptism and opposed infant baptism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JacobHutter_Person">Jacob Hutter</a> (<a href="date.1500+c-1536.2.25">c. 1500–February 25, 1536</a>): Italian Anabaptist Radical Reformer; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hutterite_Denom">Hutterite Brethren</a>; he advocated for communal ownership of goods; executed for heresy.</li>
+</ul>
+<h3><a href="bk.%reform">Magisterial Reformers</a>[^3]</h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a> (<a href="date.1483.11.10-1546.2.18">November 10, 1483–February 18, 1546</a>): German Reformer and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AugustinianHermits_People">Augustinian</a> monk; leader of the Protestant Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a>; he studied and taught at Wittenberg; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NinetyFiveTheses_Writing"><em>Ninety-Five Theses</em></a>, which argues against the selling of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indulgence">indulgences</a>; condemned at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietworms">Diet of Worms</a>; opposed to the Radical Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25UlrichZwingli_Person">Ulrich Zwingli</a> (<a href="date.1484.1.1-1531.10.11">January 1, 1484–October 11, 1531</a>): Swiss Reformer; leader of the Protestant Reformation in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a>; he originally supported the Peasants' War but later opposed the Radical Reformation; author of <a href="bk.%sixtySevenArticles_Writing"><em>Sixty-Seven Theses</em></a>, which addresses corruption in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> and advocates for a return to the church of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rationalism">Rationalists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MichaelServetus_Person">Michael Servetus</a> (<a href="date.1511+c-1553">c. 1511–1553</a>): Spanish Radical Reformer, physician, theologian, and martyr; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">humanism</a>; author of antitrinitarian writings including <a href="bk.%OnTheErrorsOfTheTrinity_Writing"><em>On the Errors of the Trinity</em></a>; he was an opponent of <a href="https://ref.ly/logos4/Factbook?ref=bio.JohnCalvin">John Calvin</a>; executed for heresy.</li>
+<li><a href="bio.laeliussocinus_1">Laelius Socinus</a> (<a href="date.1525.1.29-1562.5.4">January 29, 1525–May 4, 1562</a>) and <a href="bio.faustussocinus_1">Faustus Socinus</a> (<a href="date.1539.12.5-1604.3.4">December 5, 1539--March 4, 1604</a>): Italian Radical Reformers and theologians; founders of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Socinian_Belief">Socinianism</a> and adherents of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Unitarianism_Belief">Unitarianism</a>; Laelius was the author of <a href="bk.%ConfessionOfFaithSocinus_Writing"><em>Confession of Faith</em></a>, which uses orthodox language but was considered controversial among Protestants; Faustus was the author of <a href="bk.%OnChristTheSaviorFaustus_Writing"><em>On Christ the Savior</em></a>, which addresses his views on soteriology and opposes the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25satisfaction">satisfaction</a> theory of atonement.</li>
+</ul>
+<h3><a href="bk.%revolution">Revolutionary</a> <a href="bk.%Anabaptists">Anabaptists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ThomasMuntzer">Thomas Müntzer</a> (<a href="date.1490-1525.5.27">1490–May 27, 1525</a>): German Reformer; studied at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UniversityOfLeipzig_Place">University of Leipzig</a>; taught at the University of Wittenberg; supported Luther at the <a href="bk.tle:lutherdebatesjohanneckleipzig">Leipzig Debate</a>; he later became a Radical Reformer and opponent of Luther; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeasantsWar">Peasants' War</a>; executed following the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abattlefrankenhausengerman">Battle of Frankenhausen</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MelchiorHoffmann_Person">Melchior Hoffman</a> (<a href="date.1495-1543">1495–1543</a>): German Anabaptist Radical Reformer; while he adhered to Anabaptist doctrines, he also emphasized <a href="https://ref.ly/logos4/Factbook?ref=bk.%25eschatology">eschatology</a> and advocated for the imminent <a href="https://ref.ly/logos4/Factbook?ref=lsto.SecondComing">return of Christ</a>; his followers were known as <a href="bk.%Melchiorites_People">Melchiorites</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NicolasStorch_Person">Nicolas Storch</a> (d. <a href="date.1536+c">after 1536</a>): Saxon Anabaptist Radical Reformer; one of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ZwickauProphets_People">Zwickau Prophets</a>, a group of Anabaptists who claimed to be inspired by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolySpirit_Deity">Holy Spirit</a> and advocated for <a href="https://ref.ly/logos4/Factbook?ref=lsto.SpecialRevelation">special revelation</a> over <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aScripture">Scripture</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25tradition">tradition</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnLeiden">John of Leiden</a> (<a href="date.1510-1536">1510–1536</a>): Dutch Anabaptist Radical Reformer; follower of Melchior Hoffman; leader of the <a href="bk.%Munsterites_People">Münsterites</a>; he attempted to establish a theocracy in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40MunsterGermany">Münster</a> and declared himself king.</li>
+</ul>
+<h3><a href="bk.%Spiritualists_People">Spiritualists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HansDenck_Person">Hans Denck</a> (<a href="date.1495-1527.11.27">1495–November 27, 1527</a>): Anabaptist Radical Reformer, theologian, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">mystic</a>; adherent of humanism; follower of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannesOecolampadius_Person">Johannes Oecolampadius</a>; he advocated for the authority of the inner word of God over the Scriptures.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SebastianFranck_Person">Sebastian Franck</a> (<a href="date.1499.1.20-1543">January 20, 1499–1543</a>): German Radical Reformer, humanist, and mystic; he converted to Lutheranism but later became known for his teachings on the inner word of God; opposed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodoxies</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25dogma">dogma</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1523">1523</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aradicalreformationzurichbegins">Radical Reformation in Zurich begins</a>.</li>
+<li><a href="date.1524.6-1525.5">June 1524–May 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agermanpeasantswar">The German Peasants' War</a> is supported by Zwingli and Müntzer but opposed by Luther.</li>
+<li><a href="date.1525.1">January 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilzurichdebatesinfant">Council of Zurich</a> bans Radical Reformers from spreading their views.</li>
+<li><a href="date.1525.1.21">January 21, 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aanabaptistpracticesbegin">Anabaptist practices begin</a>.</li>
+<li><a href="date.1525">1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abaptismbelieversbalthasar"><em>On the Baptism of Believers</em> by Balthasar Hübmaier is written</a>.</li>
+<li><a href="date.1525">1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aexecutionthomasmunzer">Thomas Müntzer is executed</a>.</li>
+<li><a href="date.1525.2">February 1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ageorgeblaurockrebaptized">George Blaurock is rebaptized</a>.</li>
+<li><a href="date.1526.3">March 1526</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apenaltydrowningenactedagainst">Penalty of drowning is enacted against Anabaptists</a>.</li>
+<li><a href="date.1527.1.5">January 5, 1527</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amartyrdomfelixmanz">Felix Manz is martyred</a>.</li>
+<li><a href="date.1527.2.24">February 24, 1527</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aschleitheimconfessionfaith">Schleitheim Confession of Faith</a> articulates the defining characteristics of the Anabaptist faith.</li>
+<li><a href="date.1527">1527</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeathmichaelsattler">Michael Sattler is martyred</a>.</li>
+<li><a href="date.1529">1529</a>: <a href="bk.tle:georgblaurockmartyred">George Blaurock is martyred</a>.</li>
+<li><a href="date.1532">1532</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aanabaptistsmigratemunster">Anabaptists migrate to Münster, Germany</a>.</li>
+<li><a href="date.1534.7+3+s">Summer of 1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajanleidenleadsmunster">John of Leiden leads Münster Anabaptists</a> to set up theocracy and is named king.</li>
+<li><a href="date.1535">1535</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amusnterrebellionends">Münster Rebellion ends</a> with the defeat of the Anabaptists by the army of the Prince-Bishop of Münster.</li>
+<li><a href="date.1536">1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amennosimonsbaptizedagain">Menno Simons is baptized again</a>.</li>
+<li><a href="date.1539">1539</a>: <a href="bk.tle:foundationsmennosimonsispublished"><em>Foundations of Christian Doctrine</em> by Menno Simons is published</a>.</li>
+<li><a href="date.1540-1542">1540–1542</a>: <a href="bk.tle:peterriedemannwriteshutteriteconfession">Peter Riedemann writes <em>Hutterite Confession of Faith</em></a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Germany">Germany</a> was where the Protestant Reformation began; location of the German Peasants' War.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Moravia">Moravia</a> was a center of the Anabaptism movement following persecution in western Europe.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40MunsterGermany">Münster</a> was the location of the Münster rebellion.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Switzerland">Switzerland</a> was the center of the Swiss Reformation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Netherlands_Place">The Netherlands</a> was where the Mennonites originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Wittenberg">Wittenberg</a> was the theological center of the German Reformation; the Zwickau Prophets were active here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Zurich">Zurich</a> was where the Swiss Reformation began; the Anabaptist movement began here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Zwickau.1_Place">Zwickau</a> was where the Zwickau Prophets originated.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anabaptists">Anabaptists</a> were radical Reformers who advocated for self-governance and a return to the church as portrayed in the Bible; they adhered to believer's baptism and opposed infant baptism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25credobaptism_Belief">Believers' baptism</a> was a core belief of the Anabaptist movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Humanism_Belief">Humanism</a> brought a renewed interest in ancient ideas, art, and literature; Christian humanism emphasized the original languages of the Bible and early Christian writings.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Millenarianism_Belief">Millenarianism</a> was popular among some early Radical Reformers who believed in the imminent return of Christ and his thousand-year reign on earth.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25peacemaking">Pacifism</a> was a core belief of the Anabaptist movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Restorationism_None">Restorationism</a> was popular among Radical Reformers who advocated for a return to the church of the New Testament.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25authorityOfTheBible">Authority of the Bible</a> was a core belief of the Anabaptist movement.</li>
+<li><a href="bk.%Spiritualists_People">Spiritualists</a> were a group of Radical Reformers who emphasized the inner word of God and religion and deemphasized external forms of religion, including the Scriptures; they were influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">mysticism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SwissBrethren_People">Swiss Brethren</a> were an Anabaptist group founded by Conrad Grebel and George Blaurock.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Unitarianism_Belief">Unitarianism</a> was adhered to by rationalist Radical Reformers.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25articlesOfFaith">Articles of Faith</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TwelveArticles_Writing"><em>Twelve Articles</em></a> (<a href="date.1525">1525</a>): demands of the peasants during the Peasants' War; demands included religious and economical rights; the document was supported by Luther but he opposed the revolt.[^4]</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schleitheimConfession"><em>Schleitheim Confession</em></a> (Michael Sattler, <a href="date.1527">1527</a>): seven articles describing the defining characteristics of the Anabaptist movement, including pacifism, believers' baptism, and separation from the world.</li>
+<li><a href="bk.%justificationHutterite_Writing"><em>Hutterite Confession of Faith</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.peterriedemann">Peter Riedemann</a>, <a href="date.1540-1542">1540–1542</a>): description of the Hutterite faith and practices.</li>
+<li><a href="bk.%ConfessionOfFaithSocinus_Writing"><em>Confession of Faith</em></a> (Lelio Socinus, <a href="date.1550">1550</a>): confessional document which uses orthodox language but was considered controversial among Protestants.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sermon">Sermons</a></h3>
+<ul>
+<li><a href="bk.%SermonBeforePrinces_Writing"><em>A Sermon Before the Princes</em></a> (Thomas Müntzer, <a href="date.1524">1524</a>): preached to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnTheConstant_Person">John the Constant</a>; an exposition of Daniel 2 which advocates for a radical reform of society.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%OnBaptismOfBelievers_Writing"><em>On the Baptism of Believers</em></a> (Balthasar Hübmaier, <a href="date.1525">1525</a>): a defense of believers' baptism.</li>
+<li><a href="bk.%OrdinanceOfGod_Writing"><em>The Ordinance of God</em></a> (Melchior Hoffman, <a href="date.1530">1530</a>): a defense of believers' baptism.</li>
+<li><a href="bk.%OnTheErrorsOfTheTrinity_Writing"><em>On the Errors of the Trinity</em></a> (Michael Servetus, <a href="date.1531">1531</a>): antitrinitiarian writing which was opposed by Roman Catholics and Protestant Reformers.</li>
+<li><a href="bk.%FoundationOfChristianDoctrineMenno_Writing"><em>Foundation of Christian Doctrine</em></a> (Menno Simons, <a href="date.1539">1539</a>): a defense of the Anabaptist faith and doctrine.</li>
+<li><a href="bk.%OnChristTheSaviorFaustus_Writing"><em>On Christ the Savior</em></a> (Faustus Socinus, <a href="date.1594">1594</a>): articulates Socinus' soteriology, which was opposed to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25satisfaction">satisfaction</a> theory of atonement.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:9781585581290/2013-03-04T22:47:41Z/208517?len=3099">"1525 Anabaptist Movement Begins" in <em>The 100 Most Important Events in Christian History</em> (Curtis, Lang, and Peterson)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/458637?len=19476">"Protestantisms" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/625243?len=21272">"Radical Discipleship: <em>The Anabaptists</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/159862?len=7673">"Radical Reform" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/129469?len=1536">"The Radical Reformation" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/126437?len=18315">"The Radical Reformation" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/413415?len=48583">"Radicals and Rome: <em>Responses to the Magisterial Reformation (16th Century)</em>" in <em>Church History: From Pre-Reformation to the Present Day.</em> (Woodbridge and James)</a></li>
+</ul>
+<p>[^1]: The term "radical" here is derived from the Latin !!latin|radix!!, meaning "root." The term used in reference to Reformers is not to be taken to mean "extreme"; rather, it describes those Reformers who wanted to establish reforms that would return the church to its New Testament roots.
+[^2]: George Huntston Williams, ed. <a href="https://ref.ly/res/LLS:SPIRANABWRITER/2012-06-01T01:01:02Z/113011?len=390">"Introduction,"</a> in <a href="https://ref.ly/res/LLS:SPIRANABWRITER"><em>Spiritual and Anabaptist Writers: Documents Illustrative of the Radical Reformation,</em></a> Vol. XXV, The Library of Christian Classics (Philadelphia: The Westminster Press, 1957).
+[^3]: Magisterial reformers were those, like Martin Luther and Ulrich Zwingli, who accepted an interconnected relationship between the church and state, and sought to implement reforms through the magistrates and princes. 
+[^4]: F. L. Cross and Elizabeth A. Livingstone, eds. <a href="https://ref.ly/res/LLS:ODCC/2022-03-17T22:17:22Z/11903039?len=128">"Twelve Articles,"</a> in <a href="https://ref.ly/res/LLS:ODCC"><em>The Oxford Dictionary of the Christian Church,</em></a> (Oxford; New York: Oxford University Press, 2005).</p>

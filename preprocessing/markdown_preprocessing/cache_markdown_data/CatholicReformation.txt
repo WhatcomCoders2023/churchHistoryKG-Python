@@ -1,0 +1,177 @@
+<p>Level: 1
+Status: Released
+Identifier: CatholicReformation
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>The Catholic Reformation Begins</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1523-1648">1523–1648</a></li>
+<li><strong>Description:</strong> The Roman Catholic Church implemented reforms as Protestantism spread through Europe.</li>
+</ul>
+<h2>Summary</h2>
+<p>While the Catholic Reformation was in part a response to the spread of Protestantism, it was also motivated by calls for reform from those within the Roman Catholic Church who acknowledged that Martin Luther and other Protestant Reformers had expressed some legitimate concerns about the state of the church and the papacy. A general council was convened to address these calls for reform, meeting over the span of nearly two decades as it debated and reaffirmed the Roman Catholic Church's teachings on Scripture, tradition, and the sacraments. A revival within monasticism led to the establishment of new religious orders while a renewed focus on spirituality and the inner life of the soul influenced the resurgence of mysticism. In addition to church reforms, the Catholic Reformation also inspired a renewed interest in the propagation of the Roman Catholic faith beyond Christendom.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>A renewed interest in global <a href="bk.%mission">missions</a> developed within the Roman Catholic Church (<a href="date.1480-1776">1480–1776</a>).</li>
+<li>Papal abuses and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25nepotism">nepotism</a> prompted calls for <a href="bk.%reform">reform</a> within the <a href="bk.%RomanCatholicism_Belief">Roman Catholic Church</a> (<a href="date.1500+100">1500s</a>).</li>
+<li><a href="bk.%monasticism">Monasticism</a> was reformed and new <a href="bk.%ReligiousOrder">religious orders</a> were founded (<a href="date.1500+100">1500s</a>).</li>
+<li><a href="bk.%mysticism">Mysticism</a> experienced a resurgence within the Roman Catholic Church (<a href="date.1500+100-1600+100">1500s–1600s</a>).</li>
+<li><a href="bk.tle:protestantreformation">The Protestant Reformation</a> began in <a href="bk.@Germany">Germany</a> and <a href="bk.@Switzerland">Switzerland</a>, leading to the spread of <a href="bk.%Lutheranism_Belief">Lutheranism</a> and <a href="bk.%ReformedGroup_Denom">Reformed Protestantism</a> (<a href="date.1517-1648">1517–1648</a>).</li>
+<li>Leaders called for a general council to discuss reform in the Roman Catholic Church and the rising threat of <a href="bk.%Protestantism_Belief">Protestantism</a> (<a href="date.1500+100+e">early 1500s</a>).</li>
+<li>The <a href="bk.%inquisition">Inquisition</a> was reestablished to combat the spread of Protestantism in <a href="bk.@Europe">Europe</a> (<a href="date.1542">1542</a>).</li>
+<li>The <a href="bk.%CouncilofTrent">Council of Trent</a> convened over several years; reforms were implemented, Protestantism was condemned, and much of Roman Catholic <a href="bk.%doctrine">doctrine</a> and <a href="bk.%tradition">tradition</a> was reaffirmed (<a href="date.1545-1563">1545–1563</a>).</li>
+<li>The seven traditional <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a> were reaffirmed at the Council of Trent (<a href="date.1545-1563">1545–1563</a>).</li>
+<li>The doctrine of <a href="bk.%transubstantiation">transubstantiation</a> was reaffirmed by the Roman Catholic Church (<a href="date.1551-1552">1551–1552</a>).</li>
+<li>The <a href="bk.%Dominicans_People">Dominicans</a> and <a href="bk.%Jesuits_People">Jesuits</a> were involved in a controversy over <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sin">sin</a> and <a href="bk.%grace">grace</a> (<a href="date.1500+100+l">late 1500s</a>).</li>
+<li>Theological movements developed within Roman Catholicism in opposition to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodoxy</a> established at the Council of Trent (<a href="date.1600+100">1600s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Catholic Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.CajetanThine">Cajetan of Thiene</a> (<a href="date.1480.10.1-1547.8.7">October 1, 1480–August 7, 1547</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25priest">priest</a> and Reformer; co-founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theatines">Theatines</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GasparoContarini_Person">Gasparo Contarini</a> (<a href="date.1483.10.16-1542.8.24">October 16, 1483–August 24, 1542</a>): Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a>; he advocated for reform in the Roman Catholic Church and for the reunion with Protestants during the Reformation; president of reform committee that issued <a href="bk.%ConsiliumDeEmendandaEcclesia_Writing"><em>Consilium de Emendanda Ecclesia</em></a> during the papacy of <a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulIII">Pope Paul III</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.FrancisXavier">Francis Xavier</a> (<a href="date.1506.4.7-1552.12.3">April 7, 1506–December 3, 1552</a>): Navarrese Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a> to the Indies, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Japan">Japan</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a>; co-founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CorneliusOttoJansen_Person">Cornelius Otto Jansen</a> (<a href="date.1585.10.28-1638.5.6">October 28, 1585–May 6, 1638</a>): Dutch theologian and bishop of Ypres; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jansenism_Belief">Jansenism</a>; author of <a href="bk.%Augustinus"><em>Augustinus</em></a>, which discusses the works of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine</a> and articulates Jansenist theology; it was opposed by the Jesuits.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">Emperors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FerdinandII_Person">Ferdinand II</a> (<a href="date.1578-1637">1578–1637</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40HolyRomanEmpire">Holy Roman Empire</a> (<a href="date.1619-1637">1619–1637</a>); he was educated by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a>; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CounterReformation">Catholic Reformation</a>; he worked to suppress rising <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestantism</a> and participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyyearswar">Thirty Years' War</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">Mystics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusLoyola.1">Ignatius of Loyola</a> (<a href="date.1491.10.23-1556.7.31">October 23, 1491–July 31, 1556</a>): Spanish Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">mystic</a>; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheSpiritualExercises_Writing"><em>The Spiritual Exercises</em></a>, which provides instruction on prayer and spirituality.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintTeresaOfAvila_Person">Teresa of Avila</a> (<a href="date.1515.3.28-1582.10.4">March 28, 1515–October 4, 1582</a>): Spanish Roman Catholic Carmelite <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">nun</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mystic">mystic</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25author">author</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoctorsOfTheChurch">Doctor of the Church</a>; reformer of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25carmeliteOrder">Carmelite Order</a> and founder of several Carmelite convents in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a>; author of mystic writings <a href="bk.%WayOfPerfection_Writing"><em>The Way of Perfection</em></a> and <a href="bk.%TheInteriorCastle_Writing"><em>The Interior Castle</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintJohnOfTheCross.1_Person">John of the Cross</a> (<a href="date.1542-1591.12.14">1542–December 14, 1591</a>): Spanish Roman Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">mystic</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25confessor">confessor</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25carmeliteOrder">Carmelite</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25friar">friar</a>; Doctor of the Church; author of <a href="bk.%DarkNightOfTheSoul_Writing"><em>Dark Night of the Soul</em></a>, a mystic poem composed while he was imprisoned.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.FrancisSales">Francis de Sales</a> (<a href="date.1567.8.21-1622.12.28">August 21, 1567–December 28, 1622</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Geneva">Geneva</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DoctorsOfTheChurch">Doctor of the Church</a>; missionary to Chablais, where he successfully brought many Protestants back to the Catholic Church; author of <a href="bk.%IntroductionToTheDevoutLife_Writing"><em>Introduction to the Devout Life</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MigueldeMolinos_Person">Miguel de Molinos</a> (<a href="date.1628-1697">1628–1697</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Quietism_Belief">Quietist</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Quietism_Belief">Quietism</a> movement in Spain; author of <a href="bk.%SpiritualGuideWhichDisentanglesTheSoul_Writing"><em>The Spiritual Guide Which Disentangles the Soul</em></a>, which addresses mysticism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25spirituality">spirituality</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulIII">Paul III</a> (<a href="date.1468.2.29-1549.11.10">February 29, 1468–November 10, 1549</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1534-1549">1534–1549</a>); convened the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CouncilofTrent">Council of Trent</a>; new <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">religious orders</a> and societies became popular during his tenure; issued papal bull <a href="bk.%LicetAbInitio_Writing"><em>Licet ab initio</em></a>, which commissioned the formation of the Roman Inquisition.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePaulIV_Person">Paul IV</a> (<a href="date.1476-1559">1476–1559</a>): pope and bishop of Rome (<a href="date.1555-1559">1555–1559</a>); co-founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theatines">Theatine Order</a>; he was a staunch opponent of Protestantism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePiusIV_Person">Pius IV</a> (<a href="date.1499-1564">1499–1564</a>): pope and bishop of Rome (<a href="date.1559-1564">1559–1564</a>); he reassembled the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CouncilofTrent">Council of Trent</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeClementVIII">Clement VIII</a> (<a href="date.1536.2.24-1605.3.3">February 24, 1536–March 3, 1605</a>): pope and bishop of Rome (<a href="date.1592-1605">1592–1605</a>); he was a supporter of reform within the Roman Catholic Church; convened the <em>Congregatio de Auxiliis</em>, which met to resolve the conflict over divine grace between the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25carmeliteOrder">Carmelites</a> (est. <a href="date.1101+100">twelfth century</a>): religious order reformed by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintTeresaOfAvila_Person">Teresa of Avila</a>; the <a href="bk.%DiscalcedCarmelites_People">Discalced Carmelites</a> were established by Teresa and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintJohnOfTheCross.1_Person">John of the Cross</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a> (est. <a href="date.1216">1216</a>): religious order founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.Dominic">Dominic</a>; opponents of the Jesuits during controversy over sin and grace.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Theatines">Theatines</a> (est. <a href="date.1524">1524</a>): religious order founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasDeVioCajetan_Person">Cajetan of Thiene</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopePaulIV_Person">Paul IV</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Barnabites_People">Barnabites</a> (est. <a href="date.1530">1530</a>): religious order founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAnthonyMariaZaccaria_Person">Anthony Maria Zaccaria</a>; authorized by <a href="https://ref.ly/logos4/Factbook?ref=bio.ClementVII">Pope Clement VII</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a> (est. <a href="date.1534">1534</a>): religious order also known as the Society of Jesus; founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusLoyola.1">Ignatius of Loyola</a>; authorized by <a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulIII">Pope Paul III</a> in (<a href="date.1540">1540</a>); opponents of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a> during controversy over sin and grace.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1500+100">1500s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acounterreformationemerges">The Catholic Reformation emerges</a>.</li>
+<li><a href="date.1517-1648">1517–1648</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">The Protestant Reformation</a> takes place in Europe.</li>
+<li><a href="date.1520+10">1520s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asevrealgermanstatesbreakaway">Several German states break away from the Roman Catholic Church</a>.</li>
+<li><a href="date.1523-1534">1523–1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapcyclementvii">The papacy of Clement VII</a> in Rome.</li>
+<li><a href="date.1524">1524</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atheatineorderfoundedcajetan">The Theatine Order is founded by Cajetan of Thiene</a>.</li>
+<li><a href="date.1533">1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abarnabitecongregationfounded">The Barnabite Congregation is founded by Antonio Maria Zaccaria</a>.</li>
+<li><a href="date.1533">1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchenglandseparatesfrom">The Church of England separates from the Roman Catholic Church</a>.</li>
+<li><a href="date.1534">1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajesuitorderestablished">The Jesuit Order is established</a>.</li>
+<li><a href="date.1534-1549">1534–1549</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacypauliii">The papacy of Paul III</a> in Rome.</li>
+<li><a href="date.1536">1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopepauliiicallscouncil">Pope Paul III calls council of cardinals to report on the church</a>.</li>
+<li><a href="date.1542">1542</a>: <a href="bk.tle:romaninquisitionisestablished">The Roman Inquisition is established</a> to prevent the spread of Protestantism.</li>
+<li><a href="date.1545-1563">1545–1563</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CouncilofTrent">The Council of Trent</a> convenes to address church reform and the spread of Protestantism.</li>
+<li><a href="date.1555-1559">1555–1559</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacypauliv">The papacy of Paul IV</a> in Rome.</li>
+<li><a href="date.1557">1557</a>: <a href="bk.tle:indexlibrorumprohibitorumispublished">The <em>Index Librorum Prohibitorum</em> is published</a>.</li>
+<li><a href="date.1559-1565">1559–1565</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apapacypiusiv">The papacy of Pius IV</a> in Rome.</li>
+<li><a href="date.1561">1561</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acolloquypoissy">Colloquy at Poissy</a> attempts to reconcile Catholics and Protestants.</li>
+<li><a href="date.1565">1565</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awayperfectionteresaavila"><em>The Way of Perfection</em> by Teresa Avila is published</a>.</li>
+<li><a href="date.1566">1566</a>: <a href="bk.tle:romancatechismispublished">The Roman Catechism is published</a>.</li>
+<li><a href="date.1600+100-1700+100">1600s–1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aquietistmovementflourishes">The Quietist movement flourishes</a>.</li>
+<li><a href="date.1618-1648">1618–1648</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyyearswar">Thirty Years’ War</a> takes place in the Holy Roman Empire.</li>
+<li><a href="date.1622">1622</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asacredcongregationpropagation">Sacred Congregation for the Propagation of Catholic Faith is founded by Pope Gregory XV</a>.</li>
+<li><a href="date.1640">1640</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaugustinuscorneliusjansen"><em>Augustinus</em> by Cornelius Jansen is published</a>, which articulates Jansenism.</li>
+<li><a href="date.1648">1648</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeacewestphaliaendsthirtyyears">Peace of Westphalia ends the Thirty Years’ War</a> and the Eighty Years' War, and recognizes Roman Catholicism, Lutheranism, and Calvinism. </li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> was where the Dominicans and Jesuits were founded; Jansenism and Gallicanism developed here; Quietism spread here during the <a href="date.1601+100">seventeenth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> had a strong Catholic presence during the Reformation era; the Barnabites were founded here; Quietism spread here during the <a href="date.1601+100">seventeenth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center for Roman Catholicism; the seat of the papacy; the Theatines were founded here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a> had a strong Catholic presence during the Reformation era; the location of the Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">mysticism</a> movement; Quietism developed here during the <a href="date.1601+100">seventeenth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Trent">Trent</a> was the location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CouncilofTrent">Council of Trent</a>.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CounterReformation">Counter-Reformation</a>, or Catholic Reformation, addressed issues of reform from within the church as well as those raised by Protestant Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gallicanism">Gallicanism</a> was popular in France, which affirmed the divine right of kings and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ConciliarTheory">conciliarism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jansenism_Belief">Jansenism</a> developed as a reform movement within the Roman Catholic Church and resulted in conflict with the Jesuits; <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopeinnocentxicondemns">the movement was condemned as heresy by Pope Innocent XI</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missions</a> were given a renewed emphasis within the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">Mysticism</a> experienced a resurgence, especially in Spain.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Quietism_Belief">Quietism</a> developed as a reform movement within the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious orders</a> were reformed and new orders were established.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> established reforms and reaffirmed traditional doctrine.</li>
+<li><a href="bk.%RomanInquisition">Roman Inquisition</a> was used to suppress <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestantism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">Sacraments</a> were discussed at the Council of Trent, which reaffirmed traditional Roman Catholic doctrine, including the doctrine of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25transubstantiation">transubstantiation</a>.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25catechism">Catechisms</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatechism_Writing"><em>Roman Catechism</em></a> (<a href="date.1566">1566</a>): written after the Council of Trent ended; to be used for instruction on the council's conclusions.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Church Codes and Canons</a></h3>
+<ul>
+<li><a href="bk.%DecreesOfCouncilOfTrent_Writing"><em>Canons and Decrees of the Council of Trent</em></a> (<a href="date.1563">1563</a>): creeds and decrees written to support the Catholic Reformation and in response to growing Protestantism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25tridentineProfession_Writing"><em>Profession of the Tridentine Faith</em></a> (Council of Trent, <a href="date.1564">1564</a>): summarizes the conclusions of the Council of Trent.</li>
+</ul>
+<h3><a href="bk.%creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25InterimOfAugsburg">Interim of Augsburg</a> (<a href="date.1548">1548</a>): doctrinal formula developed at the Diet of Augsburg as a provisional agreement between Roman Catholics and Protestants at the behest of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesV_Person">Charles V</a>; predominantly supported Roman Catholic doctrine while making concessions to allow clerical marriage and Communion in both kinds (bread and wine); accepted at the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adietaugsberg">Diet of Augsburg</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25indexLibrorumProhibitorum_Writing">Index Librorum Prohibitorum</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25indexLibrorumProhibitorum_Writing">Index Librorum Prohibitorum</a> (Pope Paul IV, <a href="date.1557">1557</a>): list of books prohibited by the Roman Catholic Church; includes books by Protestant authors.</li>
+</ul>
+<h3><a href="bk.%monasticConstitutions">Monastic Constitutions</a></h3>
+<ul>
+<li><a href="bk.%ConstitutionsSocietyOfJesus_Writing"><em>The Constitutions of the Society of Jesus</em></a> (Ignatius of Loyola, <a href="date.1594">1594</a>): articulates the spiritual doctrine of Ignatius and the guidelines of Jesuit <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">monastic</a> life.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">Mystical Writings</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheSpiritualExercises_Writing"><em>The Spiritual Exercises</em></a> (Ignatius of Loyola, <a href="date.1541">1541</a>): instruction on prayer and spirituality.</li>
+<li><a href="bk.%WayOfPerfection_Writing"><em>The Way of Perfection</em></a> (Teresa of Avila, <a href="date.1566">1566</a>): an example of Spanish mysticism; provides instruction on the contemplative life and prayer.</li>
+<li><a href="bk.%DarkNightOfTheSoul_Writing"><em>The Dark Night of the Soul</em></a> (John of the Cross, <a href="date.1577+c">c. 1577</a>): an example of Spanish mysticism; composed while he was imprisoned.</li>
+<li><a href="bk.%IntroductionToTheDevoutLife_Writing"><em>Introduction to the Devout Life</em></a> (Francis de Sales, <a href="date.1609">1609</a>): a practical devotional guide to the spiritual life; includes instructions on prayer, confession, and the devotional reading of Scripture.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="bk.%LicetAbInitio_Writing"><em>Licet ab initio</em></a> (Pope Paul III, <a href="date.1542">1542</a>): papal bull commissioning the formation of the Sacred Roman and Universal Inquisition.</li>
+</ul>
+<h3><a href="bk.%record">Reports</a></h3>
+<ul>
+<li><a href="bk.%ConsiliumDeEmendandaEcclesia_Writing"><em>Consilium de Emendanda Ecclesia</em></a> (<a href="date.1537">1537</a>): report issued by special reform council, led by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GasparoContarini_Person">Cardinal Gasparo Contariini</a>, after reviewing papal abuses; the report was commissioned by Pope Paul III.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/683547?len=21672">"'Another Man' at Manresa: <em>The Catholic Reformation</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/479930?len=57254">"Catholic Reform and Worldwide Outreach: <em>The Founding of the Jesuits (1540)</em> in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/904275?len=56508">"The Catholic Reformation" (Linder) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/262903?len=27177">"The Catholic Reformation" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/461999?len=36606">"Catholic Riposte" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/384432?len=47982">"Early Modern Catholicism" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+</ul>

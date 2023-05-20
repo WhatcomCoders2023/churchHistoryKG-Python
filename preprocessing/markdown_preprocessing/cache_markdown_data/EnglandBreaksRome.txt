@@ -1,0 +1,168 @@
+<p>Level: 1
+Status: Released
+Identifier: EnglandBreaksRome
+Parents: Root
+Eras: bk.era:reformationera</p>
+<h1>The Church of England Breaks with Rome</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1521-1603">1521–1603</a></li>
+<li><strong>Description:</strong> England separated from Rome and established the ruling monarch as head of the Church of England. </li>
+</ul>
+<h2>Summary</h2>
+<p>The English Reformation was both a political and religious movement. The initial challenge to Rome was not in opposition to the church's doctrine, but to the authority of the pope. Henry VIII's pursuit of an annulment from his marriage to Catherine of Aragon, which had not resulted in a male heir, was denied by the pope and led to an intense political confrontation with Rome. The king eventually declared himself the supreme authority over the Church of England, cutting ties to the church in Rome. In the decades that followed, both Protestants and Catholics attempted to shape the newly independent Church of England. A compromise was finally reached during the reign of Elizabeth I, a blend of Roman Catholicism and Protestantism which defined the Anglican Church. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>English Reformers challenged <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PapalPrimacy_Writing">papal authority</a> and called for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">reform</a> in the church (<a href="date.1500+100">1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a> advocated for English translations of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bible_Writing">Bible</a> (<a href="date.1500+100">1500s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">Monasteries</a> were dissolved in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> (<a href="date.1530+10">1530s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.HenryVIII">Henry VIII</a> rejected papal authority and became the head of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchOfEngland">Church of England</a> while reaffirming the doctrine of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> (<a href="date.1534">1534</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingEdwardVIEngland_Person">Edward VI</a> advanced the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantreformation">Protestant Reformation</a> in England (<a href="date.1547-1553">1547–1553</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfCommonPrayer_Writing"><em>Book of Common Prayer</em></a> replaced Latin worship in the Church of England (<a href="date.1549">1549</a>).</li>
+<li>Protestants were persecuted under the Catholic queen <a href="https://ref.ly/logos4/Factbook?ref=bk.%25MaryTudor_Person">Mary Tudor</a>, and many were forced into exile (<a href="date.1553-1558">1553–1558</a>).</li>
+<li>The <a href="bk.%ElizabethanSettlement">Elizabethan Settlement</a> offered a compromise between Catholicism and Protestantism; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicanism</a> was established (<a href="date.1559">1559</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%King">Monarchs</a></h3>
+<ul>
+<li><a href="bio.CatherineOfAragon">Catherine of Aragon</a> (<a href="date.1485-1536.1.7">1485–January 7, 1536</a>): Spanish <a href="bk.#Queen">queen</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a>; first wife of Henry VIII; her marriage to Henry was annulled as a part of England's break with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.HenryVIII">Henry VIII</a> (<a href="date.1491.6.28-1547.1.28">June 28, 1491–January 28, 1547</a>): <a href="bk.%King">king</a> of England (<a href="date.1509-1547">1509-1547</a>); broke with the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> and rejected the authority of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a>; issued the <a href="bk.%SupremacyCrownAct1534_Writing">Supremacy of the Crown Act</a>, which declared him, as the English monarch, the "Supreme Head of the Church of England"; issued the <a href="bk.%SixArticles_Writing">Six Articles</a>, which affirmed key Catholic doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AnneBoleyn_Person">Anne Boleyn</a> (<a href="date.1501+c-1536.5.19">c. 1501–May 19, 1536</a>): queen of England (<a href="date.1533-1536">1533–1536</a>; second wife of Henry VIII; mother of Elizabeth I; executed for treason on accusations of adultery.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingEdwardVIEngland_Person">Edward VI</a> (<a href="date.1537.10.12-1553.7.6">October 12, 1537-July 6, 1553</a>): king of England (<a href="date.1547-1553">1547–1553</a>); he was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasCranmer_Person">Thomas Cranmer</a> and pushed for reform in the English church; repealed the Six Articles.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MaryTudor_Person">Mary Tudor</a> (<a href="date.1516.2.18-1558.11.17">February 18, 1516–November 17, 1558</a>): Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%queen">queen</a> of England (<a href="date.1553-1558">1553--1558</a>); she issued the <a href="bk.%SeeOfRomeAct_Writing">See of Rome Act</a> reestablishing the pope as the head of the church in England; commissioned the use of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a> trials to root out Reformers and came to be known as "Bloody Mary" by Protestants. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25QueenElizabethIEngland_Person">Elizabeth I</a> (<a href="date.1533.9.7-1603.3.24">September 7, 1533–March 24, 1603</a>): Protestant queen of England (<a href="date.1558-1603">1558-1603</a>; established the <a href="bk.%ElizabethanSettlement">Elizabethan Settlement</a>, a compromise between Roman Catholicism and Protestantism, which shaped the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchOfEngland">Church of England</a>.</li>
+</ul>
+<h3><a href="bk.%politician">Officials</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25StephenGardiner_Person">Stephen Gardiner</a> (<a href="date.1483-1555">1483–1555</a>): lord chancellor of England under Mary Tudor; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Winchester">Winchester </a>; he opposed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestantism</a>; author of <a href="bk.%DeVeraObedientia_Writing"><em>De Vera Obedientia</em></a>, which rejects papal authority over the Church of England.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasWolsey_Person">Thomas Wolsey</a> (<a href="date.1472+c-1530">c. 1472–1530</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a> and lord chancellor of England; political reformer; he failed at securing <a href="https://ref.ly/logos4/Factbook?ref=bio.HenryVIII">Henry VIII's</a> divorce from Catherine of Aragon and was charged with <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Praemunire">praemunire</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ThomasMore">Thomas More</a> (<a href="date.1478.2.7-1535.7.6">February 7, 1478–July 6, 1535</a>): lord chancellor of England; Catholic Reformer; he opposed Henry VIII as supreme head of the Church of England; author of <a href="bk.%Utopia_Writing"><em>Utopia</em></a>, which portrays the perfect society as a critique of More's own society; he was executed for treason.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ClementVII">Clement VII</a> (<a href="date.1478.5.26-1534.9.25">May 26, 1478–September 25, 1534</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1523-1534">1523–1534</a>); he refused to divorce Henry VIII and Catherine of Aragon; excommunicated Henry VIII after he married <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AnneBoleyn_Person">Anne Boleyn</a>.</li>
+<li><a href="bio.PopePaulIII">Paul III</a> (<a href="date.1468.2.29-1549.11.10">February 29, 1468–November 10, 1549</a>): pope and bishop of Rome (<a href="date.1534-1549">1534–1549</a>); he excommunicated Henry VIII in <a href="date.1538">1538</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSaintPiusV_Person">Pius V</a> (<a href="date.1504-1572">1504–1572</a>): pope and bishop of Rome (<a href="date.1566-1572">1566–1572</a>); he excommunicated Elizabeth I in <a href="date.1570">1570</a>. </li>
+</ul>
+<h3><a href="bk.%protestantreformer">Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HughLatimer_Person">Hugh Latimer</a> (<a href="date.1485-1555.10.15">1485–October 15, 1555</a>): English Reformer and <a href="https://ref.ly/logos4/Factbook?ref=bk.%martyr">martyr</a>; bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Worcester">Worcester</a>; chaplain to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25KingEdwardVIEngland_Person">Edward VI</a>; studied at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>; he was executed under Mary Tudor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasCromwell_Person">Thomas Cromwell</a> (<a href="date.1485-1540.7.28">1485–July 28, 1540</a>):  English Reformer; earl of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Essex">Essex</a>; member of Parliament; he advocated for English translations of the Bible and dissolved Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a>; he was executed for treason under Henry VIII by beheading.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MilesCoverdale_Person">Miles Coverdale</a> (<a href="date.1488-1569.1.20">1488–January 20, 1569</a>): English Reformer, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkReligiousBrother">monk</a>, and Bible translator; he studied at Cambridge; he translated the <a href="bk.%CoverdaleBible_Writing">Coverdale Bible</a> and helped produce the <a href="bk.%GreatBible_Writing">Great Bible</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThomasCranmer_Person">Thomas Cranmer</a> (<a href="date.1489.7.2-1556.3.21">July 2, 1489–March 21, 1556</a>): English Reformer and martyr; he was the first Protestant <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Canterbury">Canterbury</a>; studied at Cambridge; author of the <a href="bk.%BookOfCommonPrayer_Writing"><em>Book of Common Prayer</em></a>; developed the <a href="bk.%ThirtyNineArticles_Writing">Thirty-Nine Articles</a>; executed for treason and heresy under Mary Tudor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamTyndale_Person">William Tyndale</a> (<a href="date.1494-1536">1494–1536</a>): English Reformer and martyr; he studied at Cambridge and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a>; translated the Bible into English; executed for heresy under Henry VIII.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JohnHooper">John Hooper</a> (<a href="date.1495+c-1555.2.9">c. 1495–February 9, 1555</a>): English Reformer and martyr; bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gloucester_Place">Gloucester</a> and Worcester; he studied at Oxford; executed under Mary Tudor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.NicholasRidley.1">Nicholas Ridley</a> (<a href="date.1500+c-1555.10.16">c. 1500–October 16, 1555</a>):  English Reformer and martyr; bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25London_Place">London</a>; chaplain to Thomas Cranmer and Henry VIII; he studied at Cambridge; executed under Mary Tudor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MatthewParker_Person">Matthew Parker</a> (<a href="date.1504.8.6-1575.5.17">August 6, 1504–May 17, 1575</a>): English Reformer; archbishop of Canterbury; he helped develop the Thirty-Nine Articles and the <a href="bk.%BishopsBible_Writing">Bishops' Bible</a>; assisted with the implementation of the Elizabethan Settlement.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryviiicalleddefenderfaith">Henry VIII is called "Defender of the Faith" by the Pope</a> for defending the seven sacraments of the Roman Catholic Church.</li>
+<li><a href="date.1525">1525</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aenglishtranslationnewtestament">An English translation of the New Testament by Tyndale is published</a>.</li>
+<li><a href="date.1527">1527</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryviiiinformscatherine">Henry VIII informs Catherine of Aragon that he wants an annulment</a>.</li>
+<li><a href="date.1528">1528</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atyndalecondemnedtranslating">Tyndale is condemned for translating the Bible</a>.</li>
+<li><a href="date.1529.10.9">October 9, 1529</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acardinalwolseychargedwith">Cardinal Wolsey is charged with praemunire</a> after failing to secure Henry VIII's annulment from Catherine of Aragon.</li>
+<li><a href="date.1529+l">late 1529</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athomascranmerattemptssecure">Thomas Cranmer attempts to secure an annulment for Henry VIII</a>.</li>
+<li><a href="date.1532.1">January 1532</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryviiiintroducesbills">Henry VIII introduces bills to Parliament supporting his divorce</a>.</li>
+<li><a href="date.1532">1532</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asubmissionclergyenacted">Submission of the Clergy is enacted</a>, preventing the English church from making ecclesiastical laws apart from the monarch.</li>
+<li><a href="date.1533">1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryviiismarriagecatherine">Henry VIII's marriage to Catherine of Aragon is annulled</a>.</li>
+<li><a href="date.1533">1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3astatuterestraintappealsrome">Statute in Restraint of Appeals to Rome is enacted</a>, granting the English monarch the final authority in all matters related to England.</li>
+<li><a href="date.1533.1.25">January 25, 1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahenryviiiofficiallymarriesanne">Henry VIII officially marries Anne Boleyn</a>.</li>
+<li><a href="date.1534.3">March 1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopedenieshenryviiianullment">Pope denies Henry VIII an annulment from Catherine of Aragon</a>.</li>
+<li><a href="date.1534">1534</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aactsupremacyestablisheshenry">Act of Supremacy establishes Henry VIII as head of the Church of England</a>.</li>
+<li><a href="date.1536">1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adissolutionsmallermonasteries">Dissolution of the Smaller Monasteries is enacted</a>.</li>
+<li><a href="date.1536">1536</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atenarticlesenactedchurch">Ten Articles are enacted in England</a> which define the doctrine of the Church of England.</li>
+<li><a href="date.1538.12.17">December 17, 1538</a>: <a href="bk.tle:henryviiiexcommunicated">Henry VIII is excommunicated</a> by Pope Paul III.</li>
+<li><a href="date.1539">1539</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adissolutiongreatermonasteries">Dissolution of the Greater Monasteries is enacted</a>.</li>
+<li><a href="date.1539">1539</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asixarticlesenactedengland">Six Articles are enacted in England</a>, affirming key Catholic doctrines.</li>
+<li><a href="date.1540">1540</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afinalmonasterydissolvedengland">The final monastery is dissolved in England</a>.</li>
+<li><a href="date.1543">1543</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aparliamentbansenglish">Parliament bans English translations of the Bible</a>.</li>
+<li><a href="date.1547-1553">1547–1553</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignedwardviengland">The reign of Edward VI in England</a>; he supports Protestantism in England.</li>
+<li><a href="date.1549">1549</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abookcommonprayerauthorized">The <em>Book of Common Prayer</em> is authorized in the Church of England</a>.</li>
+<li><a href="date.1553-1558">1553–1558</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignmaryiengland">The reign of Mary I in England</a>; she opposes Protestantism in England.</li>
+<li><a href="date.1554">1554</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aenglandreconciledcatholic">England is reconciled to the Roman Catholic Church</a>.</li>
+<li><a href="date.1554.3.4">March 4, 1554</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprotestantismenglandoutlawed">Protestantism in England is outlawed and declared heresy</a>.</li>
+<li><a href="date.1555-1558">1555–1558</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amanyprotestantskilledundermary">Many Protestants are killed under Mary I</a>.</li>
+<li><a href="date.1558-1603">1558–1603</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignelizabethiengland">The reign of Elizabeth I in England</a>; she establishes a compromise between Protestantism and Roman Catholicism.</li>
+<li><a href="date.1559">1559</a>: <a href="bk.tle:elizabethansettlementispassed">The Elizabethan Settlement Is Passed</a>.</li>
+<li><a href="date.1563">1563</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3athirtyninearticlesenacted">Thirty-Nine Articles are enacted in the Church of England</a>.</li>
+<li><a href="date.1570">1570</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aelizabethiexcommunicatedfrom">Elizabeth I is excommunicated from the Roman Catholic Church</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was the center of the English Reformation; the Church of England was established here; Anglicanism originated here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a> was a center of theological education in England and produced many English Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the center of Roman Catholicism and residency of the papacy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a> was a center of theological education in England and produced many English Reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Westminster">Westminster</a> was the primary residence of Henry VIII and the location of Parliament.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicanism</a> developed as a compromise that combined elements of Protestantism and Roman Catholicism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchOfEngland">Church of England</a> separated from the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> during the reign of Henry VIII.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DefenderOfTheFaith">"Defender of the Faith"</a> was the title given to Henry VIII by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LeoX_Person">Pope Leo X</a> after he defended the Catholic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a> against <a href="https://ref.ly/logos4/Factbook?ref=bio.MartinLuther">Martin Luther</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DissolutionOfTheMonasteries">Dissolution of the Monasteries</a> led to the closure of monasteries during the reign of Henry VIII.</li>
+<li><a href="bk.%ElizabethanSettlement">Elizabethan Settlement</a> established a compromise between Protestantism and Roman Catholicism within the Church of England.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SubmissionoftheClergy">Submission of the Clergy</a>  was established by Henry VIII, requiring the Church of England's clergy to submit to the ecclesiastical authority of the English monarch.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25articlesOfFaith">Articles of Faith</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TenArticles_Writing">Ten Articles</a> (<a href="date.1536">1536</a>): issued by Henry VIII; first articles of faith of the Church of England, which was influenced by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheranism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SixArticles_Writing">Six Articles</a> (<a href="date.1539">1539</a>): issued by Henry VIII; affirms key Catholic doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirtyNineArticles_Writing">Thirty-Nine Articles</a> (<a href="date.1563">1563</a>): the articles of faith of the Church of England; a revision of <a href="bk.%FortyTwoArticles_Writing">Forty-two Articles</a> written by Thomas Cranmer.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible Translations</a></h3>
+<ul>
+<li><a href="bk.%GreatBible_Writing">Great Bible</a> (Miles Coverdale, <a href="date.1539">1539</a>): the first authorized English Bible used in the Anglican Church.</li>
+</ul>
+<h3><a href="bk.%law">Legislative Acts</a></h3>
+<ul>
+<li><a href="bk.%StatuteInRestraintOfAppeals_Writing">Statute in Restraint of Appeals</a> (Henry VIII, <a href="date.1532">1532</a>): drafted by Thomas Cromwell; forbids appeals to the pope and established the English monarch the supreme authority on all matters related to England.</li>
+<li><a href="bk.%SupremacyCrownAct1534_Writing">Supremacy of the Crown Act</a> (Henry VIII, <a href="date.1534">1534</a>): asserts the authority of the English monarch over the Church of England.</li>
+<li><a href="bk.%SeeOfRomeAct_Writing">See of Rome Act</a> (Mary Tudor, <a href="date.1554">1554</a>): repeals Henry's Act of Supremacy and reestablishes the pope as the head of the church in England.</li>
+<li><a href="bk.%ActOfSupremacy1558_Writing">Act of Supremacy 1558</a> (Elizabeth I): restores a revised version of Henry's Supremacy of the Crown Act reestablishing the English monarch's responsibility over the church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25liturgy">Liturgy</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfCommonPrayer_Writing"><em>Book of Common Prayer</em></a> (Thomas Cranmer, <a href="date.1548">1548</a>): revised by Edward VI (<a href="date.1552">1552</a>) and Elizabeth I (<a href="date.1559">1559</a>); the official liturgical book of Anglican churches.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RegnansinExcelsis_Writing"><em>Regnans in Excelsis</em></a> (Pope Pius V, <a href="date.1570">1570</a>): papal bull excommunicating Elizabeth I.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%DeVeraObedientia_Writing"><em>De Vera Obedientia</em></a> (Stephen Gardiner, <a href="date.1535">1535</a>): argues for the supremacy of the monarch's authority over the church and rejects papal authority over the Church of England.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/138628?len=2413">"Church and State in Tudor England" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/666434?len=17112">"The Curse upon the Crown: <em>The Church of England</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/846952?len=11692">"England" (Atkinson) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/136158?len=2469">"The English Reformers" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/425608?len=54321">"A New Europe: <em>The English Act of Supremacy (1534)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/498606?len=85227">"Reformation in England: <em>The Politics of Reform (16th Century)</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/166106?len=39195">"The Reformation in Great Britain" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>

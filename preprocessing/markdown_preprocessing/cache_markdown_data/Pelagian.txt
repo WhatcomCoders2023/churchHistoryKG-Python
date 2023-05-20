@@ -1,0 +1,88 @@
+<p>Level: 2
+Status: Draft
+Identifier: Pelagian
+Parents: SinAndGrace
+Eras: bk.era:nicenechurchera</p>
+<h1>The Pelagian Controversy Is Settled</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 354–430</li>
+<li><strong>Description:</strong> Debates over the nature of human will, grace, sin, and salvation led to the Pelagian Controversy.</li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The Church begins to develop orthodox soteriology.</li>
+<li>Pelagius teaches on importance of morality and the ability for humans to willing obey God, denying the influence of original sin on the human will.</li>
+<li>Augustine affirms original sin and the inability for humans to freely choose obedience after the fall of Adam.</li>
+<li>Pelagianism is initially condemned as heresy in Carthage and accepted as orthodox in Ephesus and Jerusalem.</li>
+<li>The controversy continues as Pelagianism is condemned in <a href="bk.%NorthAfrica_Place">North Africa</a> while being accepted elsewhere, including Rome; Augustine and Pelagius continued their debate.</li>
+<li>Emperor Honorius sides with Augustine; Pope Zozimus declares Pelagius and Celestius heretics.</li>
+<li>Pelagianism is condemned at the Council of Ephesus (431).</li>
+<li>Modified versions of Pelagianism and Augustinianism, known as Semipelagianism and Semiaugustinianism, develop.</li>
+<li>Second Council of Orange affirms theology of Augustine and refutes Semipelagianism.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerome_Person">Jerome</a> (347–September 30, 420): Latin Church Father; defended orthodoxy against Pelagianism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine of Hippo</a> (November 13, 354–August 28, 430): North African monk, theologian, and bishop of Hippo; Latin Church Father; developed Augustinianism and debated with Pelagius over sin, human will, grace, and salvation; </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnCassian_Person">John Cassian</a> (360–435): monk and theologian; studied Egyptian monasticism; developed position known as semipelagianism in response to Augustinianism, though this view is disputed.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JulianOfEclanum_Person">Julian of Eclanum</a> (386–454): defender of Pelagianism; author of <em>To Turbantius</em> and <em>To Florus</em> which attack Augustinianism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Pelagius">Pelagius</a> (c. 390–418): British monk and theologian; known for Pelagianism; disputed with Augustine of Hippo over sin, human will, grace, and salvation.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Celestius_Person">Celestius</a> (5th century): supported of Pelagius and his teachings.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintCaesarius_Person">Caesarius of Arles</a> (468–452): monk and archbiship of Arles; helped condemn semipelagianism at the Council of Orange (529); proponent of Semiaugustinianism.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>431: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">First Council of Ephesus</a></li>
+<li>529: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilorange">Council of Orange</a></li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a>: location of the Council of Ephesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Orange">Orange</a>: location of the Council of Orange.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augustinianism">Augustinianism</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.CapacitiesWill">Human Will</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.OriginalSin">Original Sin</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pelagianism_Belief">Pelagianism</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.Predestination">Predestination</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Semipelagianism_Belief">Semipelagianism</a></li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<ul>
+<li><em>On Nature and Grace</em> (415): written by Augustine of Hippo; written in response to Pelagius' <em>On Nature</em> against Pelagianism.</li>
+<li><em>Against the Pelagians</em> (417): written by Jerome against Pelagianism.</li>
+<li><em>On the Proceedings of Pelagius</em> (417): written by Augustine of Hippo against Pelagianism.</li>
+<li><em>On the Predestination of the Saints</em> (429): written by Augustine of Hippo against Pelagianism; addressed to Prosper and Hilary.</li>
+<li><em>On the Gift of Perseverance</em> (428–429): written by Augustine of Hippo against Pelagianism; describes perseverance in the faith as a divine gift from God; addressed to Prosper and Hilary.</li>
+<li><em>To Turbantius</em> (c. 5th century): written by Julian of Eclanum; attacks Augustianism.</li>
+<li><em>To Florus</em> (c. 5th cecntury): written by Julian of Eclanum; response to Augustine's refutation of <em>To Turbantius</em>.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>Walton, Robert C. <a href="https://ref.ly/logosres/ws-9fe5f34b7d4849c49972a11a6ec570fc?art=R37">"27. The Pelagian Controversy."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/360285?len=4205">"Of Sin and Grace."</a> In <em>Church History in Plain Language.</em> Edited by Marshall Shelley. 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+</ul>

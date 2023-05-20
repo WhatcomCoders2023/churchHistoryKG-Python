@@ -1,0 +1,135 @@
+<p>Level: 1
+Status: Released
+Identifier: JesusCommissions
+Parents: Root
+Eras: bk.era:theearlychurch</p>
+<h1>Jesus Commissions the Building of His Church</h1>
+<ul>
+<li><strong>Period:</strong> c. !!smallcaps|ad!! <a href="date.29-33">29–33</a></li>
+<li><strong>Description:</strong> Following his baptism, Jesus began his ministry in Judea and called the twelve disciples. After his death and resurrection, Jesus gave his disciples the Great Commission, instructing them to make disciples of all nations.</li>
+</ul>
+<h2>Summary</h2>
+<p>Jesus was born in Judea into a Jewish family during a period of political unrest and increasing cultural and religious diversity. Under Roman occupation, various Jewish groups developed, including the Pharisees, Sadducees, and Zealots. While many of the Jews were eagerly awaiting deliverance from the Romans, with some sects actively promoting rebellion, others established harmonious relationships with the empire. As an adult, Jesus entered into public ministry proclaiming the coming of the kingdom of God, a challenge to both the religious and political powers of the time. Jesus' ministry reached its culmination in his death and resurrection, after which he commissioned his disciples to build the church with the help of the Holy Spirit.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusBaptism">Jesus was baptized</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.*beginningjesuspublicseries">began his ministry in Judea</a>, teaching and preaching to the Jews on the <a href="https://ref.ly/logos4/Factbook?ref=lsto.KingdomOfGod">kingdom of God</a> (<a href="date.29+c-33">c. 29–33</a>).</li>
+<li>Jesus' message and ministry challenged the religious and political authorities (<a href="date.29+c-33">c. 29–33</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*jesuscallshisepisode">Jesus called the twelve disciples</a> and gained many followers (<a href="date.30+c">c. 30</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*PeterDeclaresMessiah">Peter declared Jesus the Messiah</a> (<a href="date.32+c">c. 32</a>).</li>
+<li>Jesus instituted the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewCovenant">new covenant</a> at the <a href="https://ref.ly/logos4/Factbook?ref=bk.*lastsupperepisode">Last Supper</a> (<a href="date.33+c">c. 33</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusArrestedGethsemane">Jesus was arrested</a> and put <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesustrialseries">on trial</a> (<a href="date.33+c">c. 33</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusIsCrucified">Jesus was crucified</a> and buried; many of his followers deserted him (<a href="date.33+c">c. 33</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajesusraisesfromdead">Jesus was resurrected from the dead</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusAppearsMary">appeared to Mary Magdalene</a> and his disciples (<a href="date.33+c">c. 33</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusGivesCommission">Jesus gave his disciples the Great Commission</a>, sending them out to spread the gospel (<a href="date.33+c">c. 33</a>).</li>
+<li>Jesus promised to send the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolySpirit_Deity">Holy Spirit</a> before <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusAscension">ascending into heaven</a> (<a href="date.33+c">c. 33</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JesusChrist_Deity">Jesus Christ</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JesusChrist_Deity">Jesus Christ</a> (d. <a href="date.30+c">c. 30</a>): Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25rabbi">rabbi</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25carpenter">carpenter</a>; son of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Mary.1">Mary</a>; he was  born in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bethlehem_Place">Bethlehem</a> and lived in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nazareth_Place">Nazareth</a>; baptized by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23JohntheBaptist">John the Baptist</a>; leader of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheTwelve_People">the twelve</a>; ministered in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judea_Place">Judea</a>; instituted the <a href="https://ref.ly/logos4/Factbook?ref=lsto.NewCovenant">new covenant</a>; crucified at <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Golgotha">Golgotha</a>; resurrected after three days; instituted the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreatCommission">Great Commission</a>; ascended into <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Heaven">heaven</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Disciples">Disciples</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheTwelve_People">The Twelve</a> (<a href="date.1+100">first century</a>): group of Jewish men called by Jesus to be his disciples and share in his ministry; also known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostles</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Peter">Peter</a> (d. <a href="date.64+c">c. 64</a>): Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25fisher">fisherman</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostle</a>; one of the Twelve and a follower of Jesus; leader of the early church; author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesofSaintPeter">Epistles of Peter</a>; martyred in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23James">James</a> (d. <a href="date.44+c">c. 44</a>): Jewish fisherman and apostle; one of the Twelve and a follower of Jesus; brother of John; martyred by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Herod.3">Herod Agrippa I</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John</a> (d. <a href="date.100+c">c. 100</a>): Jewish fisherman and apostle; one of the Twelve and a follower of Jesus; traditional author of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfJohn_Writing">Gospel of John</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfJohn_Writing">Johannine Epistles</a>, and possibly <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BookOfRevelation_Writing">Revelation</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Judas">Judas Iscariot</a> (d. <a href="date.30+c">c. 30</a>): one of the Twelve; he betrayed Jesus to the Sanhedrin.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Disciples">Mary of Nazareth</a>: mother of Jesus; present at Jesus' crucifixion.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Mary2.2">Mary Magdalene</a>: follower of Jesus; present at Jesus' crucifixion; first person to whom the resurrected Jesus appeared.</li>
+</ul>
+<h3><a href="bk.%Judaism_Belief">Jewish Groups</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Jews.1">Jews</a>: descendants of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Abraham">Abraham</a>; residents of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judea_Place">Judea</a>; adherents of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Judaism</a>; Jesus was a Jew and focused his earthly ministry on the Jewish people; many became followers of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Pharisees">Pharisees</a>: Jewish religious party that developed during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondtempleperiodbegins">Second Temple period</a>; adhered to a strict observance of the Jewish oral and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LawOfMoses_Writing">written law</a>; opponents of Jesus in the Gospels.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Sadducees">Sadducees</a>: Jewish socioreligious party that rejected the oral law and adhered to a strict observance of the written Jewish law; many were <a href="https://ref.ly/logos4/Factbook?ref=bk.%23highPriest">high priests</a>; dissolved after the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajerusalemdestroyed">destruction of the temple</a>.</li>
+</ul>
+<h3><a href="bk.%official">Officials</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PontiusPilate_Person">Pontius Pilate</a> (d. <a href="date.36+c">c. 36</a>): Roman <a href="https://ref.ly/logos4/Factbook?ref=bk.%23governor">governor</a> of Judea (<a href="date.26+c-36">c. 26–36</a>); served under <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Tiberius.1">Tiberius Caesar</a>; authorized the <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusIsCrucified">crucifixion of Jesus</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Herod.2">Herod Antipas</a> (d. <a href="date.39+c">after 39</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25tetrarch">tetrarch</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Galilee_Place">Galilee</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Perea_Place">Perea</a> (<a href="date.b4-39">4 !!smallcaps|bc!!--!!smallcaps|ad!! 39</a>); son of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Herod.1">Herod the Great</a>; opponent of John the Baptist and Jesus; executed John the Baptist; presided over the trial of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Caiaphas.1">Caiaphas</a>: Jewish <a href="https://ref.ly/logos4/Factbook?ref=bk.%23highPriest">high priest</a> (<a href="date.18-36">18–36</a>); opponent of Jesus; advocated for the execution of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23chiefPries">Chief priests</a>: principal priests in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%23Sanhedrin">Sanhedrin</a>; opponents of Jesus in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospels_Writing">Gospels</a>; plotted to kill Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Sanhedrin">Sanhedrin</a>: Jewish supreme council; opponents of Jesus in the Gospels; accused him of forbidding payment of taxes to Rome and claiming to be the Messiah (Luke 23:2); presided over the trial of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%23Scribe.4">Scribes</a>: experts in Jewish law; opponents of Jesus in the Gospels; plotted to kill Jesus.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.29+c">c. 29</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusBaptism">John the Baptist baptizes Jesus</a>, during which the Holy Spirit confirms Jesus is the Son of God.</li>
+<li><a href="date.29+c-33">c. 29–33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesusministryperiod">The ministry of Jesus</a> from his baptism up until <a href="https://ref.ly/logos4/Factbook?ref=bk.*passionweekperiod">passion week</a>.</li>
+<li><a href="date.30+c">c. 30</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesuscallshisepisode">Jesus calls his disciples</a> to follow him.</li>
+<li><a href="date.32+c">c. 32</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*PeterDeclaresMessiah">Peter declares Jesus the Messiah</a> at Caesarea Philippi.</li>
+<li><a href="date.32+c">c. 32</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*Transfiguration">Jesus is transfigured on a mountain</a>.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesusjerusalemseries">Jesus is in Jerusalem</a> during the week leading up to his death and resurrection.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*lastsupperepisode">The Last Supper</a> institutes the new covenant and the Eucharist.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusArrestedGethsemane">Jesus is arrested in Gethsemane</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesustrialseries">put on trial</a>.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesuscrucifixionseries">Jesus is crucified</a>.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*jesusresurrectionseries">Jesus is resurrected</a>.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusGivesCommission">Jesus gives the Great Commission</a> to the disciples to make disciples of all nations.</li>
+<li><a href="date.33+c">c. 33</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.*JesusAscension">Jesus ascends into heaven</a> and promises he will send the Holy Spirit.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Bethlehem_Place">Bethlehem</a> was the birthplace of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CaesareaPhilippi_Place">Caesarea Philippi</a> was where Peter's confession occurred.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gethsemane_Place">Gethsemane</a> was where Jesus was arrested.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Golgotha">Golgotha</a> was where Jesus was crucified.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jerusalem_Place">Jerusalem</a> was the center of Judaism and location of <a href="https://ref.ly/logos4/Factbook?ref=bk.%24HerodianTemple">Herod's Temple</a>; the events of passion week occurred here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judea_Place">Judea</a> is where Jesus ministered from the time of his baptism up to passion week.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MountOfOlives_Place">Mount of Olives</a> was where Jesus ascended into heaven.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nazareth_Place">Nazareth</a> was the residence of Jesus and his family.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> was the imperial state to which Judea was subject.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicAge">Apostolic age</a> began with the ascension of Jesus during which the early church was under the leadership of the twelve apostles.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">Church</a> is built by Jesus (Matt 16:18).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">Gospel</a> of <a href="https://ref.ly/logos4/Factbook?ref=lsto.KingdomOfGod">the kingdom of God</a> was preached by Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreatCommission">Great Commission</a> was issued by Jesus to his <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostles</a> to make disciples of all nations and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptism">baptize</a> them; Jesus was baptized by <a href="https://ref.ly/logos4/Factbook?ref=bk.%23JohntheBaptist">John the Baptist</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Judaism</a> was the religion of Jesus and many of his followers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Messiah_Person">Messiah</a> was the future deliverer and savior who would rescue the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25peopleOfGod_People">people of God</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewCovenant">New covenant</a> was anticipated in the Old Testament and instituted by Jesus at the Last Supper.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%24synagogue">Synagogues</a> were central to Jesus' teaching ministry.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldTestament_Writing">Old Testaments</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tanakh_Writing">Tanakh</a> (<a href="date.b2100-b434+c">c. 2100–434 !!smallcaps|bc!!</a>): the Hebrew Bible of the Jewish people which was quoted by Jesus (e.g., Matt 5:21) and the writers of the New Testament.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Septuagint_Writing">Septuagint</a> (<a href="date.b300+100-b200+100">c. third--second century !!smallcaps|bc!!</a>: Greek translation of the Hebrew Bible which was quoted by Jesus  (e.g., Luke 4:16–19) and the writers of the New Testament.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">Gospels</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfMatthew_Writing">Gospel of Matthew</a> (<a href="date.70+c-110">c. 70–110</a>): narrative of the life and ministry of Jesus; first Gospel in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a>; one of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SynopticGospels_Writing">Synoptic Gospels</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfMark_Writing">Gospel of Mark</a> (<a href="date.65+c-75">c. 65–75</a>): narrative of the life and ministry of Jesus; second Gospel in the New Testament; one of the Synoptic Gospels; scholars generally agree this was the first Gospel written.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfLuke_Writing">Gospel of Luke</a> (<a href="date.70+c-85">c. 70–85</a>): narrative of the life and ministry of Jesus; third Gospel in the New Testament; one of the Synoptic Gospels.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GospelOfJohn_Writing">Gospel of John</a> (<a href="date.90+c-100">c. 90–100</a>): narrative of the life and ministry of Jesus; fourth Gospel in the New Testament.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) In _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/37533?len=25549">"Away with the King! The Jesus Movement" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/30305?len=26772">“Jesus: His Life, Ministry, Death, and Its Consequences” (Burridge) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/34415?len=3833">"The Ministry of Jesus" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/24400?len=9975">"The Setting for the Story's Beginning" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+</ul>

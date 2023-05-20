@@ -1,0 +1,131 @@
+<p>Level: 1
+Status: Released
+Identifier: ContextualTheologies
+Parents: Root
+Eras: bk.era:modernera; bk.era:contemporaryera</p>
+<h1>New Contextual Theologies Emerge to Describe Faith in Light of Human Experience</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1950+10-2022">1950s–Present</a></li>
+<li><strong>Description:</strong> As Christianity became a global faith, theologies emerged from the perspective of various people groups, especially among those in the Global South. </li>
+</ul>
+<h2>Summary</h2>
+<p>The latter half of the twentieth century saw the explosive growth of the global church due in part to the successes of the missionary movement of the nineteenth century, which sent Western missionaries---and Western culture---to the non-Western world. Within the next century, colonialism was coming to an end and nationalism was on the rise, leading to a decline in Western influence in the Global South. Indigenous expressions of Christianity flourished as  Christians sought to contextualize theology by taking into account their own human experience within a particular history and culture. A variety of contextual theologies developed as indigenous Christians went about the work of theology.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a> from <a href="https://ref.ly/logos4/Factbook?ref=bk.%40NorthAmerica">North America</a> and <a href="bk.@Europe">Europe</a> exported Western culture to non-Western people groups (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+<li>Missionaries and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologians</a> began applying the indigenous principle to their work to help develop <a href="https://ref.ly/logos4/Factbook?ref=bk.%25indigenousChurch">indigenous churches</a> that were reflective of the culture, language, and history of the people (<a href="date.1900+100">1900s</a>).</li>
+<li><a href="bk.%ContextualTheology">Contextual theologies</a> emerged among various people groups to address specific cultural experiences and contexts (<a href="date.1900+100+m-2022">mid-1900s–2022</a>). </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">Liberation theologies</a> developed among oppressed and marginalized people groups who sought to interpret the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospel">gospel</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aScripture">Scripture</a> within their social, political, and economic context (<a href="date.1968-2022">1968–2022</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%AfricanTheologian">African Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnMbiti_Person">John S. Mbiti</a> (b. <a href="date.1931">1931</a>): Kenyan <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a> and "father of modern African theology"; author of <a href="bk.%AfricanReligionsAndPhilosophy_Writing"><em>African Religions and Philosophy</em></a> and <a href="bk.%IntroductionToAfricanReligion_Writing"><em>Introduction to African Religion</em></a>, which addresses the beliefs and traditional religion of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">African continent</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.mercyoduyoye">Mercy Amba Oduyoye</a> (b. <a href="date.1934.10.21">October 21, 1934</a>): Ghanian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25womanistInterpretation">womanist</a> theologian; director of the <a href="bk.%InstituteOfAfricanWomenInReligion">Institute of African Women in Religion and Culture</a> at Trinity Theological Seminary in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Ghana">Ghana</a>; founder of the <a href="bk.%CircleOfConcernedAfricanWomenTheologians">Circle of Concerned African Women Theologians</a>; author of <a href="bk.%IntroducingAfricanWomensTheology_Writing"><em>Introducing African Women's Theology</em></a>, which describes the context and methodology of Christian theology by African women.</li>
+</ul>
+<h3><a href="bk.%AsianTheologian">Asian Theologians</a></h3>
+<ul>
+<li><a href="bio.shokicoe">Shoki Coe</a> (<a href="date.1914.8.20-1988.10.28">August 20, 1914–October 28, 1988</a>): Taiwanese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterian</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25minister">minister</a> and theologian; director of the Theological Education Fund of the <a href="bk.%WorldCouncilofChurches">World Council of Churches</a>; he coined the phrase "contextualizing theology" when referring to the development of local theologies.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.kwokpuilan_1">Kwok Pui-lan</a> (b. <a href="date.1952">1952</a>): Chinese feminist and postcolonial theologian; she studied at <a href="bk.%harvardCollege">Harvard University</a> and taught at <a href="bk.%CandlerSchoolOfTheology_Place">Candler School of Theology</a>; converted to Anglicanism from Chinese folk religion; author of <a href="bk.%IntroducingAsianFeministTheology_Writing"><em>Introducing Asian Feminist Theology</em></a>.</li>
+</ul>
+<h3><a href="bk.%BlackLiberationTheologian">Black Liberation Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JamesHalCone.1_Person">James Hal Cone</a> (<a href="date.1938.8.5-2018.4.28">August 5, 1938–April 28, 2018</a>): Black American theologian; he developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25BlackTheology_None">Black theology</a> and Black liberation theology; taught at <a href="bk.%UnionTheologicalSeminary">Union Theological Seminary</a>, <a href="bk.%YaleDivinitySchool_Place">Yale Divinity School</a>, <a href="bk.%PrincetonCollege_Place">Princeton</a>, the <a href="bk.%UniversityOfParis_Place">University of Paris</a>, and <a href="bk.%DartmouthCollege_Place">Dartmouth College</a>; author of <a href="bk.%BlackTheologyAndBlackPower_Writing"><em>Black Theology and Black Power</em></a>; he was influenced by Karl Barth and wrote about his theology in his PhD thesis, <em>The Doctrine of Man in the Theology of Karl Barth</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.cornelwest">Cornel West</a> (b. <a href="date.1953.6.2">June 2, 1953</a>): Black American philosopher, professor, civil rights activist, and theologian; he taught at Union Theological Seminary; adherent of Black liberation theology; author of <a href="bk.%BlackTheologyAndMarxistThought_Writing"><em>Black Theology and Marxist Thought</em></a> and <a href="bk.%RaceMatters_Writing"><em>Race Matters</em></a>.</li>
+</ul>
+<h3><a href="bk.%FeministTheologian">Feminist Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MaryDaly_Person">Mary Daly</a> (<a href="date.1928.10.16-2010.1.3">October 16, 1928–January 3, 2010</a>): American Irish Catholic theologian and radical <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">feminist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; she taught at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a> school Boston College; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FeministTheology_Belief">feminist theology</a>; author of <a href="bk.%TheChurchAndTheSecondSex_Writing"><em>The Church and the Second Sex</em></a>; she eventually left the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.rosemaryradfordruether">Rosemary Radford Ruether</a> (b. <a href="date.1936.11.2">November 2, 1936</a>): American feminist scholar and Roman Catholic theologian; advocate for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordinationOfWomen">women's ordination</a>; author of <a href="bk.%SexismAndGodTalk_Writing"><em>Sexism and God-Talk: Toward a Feminist Theology</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ElisabethSchusslerFiorenza_Person">Elisabeth Schüssler Fiorenza</a> (b. <a href="date.1938.4.17">April 17, 1938</a>): German Catholic feminist theologian; she teaches at Harvard Divinity School; co-founder and editor of the <a href="bk.%JournalOfFeministStudiesInReligion_Writing"><em>Journal of Feminist Studies in Religion</em></a>; author of <a href="bk.%InMemoryOfHer_Writing"><em>In Memory of Her</em></a>, which is a reconstruction of early Christianity and its relationship to women, and <a href="bk.%ButSheSaid_Writing"><em>But She Said: Faithful Practices of Biblical Interpretation</em></a>, which develops feminist biblical interpretations.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">Latin American Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GustavoGutierrez.1_Person">Gustavo Gutiérrez</a> (b. <a href="date.1928.6.1">June 1, 1928</a>: Peruvian Catholic priest; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">liberation theology</a>; author of <a href="bk.%TheologyOfLiberation_Writing"><em>Theology of Liberation</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MariaPilarAquino_Person">María Pilar Aquino</a> (b. <a href="date.1956.3.6">March 6, 1956</a>): Mexican Catholic feminist theologian; Research Professor of Theology and Religious Studies at the <a href="bk.%UniversityOfSanDiego_Place">University of San Diego</a>; author of <a href="bk.%OurCryForLife_Writing"><em>Our Cry for Life: Feminist Theology from Latin America</em></a>, which develops a feminist theology within the context of the poverty, oppression, and liberation of Latin American women.</li>
+</ul>
+<h3><a href="bk.%WesternTheologian">Western Theologians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.stephenbevans">Stephen Bevans</a> (b. <a href="date.1944.7.14">July 14, 1944</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>, missiologist, and theologian; Professor of Mission and Culture, Emeritus at <a href="bk.%CatholicTheologicalUnion_Place">Catholic Theological Union</a>; former president of the <a href="bk.%AmericanSocietyOfMissiology">American Society of Missiology</a>; member of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a>' Commission on World Mission and Evangelism; author of <a href="bk.%ModelsOfContextualTheology_Writing"><em>Models of Contextual Theology</em></a>, which argues that all theology is contextual and identifies models of contextual theology. </li>
+</ul>
+<h3><a href="bk.%WomanistTheologian">Womanist Theologians</a></h3>
+<ul>
+<li><a href="bio.deloresswilliams">Delores S. Williams</a> (b. <a href="date.1937">1937</a>): Black American Presbyterian theologian; Paul Tillich Professor of Theology and Culture, Emerita at Union Theological Seminary; developed womanist theology; author of <a href="bk.%SistersInTheWilderness_Writing"><em>Sisters in the Wilderness: The Challenge of Womanist God-Talk</em></a>, which helped establish Black American womanist theology.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1945-1960">1945–1960</a>: <a href="bk.tle:manyasianandafricancountriesindependence">Many Asian and African countries struggle for and achieve their independence</a>.</li>
+<li><a href="date.1954-1968">1954–1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilrightsmovement">Civil Rights Movement</a> in America seeks to end racial segregation and discrimination.</li>
+<li><a href="date.1960+10-1970+10">1960s–1970s</a>: <a href="bk.tle:secondwavefeminism">Second-wave feminism</a> seeks to establish equality for women and is generally critical of patriarchal society.</li>
+<li><a href="date.1968">1968</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aliberationtheologybegins">Liberation theology begins</a> at the second Latin American Bishops' Conference in Medellín, Colombia.</li>
+<li><a href="date.1969">1969</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ablacktheologyblackpowerjamesh"><em>Black Theology and Black Power</em> by James H. Cone is published</a>.</li>
+<li><a href="date.1972">1972</a>: <a href="bk.tle:shokicoecoinsphrase">Shoki Coe coins the phrase "contextualizing theology."</a></li>
+<li><a href="date.1973">1973</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atheologyliberationgustavo"><em>A Theology of Liberation</em> by Gustavo Gutierrez is published</a>.</li>
+<li><a href="date.1980+10">1980s</a>: <a href="bk.tle:womanisttheologyemerges">Womanist theology emerges</a> in North America.</li>
+<li><a href="date.1990+10">1990s</a>: <a href="bk.tle:thirdwavefeminism">Third-wave feminism</a> encourages intersectionality and opposed gender stereotypes.</li>
+<li><a href="date.2010+10">2010s</a>: <a href="bk.tle:fourthwavefeminism">Fourth-wave feminism</a> advocates for empowering women and intersectionality.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> is where African theology developed; many countries gained independence during the <a href="date.1950+10-1980+10">1950s –1980s</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Asia_Place">Asia</a> is where Asian theologies developed; many countries gained independence during the <a href="date.1940+10-1990+10">1940s–1990s</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40LatinAmerica">Latin America</a> is where liberation theology developed; it achieved independence in the <a href="date.1801+100">nineteenth century</a>, followed by periods of revolution, oppressive regimes, and democracy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40NorthAmerica">North America</a> is where Black theology and feminist theology developed; segregation was enforced here throughout the <a href="bk.tle:jimcroweraunitedstates">Jim Crow era</a> followed by the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilrightsmovement">Civil Rights Movement</a>; the feminist movement took place here in <a href="date.1848">1848</a>, with additional waves in the <a href="date.1900+100+l-2000+1000+e">late 1900s–early 2000s</a>.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="bk.%AfricanTheology_Belief">African theology</a> emerged in the <a href="date.1901+100">twentieth century</a> to describe the Christian faith from the experience of Africans. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25asianTheology">Asian Theology</a> emerged in the <a href="date.1901+100">twentieth century</a> to describe the Christian faith from the experience of Asians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BlackTheology_None">Black Theology</a> developed in the <a href="date.1960+10">1960s</a> in North America during the Civil Rights Movement to describe the Christian faith from the experience of Black Americans.</li>
+<li><a href="bk.%ContextualTheology">Contextual theologies</a> developed as Christianity spread across the globe to describe the Christian faith from the human experiences of non-Western peoples.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FeministTheology_Belief">Feminist Theology</a> emerged out of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">feminist</a> movement in North America in the <a href="date.1970+10">1970s</a> to describe the Christian faith from the experience of women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LiberationTheology_Belief">Liberation Theology</a> emerged in the <a href="date.1960+10">1960s</a> in Latin America out of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> to describe the Christian faith in light of the experiences of those living in  poverty.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25womanistInterpretation">Womanist Theology</a> emerged in the 1980s to describe the Christian faith in light of the experiences of Black American women; the term "womanist" was coined by author and social activist <a href="https://ref.ly/logos4/Factbook?ref=bio.alicewalker_1">Alice Walker</a> in <em>In Search of Our Mother's Gardens</em>.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%SexismAndGodTalk_Writing"><em>Sexism and God-Talk: Toward a Feminist Theology</em></a> (Rosemary Radford Ruether, <a href="date.1983">1983</a>): a critique of patriarchal theology and a systematic approach to feminist theology.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%TheChurchAndTheSecondSex_Writing"><em>The Church and the Second Sex</em></a> (Mary Daly, <a href="date.1968">1968</a>): a critique of sexism within the Christian tradition and Catholic theology and praxis.</li>
+<li><a href="bk.%AfricanReligionsAndPhilosophy_Writing"><em>African Religions and Philosophy</em></a> (John Mbiti, <a href="date.1969">1969</a>): a survey of traditional African religions and worldviews.</li>
+<li><a href="bk.%TheologyOfLiberation_Writing"><em>A Theology of Liberation</em></a> (Gustavo Gutiérrez, <a href="date.1973">1973</a>): articulates liberation theology which emphasizes social, economic, and political liberation of the poor and oppressed; definitive text on Latin American liberation theology.</li>
+<li><a href="bk.%ButSheSaid_Writing"><em>But She Said: Feminist Practices of Biblical Interpretation</em></a> (Elizabeth Schüssler Fiorenza, <a href="date.1992">1992</a>): develops feminist biblical interpretations and hermeneutics.</li>
+<li><a href="bk.%BlackTheologyAndBlackPower_Writing"><em>Black Theology and Black Power</em></a> (James H. Cone, <a href="date.1969">1969</a>): addresses the relationship between Black and white people in America; develops a Black theology that attempts to reconcile Black power, which Cone describes as "black freedom, black self-determination, wherein black people no longer view themselves as without human dignity,"[^1] with Christianity.</li>
+<li><a href="bk.%ModelsOfContextualTheology_Writing"><em>Models of Contextual Theology</em></a> (Stephen B. Bevan, <a href="date.1992">1992</a>): argues that all theology is contextual and identifies models of contextual theology; revised in <a href="date.2002">2002</a> with an additional sixth model.</li>
+<li><a href="bk.%OurCryForLife_Writing"><em>Our Cry for Life: Feminist Theology from Latin America</em></a> (María Pilar Aquino, <a href="date.1993">1993</a>): develops a feminist theology within the context of the poverty, oppression, and liberation of Latin American women.</li>
+<li><a href="bk.%SistersInTheWilderness_Writing"><em>Sisters in the Wilderness: The Challenge of Womanist God-Talk</em></a> (Delores S. Williams, <a href="date.1993">1993</a>): develops a womanist theology within the context of Black American women's experiences.</li>
+<li><a href="bk.%IntroducingAsianFeministTheology_Writing"><em>Introducing Asian Feminist Theology</em></a> (Kwok Pui-lan, <a href="date.2000">2000</a>): a survey of the social, political, and cultural experiences of Asian women and introduction to Asian feminist theology.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1626431?len=1673">"Contemporary Theologies" (John) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TH390EZIGBO/2017-04-24T23:29:22Z/37359?len=12553">"Introduction to Contextual Theology" in <em>TH390 Contextual Theology: Examples from Christianity in Africa, Asia, and Latin America</em> (Ezigbo)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/288175?len=14205">"Liberation Theologies" in_CH102 Introducing Church History II: Reformation to Postmodernism_ (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/1034226?len=6155">"Third World and Other 'Contextual' Theologies" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+</ul>
+<p>[^1]: James H. Cone, <em>Black Theology and Black Power</em>, (New York: Seabury Press, 1969), 6.</p>

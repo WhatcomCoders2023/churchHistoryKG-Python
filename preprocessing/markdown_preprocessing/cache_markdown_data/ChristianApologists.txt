@@ -1,0 +1,89 @@
+<p>Level: 2
+Status: Draft
+Identifier: ChristianApologists
+Parents: Orthodoxy
+Eras: bk.era:antenicenechurchera</p>
+<h1>Christian Apologists Defend the New Faith</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! 150-381</li>
+<li><strong>Description:</strong> Early Christians began writing apologetic works as well as interacting with philosophy and other worldviews, including Judaism, to defend and define the faith.</li>
+</ul>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Christianity spread across the Roman empire.</li>
+<li>Christianity separated from Judaism and became its own religion.</li>
+<li>Christianity faced attacks from pagans intellectuals.</li>
+<li>Christian apologists defend the faith against arguments from Judaism and paganism.</li>
+<li>Christian thinkers engaged other worldviews and philosophies to defend the new faith; some held a positive view of philosophy while others argued it was at odds with Christianity.</li>
+<li>Catechical and theological schools were established in various locations.</li>
+<li>Paganism declines and Christianity becomes the religion of the Roman Empire.</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apologists">Apologists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Quadratus_Person">Quadratus</a> (c. 2nd century AD): earliest known Christian apologist; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApologyOfQuadratus_Writing"><em>Apology of Quadratus</em></a> which is one of the earliest known Christian apologies.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JustinMartyr">Justin Martyr</a> (AD 100–165): Christian apologist; started schools in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a> and Rome; author of <em>First Apology</em>, <em>Second Apology</em>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DialogueWithTrypho_Writing"><em>Dialogue with Trypho</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ClementAlexandria">Clement of Alexandria</a> (150–215): Greek theologian and philosopher; Latin Church Father; leader of School of Alexandria.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Tertullian_Person">Tertullian</a> (c. AD 160–230): African Church Father and apologist; author of several works that offer a defense of the Christian faith including <em>Apoligeticum</em> and <em>An Answer to the Jews</em>; he is influenced by Stoicism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Origen">Origen</a> (185–254): Egyptian theologian; Greek Church Father; leader of School of Alexandria.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li>190: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aclementalexandriaheads">Clement of Alexandria Heads Catechitcal School</a></li>
+<li>c. 203: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aorigengivenchargeover">Origen Is Given Charge Over the Catechical School in Alexandria</a></li>
+<li>early 230s: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aorigenalexandria">Origen in Alexandria</a></li>
+<li>c. 245: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aorigencaesarea">Origen in Caesarea</a></li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a>: center of education and philosophy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>: center of the Roman Empire.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apologetics">Apologetics</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreekPhilosophy">Greek Philosophy</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Judaism_Belief">Judaism</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pagans">Pagans</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosophy">Philosophy</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">School of Alexandria</a></li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25apology.defense">Apologies</a></h3>
+<ul>
+<li><em>First Apology</em> (AD 150): written by Justin Martyr; apologetic defense of the Christian faith addressed to the emperor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DialogueWithTrypho_Writing"><em>Dialogue with Trypho</em></a> (Justin Martyr, c. 155–160): </li>
+<li><em>An Answer to the Jews</em> (Tertullian, c. 198): asserts Christ as the fulfillment in response to objections from Judaism.</li>
+<li><em>Exhortation to the Greeks</em> (Clement of Alexandria, late 2nd century): egnages Scripture and philosophy; urges pagans to convert to Christianity.</li>
+</ul>
+<h2>See Also</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li>González, Justo L. <a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/121173?len=24316">"Base Rumors and Lofty Criticism."</a> In <em>The Story of Christianity: The Early Church to the Dawn of the Reformation.</em> Edited by HarperOne. New York, NY, 2010.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/185895?len=28639">"Clement of Alxeandria."</a> In <em>The Story of Christianity: The Early Church to the Dawn of the Reformation.</em> Edited by HarperOne. New York, NY, 2010.</li>
+<li>Shelley, Bruce L. <a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/207336?len=23414">"Chapter 8: Apostles to Intellectuals: Interacting with Other Worldviews."</a> In <em>Church History in Plain Language.</em> Edited by Marshall Shelley. 5th Edition. Grand Rapids, MI: Zondervan Academic, 2020.</li>
+<li>Walton, Robert C. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/44395?len=6572">"14. The Second-Century Apologists."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/46305?len=2264">"15. The Arguments of the Apologists."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+<li>---------. <a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/48570?len=2397">"16. The Third-Century Church Fathers."</a> In <em>Chronological and Background Charts of Church History.</em> Revised Edition. ZondervanCharts. Zondervan, 2018.</li>
+</ul>

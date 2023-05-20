@@ -1,0 +1,156 @@
+<p>Level: 1
+Status: Released
+Identifier: CatholicBeyondEurope
+Parents: Root
+Eras: bk.era:medievalchurchera; bk.era:reformationera; bk.era:modernera</p>
+<h1>The Roman Catholic Church Expands Beyond Europe</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1480-1776">1480–1776</a></li>
+<li><strong>Description:</strong> The Roman Catholic Church expanded through missionary efforts in areas outside of Europe during the Age of Exploration.</li>
+</ul>
+<h2>Summary</h2>
+<p>While the Protestant Reformation was taking shape in Europe, the Roman Catholic Church was working to expand the borders of Christendom. During the Age of Discovery, Europeans embarked on overseas exploration in search of new travel routes and new lands. European monarchs, commissioned by the pope, sought to Christianize Europe's newly colonized territories. Religious orders, the dominant force in foreign missions during this period, traveled to the Americas to establish Roman Catholicism among its indigenous peoples. In the East, missionaries attempted to adapt Christianity to the culture but faced challenges from both those in the church and those opposed to Christianity. </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Europe_Place">European countries</a> embarked on overseas exploration (<a href="date.1400+100+m-1500+100+m">mid-1400s to mid-1500s</a>).</li>
+<li>Invading armies perpetuated violence toward indigenous peoples and destroyed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25temple.building">temples</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%24gravenImage">idols</a> (<a href="date.1400+100+m-1500+100+m">mid-1400s to mid-1500s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aatlanticslavetrade">Atlantic slave trade</a> was established (<a href="date.1500+100-1800+100">1500s–1800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">Reform</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> prompted renewed interest in <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aEvangelism">evangelism</a> beyond Europe (<a href="date.1523-1648">1523–1648</a>).</li>
+<li>New and reformed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">monastic orders</a> led the evangelistic efforts of the Roman Catholic Church (<a href="date.1500+100+m-1700+100+l">mid-1500s to late 1700s</a>).</li>
+<li>Roman Catholic missions were established in colonized territories (<a href="date.1500+100+m-1700+100+l">mid-1500s to late 1700s</a>).</li>
+<li>Some <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionaries</a> objected to the harsh practices of the colonizing armies and advocated for the humane treatment of indigenous peoples (<a href="date.1500+100+m-1700+100+l">mid-1500s to late 1700s</a>.</li>
+<li>Disagreements over how to translate the Christian faith across cultures led to a a decline in missions in some areas (<a href="date.1600+100+l">late 1600s</a>.</li>
+<li>Roman Catholic missionaries are <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstmissionariesplainsindians">sent to the Plains Indians in North America</a> (<a href="date.1700+100">1700s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%explorer">Explorers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25VascoNunezDeBalboa_Person">Vasco Nuñez de Balboa</a> (<a href="date.1475+c-1519.1">c. 1475–January 1519</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spanish</a> explorer to Central America; he was the first European to reach the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40PacificOcean">Pacific Ocean</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JuanPonceDeLeon_Person">Juan Ponce de León</a> (<a href="date.1474-1521">1474–1521</a>): Spanish explorer and conquistador; first governor of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PuertoRico_Place">Puerto Rico</a>; leader of the first European expedition to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Florida">Florida</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25VascoDaGama_Person">Vasco da Gama</a> (<a href="date.1460+c-1524.12.24">c. 1460–December 24, 1524</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Portugal_Place">Portuguese</a> explorer; first person to sail from Europe to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a>; established sea route from Europe to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Asia_Place">Asia</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristopherColumbus_Person">Christopher Columbus</a> (<a href="date.1451+c-1506.5.20">c. 1451–May 20, 1506</a>): Italian explorer; his expeditions were sponsored by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> monarchy of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a> and led to colonization of the Americas.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HernandoCortes_Person">Hernando Cortés</a> (<a href="date.1485-1547.12.2">1485–December 2, 1547</a>): Spanish Roman Catholic conquistador; he conquered the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aztecs_People">Aztecs</a> and colonized <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Mexico">Mexico</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FranciscoPizarro_Person">Francisco Pizarro</a> (<a href="date.1478.3.16-1541.6.26">March 16, 1478–June 26, 1541</a>): Spanish conquistador; he conquered the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40IncaEmpire">Incas</a> and colonized <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Peru">Peru</a>; he murdered <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Atahuallpa_Person">Atahuallpa</a>, the monarch of the Incas.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JuniperoSerra_Person">Junípero Serra</a> (<a href="date.1713.11.24-1784.8.28">November 24, 1713–August 28, 1784</a>): Spanish Franciscan missionary; he established several Spanish missions in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40California">California</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JuanDeZumarraga_Person">Juan De Zumárraga</a> (<a href="date.1468-1548">1468–1548</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franciscans_People">Franciscan</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Mexico">Mexico</a>; he defended the indigenous peoples of Mexico against Spanish colonists; appointed Apostolic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SpanishInquisition">Inquisitor</a> of New Spain (<a href="date.1536">1536</a>) to root out <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BartolomeDeLasCasas_Person">Bartolomé De Las Casas</a> (<a href="date.1484+c-1566.7.1">c. 1484–July 1, 1566</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominican</a> missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40WestIndies">West Indies</a> and America; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Chiapas_Place">Chiapas</a>, Mexico; he defended the indigenous peoples of America.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BernardinoDeSahagun_Person">Bernardino de Sahagún</a> (<a href="date.1499+c-1590.2.5">c. 1499–February 5, 1590</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franciscans_People">Franciscan</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25friar">friar</a>, anthropologist, and missionary to Mexico; editor of <a href="bk.%FlorentineCodex-Writing"><em>General History of the Things of New Spain</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.FrancisXavier">Francis Xavier</a> (<a href="date.1506.4.7-1552.12.3">April 7, 1506–December 3, 1552</a>): Spanish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a> missionary to the Indies and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Japan">Japan</a>; co-founder of the Society of Jesus.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MatteoRicci_Person">Matteo Ricci</a> (<a href="date.1552.10.6-1610.5.11">October 6, 1552–May 11, 1610</a>): Italian Jesuit missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a>; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Capuchins_People">Capuchins</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RobertDeNobili_Person">Robert De Nobili</a> (<a href="date.1577-1656.1.16">1577–January 16, 1656</a>): Italian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuit</a> missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a>; he adopted <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hinduism_Belief">Hindu</a> customs in order to adapt Christianity to the indigenous people.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JacquesMarquette_Person">Jacques Marquette</a> (<a href="date.1637.6.1-1675.5.18">June 1, 1637–May 18, 1675</a>): French Jesuit missionary and explorer in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40NorthAmerica">North America</a>; he founded Michigan's first European settlement. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeAlexanderVI_Person">Alexander VI</a> (<a href="date.1431-1503.8.18">1431-August 18, 1503</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">pope</a> and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.1492-1503">1492–1503</a>); he issued the papal bull <a href="bk.%InterCaetera1493_Writing"><em>Inter Caetera</em></a>, which divided the world beyond <a href="https://ref.ly/logos4/Factbook?ref=bk.%25christendom">Christendom</a> between Spain and Portugal.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeGregoryXV_Person">Gregory XV</a> (<a href="date.1616.1.9-1623.7.8">January 9, 1616–July 8, 1623</a>): pope and bishop of Rome (<a href="date.1621-1623">1621--1623</a>); he founded the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacredCongregationOfPropaganda">Sacred Congregation de Propaganda Fide</a> to support Roman Catholic missions.</li>
+<li><a href="bk.%PopeUrbanVIII_Person">Urban VIII</a> (<a href="date.1568.4.5-1644.7.29">April 5, 1568–July 29, 1644</a>): pope and bishop of Rome (<a href="date.1623-1644">1623--1644</a>); he founded the <a href="bk.%PontificalUrbanCollege_Place">Pontificio Collegio Urbano de Propaganda Fide</a> to train missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PopeBenedictXIV">Pope Benedict XIV</a> (<a href="date.1675.3.31-1758.5.3">March 31, 1675–May 3, 1758</a>): pope and bishop of Rome (<a href="date.1740-1758">1740--1758</a>); he issued the papal bulls <a href="bk.%ImmensaPastorumPrincipis_Writing"><em>Immensa Pastorum Principis</em></a>, which condemned the enslavement of indigenous people in the Americas, and <a href="bk.%ExQuoSingulari_Writing"><em>Ex Quo Singulari</em></a> and <a href="bk.%OmniumSollicitudinum_Writing"><em>Omnium Sollicitudinum</em></a>, which prohibited some of the traditional practices the Jesuits had permitted among indigenous converts in China and India.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ReligiousOrder">Religious Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AugustinianHermits_People">Augustinians</a> (est. <a href="date.1201+100">thirteenth century</a>): led missions to the Americas, East Africa, Arabia, and the Far East.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominicans</a> (est. <a href="date.1216">1216</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">monastic</a> order founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.Dominic">Saint Dominic</a>; led missions to the Americas.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Capuchins_People">Capuchins</a> (est. <a href="date.1525">1525</a>): Franciscan reform order founded by Matteo Rici; led missions to the Americas, Asia, and Africa.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Jesuits_People">Jesuits</a> (est. <a href="date.1534">1534</a>): monastic order co-founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusLoyola.1">Ignatius of Loyola</a> and Francis Xavier; led missions to the Americas and East Asia.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ursulines_People">Ursulines</a> (est. <a href="date.1535">1535</a>): teaching order of women founded by <a href="https://ref.ly/logos4/Factbook?ref=bio.AngelaMerici">Angela Merici</a>; led missions to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40NewFrance">New France</a>, educating indigenous and French Canadian girls.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1400+100+e">early 1400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopesforbidslavetrade">Popes forbid slave trade</a>.</li>
+<li><a href="date.1492">1492</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristophercolumbussailsacross">Christopher Columbus sails across the Atlantic</a>, reaching the Americas.</li>
+<li><a href="date.1493">1493</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apopealexandervisplitsland">Pope Alexander VI splits land in America between Portugal and Spain</a>.</li>
+<li><a href="date.1493">1493</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amissionariessentnewworld">Missionaries are sent to the New World</a> to propagate the Christian faith.</li>
+<li><a href="date.1498">1498</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3avascodegamosailsindia">Vasco De Gamo sails to India</a>.</li>
+<li><a href="date.1500+c">c. 1500</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aportugalestablishessettlements1">Portugal establishes settlements in India</a>.</li>
+<li><a href="date.1521">1521</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acortezconquersaztecempire">Cortez conquers the Aztec Empire</a>.</li>
+<li><a href="date.1524">1524</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afranciscanmissionariestravel">Franciscan missionaries travel to Mexico City</a>.</li>
+<li><a href="date.1530">1530</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aportugualentersatlanticslave">Portugual enters the Atlantic slave trade</a>.</li>
+<li><a href="date.1532">1532</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aportugalestablishessettlements">Portugal establishes settlements in Brazil</a>.</li>
+<li><a href="date.1533">1533</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aspainconquersincanempire">Spain conquers the Incan Empire</a>.</li>
+<li><a href="date.1542">1542</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrancisxavierbecomesmissionary1">Francis Xavier becomes a missionary</a>.</li>
+<li><a href="date.1549">1549</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afrancisxavierbecomesmissionary2">Francis Xavier becomes a missionary in Japan</a>.</li>
+<li><a href="date.1564">1564</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aspainconquersphilippine">Spain conquers the Philippines</a>.</li>
+<li><a href="date.1565">1565</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acatholicmissionariestravel">Catholic missionaries travel to the Philippines</a>.</li>
+<li><a href="date.1598">1598</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aspainclaimscontrolportugal">Spain claims control of Portugal</a>.</li>
+<li><a href="date.1500+100+l">late 1500s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ajesuitsarrivenorthafrica">first Jesuits arrive in North Africa</a>.</li>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aportuguesejesuitspreach">Portuguese Jesuits preach in Ethiopia</a>.</li>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutioncatholicsjapan">Catholics are persecuted in Japan</a> after missionaries are banned.</li>
+<li><a href="date.1600">1600</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amatthewricciinvitedlivepeking">Matthew Ricci is invited to live in Peking by the emperor</a>.</li>
+<li><a href="date.1606">1606</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arobertdenobilibecomes">Robert de Nobili becomes a missionary in India</a>.</li>
+<li><a href="date.1614">1614</a>: <a href="bk.tle:christianityisoutlawedjapan">Christianity is outlawed in Japan</a>.</li>
+<li><a href="date.1622">1622</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asacredcongregationpropagation">Sacred Congregation for the Propagation of Catholic Faith is founded by Pope Gregory XV</a>.</li>
+<li><a href="date.1623">1623</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amonumentalopenbuiltchina">A monument to Alopen is built in China</a>; he is the first missionary to China.</li>
+<li><a href="date.1627">1627</a>: <a href="bk.tle:pontificiocollegiourbanodepropagandafideisfounded">Pontificio Collegio Urbano de Propaganda Fide is founded by Pope Urban VIII</a> to train missionaries.</li>
+<li><a href="date.1692">1692</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achristianityallowedchina">Christianity is allowed in China</a>, opening the door for Roman Catholic missionaries to propagate the faith.</li>
+<li><a href="date.1600+100+l">late 1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achineseritescontroversydivides">Chinese rites controversy divides the church in China</a>.</li>
+<li><a href="date.1701+100">1700s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstmissionariesplainsindians">First missionaries sent to the Plains Indians</a>.</li>
+<li><a href="date.1769">1769</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amissionscaliforniafounded">Missions in California are founded by Junipero Serra</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> was first colonized by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Portugal_Place">Portugal</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a>; the Augustinians and Capuchins led missions here beginning in the <a href="date.1501+100">sixteenth century</a>; prior to the <a href="date.1501+100">sixteenth century</a>, Christianity was present in North Africa and Ethiopia. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> was evangelized by the Jesuits in the <a href="date.1501+100">sixteenth century</a>; prior to the sixteenth century, the Franciscans had been active here during the <a href="date.1301+100-1401+100">thirteenth--fourteenth centuries</a>; the earliest recorded missionary to China is <a href="bk.%Alopen_Person">Alopen</a> from the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AssyrianChurchOfTheEast">Assyrian Church of the East</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Japan">Japan</a> was evangelized by the Jesuits and later the Franciscans.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25latinAmerica_Place">Latin America</a> was colonized by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Spain_Place">Spain</a>, Portugal, <a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a>, and France.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40NewFrance">New France</a> was the name given to areas in North America colonized by France; French Jesuits led missions here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40NewSpain">New Spain</a> was the name given to areas of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40AztecEmpire">Aztec Empire</a> colonized by Spain.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40NorthAmerica">North America</a> was colonized by England, Spain, France, and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40DutchRepublic">Dutch Republic</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the center of Roman Catholicism; location of <a href="bk.%PontificalUrbanCollege_Place">Pontificio Collegio Urbano de Propaganda Fide</a> founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeUrbanVIII_Person">Pope Urban VIII</a> to train missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40WestIndies">West Indies</a> were colonized by England, Spain, France, and  the Dutch Republic.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">Churches</a> were established by foreign missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25settle.verb">Colonization</a> was established as a means of propagating Christianity outside of Christendom.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a> traveled to colonized territories beyond Christendom.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missions</a> was largely the work of monastic orders during the sixteenth--seventeenth centuries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> spread through colonization and missionary efforts to the Americas, Africa, and Asia.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacredCongregationOfPropaganda">Sacred Congregation de Propaganda Fide</a> was founded by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeGregoryXV_Person">Pope Gregory XV</a> to promote the spread of Roman Catholicism and manage ecclesiastical issues in foreign territories.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%dictionariesAndEncyclopedias">Dictionaries and Encyclopedias</a></h3>
+<ul>
+<li><a href="bk.%FlorentineCodex-Writing"><em>General History of the Things of New Spain</em></a> (<a href="date.1501+100">Bernardino de Sahagún, sixteenth century</a>): encyclopedic work on the people and culture of Mexico; the information was compiled while de Sahagún was serving as a missionary in Mexico; also known as the Florentine Codex.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25papalBull">Papal Bulls</a></h3>
+<ul>
+<li><a href="bk.%InterCaetera1493_Writing"><em>Inter Caetera</em></a> (Pope Alexander VI, <a href="date.1493">1493</a>): papal bull that divided up the lands outside of Christendom between the Roman Catholic monarchies of Spain and Portugal; established the Roman Catholic Church's support for European colonization as a means of propagating the Christian faith.</li>
+<li><a href="bk.%SublimusDei_Writing"><em>Sublimis Deus</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bio.PopePaulIII">Pope Paul III</a>, <a href="date.1537">1537</a>): papal bull which addresses the enslavement and evangelization of the indigenous peoples of the Americas; states that indigenous peoples are fully rational human beings with the rights to freedom and private property even if they are not Christian converts. </li>
+<li><a href="bk.%ImmensaPastorumPrincipis_Writing"><em>Immensa Pastorum Principis</em></a> (Pope Benedict XIV, <a href="date.1741">1741</a>): papal bull which addresses the enslavement and evangelization of the indigenous peoples of the Americas; the enslavement of indigenous peoples is condemned.</li>
+<li><a href="bk.%ExQuoSingulari_Writing"><em>Ex Quo Singulari</em></a> (Pope Benedict XIV, <a href="date.1742">1742</a>): papal bull prohibiting some of the traditional practices the Jesuits had permitted among indigenous converts in China.</li>
+<li><a href="bk.%OmniumSollicitudinum_Writing"><em>Omnium Sollicitudinum</em></a> (Pope Benedict XIV, <a href="date.1744">1744</a>): papal bull prohibiting some of the traditional practices the Jesuits had permitted among indigenous converts in India.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/969677?len=87890">"The Beginnings of Colonial Christianity" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/519217?len=17967">"Beyond Europe" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/974249?len=42917">“Expansion Worldwide: European Missions” (DeJong) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/432415?len=22710">"Missionary Work and Catholicism Outside Europe" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/705220?len=26868">"Opening the Rock: Uttermost America and Asia" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

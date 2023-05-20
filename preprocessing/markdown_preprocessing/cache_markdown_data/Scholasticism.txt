@@ -1,0 +1,131 @@
+<p>Level: 1
+Status: Released
+Identifier: Scholasticism
+Parents: Root
+Eras: bk.era:byzantinechurchera; bk.era:medievalchurchera</p>
+<h1>The Rise of Scholasticism</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.789-1500">789–1500</a></li>
+<li><strong>Description:</strong> A method of learning that emphasized the use of reason to establish systematic theological systems developed in the Middle Ages.</li>
+</ul>
+<h2>Summary</h2>
+<p>A renewed interest in learning during the Carolingian Renaissance in Western Europe led to the establishment of schools in monasteries and cathedrals, and eventually universities. The production of Latin translations of ancient Greek philosophical works reintroduced classical literature to the West and prompted theologians to incorporate the use of reason in their theological pursuits and support of the Christian faith. This led to the development of scholasticism as an intellectual method using Aristotelian concepts and methods. While many theologians saw a conflict between Greek philosophy and Christian theology, others argued that the two were not incompatible and sought to harmonize faith and reason. Scholasticism reached its culmination in the thirteenth and fourteenth centuries, a period known as High Scholasticism, characterized by the founding of universities and rich scholarship from some of the brightest scholastic thinkers. By the late Middle Ages, scholasticism was in decline.</p>
+<h2>Key Developments</h2>
+<ul>
+<li>Western <a href="https://ref.ly/logos4/Factbook?ref=bk.@Europe">Europe</a> experienced a renewed interest in learning during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acarolingianrenaissance">Carolingian Renaissance</a> (<a href="date.700+100+l-800+100">late 700s–800s</a>).</li>
+<li>The first schools were established in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monastery">monasteries</a> and later in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cathedralSchools">cathedrals</a> (<a href="date.700+100+l-800+100">late 700s-800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25University">Universities</a> were founded (<a href="date.1000+100-1200+100">1000s–1200s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">Scholasticism</a> developed as a method of study (<a href="date.1000+100-1300+100">1000s–1300s</a>).</li>
+<li>Ancient Greek literature, including the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">philosophy of Aristotle</a>, was translated into <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin</a> and reintroduced in the West (<a href="date.1100+100">1100s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Canon law</a>, which governed most of life, was taught and developed within the universities (<a href="date.1100+100">1100s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="bk.%monkReligiousBrother">Monks</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohannesGratian_Person">Gratian</a> (<a href="date.1101+100">twelfth century</a>): Italian <a href="bk.%monkReligiousBrother">monk</a>; author of <a href="bk.%ConcordiaDiscordantiumCanonum_Writing"><em>Concordia Discordantium Canonum</em></a>, which is a compilation of church laws and was used to teach canon law in the Middle Ages.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">Philosophers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Aristotle">Aristotle</a> (<a href="date.b384-b322">384–322 !!smallcaps|bc!!</a>: Greek <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Peripatetic">peripatetic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25philosopher">philosopher</a>; he developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">Aristotelianism</a>; the reintroduction of his works in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Europe_Place">Europe</a> led to the rise of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">scholasticism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AnselmCanturbury">Anselm</a> (<a href="date.1033-1109">1033–1109</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Canterbury">Canterbury</a>; father of early medieval <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">scholasticism</a>; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Benedictines_People">Benedictine</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Prior">prior</a>, philosopher, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CurDeusHomo"><em>Cur Deus homo?</em></a>, which develops his <a href="https://ref.ly/logos4/Factbook?ref=bk.%25satisfaction">satisfaction theory</a> of <a href="https://ref.ly/logos4/Factbook?ref=lsto.AtonementTheories">the atonement</a>, and <a href="bk.%AnselmProslogium_Writing"><em>Proslogium</em></a>, which develops his <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OntologicalArgument">ontological argument</a> for the <a href="https://ref.ly/logos4/Factbook?ref=lsto.GodsExistence">existence of God</a>. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25pope">Popes</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeSylvesterII_Person">Sylvester II</a> (<a href="date.946+c-1003">c. 946–1003</a>): <a href="bk.%pope">pope</a> and <a href="bk.%bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; teacher and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">scholar</a>; he was a student and professor at the Cathedral School in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Reims_Place">Reims</a> prior to being elected pope; he was well known for his scholarship in mathematics, natural science, and philosophy. </li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25scholar">Scholars</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Alcuin">Alcuin of York</a> (<a href="date.745-804.5.19">745–May 19, 804</a>): English scholar, clergyman, <a href="https://ref.ly/logos4/Factbook?ref=bio.Alcuin">theologian</a>, and teacher; abbot of St. Martin's at <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Tours">Tours</a>; he was educated at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cathedralSchools">cathedral school</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40York">York</a>; as a royal advisor to emperor <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charlemagne_Person">Charlemagne</a> he became the leading scholar and teacher at the Carolingian court and a leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acarolingianrenaissance">Carolingian Renaissance</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ScholasticDoctors">Scholastic Doctors</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeterAbelard_Person">Peter Abelard</a> (<a href="date.1079-1142.4.21">1079–April 21, 1142</a>): French scholastic peripatetic philosopher, theologian, and logician; <em>Doctor Scholasticus, Peripateticus Palatinus</em> in the Roman Catholic Church; adherent of medieval scholasticism; head of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cathedralSchools">Cathedral School</a> in Paris; author of <a href="bk.%SicEtNon_Writing"><em>Sic et Non</em></a>, which consists of a series of questions about the Christian faith with conflicting answers from the <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aScripture">Scriptures</a> and the early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchFathers_People">church fathers</a>; he was an opponent of Bernard of Clairvaux; condemned for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresy</a> at the <a href="bk.tle:abelardiscondemnedheresycouncilsens">Council of Sens</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.BernardClairvaux">Bernard of Clairvaux</a> (<a href="date.1090-1153.8.20">1090–August 20, 1153</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cistercians_People">Cistercian</a> monk and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25abbot">Abbot</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Clairvaux_Place">Clairvaux</a>; <em>Doctor Melifluus</em> in the Roman Catholic Church; adherent of medieval scholasticism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mysticism">mysticism</a>; an opponent of Peter Abelard, he had him condemned for heresy at the Council of Sens; author of <a href="bk.%OnLovingGod_Writing"><em>On Loving God</em></a>, which addresses the reason one should love God.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeterLombard_Person">Peter Lombard</a> (<a href="date.1096+c-1164.8.1">c. 1096–August 1, 1164</a>): Italian theologian and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Paris_Place">Paris</a>; <em>Magister Sententiarum</em> in the Roman Catholic Church; adherent of medieval scholasticism; he was a student of Peter Abelard and taught at the Cathedral School in Paris; author of <a href="bk.%FourBooksOfSentences_Writing"><em>Four Books of Sentences</em></a>, which became the primary Catholic theological textbook during the Middle Ages.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAlbertusMagnus_Person">Albertus Magnus</a> (<a href="date.1200-1280.11.15">1200–November 15, 1280</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominican</a> friar and bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Regensburg">Regensburg</a>; <em>Doctor Universalis</em> in the Roman Catholic Church; adherent of medieval scholasticism; he was head of Dominican theology at the <a href="bk.%UniversityOfParis_Place">University of Paris</a>; teacher and mentor to Thomas Aquinas; author of <a href="bk.%CommentaryOnLombardsSentences_Writing"><em>Commentary on the Sentences of Peter Lombard</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ThomasAquinas">Thomas Aquinas</a> (<a href="date.1225-1274.3.7">1225–March 7, 1274</a>): Italian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dominicans_People">Dominican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25friar">friar</a> and philosopher; <em>Doctor Angelicus</em> and <em>Doctor Communis</em> in the Roman Catholic Church; adherent of medieval scholasticism; he was a student of Albertus Magnus and professor at the University of Paris; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SummaTheologiae_Writing"><em>Summa Theologiae</em></a>, which uses the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">Aristotelian</a> method to logically answer questions related to Christian theology; he was generally opposed by the Franciscans, and John Duns Scotus was his scholastic rival.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BlessedJohannesDunsScotus_Person">John Duns Scotus</a> (<a href="date.1266-1308.11.8">1266–November 8, 1308</a>): Scottish <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Franciscans_People">Franciscan</a> monk, theologian, and philosopher; <em>Doctor Subtilis</em> in the Roman Catholic Church; adherent of medieval scholasticism; he studied and taught at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a> and studied at the University of Paris; he was a scholastic rival of Thomas Aquinas; author of <a href="bk.%OpusOxoniense_Writing"><em>Opus Oxoniense</em></a>, which is a commentary on Peter Lombard's <em>Sentences</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamofOckham_Person">William of Ockham</a> (<a href="date.1280+c-1349+c">c. 1280–c. 1349</a>): English Franciscan friar, philosopher, and theologian; <em>Venerabilis Inceptor</em> in the Roman Cahtolic Church; adherent of medieval scholasticism and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nominalism_Belief">nominalism</a>; he studied and taught at Oxford University; developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ockhamsRazor">Ockham’s Razor</a> (also known as the Law of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25parsimony">Parsimony</a>); he was excommunicated by <a href="https://ref.ly/logos4/Factbook?ref=bio.PopeJohnXXII">Pope John XXII</a> due to a dispute over the <a href="bk.%RuleOfSaintFrancis_Writing">Rule of Saint Francis</a> and the Franciscans' practice of <a href="bk.%apostolicPoverty">apostolic poverty</a>; author of <a href="bk.%SummaLogicae_Writing"><em>Summa Logicae</em></a>, which addresses medieval logic and Aristotelianism.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.789">789</a>: <a href="bk.tle:charlemagneissuesadmonitiogeneralis">Charlemagne issues <em>Admonitio Generalis</em></a> decreeing the establishment of monastic and cathedral schools.</li>
+<li><a href="date.700+100+l-800+100">late 700s--800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acarolingianrenaissance">The Carolingian Renaissance</a> brings renewed interest in learning and the establishment of monastic and cathedral schools in Western Europe.</li>
+<li><a href="date.1000+100-1300+100">1000s--1300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ascholasticismtaughtschools">Scholasticism is taught in schools</a>.</li>
+<li><a href="date.1100+100">1100s</a>: <a href="bk.tle:latintranslationsaristotlearepublished">Latin translations of Aristotle are published</a>.</li>
+<li><a href="date.1100+100">1100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apeterabelardappliesword">Peter Abelard applies the word "theology" to religious discussion</a>.</li>
+<li><a href="date.1100+100-1200+100">1100s--1200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ascholasticismemerges">Scholasticism emerges</a> in Europe.</li>
+<li><a href="date.1100+100+l">late 1100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ascholasticsrevisearistotles">Scholastics revise Aristotle’s thought to bring it into harmony with divine revelation</a>.</li>
+<li><a href="date.1140">1140</a>: <a href="bk.tle:abelardiscondemnedheresycouncilsens">Abelard is condemned for heresy at the Council of Sens</a>.</li>
+<li><a href="date.1200">1200</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aseveraluniversitiesfounded">Several universities are founded</a>.</li>
+<li><a href="date.1265-1275">1265–1275</a>: <a href="bk.tle:thomasaquinaswritessummatheologiae">Thomas Aquinas writes <em>Summa Theologiae</em></a>.</li>
+<li><a href="date.1277">1277</a>: <a href="bk.tle:bishoppariscondemnsaristotelianism">The Bishop of Paris condemns Aristotelianism</a>.</li>
+<li><a href="date.1300+100">1300s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aphilosophersdiscard">Philosophers discard the Aristotelian model of the universe</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Bologna">Bologna</a> was the location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfBologna_Place">University of Bologna</a>, which was founded in <a href="date.1088">1088</a>; the study of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">canon law</a> originated here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cambridge_Place">Cambridge</a> was the location of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25universityOfCambridge_Place">University of Cambridge</a>, which was founded in <a href="date.1209">1209</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was a center of medieval scholasticism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> was a center of medieval scholasticism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Italy_Place">Italy</a> was a center of medieval scholasticism.</li>
+<li><a href="bk.@Oxford">Oxford</a> was the location of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Oxford">Oxford University</a>, which was founded in <a href="date.1096">1096</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Paris_Place">Paris</a> was the location of the <a href="bk.%UniversityOfParis_Place">University of Paris</a>, which was founded in <a href="date.1150">1150</a>.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Aristotelianism_Belief">Aristotelianism</a> was adapted to Christian theology by scholastic scholars.  </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Canon law</a> was compiled and studied in newly established universities.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreekPhilosophy">Greek philosophy</a> was reintroduced to the West through <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin</a> translations.</li>
+<li><a href="bk.%monkReligiousBrother">Monks</a> taught in monastic schools.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OntologicalArgument">Ontological argument</a> for God's existence was developed during the rise of scholasticism; championed by Anselm.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">Theology of sacraments</a> was further developed and systematized in the Roman Catholic Church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Scholasticism_Belief">Scholasticism</a> employed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25faith">faith</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reason">reason</a> to develop theological systems; it developed out of medieval <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monasticism">monasticism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25University">Universities</a> developed out of monastic and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cathedralSchools">cathedral schools</a>.</li>
+</ul>
+<h2>Key Documents</h2>
+<h3><a href="bk.%canonLaw">Church Codes and Canons</a></h3>
+<ul>
+<li><a href="bk.%ConcordiaDiscordantiumCanonum_Writing"><em>Concordia Discordantium Canonum</em></a> (Gratian, <a href="date.1140+c">c. 1140</a>): a compilation and harmonization of church laws; it was used to teach canon law in the Middle Ages and was later added to the larger compilation <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CorpusIurisCanonici_Writing"><em>Corpus Iuris Canonici</em></a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25commentary.explication">Commentaries</a></h3>
+<ul>
+<li><a href="bk.%OpusOxoniense_Writing"><em>Opus Oxoniense</em></a> (John Duns Scotus, <a href="date.1297-1301">1297–1301</a>): a commentary on Peter Lombard's <em>Sentences</em>; articulates the entirety of Scotus' philosophy. </li>
+</ul>
+<h3><a href="bk.%law">Legislative Acts</a></h3>
+<ul>
+<li><a href="bk.%AdmonitioGeneralis_Writing"><em>Admonitio Generalis</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charlemagne_Person">Charlemagne</a>, <a href="date.789">789</a>): a collection of legislation issued by emperor Charlemagne to address ecclesial and educational reforms; decrees that monastic and cathedral schools should be established throughout the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40FrankishEmpire">Frankish Empire</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Summa">Summae</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SummaTheologiae_Writing"><em>Summa Theologiae</em></a> (Thomas Aquinas, <a href="date.1265-1274">1265–1274</a>): a compendium of Christian theology which uses the Aristotelian method to logically answer questions related to the Christian faith; develops a theology of sacraments; became the official theology of the Roman Catholic Church; this is Aquinas' best known work.</li>
+<li><a href="bk.%SummaLogicae_Writing"><em>Summa Logicae</em></a> (William of Ockham, <a href="date.1323+c">c. 1323</a>): a compendium of medieval logic; articulates Ockham's nominalism.</li>
+</ul>
+<h3><a href="bk.%systematicTheology">Systematic Theologies</a></h3>
+<ul>
+<li><a href="bk.%FourBooksOfSentences_Writing"><em>Four Books of Sentences</em></a> (Peter Lombard, <a href="date.1150+c">c. 1150</a>): a systematic work containing a collection of writings belonging to the church fathers and medieval theologians; addresses <a href="https://ref.ly/logos4/Factbook?ref=lsto.Trinity">the Trinity</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.Creation">creation</a>, <a href="https://ref.ly/logos4/Factbook?ref=lsto.Incarnation">Jesus' incarnation</a>, and other theological subjects; became the primary Catholic theological textbook during the Middle Ages.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%SicEtNon_Writing"><em>Sic et Non</em></a> ("Yes and No") (Peter Abelard, <a href="date.1115+c-1120">c. 1115–1120</a>): a treatise consisting of a series of questions about the Christian faith with conflicting answers from the Scriptures and the early church fathers.</li>
+<li><a href="bk.%AnselmProslogium_Writing"><em>Proslogium</em></a> (Anselm of Canterbury, <a href="date.1077-1078">1077–1078</a>): addressed to God, this work develops Anselm's ontological argument for God's existence.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CurDeusHomo"><em>Cur Deus homo?</em> ("Why Did God Become Human?")</a> (Anselm of Canterbury, <a href="date.1094-1098">1094–1098</a>): develops Anselm's satisfaction theory of the atonement; rejects the ransom theory of atonement.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Acacademic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/628495?len=28262">"The Growth of Learning" (Clouse) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/295420?len=21451">"Intellectual Developments" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/933242?len=45334">"Intellectual Revival: The Rise of Scholasticism" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/299856?len=8176">"Medieval Scholasticism" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/509526?len=22765">"The Nectar of Learning: Scholasticism" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/791639?len=25423">"Theological Activity: Scholasticism" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/93645?len=3904">"The Theology of Scholasticism" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+</ul>

@@ -1,0 +1,200 @@
+<p>Level: 1
+Status: Released
+Identifier: WomensOrdination
+Parents: Root
+Eras: bk.era:reformationera; bk.era:modernera; bk.era:contemporaryera</p>
+<h1>Women's Ordination Is Established in Many Protestant Denominations</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1637-2022">1637–Present</a></li>
+<li><strong>Description:</strong> Protestant denominations began ordaining women as pastors.</li>
+</ul>
+<h2>Summary</h2>
+<p>As women stepped into more visible leadership roles both in the church and society, controversy arose around gender roles and the role of women in the church, home, and society. Beginning in the seventeenth century, as Protestantism continued to spread and denominations developed, women began advocating for the right to preach and participate in public ministry. Many women who took on preaching and pastoral roles faced persecution, imprisonment, and violence. Religious revivals and social reform movements provided women greater opportunities to serve in leadership. The missionary movement that began in the nineteenth century was largely the work of Christian women. Women serving in the foreign mission field typically experienced more freedom and less restrictions in how they could minister, many taking up the task of preaching. Despite opposition from supporters of traditional roles for women in the church, women's ordination was established in a number of Protestant denominations by the end of the twentieth century.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Women were <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordain">ordained</a> as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25deaconess">deacons</a> in some <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestant</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Denominations">denominations</a> (<a href="date.1800+100">1800s</a>).</li>
+<li>Women began serving as itinerant preachers during periods of <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aRevival">revival</a> (<a href="date.1800+100">1800s</a>).</li>
+<li>More women entered the workforce and attended universities (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolinessMovement">Wesleyan-Holiness movement</a> produced a number of women <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Preacher">preachers</a> and advocated for women's public ministry (<a href="date.1840+10-1850+10">1840s–1850s</a>).</li>
+<li>Missionary societies recruited single women to embark on foreign <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">missions</a> with the goal of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conversion">converting</a> individuals and establishing churches among unreached people groups (<a href="date.1800+100+m">mid-1800s</a>).</li>
+<li>The <a href="bk.tle:womensrightsmovementus">women's rights movement</a> made social and political gains in the fight for equality, including the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25suffrage">right to vote</a> (<a href="date.1800+100+l-1900+100+e">late 1800s–early 1900s</a>).</li>
+<li>Protestant denominations began approving the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordinationOfWomen">ordination of women</a> (<a href="date.1800+100+l-1900+100">late 1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostal</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Charismatic_Belief">charismatic</a> movements advocated for women's public ministry (<a href="date.1900+100">1900s</a>).</li>
+<li>Women took on leadership roles outside of the church, expanding their roles outside of the home (<a href="date.1900+100">1900s</a>).</li>
+<li>Some denominations split over the issue of women's ordination (<a href="date.1900+100+l">late 1900s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a></h3>
+<ul>
+<li><a href="bio.FlorenceLiTimOi">Florence Li Tim-Oi</a> (<a href="date.1907.5.5-1992.2.26">May 5, 1907–February 26, 1992</a>): Chinese <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%23priest">priest</a>; first woman to be <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordain">ordained</a> in the <a href="bk.%Anglicanism_Belief">Anglican Church</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Baptists">Baptists</a></h3>
+<ul>
+<li><a href="bio.AddieElizabethDavis">Addie Elizabeth Davis</a> (<a href="date.1917.6.29-2005.12.3">June 29, 1917–December 3, 2005</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Baptists">Baptist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25pastor">pastor</a>; first woman ordained by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25southernBaptistConvention">Southern Baptist Convention</a>; after being rejected by Southern Baptist churches, she served as a pastor in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AmericanBaptistChurchesUsa_Denom">American Baptist Churches</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Congregationalism">Congregationalists</a></h3>
+<ul>
+<li><a href="bio.harrietlivermore">Harriet Livermore</a> (<a href="date.1788-1868">1788-1868</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Congregationalism">Congregationalist</a> itinerant preacher; she was one of the most well-known female preachers in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> during the <a href="date.1801+100">nineteenth century</a>; she was invited to preach in front of Congress in <a href="date.1827.1">January of 1827</a>.</li>
+<li><a href="bio.AntoinetteBrownBlackwell">Antoinette Brown Blackwell</a> (<a href="date.1825.5.20-1921.11.5">May 20, 1825–November 5, 1921</a>): American Congregationalist pastor, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">feminist</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25suffrage">suffragist</a>; first woman to be officially ordained by a major Protestant denomination in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a>; she later converted to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Unitarianism_Belief">Unitarianism</a>; author of <a href="bk.%TheSexesThroughoutNature_Writing"><em>The Sexes Throughout Nature</em></a>, which was a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">feminist</a> critique of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesRobertDarwin_Person">Charles Darwin</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HerbertSpencer_Person">Herbert Spencer</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpiscopalChurchUSA">Episcopalians</a></h3>
+<ul>
+<li><a href="bio.BarbaraClementineHarris">Barbara Clementine Harris</a> (<a href="date.1930.6.12-2020.3.13">June 12, 1930–March 13, 2020</a>): Black American Episcopalian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a>; Suffragan Bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Massachusetts_Place">Massachusetts</a>; she was the first woman <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpiscopalChurchUSA">Episcopal Church</a> and the first Black woman bishop in the Anglican Communion.[^1]</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutherans</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.mariajepsen">Maria Jepsen</a> (b. <a href="date.1945.1.1">January 1, 1945</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutheran</a> bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Hamburg">Hamburg</a>; first Lutheran woman bishop in the world.</li>
+<li><a href="bio.ElizabethAlvinaPlatz">Elizabeth Alvina Platz</a> (<a href="date.1901+100">twentieth century</a>): American Lutheran pastor; first woman in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40NorthAmerica">North America</a> to be ordained by a Lutheran denomination (<a href="bk.%LutheranChurchInAmerica_Denom">Lutheran Church in America</a>).</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JarenaLee_Person">Jarena Lee</a> (<a href="date.1783.2.11-1864.2.3">February 11, 1783–February 3, 1864</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AfricanMethodistEpiscopalChurch_Denom">African Methodist Episcopal</a> preacher and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>; first woman preacher in the AME Church, though she was never ordained; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HolinessMovement">Wesleyan-Holiness movement</a>; author of her autobiography <a href="bk.%ReligiousExperience_Writing"><em>Religious Experience</em></a>, which addresses her calling to preach the gospel.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PhoebePalmer_Person">Phoebe Palmer</a> (<a href="date.1807.12.18-1874.11.7">December 18, 1807–November 7, 1874</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>, preacher, and lay revivalist; founder of the Wesleyan-Holiness movement; established in-home prayer meetings where women would preach; advocated for women preaching.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AmandaBerrySmith_Person">Amanda Berry Smith</a> (<a href="date.1837.1.23-1915.2.24">January 23, 1837–February 24, 1915</a>): African Methodist Episcopal preacher and evangelist; missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a>; supporter of the Wesleyan-Holiness movement.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostals</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.mariawoodworthetter_1">Maria Woodworth-Etter</a> (<a href="date.1844.7.22-1924.9.16">July 22, 1844–September 16, 1924</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostal</a> preacher, evangelist, and healer; began in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DisciplesOfChrist">Disciples of Christ Church</a>, where she was prohibited from preaching; joined the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Quaker_Person">Quaker</a> movement, where she received the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptismOfTheSpirit">baptism of the Holy Spirit</a> and began preaching; she later converted to Pentecostalism.</li>
+<li><a href="bio.LucyFFarrow">Lucy F. Farrow</a> (<a href="date.1851-1911">1851–1911</a>): Black American Pentecostal pastor; missionary to West Africa; she pastored a Holiness church in Houston, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Texas_Place">Texas</a>, where <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamJosephSeymour_Person">William Seymour</a> attended; participated in the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aazusastreetrevival">Azusa Street Revival</a>; advocated for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25giftOfTongues">speaking in tongues</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.AimeeMcPherson">Aimee Semple McPherson</a> (<a href="date.1890.10.9-1994.9.27">October 9, 1890–September 27, 1994</a>): Canadian Pentecostal revivalist and evangelist; founded <a href="bk.%AngelusTemple_Place">Angelus Temple</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25InternationalChurchTheFoursquareGospel_Denom">International Church of the Foursquare Gospel</a>; advocated for speaking in tongues and the baptism of the Holy Spirit; she was extremely popular in the media.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterians</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LouisaMariahLaymanWoosley_Person">Louisa Mariah Layman Woosley</a> (<a href="date.1862.3.24-1952.7.30">March 24, 1862–July 30, 1952</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterian</a> preacher; first woman ordained in a Presbyterian denomination (<a href="bk.%CumberlandPresbyterianChurch_Denom">Cumberland Presbyterian Church</a>); her ordination was challenged by other <a href="https://ref.ly/logos4/Factbook?ref=bk.%25synod">synods</a> but was eventually recognized; author of <a href="bk.%ShallWomenPreach_Writing"><em>Shall Woman Preach</em></a>, which was a defense of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordinationOfWomen">women's ordination</a>.</li>
+<li><a href="bio.MargaretTowner">Margaret Towner</a> (b. <a href="date.1925.3.19">March 19, 1925</a>): Presbyterian minister; first woman ordained in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PresbyterianChurchUSA_Denom">Presbyterian Church (U.S.A.)</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocietyOfFriends">Quakers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ElizabethHooton">Elizabeth Hooton</a> (<a href="date.1600-1672.1.8">1600–January 8, 1672</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Dissenters">dissenter</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocietyOfFriends">Quaker</a> preacher; first woman to become a Quaker minister; she was imprisoned for preaching.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MargaretFell_Person">Margaret Fell</a> (<a href="date.1614-1702.4.23">1614–April 23, 1702</a>): Quaker theologian and writer; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocietyOfFriends">Religious Society of Friends</a>, also known as the Quakers, author of <a href="bk.%WomenSpeakingJustified_Writing"><em>Women's Speaking Justified</em></a>, which advocates for women preaching in the church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SalvationArmy">Salvationists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CatherineMumfordBooth_Person">Catherine Mumford Booth</a> (<a href="date.1829.1.17-1890.10.4">January 17, 1829–October 4, 1890</a>): English Salvationist preacher; co-founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SalvationArmy">Salvation Army</a> with husband <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamBooth_Person">William Booth</a>; author of <a href="bk.%FemaleMinistry_Writing"><em>Female Ministry</em></a>, which advocated for women's public ministry.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Shakers">Shakers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AnnLee_Person">Ann Lee</a> (<a href="date.1736.2.29-1784.9.8">February 29, 1736–September 8, 1784</a>): English preacher; founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Shakers">United Society of Believers in Christ’s Second Coming</a>, also known as the Shakers; she was jailed for preaching.</li>
+</ul>
+<h3><a href="bk.%UnitingChurch_Denom">Uniting Church</a></h3>
+<ul>
+<li><a href="bio.LydiaEmelieGruchy">Lydia Emelie Gruchy</a> (<a href="date.1894.9.5-1992.4.9">September 5, 1894–April 9, 1992</a>): French-born Canadian minister; first woman ordained in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UnitedChurchCanada_Denom">United Church of Canada</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1600+100">1600s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aquakermovementemerges">The Quaker movement emerges</a>; supports women in ministry and equal roles within the church.</li>
+<li><a href="date.1637">1637</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aannehutchinsontriedheresy">Anne Hutchinson is tried for heresy</a>.</li>
+<li><a href="date.1800+100">1800s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeaconessesintroducedinto">Deaconesses are introduced into the Anglican Church</a>.</li>
+<li><a href="date.1833.9.2">September 2, 1833</a>: <a href="bk.tle:oberlincollegefounded">Oberlin College is founded</a>; it is the first co-educational college in the United States.</li>
+<li><a href="date.1840+10-1850+10">1840s--1850s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aholinessmovementamerica">The Holiness Movement begins in America</a>.</li>
+<li><a href="date.1848.7.19-1848.7.20">July 19–20, 1848</a>: <a href="bk.tle:senecfallsconventionconvened">The Seneca Falls Convention is convened</a> to discuss the social, political, and religious status and rights of women.</li>
+<li><a href="date.1850+10-1860+10">1850s--1860s</a>: <a href="bk.tle:nationalwomensrightsconvetionsheld">National Women's Rights conventions are held in the United States</a>.</li>
+<li><a href="date.1860">1860</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awomensunionmissionarysociety">Women’s Union Missionary Society is founded</a>, which supports single women in the foreign mission field.</li>
+<li><a href="date.1865.7.2">July 2, 1865</a>: <a href="bk.tle:salvationarmyfounded">The Salvation Army is founded</a> and ordains both men and women.</li>
+<li><a href="date.1889.11.5">November 5, 1889</a>: <a href="bk.tle:lousiawoosleyordained">Louisa Woosley is ordained</a> by the Cumberland Presbyterian Church.</li>
+<li><a href="date.1800+100+l-1900+100+e">late 1800s--early 1900s</a>: <a href="bk.tle:womansmissionarymovementus">The Woman's Missionary Movement takes place in the United States</a>.</li>
+<li><a href="date.1914">1914</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aassembliesgodfounded">The Assemblies of God is founded</a>; supports women's ordination.</li>
+<li><a href="date.1920">1920</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3a19thamendmentusgrantswomen">The Nineteenth Amendment in the United States grants women the right to vote</a>.</li>
+<li><a href="date.1944.1.24">January 24, 1944</a>: <a href="bk.tle:FLorenceLiTimOiOrdained">Florence Li Tim-Oi is ordained in the Anglican Communion</a>.</li>
+<li><a href="date.1954">1954</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amethodistchurchbeginsordaining">Methodist Church begins ordaining women</a>.</li>
+<li><a href="date.1956">1956</a>: <a href="bk.tle:presbyterianchurchbeginsordainingwomen">The Presbyterian Church begins ordaining women</a>.</li>
+<li><a href="date.1960+10">1960s</a>: <a href="bk.tle:womensrightsmovementus">The Women's Rights Movement begins in the United States</a>.</li>
+<li><a href="date.1964">1964</a>: <a href="bk.tle:addiedavisfirstwomanordainedsouthern">Addie Davis is the first woman ordained by the Southern Baptist Convention</a>.</li>
+<li><a href="date.1970">1970</a>: <a href="bk.tle:luthernchuchamericaordainselizabeth">The Lutheran Church in America ordains Elizabeth Platz</a>.</li>
+<li><a href="date.1970">1970</a>: <a href="bk.tle:popepaulvinamesteresaaviladoctor">Pope Paul VI names Teresa of Avila a Doctor of the Church</a>.</li>
+<li><a href="date.1974">1974</a>: <a href="bk.tle:episcopalchurchbeginsordainingwomen">The Episcopal Church begins ordaining women</a>.</li>
+<li><a href="date.1979">1979</a>: <a href="bk.tle:movementordinationwomenisfounded">The Movement for the Ordination of Women is founded</a> within the Anglican Communion.</li>
+<li><a href="date.1979">1979</a>: <a href="bk.tle:reformedchurchamericabeginsordainingwomen">The Reformed Church in America begins ordaining women</a>.</li>
+<li><a href="date.1986">1986</a>: <a href="bk.tle:christiansbiblicalequalityfounded">Christians for Biblical Equality is founded</a>; supports women's ordination.</li>
+<li><a href="date.1987">1987</a>: <a href="bk.tle:councilbiblicalmanhoodwomanhoodfounded">The Council on Biblical Manhood and Womanhood is founded</a>; opposes the ordination of women.</li>
+<li><a href="date.1992.4.4">April 4, 1992</a>: <a href="bk.tle:mariajepsenelectedfirstlutheranwomanbishop">Maria Jepsen is elected as the first Lutheran woman bishop</a>.</li>
+<li><a href="date.1992.11">November 1992</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchenglandapproves">The Church of England approves the ordination of women</a>.</li>
+<li><a href="date.1994.5.22">May 22, 1994</a>: <a href="bk.tle:popejohnpauliiissuesordinatiosacerdotalis">Pope John Paul II issues <em>Ordinatio Sacerdotalis</em></a>, which reaffirms the Roman Catholic Church's restriction of ordination to men only.</li>
+<li><a href="date.2000">2000</a>: <a href="bk.tle:southernbaptistconventionbanswomensordiation">The Southern Baptist Convention bans women's ordination</a>.</li>
+<li><a href="date.2004.10.8">October 8, 2004</a>: <a href="bk.tle:churchgreecerestoresdiaconatewomen">The Church of Greece restores diaconate for women</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40England">England</a> was where the Quaker movement began.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OberlinCollege">Oberlin College</a> was the first co-educational college in the United States.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anabaptists">Anabaptists</a> ordain women.[^2]</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a> are divided over the ordination of women; some churches within the Anglican Communion ordain women to various levels of office; the <a href="bk.%Episcopalism_Belief">Episcopal Church</a> affirms egalitarianism and ordains women to the office of bishop.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Baptists">Baptists</a> are extremely diverse in their approach to the ordination of women; many denominations ordain women, while others do not support the ordination of women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChurchTheBrethren_Denom">Church of the Brethren</a> affirms egalitarianism and ordains women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25complementarianism">Complementarianism</a> argues that men and women should serve in different but complementary roles within the church and family; adherents of this view prohibit women from serving in some leadership roles, such as pastor or elder; some complementarians affirm women as preachers with certain stipulations, but typically limited to preaching to other women; opposes the ordination of women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25egalitarianism">Egalitarianism</a> argues that gender does not determine or limit what roles an individual can fill within the church; advocates for the ordination of women to all levels of leadership.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">Feminism</a> was influential to the movement to ordain women in the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lco.Gender_roles_and_issues">Gender roles and issues</a> are debated within the church; churches and denominations that affirm traditional gender roles typically oppose women's ordination.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lutheranism_Belief">Lutherans</a> generally ordain women and affirm egalitarianism; women are ordained to the highest office of bishop.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodists</a> generally ordain women and affirm egalitarianism; women are ordained to the office of bishop.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MoravianBrethren">Moravian Brethren</a> ordain women; women are ordained to the office of bishop.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ordinationOfWomen">Ordination of women</a> was affirmed by many Protestant denominations beginning in the <a href="date.1801+100">nineteenth century</a>; the degree to which women are ordained differs within denominations, some permitting ordination at lower levels while others ordain women at all levels of leadership. </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pentecostal_Belief">Pentecostals</a> generally ordain women and affirm egalitarianism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterians</a> are diverse in their approach to the ordination of women; many Presbyterian denominations ordain women, while others do not support the ordination of women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SalvationArmy">Salvation Army</a> was one of the first denominations to ordain women to ministry.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocietyOfFriends">Society of Friends</a> permitted both men and women to preach; this denomination does not ordain clergy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Universalists">Universalists</a> were one of the first denominations to ordain women.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25womenInChurchLeadership">Women in ministry</a> took on more leadership roles (<a href="date.1800+100-1900+100">1800s–1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">Persecution</a> was often faced by women who preached.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%academicJournal">Academic Journals</a></h3>
+<ul>
+<li><a href="bk.%PriscillaPapers_Writing"><em>Priscilla Papers</em></a> (<a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristiansForBiblicalEquality">CBE International</a>, <a href="date.1987-2022">1987–present</a>):  egalitarian evangelical scholarship on gender equality and justice, gender roles in the church and home, and other related issues.</li>
+<li><a href="bk.%JournalBiblicalManhoodWomanhood_Writing"><em>Journal for Biblical Manhood and Womanhood</em></a> (<a href="bk.%CouncilOnBiblicalManhoodAndWomanhood">CBMW</a>, <a href="date.1995-2014">1995–2014</a>)): complementarian evangelical scholarship on issues of gender and sexuality and traditional gender roles in the church and home.</li>
+</ul>
+<h3><a href="bk.%essay">Essays</a></h3>
+<ul>
+<li><a href="bk.%TheWomansBible_Writing"><em>The Woman's Bible</em></a> (<a href="bio.elizabethcadystanton_1">Elizabeth Cady Stanton</a>, <a href="date.1895-1898">1895–1898</a>): collection of essays on each book of the Bible; addresses feminist biblical interpretation and rejects traditional roles of women in society.</li>
+</ul>
+<h3><a href="bk.%foundingDocument">Founding Documents</a></h3>
+<ul>
+<li><a href="bk.%DeclarationOfSentiments_Writing"><em>The Declaration of Sentiments</em></a> (Elizabeth Cady Stanton, <a href="date.1848">1848</a>): advocated for the rights and equality of women, including within the church.</li>
+</ul>
+<h3><a href="bk.%journal">Journals</a></h3>
+<ul>
+<li><a href="bk.%ReligiousExperience_Writing"><em>Religious Experience and Journal of Mrs. Jarena Lee: Giving an Account of Her Call to Preach the Gospel</em></a> (Jarena Lee, <a href="date.1849">1849</a>): autobiography of Jarena Lee which addresses her calling to preach the gospel.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%WomenSpeakingJustified_Writing"><em>Women's Speaking Justified</em></a> (Margaret Fell, <a href="date.1666">1666</a>): advocates for women preaching in the church.</li>
+<li><a href="bk.%FemaleMinistry_Writing"><em>Female Ministry; OR, Woman's Right to Preach the Gospel</em></a> (Catherine Mumford Booth, <a href="date.1859">1859</a>): short treatise which advocates for women's public ministry; defends the ministry of Phoebe Palmer.</li>
+<li><a href="bk.%ShallWomenPreach_Writing"><em>Shall Woman Preach?</em></a> (Louisa Mariah Layman Woosley, <a href="date.1891">1891</a>): a defense of women's ordination.</li>
+<li><a href="bk.%AllWereMeantToBe_Writing"><em>All We're Meant to Be: Biblical Feminism for Today</em></a> (Letha Dawson Scanzoni and Nancy A. Hardesty, <a href="date.1974">1974</a>): addresses issues related to gender roles and women in the church; articulates a biblical view of feminism.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:DICMAJBBCLI/2010-12-09T00:15:29Z/445937?len=3030">"Biblical Interpretation in North America in the Twentieth Century" (Olbricht) in <em>Dictionary of Major Biblical Interpreters</em> (ed. McKim)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/768463?len=7973">"New Visibility for Women" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/962162?len=1669">"The Postwar Decades" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1619993?len=1000">"The Role of Women" (Briggs) in <em>Introduction to the History of Christianity</em> (Ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/2008204?len=3798">"The Role of Women in the Church" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH102JAMES/2016-07-20T20:03:20Z/347564?len=5052">"Women in Evangelicalism" in <em>CH102 Introducing Church History II: Reformation to Postmodernism</em> (James)</a></li>
+</ul>
+<p>[^1]: Mark A. Noll, <a href="https://ref.ly/res/LLS:HSTCHRSTNTY2NDD/2019-10-01T22:35:04Z/1138576?len=174">"A Public Role for Women,"</a> in <a href="https://ref.ly/res/LLS:HSTCHRSTNTY2NDD"><em>A History of Christianity in the United States and Canada,</em></a> 2nd ed. (Grand Rapids, MI: Eerdmans, 2019).
+[^2]: The ordination of women can vary even within churches of the same denomination. Some churches or denominations within a larger group might not ordain at the same levels of leadership (e.g., deacon, pastor, bishop, etc.).</p>

@@ -1,0 +1,153 @@
+<p>Level: 1
+Status: Released
+Identifier: Orthodoxy
+Parents: Root
+Eras: bk.era:theearlychurch; bk.era:antenicenechurchera</p>
+<h1>The Rise of Orthodoxy in the Early Church</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.70-393">70-393</a></li>
+<li><strong>Description:</strong> The church began to establish teachings, sacred texts, and practices following the apostolic age.</li>
+</ul>
+<h2>Summary</h2>
+<p>As Christianity expanded throughout the Roman Empire, a catholic, or universal, faith developed. The early church established theological boundaries in response to emerging movements that contradicted the core teachings of Christianity. The formation of the New Testament canon helped define Christian orthodoxy and identify beliefs that were deemed heretical. The rise of orthodoxy also led to increased uniformity in the church's worship and organization.</p>
+<h2>Key Developments</h2>
+<ul>
+<li>The early church developed its <a href="https://ref.ly/logos4/Factbook?ref=bk.%25liturgy">liturgy</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a> (<a href="date.1+100-101+100">first–second century</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishops</a> whose writings influenced emerging orthodoxy grew in influence (<a href="date.1+100-301+100">first–fourth century</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearlycreedsdevelopchurch">Early creeds developed in the church</a> to accompany baptism and as expressions of orthodox Christian doctrine against heresy (<a href="date.100+100">100s</a>).</li>
+<li>Early Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theology">theology</a> developed as Christians interacted with other <a href="https://ref.ly/logos4/Factbook?ref=bk.%25worldview">worldviews</a> (<a href="date.100+100-200+100">100s–200s</a>).</li>
+<li>The church identified early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">heresies</a> that were outside the bounds of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodox</a> Christianity (<a href="date.100+100-300+100">100s–300s</a>).</li>
+<li>The teachings of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostles</a> were passed on through the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ruleOfFaith">Rule of Faith</a> (<a href="date.180-325">180–325</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25newTestamentCanon">New Testament canon</a> was established as early Christian writings were circulated among the churches (<a href="date.300+100+m">mid-300s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<h3><a href="bk.%ApostolicFathers_People">Apostolic Fathers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusAntioch.1">Ignatius of Antioch</a> (<a href="date.50-110">50–110</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Syrian Antioch</a>; author of <a href="bk.%ignatiusSmyrnaeans_Writing"><em>Epistle of Ignatius to the Smyrnaeans</em></a>, which contains the earliest extant use of the term <a href="https://ref.ly/logos4/Factbook?ref=bk.%25catholic.universal">"catholic"</a> church and emphasizes the role of bishops.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.PapiasHierapolis">Papias of Hierapolis</a> (<a href="date.60-130">60-130</a>): bishop of <a href="bk.@Hierapolis">Hierapolis</a>; contemporary of <a href="https://ref.ly/logos4/Factbook?ref=bk.%23John">John the apostle</a>; author of <a href="bk.%FragmentsOfPapias_Writing"><em>Fragments of Papias</em></a>, which addresses the origins of the canonical <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gospels_Writing">Gospels</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gnosticism_Belief">Gnostics</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Saturninus_Person">Saturninus</a> (<a href="date.101+100">second century</a>): Syrian gnostic who was a student of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Menander.10_Person">Menander</a>, who was a disciple of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SimonMagus_Person">Simon Magus</a>; he is one of the subjects of Irenaeus' <a href="bk.%AgainstHeresies_Writing"><em>Against Heresies</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Valentinus_Person">Valentinus</a> (<a href="date.101+100">second century</a>): founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Valentinians_People">Valentinian sect</a> of Gnosticism; he is one of the subjects of Irenaeus' <em>Against Heresies</em>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Mani.2_Person">Mani</a> (<a href="date.216+c-276">c. 216–276</a>): Parthian founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Manichaeism_Belief">Manichaeism</a>, a dualistic gnostic religion that emerged in the third century; it was identified as heresy by the early church.</li>
+</ul>
+<h3><a href="bk.%GreekChurchFathers_People">Greek Church Fathers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.JustinMartyr">Justin Martyr</a> (<a href="date.100-165">100–165</a>): Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Apologists">apologist</a>; started schools in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Ephesus_Place">Ephesus</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a>; author of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25DialogueWithTrypho_Writing"><em>Dialogue with Trypho</em></a>, which addresses Christian doctrine.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Irenaeus">Irenaeus of Lyons</a> (<a href="date.130-202">130–202</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Lyon">Lyons</a>; author of <em>Against Heresies,</em> which defends Christian orthodoxy against <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gnosticism_Belief">Gnosticism</a> and references the "catholic" church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.ClementAlexandria">Clement of Alexandria</a> (<a href="date.150-215">150–215</a>): leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25catecheticalSchoolOfAlexandria_Place">Catechetical School of Alexandria</a> and teacher of Origen; author of <a href="bk.%Stromata_Writing"><em>The Stromata</em></a>, which addresses the unity of the Christian faith and references the "catholic" church (<a href="au+clemens-alexandrinus.0555.004.7.17">7.17</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Hipppolytus">Hippolytus of Rome</a> (<a href="date.160-236">160–236</a>): the first <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antipope">antipope</a> and the most important <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a> in Rome during the third century; traditional author of <a href="bk.%ApostolicTradition_Writing"><em>Apostolic Tradition</em></a>, which addresses early church liturgy, organization, and ethics; author of <a href="bk.%RefutationOfAllHeresies_Writing"><em>The Refutation of All Heresies</em></a>, which catalogues various heresies and references the "catholic" church (<a href="au+hippolytus.2115.060.9.7">9.7</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Origen">Origen of Alexandria</a> (<a href="date.185-254">185–254</a>): Christian scholar and theologian; succeeded Clement as leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">School of Alexandria</a>; known for his <a href="https://ref.ly/logos4/Factbook?ref=bk.%25allegory">allegorical</a> method of interpretation; author of <a href="bk.%FirstPrinciples_Writing"><em>First Principles</em></a>, which articulates <a href="https://ref.ly/logos4/Factbook?ref=bk.%25origenClearCertainRule_Writing">"Origen’s Clear and Certain Rule,"</a> which is based on the teachings of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25apostle">apostles</a>.</li>
+</ul>
+<h3><a href="bk.%LatinChurchFathers_People">Latin Church Fathers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.tertullian">Tertullian</a> (<a href="date.160+c-230+c">c. 160–c. 230</a>): Christian apologist who wrote extensively in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LatinLanguage_Language">Latin</a> and is often regarded as the "Father of the Latin Church"; author of <a href="bk.%PrescriptionAgainstHeretics_Writing"><em>The Prescription Against Heretics,</em></a> which references the "doctrine of the catholic church" (<a href="tertullian.10.30">30</a>); he was an adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Montanism_Belief">Montanism</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CyprianOfCarthage_Person">Cyprian of Carthage</a> (<a href="date.201-258">201–258</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>; author of <a href="bk.%OnTheUnityOfTheChurch_Writing"><em>On the Unity of the Church</em></a>, which addresses the unity of the bishops and defines the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicSee">Roman see</a> as the source of episcopal unity.</li>
+</ul>
+<h3><a href="bk.%sect">Sect Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.MarcionSinope">Marcion</a> (<a href="date.75-155">75–155</a>): bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Sinope">Sinope</a>; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Marcionism_Belief">Marcionism</a>, which was identified as heresy by the early church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Montanus">Montanus</a> (<a href="date.101+100">second century</a>): founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Montanism_Belief">Montanism</a>, also known as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Cataphrygians_People">Cataphrygians</a>, which emphasized new prophetic revelations by its prophets who believed they were speaking with the authority of the Holy Spirit; the movement was condemned and followers were excommunicated.</li>
+</ul>
+<h2>Key Events</h2>
+<ul>
+<li><a href="date.1+100">first century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agnosticismemerges">Gnosticism emerges</a> as the primary challenge to early orthodoxy.</li>
+<li><a href="date.70">70</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anewtestamentcanonforming">New Testament canon is forming</a>.</li>
+<li><a href="date.100+c">c. 100</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acloseapostolicage">close of the apostolic age</a>.</li>
+<li><a href="date.100+c">c. 100</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adidachewritten">Didache is written</a>.</li>
+<li><a href="date.100+100">100s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abeginingmarcionism">beginning of Marcionism</a>.</li>
+<li><a href="date.100+100">100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afalseteachingsfirstcalled">False teachings are first called heresies</a>.</li>
+<li><a href="date.100+100">100s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amontanismemerges">Montanism emerges</a> and is condemned by the early church.</li>
+<li><a href="date.100+100">100s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anewtestamentcanonbegins">New Testament canon begins to solidify</a>.</li>
+<li><a href="date.100+100">100s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aofficebishopinstitutedchurch">office of bishop is instituted in the Church</a>.</li>
+<li><a href="date.100+100-200+100">100s to 200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3agnosticismflourishes">Gnosticism flourishes</a> prompting the early church to address heresies.</li>
+<li><a href="date.100+100-300+100">100s to 300s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aearlychurchcombatsheresies">early church combats heresies</a>.</li>
+<li><a href="date.100-700+100+m">100 to mid-700s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchfathers">period of the church fathers</a>.</li>
+<li><a href="date.150+c">c. 150</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aoldromancreedwritten">Old Roman Creed is written</a>.</li>
+<li><a href="date.150-195">150–195</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acontroversyoverdateeaster">Controversy over the date of Easter</a>.</li>
+<li><a href="date.150-200">150–200</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anaghammaditextswritten">Nag Hammadi texts are written</a>, which articulate early gnostic beliefs.</li>
+<li><a href="date.170+c-200">c. 170–200</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amuratoriancanon">Muratorian Canon is compiled</a>.</li>
+<li><a href="date.180">180</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aagainstheresiesirenaeuswritten"><em>Against Heresies</em> by Irenaeus is written</a> in opposition to Gnosticism.</li>
+<li><a href="date.190">190</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aclementalexandriaheads">Clement of Alexandria heads catechetical school</a>.</li>
+<li><a href="date.200+c">c. 200</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adeclarationcreedsaccompanies">Declaration of creeds accompanies baptisms</a>.</li>
+<li><a href="date.200+c">c. 200</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3atertullianadheresmontanism">Tertullian adheres to Montanism</a>.</li>
+<li><a href="date.200+100">200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abishopschosenvotepeople">Bishops are chosen by the vote of the people</a>.</li>
+<li><a href="date.200+100">200s</a>: <a href="bk.tle:manichaeismemergesaspopulargnosticreligion">Manichaeism emerges as a popular gnostic religion</a>.</li>
+<li><a href="date.203">203</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aorigengivenchargeover">Origen is given charge over the catechetical school in Alexandria</a>.</li>
+<li><a href="date.300+100+m">mid-300s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anewtestamentcanonsetteled">New Testament canon is settled</a>.</li>
+<li><a href="date.367">367</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aathanasiuswriteshisthirtyninth">Athanasius writes his Thirty-Ninth Festal Letter</a>, which recognizes the New Testament canon.</li>
+<li><a href="date.393">393</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asynodhippo27booksnewtestament">Synod of Hippo affirms the twenty-seven books of the New Testament</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Alexandria_Place">Alexandria</a> was the location of the Catechetical <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SchoolofAlexandria">School of Alexandria</a> where <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AexandrianTheology">Alexandrian Theology</a> developed; a major center of early Christian thought.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AntiochOfSyria_Place">Antioch (of Syria)</a> was the location of the Catechetical School of Antioch where <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Antiochenetheology">Antiochene Theology</a> developed; a major center of early Christian thought.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a> was the center of Christianity in <a href="bk.@NorthAfrica">North Africa</a>; the location of the several early church <a href="https://ref.ly/logos4/Factbook?ref=bk.%25council">councils</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Parthia_Place">Parthia</a> was where <a href="bk.%Manichaeism_Belief">Manichaeism</a> originated; Mani was born here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Phrygia_Place">Phrygia</a> was where Montanism originated.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a>; the growing center of ecclesiastical authority.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and confessions</a> developed to accompany the practice of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptism">baptism</a> and instruct new converts.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25earlyChristianWorship">Early Christian worship</a> was originally reflective of worship in the Jewish synagogues; over time, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25liturgy">liturgy</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a>, and practices were standardized and became characteristically Christian.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25episcopacy">Episcopacy</a> developed as bishops were appointed to govern churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Gnosticism_Belief">Gnosticism</a> emerged in the first century and challenged the teachings of the early church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25heresy">Heresy</a> was distinguished from Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodoxy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Manichaeism_Belief">Manichaeism</a> emerged in the third century and quickly gained popularity; it was condemned by the early church; <a href="bk.%SaintAugustineOfHippo_Person">Augustine of Hippo</a> was formerly a Manichaean.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Montanism_Belief">Montanism</a> emerged in the second century and was condemned by the early church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25newTestamentCanon">New Testament canon</a> was established as the church circulated and identified its sacred writings.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ruleOfFaith">"Rule of faith,"</a>, a phrase first attributed to <a href="https://ref.ly/logos4/Factbook?ref=bio.Irenaeus">Irenaeus</a>, circulated during the second century.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25theology">Theology</a> was distinguished as orthodox or heretical as Christian <a href="https://ref.ly/logos4/Factbook?ref=bk.%25doctrine">doctrine</a> developed.</li>
+</ul>
+<h2>Key Documents</h2>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicFathers_Writing">Apostolic Fathers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicFathers_Writing">Apostolic Fathers</a> (<a href="date.1+100-101+100">first--second centuries</a>: a collection of early Christian writings from the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicFathers_Writing">apostolic fathers</a>; includes writings from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ClementOfRome_Person">Clement of Rome</a>, <a href="https://ref.ly/logos4/Factbook?ref=bio.IgnatiusAntioch.1">Ignatius of Antioch</a>, <a href="https://ref.ly/logos4/Factbook?ref=bio.PapiasHierapolis">Papias of Hierapolis</a>, and more; includes the <a href="bk.%Didache_Writing"><em>Didache</em></a>, the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25HermasTheShepherd_Writing"><em>Shepherd of Hermas</em></a>, and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistleOfBarnabas_Writing"><em>Epistle of Barnabas</em></a>, which were highly regarded and considered authoritative by some in the early church.</li>
+</ul>
+<h3><a href="bk.%ChurchOrder">Church Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Didache_Writing"><em>Didache</em></a> (<a href="date.1+100">first century</a>): manual on early Christian practices and ethics; includes instructions on baptism, the Eucharist, prayer and fasting, and more.</li>
+<li><a href="bk.%ApostolicTradition_Writing"><em>Apostolic Tradition</em></a> (Hippolytus of Rome, <a href="date.200+c">c. 200</a>): addresses early church liturgy, organization, and ethics; includes a liturgy for the Eucharist.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostolicConstitutionsAndCanons_Writing"><em>Apostolic Constitutions and Canons</em></a> (<a href="date.350+c-380">c. 350–380</a>): manual on early Christian practices and ethics that originated from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Syria_Place">Syria</a>; includes two collections, the <em>Apostolic Constitutions</em> and the <em>Apostolic Canons</em>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25OldRomanCreed">Old Roman Creed</a> (<a href="date.150+c">c. 150</a>): an older, shorter version of the Apostles' Creed; features a trinitarian structure with sections on God the Father, Jesus, and the Holy Spirit.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ApostlesCreed_Writing">Apostles’ Creed</a> (<a href="date.300+c">c. 300</a>): early statement of Christian belief which developed out of the Old Roman Creed; includes trinitarian structure with sections on God the Father, Jesus, and the Holy Spirit; currently used by the Western church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="bk.%ignatiusSmyrnaeans_Writing"><em>Epistle of Ignatius to the Smyrnaeans</em></a> (<a href="date.110+c">c. 110</a>): one of the seven <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EpistlesOfIgnatius_Writing">Epistles of Ignatius</a>; contains the earliest extant use of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25catholic.universal">"catholic"</a> in reference to the church; emphasizes the role of bishops within the church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NagHammadi_Writing">Nag Hammadi Library</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NagHammadi_Writing">Nag Hammadi Library</a> (<a href="date.150+c-200">c. 150–200</a>): a collection of fifty-two gnostic writings written in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CopticLanguage_Language">Coptic</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewTestament_Writing">New Testament</a> (<a href="date.50+c-100">c. 50–100</a>): collection of twenty-seven Christian writings recognized as Scripture.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25newTestamentCanon">New Testament Canons</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MuratorianFragment_Writing">Muratorian Fragment</a> (<a href="date.170+c-200">c. 170–200</a>): oldest extant, though incomplete, list of New Testament writings; includes the Gospels of Luke and John, Acts, thirteen letters of Paul, Jude, two letters of John, Revelation, as well as the Apocalypse of Peter and the Wisdom of Solomon; includes references to the "catholic church"; discovered by Italian scholar <a href="https://ref.ly/logos4/Factbook?ref=bio.lodovicoantoniomuratori_1">Lodovico Antonio Muratori</a>.</li>
+<li><a href="bk.%AthanasianCanon_Writing">Athanasian Canon</a> (<a href="date.367">367</a>): list of the twenty-seven New Testament writings which appears in Athanasius' <a href="bk.%AthanasiusThirtyninthFestalLetter_Writing">Thirty-Ninth Festal Letter</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25polemic">Polemics</a></h3>
+<ul>
+<li><a href="bk.%AgainstHeresies_Writing"><em>Against Heresies</em></a> (Irenaeus, <a href="date.175+c-185">c. 175–185</a>): defends Christian orthodoxy against Gnosticism; includes the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25firstFormIrenaeusRule_Writing">first form of Irenaeus’ Rule of Faith</a>; names prominent gnostics including <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Valentinus_Person">Valentinus</a>, <a href="https://ref.ly/logos4/Factbook?ref=bio.MarcionSinope">Marcion of Sinope</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Saturninus_Person">Saturninus</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Basilides_Person">Basilides</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carpocrates_Person">Carpocrates</a>, <a href="https://ref.ly/logos4/Factbook?ref=bio.Cerinthus">Cerinthus</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Menander.10_Person">Menander</a>.</li>
+<li><a href="bk.%PrescriptionAgainstHeretics_Writing"><em>The Prescription Against Heretics</em></a> (Tertullian, <a href="date.200+c">c. 200</a>): addresses various heresies; references the "doctrine of the catholic church" (<a href="tertullian.10.30">30</a>); includes the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25thirdFormTertullianRule_Writing">third form of Tertullian’s Rule of Faith</a>.</li>
+<li><a href="bk.%RefutationOfAllHeresies_Writing"><em>The Refutation of All Heresies</em></a> (Hippolytus, <a href="date.200+c">c. 200</a>): catalogues various heresies; references the "catholic" church <a href="au+hippolytus.2115.060.9.7">9.7</a>.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/89927?len=171876">"The Age of Catholic Christianity" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/73947?len=58912">"The Church Pushed Out on Its Own: <em>The Fall of Jerusalem 70)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/9090?len=39612">"Contours of the Early Church" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/145490?len=118196">"Gnosticism" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/226145?len=30123">“How the First Christians Worshipped” (Martin) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/110621?len=16605">"Theological Diversions in the Early Church" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/144541?len=81603">“What the First Christians Believed: The Faith Is Defined” (Wright) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/38894?len=3741">"Worship in the Early Church" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+</ul>

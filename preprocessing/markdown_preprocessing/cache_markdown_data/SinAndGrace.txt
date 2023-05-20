@@ -1,0 +1,114 @@
+<p>Level: 1
+Status: Released
+Identifier: SinAndGrace
+Parents: Root
+Eras: bk.era:antenicenechurchera; bk.era:nicenechurchera</p>
+<h1>Controversies over Sin and Grace Are Addressed</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.250-431">250–431</a></li>
+<li><strong>Description:</strong> The early church debated the nature of sin and grace and its relation to baptized members of the church.</li>
+</ul>
+<h2>Summary</h2>
+<p>Schisms and controversies arose within the early church after periods of persecution. The Roman Empire had required Christians to offer pagan sacrifices, hand over sacred texts to be burned, and other acts that were against the Christian faith. After persecution subsided, the early church began to debate how lapsed Christians were to be treated. While some church leaders advocated for the readmission of those who repented and completed penance, others insisted that the church was a place for saints---namely, those who had not fallen back into sin after conversion. Further debates over the nature of sin, grace, human will, and forgiveness arose as the church continued to develop its theology and doctrine. Schisms and controversies that were deemed unorthodox were condemned as the church further defined its doctrine of soteriology and the nature of the church.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>A system of <a href="https://ref.ly/logos4/Factbook?ref=lco.Penance">penance</a> was established for readmitting <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lapsi">Christians who had lapsed</a> during <a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">persecution</a> or were guilty of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25immorality">immorality</a> (<a href="date.200+100">200s</a>).</li>
+<li>The early <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">church</a> debated the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecclesiology">nature of the church</a> and its relation to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25salvation">salvation</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25forgiveness">forgiveness of sins</a> (<a href="date.200+100-300+100">200s–300s</a>).</li>
+<li>The early church debated the nature of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25baptism">baptism</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25LordsSupper">Eucharist</a> (<a href="date.200+100-300+100">200s-300s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schism">Schisms</a> developed as the church debated the readmission of lapsed Christians who had been baptized (<a href="date.200+100-300+100">200s-300s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Pelagius">Pelagius</a> developed a <a href="https://ref.ly/logos4/Factbook?ref=bk.%25soteriology">soteriology</a> which affirmed the innate goodness of humanity which is capable of achieving salvation based on the example of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25JesusChrist_Deity">Jesus</a> (<a href="date.400+100">400s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine of Hippo</a> defended <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Orthodoxy">orthodoxy</a> against <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Donatism_Belief">Donatism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pelagianism_Belief">Pelagianism</a> (<a href="date.400+100">400s</a>).</li>
+<li>The Western church affirmed the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theology">theology</a> of Augustine (<a href="date.431">431</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">Bishops</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PopeCalixtusI_Person">Pope Calixtus I</a> (d. <a href="date.222">222</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> (<a href="date.217-222+c">c. 217–222</a>) and <a href="https://ref.ly/logos4/Factbook?ref=bk.%23martyr">martyr</a>; he took a generous approach to readmitting Christians who were guilty of immorality, which led to criticism from other church leaders.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CyprianOfCarthage_Person">Cyprian of Carthage</a> (<a href="date.201-258">201–258</a>): North African bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a>; <a href="bk.%LatinChurchFathers_People">Latin church father</a>; he left Carthage during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder1">Decian persecution</a>, and, upon his return, was involved with the debate on readmitting <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lapsi">lapsed Christians</a>; author of <a href="bk.%OnTheUnityOfTheChurch_Writing"><em>On the Unity of the Church</em></a> and <a href="bk.%OnTheLapsed_Writing"><em>On the Lapsed</em></a>, which were written during the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anovatiancontroversy">Novatian Controversy</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Caecilian_Person">Caecilian of Carthage</a> (d. <a href="date.340">340</a>): bishop of Carthage; his appointment as bishop led to the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adonatistcontroversy">Donatist Controversy</a>; attended the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25FirstCouncilofNicaea">First Council of Nicaea</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintAugustineOfHippo_Person">Augustine of Hippo</a> (<a href="date.354.11.13-430.8.28">November 13, 354–August 28, 430</a>): North African bishop of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hippo">Hippo</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25monkNun">monk</a>, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; Latin church father; developed <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augustinianism">Augustinianism</a>; opponent of the Donatists and Pelagius; author of <a href="bk.%OnBaptismAgainstTheDonatists_Writing"><em>On Baptism, Against the Donatists</em></a>, which addresses the sacrament of baptism and refutes the arguments of the Donatists, and <a href="bk.%OnNatureAndGraceAugustine_Writing"><em>On Nature and Grace</em></a>, written in response to Pelagius' <a href="bk.%OnNaturePelagius_Writing"><em>On Nature</em></a> against Pelagianism.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schism">Schism Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25NovatianOfRome.1_Person">Novatian of Rome</a> (<a href="date.200-258">200–258</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25presbyter">presbyter</a> at Rome and theologian; his followers were known as <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Novatianism_Belief">Novatianists</a> who refused full readmission to the church to lapsed Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DonatusOfCarthage_Person">Donatus</a> (<a href="date.301+100">fourth century</a>): bishop of Carthage; inspired <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Donatists_People">Donatist</a> sect, which argued clergy who committed sin could not administer valid <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.Pelagius">Pelagius</a> (<a href="date.390+c-418">c. 390–418</a>): British monk and theologian; known for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pelagianism_Belief">Pelagianism</a>; opponent of Augustine of Hippo; author of <a href="bk.%OnNaturePelagius_Writing"><em>On Nature</em></a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.200+100">200s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3anovatiancontroversy">Novatian Controversy</a> emerges in the early church over lapsed Christians.</li>
+<li><a href="date.250">250</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder1">Christians are persecuted under Decius</a>.</li>
+<li><a href="date.251">251</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilcarthage">The Council of Carthage</a> rules to allow readmission of lapsed Christians after penance.</li>
+<li><a href="date.303-311">303–311</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apersecutionchristiansunder2">Christians are persecuted under Diocletian</a>.</li>
+<li><a href="date.312">312</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adonatistcontroversy">Donatist Controversy emerges</a> in the early church.</li>
+<li><a href="date.314">314</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acouncilarles">The Council of Arles</a> condemns Donatism.</li>
+<li><a href="date.386">386</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aaugustineconvertschristianity">Augustine converts to Christianity</a>.</li>
+<li><a href="date.400+100+e">early 400s</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adonatistschism">Donatist schism</a> emerges over clergy, sin, and the sacraments.</li>
+<li><a href="date.431">431</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afirstcouncilephesus">The First Council of Ephesus</a> condemns Pelagianism.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Carthage_Place">Carthage</a> was the bishopric of Cyprian, Caecilian, and Donatus; an ecclesial center for African Christianity; Donatism originated here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hippo">Hippo</a> was the bishopric of Augustine.</li>
+<li><a href="bk.@NorthAfrica">North Africa</a> experienced persecution under Decius; was the center of early church controversies over the readmission of lapsed Christians.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a> was the location of the persecution of Christians in the early church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the ecclesial center of the Western church; capital of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanEmpire">Roman Empire</a>; Novatianism originated here.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Augustinianism">Augustinianism</a> developed during the Pelagian controversy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Donatism_Belief">Donatism</a> developed in North Africa after the Diocletian persecution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ecclesiology">Ecclesiology</a> developed as the church debated the readmission of lapsed Christians and its authority to forgive <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sin">sin</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Novatianism_Belief">Novatianism</a> developed in Rome after the Decian persecution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Pelagianism_Belief">Pelagianism</a> was condemned by the Catholic Church; asserted the <a href="https://ref.ly/logos4/Factbook?ref=lsto.CapacitiesWill">human will</a> was free from the effects of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25originalSin">original sin</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=lsto.Penance">Penance</a> developed into a sacrament of the church.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25persecution">Persecution</a> led to some Christians, called <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Lapsi">lapsi</a>, denying the faith.</li>
+<li>The church debated the validity of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sacraments">sacraments</a> administered by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bishop">bishops</a> who had lapsed or were guilty of immorality. </li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25epistle">Epistles</a></h3>
+<ul>
+<li><a href="bk.%LetterToCatholicsDonatist_Writing"><em>Letter to Catholics on the Sect of the Donatist</em></a> (Augustine of Hippo, <a href="date.401+c">c. 401</a>): addressed to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25catholic.universal">catholic</a> bishops; addresses the theological issues of Donatism.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%OnTheUnityOfTheChurch_Writing"><em>On the Unity of the Church</em></a> (Cyprian of Carthage, <a href="date.251">251</a>): written during the Novatian Controversy; addresses the need for unity within the church amidst schism.</li>
+<li><a href="bk.%OnTheLapsed_Writing"><em>On the Lapsed</em></a> (Cyprian of Carthage, <a href="date.251">251</a>): written during the Novatian Controversy; addresses Christians who lapsed during the Decian persecution and advocates for penance before readmission into the church.</li>
+<li><a href="bk.%OnBaptismAgainstTheDonatists_Writing"><em>On Baptism, Against the Donatists</em></a> (Augustine of Hippo, <a href="date.400+c">c. 400</a>): addresses the sacrament of baptism and refutes the arguments of the Donatists.</li>
+<li><a href="bk.%OnNatureAndGraceAugustine_Writing"><em>On Nature and Grace</em></a> (Augustine of Hippo, <a href="date.415">415</a>): written in response to Pelagius' <a href="bk.%OnNaturePelagius_Writing"><em>On Nature</em></a> against Pelagianism.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NWSHHSCTHCHR/2014-01-13T21:46:06Z/153902?len=3097">"Augustine of Hippo" in <em>New Short History of the Catholic Church</em> (Tanner)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/513089?len=2656">"Augustine of Hippo" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/574501?len=42244">"Augustine, Pelagius, and Semipelagianism" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:CH101JAMES/2016-07-21T14:43:28Z/246448?len=1204">"Aurelius Augustine" in <em>CH101 Introducing Church History I: Obscurity to Christendom</em> (James)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/396224?len=19628">"The Church in North Africa: The Making of a Distinctive Tradition" (Wright) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV01/2012-05-03T23:19:27Z/330498?len=20290">"Development of the Church during the Third Century" in <em>Church History: From Christ to Pre-Reformation</em> (Ferguson)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/66752?len=1109">"Major Ancient Church Doctrinal Controversies" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/347621?len=20568">"The Sage of the Ages: <em>Augustine of Hippo</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9015/2021-03-11T15:08:10Z/222283?len=11708">"Under Decius" in <em>The Story of Christianity: The Early Church to the Dawn of the Reformation</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/198908?len=7983">"What about Unforgivable Sins?" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

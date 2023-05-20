@@ -1,0 +1,147 @@
+<p>Level: 1
+Status: Released
+Identifier: MissionariesMobilize
+Parents: Root
+Eras: bk.era:modernera</p>
+<h1>Missionaries Mobilize to Reach the Unchurched</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1792-1910">1792–1910</a></li>
+<li><strong>Description:</strong> Transatlantic revivalism led to the mobilization of missionaries to reach unchurched people groups.</li>
+</ul>
+<h2>Summary</h2>
+<p>A period of transatlantic revivals led to a number of new developments within Protestantism, including the establishment of voluntary and missionary societies. While voluntary societies focused on social reforms at home, missionary societies were founded to address the growing concern among Christians for the spread of the gospel and Protestantism abroad. Throughout the eighteenth and nineteenth centuries, the number of missionary societies multiplied as hundreds of Western missionaries were commissioned to Africa, Asia, and other non-Western lands. The Roman Catholic Church also experienced a resurgence of foreign mission work and established new missionary orders to promote Catholicism.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>Missionary societies were established by Protestants to support foreign missions (<a href="date.1700+100+l-1800+100">late 1700s–1800s</a>).</li>
+<li>Transatlantic spiritual <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aRevival">revivals</a> led to a renewed interest in <a href="https://ref.ly/logos4/Factbook?ref=bk.pt%3aEvangelism">evangelism</a> (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+<li>Missionaries spread Western culture through foreign missions, establishing new <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">churches</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25schools">schools</a>, and <a href="bk.%orphanage">orphanages</a> (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+<li>Missionary societies recruited single women and young people to embark on foreign <a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">missions</a> with the goal of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25conversion">converting</a> individuals and establishing churches among unreached people groups (<a href="date.1800+100">1800s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic Church</a> established new missionary orders to support foreign missions (<a href="date.1868-1869">1868–1869</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%mission">Mission Advocates</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AndrewFuller_Person">Andrew Fuller</a> (<a href="date.1754.2.6-1815.5.7">February 6, 1754–May 7, 1815</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ParticularBaptists">Particular Baptist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25minister">minister</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; co-founder of the <a href="bk.%BaptistMissionarySociety">Baptist Missionary Society</a>; adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Calvinism_Belief">Calvinism</a>; author of <a href="bk.%GospelWorthyOfAllAcceptation_Writing"><em>The Gospel Worthy of all Acceptation</em></a>, which argues evangelism is compatible with and a necessary part of Calvinism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.arthurtpierson">Arthur Tappan Pierson</a> (<a href="date.1837.3.6-1911.6.3">March 6, 1837–June 3, 1911</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterian</a> pastor and writer; studied at <a href="https://ref.ly/logos4/Factbook?ref=bk.%25UnionTheologicalSeminary">Union Seminary</a>; he was a prominent advocate for foreign missions; elder statesman of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25StudentVolunteerMovement">Student Volunteer Movement</a>; he succeeded <a href="https://ref.ly/logos4/Factbook?ref=bio.CharlesSpurgeon">Charles Spurgeon</a> as preacher at the <a href="bk.%MetropolitanTabernacle_Place">Metropolitan Tabernacle</a> in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25London_Place">London</a>; author of <a href="bk.%CrisisOfMission_Writing"><em>The Crisis of Mission</em></a>, which addresses the need and opportunity of evangelism and missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnRaleighMott_Person">John Raleigh Mott</a> (<a href="date.1865-1955">1865–1955</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>; leader of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25YMCA">YMCA</a>; a founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldCouncilofChurches">World Council of Churches</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WorldStudentChristianFederation">World Student Christian Federation</a>, and the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">World Missionary Conference in Edinburgh</a>; author of <a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em></a>, which became influential to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EcumenicalMovement">Ecumenical Movement</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">Missionaries</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamCarey_Person">William Carey</a> (<a href="date.1761.8.17-1834.6.9">August 17, 1761–June 9, 1834</a>): English Baptist missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25bibleTranslations">Bible translator</a>; co-founder of the Baptist Missionary Society; he is known as the "father of Modern Missions"; author of <a href="bk.%EnquiryIntoTheObligationsOfChristians_Writing"><em>An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens</em></a>.</li>
+<li><a href="bio.lottcarey_1">Lott Carey</a> (<a href="date.1780-1828.11.10">1780–November 10, 1828</a>): Black American Baptist minister and missionary to <a href="bk.@WestAfrica">West Africa</a>; he was born enslaved but was able to purchase his freedom as an adult; he participated in founding the colony of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Liberia">Liberia</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AdoniramJudson_Person">Adoniram Judson</a> (<a href="date.1788.8.9-1850.4.12">August 9, 1788–April 12, 1850</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Baptists">Baptist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">missionary</a> to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burma_Place">Burma</a>; husband to Ann Hasseltine Judson; he studied at <a href="bk.%AndoverTheologicalSeminary_Place">Andover Theological Seminary</a>, where he helped establish the <a href="bk.%AmericanBoardOfCommissionersForForeignMissions">American Board of Commissioners for Foreign Missions</a>; converted from <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Congregationalism">Congregationalism</a> to the Baptist faith, after which he co-founded the <a href="bk.%AmericanBaptistBoardOfInternationalMinistries">Baptist Board for Foreign Missions</a>, now known as the American Baptist Board of International Ministries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AnnHasseltineJudson_Person">Ann Hasseltine Judson</a> (<a href="date.1789.12.22-1826.10.24">December 22, 1789–October 24, 1826</a>): American Baptist missionary to Burma; wife to Adoniram Judson; one of the first American women to serve in foreign missions; converted from Congregationalism to the Baptist faith.</li>
+<li><a href="bio.InnocentofAlaska">Innocent of Alaska</a> (<a href="date.1797-1879">1797–1879</a>): <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RussianOrthodox_Denom">Russian Orthodox</a> missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Alaska">Alaska</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Japan">Japan</a>[^1]; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Metropolitan">metropolitan</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25archbishop">archbishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Moscow_Place">Moscow</a> (<a href="date.1867-1879">1867--1879</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25DavidLivingstone_Person">David Livingstone</a> (<a href="date.1813.3.18-1873.5.1">March 18, 1813–May 1, 1873</a>): Scottish Congregationalist missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> and explorer; he was commissioned by the London Missionary Society; advocated for the abolition of the slave trade; author of <a href="bk.%MissionaryTravelsAndResearchesInSouthAfrica_Writing"><em>Missionary travels and researches in South Africa</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesMartialAllemandLavigerie_Person">Charles Martial Allemand Lavigerie</a> (<a href="date.1825.10.31-1892.11.26">October 31, 1825–November 26, 1892</a>): French <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25cardinal">cardinal</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Primate">primate</a> of Africa (<a href="date.1882-1892">1882--1892</a>); founder of the missionary orders the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WhiteFathers_People">White Fathers</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WhiteSisters_People">White Sisters</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JamesHudsonTaylor_Person">Hudson Taylor</a> (<a href="date.1832.5.21-1905.6.3">May 21, 1832–June 3, 1905</a>): British missionary to China with the <a href="bk.%ChineseEvangelizationSociety">Chinese Evangelization Society</a>; he later founded <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChinaInlandMission">China Inland Mission</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LottieMoon_Person">Lottie Moon</a> (<a href="date.1840.12.12-1912.12.24">December 12, 1840–December 24, 1912</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25southernBaptistConvention">Southern Baptist</a> missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a>; she earned a master's degree in classics from Albemarle Female Institute; her missionary work centered on evangelism.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25MarySlessor_Person">Mary Slessor</a> (<a href="date.1848-1915">1848–1915</a>): Scottish Presbyterian missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Nigeria">Nigeria</a> in West Africa; she is especially known for caring for orphans and twins who were abandoned.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AmyCarmichael_Person">Amy Carmichael</a> (<a href="date.1867.12.16-1951.1.18">December 16, 1867–January 18, 1951</a>): Irish Presbyterian missionary to <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Japan">Japan</a> and then India where she spent the majority of her life; her work focused on rescuing children out of prostitution in some <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Hinduism_Belief">Hindu</a> temples.</li>
+</ul>
+<h3><a href="bk.%ReligiousOrder">Religious Orders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WhiteFathers_People">White Fathers</a> (est. <a href="date.1868">1868</a>): also known as the Society of Missionaries of Africa; founded by Charles Lavigerie; supported Catholic missions in Africa.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WhiteSisters_People">White Sisters</a> (est. <a href="date.1869">1869</a>): also known as the Congregation of the Missionary Sisters of Our Lady of Africa; founded by Charles Lavigerie; supported Catholic missions in Africa.</li>
+</ul>
+<h3><a href="bk.%voluntaryAssociations">Missionary Societies</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SPG">Society of the Propagation of the Gospel</a> (est. <a href="date.1701">1701</a>): supported Anglican missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25BaptistMissionarySociety">Baptist Missionary Society</a> (est. <a href="date.1792">1792</a>): co-founded by William Carey; originally known as the Particular Baptist Society for the Propagation of the Gospel Amongst the Heathen.</li>
+<li><a href="bk.%LMS">London Missionary Society</a> (est. <a href="date.1795">1795</a>): supported interdenominational missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CMS">Church Mission Society</a> (est. <a href="date.1799">1799</a>): founded by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ClaphamSect_People">Clapham Sect</a>; supported <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> missions.</li>
+<li><a href="bk.%AmericanBoardOfCommissionersForForeignMissions">American Board of Commissioners for Foreign Missions</a> (est. <a href="date.1810">1810</a>): co-founded by Adoniram Johnson; it was one of the first American Christian foreign missionary societies established.</li>
+<li><a href="bk.%AmericanBaptistBoardOfInternationalMinistries">American Baptist Board of International Ministries</a> (est. <a href="date.1814">1814</a>): co-founded by Adoniram Johnson; supported American Baptist missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25societyForThePropagationOfTheFaith_People">The Society for the Propagation of the Faith</a> (est. <a href="date.1822">1822</a>): supported Catholic missions.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChinaInlandMission">China Inland Mission</a> (est. <a href="date.1865">1865</a>): founded by Hudson Taylor; supported interdenominational missions to China.</li>
+<li><a href="bk.%WomansUnionMissionarySociety">Woman's Union Missionary Society of America for Heathen Lands</a> (est. <a href="date.1861">1861</a>)[^2]: supported interdenominational single women in the foreign mission field.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25StudentVolunteerMovement">Student Volunteer Movement</a> (est. <a href="date.1886">1886</a>): supported American student missionaries serving in foreign missions.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1792.5.31">May 31, 1792</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3abaptistmissionarysociety">Baptist Missionary Society is founded</a>.</li>
+<li><a href="date.1793">1793</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awilliamcareybecomesmissionary">William Carey becomes a missionary in India</a>.</li>
+<li><a href="date.1795">1795</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alondonmissionarysocietyfounded">London Missionary Society is founded</a>.</li>
+<li><a href="date.1800+100">1800s century</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3apietismrevivalsends">Pietism revival sends missionaries to all the continents</a>.</li>
+<li><a href="date.1806">1806</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahaystackprayermeetingledsamuel">Haystack Prayer Meeting led by Samuel Mills</a> leads to the founding of the American Board of Commissioners for Foreign Missions.</li>
+<li><a href="date.1810">1810</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aamericanboardcommissioners2">American Board of Commissioners for Foreign Missions is founded</a>.</li>
+<li><a href="date.1812">1812</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aadoniramjudsonbecomes">Adoniram Judson becomes a missionary in India</a>.</li>
+<li><a href="date.1812">1812</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achurchmissionarysocietyfounded">Church Missionary Society is founded</a>.</li>
+<li><a href="date.1821">1821</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alottcareybecomesmissionary">Lott Carey becomes a missionary in Africa</a>.</li>
+<li><a href="date.1822">1822</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asocietypropagationfaithfounded">Society for the Propagation of the Faith is founded</a> to support Catholic missions.</li>
+<li><a href="date.1854">1854</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ahudsontaylorbecomesmissionary2">Hudson Taylor becomes a missionary in China</a>.</li>
+<li><a href="date.1860">1860</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3awomensunionmissionarysociety">Women’s Union Missionary Society is founded</a>.</li>
+<li><a href="date.1865">1865</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3achinainlandmissionfounded">China Inland Mission is founded</a>.</li>
+<li><a href="date.1873">1873</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3alottiemoonbecomesmissionary">Lottie Moon becomes a missionary in China</a>.</li>
+<li><a href="date.1876">1876</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amaryslessorbecomesmissionary">Mary Slessor becomes a missionary in Africa</a>.</li>
+<li><a href="date.1886">1886</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3astudentvolunteermovement">Student Volunteer Movement is founded</a>.</li>
+<li><a href="date.1895">1895</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aamycarmichaelbecomesmissionary1">Amy Carmichael becomes a missionary in India</a>.</li>
+<li><a href="date.1910">1910</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aworldmissionaryconference">World Missionary Conference meets in Edinburgh</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Africa_Place">Africa</a> was a primary location of foreign missions; Lott Carey, David Livingstone, Mary Slessor, and Charles Lavigerie served here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40China">China</a> was a primary location for foreign missions; Hudson Taylor and Lottie Moon served here.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40France">France</a> commissioned many Catholic missions and established new missionary orders.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreatBritain_Place">Great Britain</a> commissioned many foreign missionaries to non-Western countries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25India_Place">India</a> was a primary location of foreign missions; William Carey and Amy Carmichael, as well as Adoniram and Ann Judson, served here, the latter two serving in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Burma_Place">Burma</a> before it separated from India.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> commissioned many foreign missionaries to non-Western countries.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Church">Churches</a> were established by foreign missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25hospitals">Hospitals</a> were established by foreign missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25mission">Missions</a> were supported by Western mission societies to advance the gospel and grow the church.</li>
+<li><a href="bk.%orphanage">Orphanages</a> were established by foreign missionaries.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Revivalism_Belief">Revivalism</a> sparked a renewed interest in <a href="https://ref.ly/logos4/Factbook?ref=ct.Evangelism">evangelism</a> both at home and abroad.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schools">Schools</a> were established by foreign missionaries.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%autobiography">Autobiography</a></h3>
+<ul>
+<li><a href="bk.%MissionaryTravelsAndResearchesInSouthAfrica_Writing"><em>Missionary Travels and Researches in South Africa</em></a> (David Livingstone, <a href="date.1857">1857</a>): describes Livingstone's work and exploration in southern Africa.</li>
+</ul>
+<h3><a href="bk.%literature">Literature</a></h3>
+<ul>
+<li><a href="bk.%ThingsAsTheyAre_Writing"><em>Things As They Are: Mission Work in Southern India</em></a> (Amy Wilson Carmichael, <a href="date.1903">1903</a>): describes Carmichael's missionary efforts in India; addresses the harsh realities and difficulties often faced by missionaries in their work.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%GospelWorthyOfAllAcceptation_Writing"><em>The Gospel Worthy of all Acceptation</em></a> (Andrew Fuller, <a href="date.1785">1785</a>): argues evangelism is compatible with and a necessary part of Calvinism; this work influenced missionary William Carey.</li>
+<li><a href="bk.%EnquiryIntoTheObligationsOfChristians_Writing"><em>An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens</em></a> (William Carey, <a href="date.1792">1792</a>): asserts the responsibility on Christians to fulfill the Great Commission and participate in evangelism; prompted the founding of the Baptist Missionary Society.</li>
+<li><a href="bk.%CrisisOfMission_Writing"><em>The Crisis of Mission</em></a> (Arthur Tappan Pierson, <a href="date.1886">1886</a>): addresses the need for and opportunity of evangelism and missions.</li>
+<li><a href="bk.%EvangelizationOfTheWorld_Writing"><em>The Evangelization of the World in this Generation</em></a> (John Raleigh Mott, <a href="date.1900">1900</a>): addresses the goal of <a href="date.1901+100">twentieth century</a> missions; this work was influential to both <a href="date.1901+100">twentieth century</a> missions and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25EcumenicalMovement">Ecumenical Movement</a>.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/922533?len=25557">"To Earth's Remotest People: <em>Protestant Missions</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/647386?len=60491">"A Faith for All the World: <em>The Edinburgh Missionary Conference (1910)</em>" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/819657?len=46423">Geographic Expansion" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1264692?len=60078">"Outposts of Empire: The Nineteenth-Century Missionary Explosion" (Walls) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/195158?len=3150">"Prominent Protestant Missionaries" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1416595?len=20638">"Protestant Christian Missions" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+</ul>
+<p>[^1]: Mark A. Noll, <a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/660988?len=1052">"A Revival of Mission Activity,"</a> in <a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM"><em>Turning Points: Decisive Moments in the History of Christianity</em></a>, 3rd ed. (Grand Rapids, MI: Baker Academic, 2012).
+[^2]: H. Leon  McBeth, <a href="https://ref.ly/res/LLS:BAPTHRTG/2014-10-03T16:23:03Z/1098501?len=124">"The American Baptist Missionary Union (ABMU)"</a>, in <a href="https://ref.ly/res/LLS:BAPTHRTG"><em>The Baptist Heritage,</em></a> (Nashville, TN: Broadman &amp; Holman Publishers, 1987).</p>

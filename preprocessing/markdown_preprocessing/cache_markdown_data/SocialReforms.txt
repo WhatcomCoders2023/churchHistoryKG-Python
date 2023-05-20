@@ -1,0 +1,187 @@
+<p>Level: 1
+Status: Released
+Identifier: SocialReforms
+Parents: Root
+Eras: bk.era:modernera</p>
+<h1>The Church Pushes for Social Reform in the Industrialized West</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1770-1920">1770–1920</a></li>
+<li><strong>Description:</strong> Christians advocated for social reforms in the eighteenth and nineteenth centuries.</li>
+</ul>
+<h2>Summary</h2>
+<p>The Industrial Revolution brought about sweeping changes to society. As more people moved into cities, they were confronted with widespread social injustices, such as poverty and poor labor conditions. The Second Great Awakening in the United States and the Evangelical Awakening in Great Britain renewed interests within the church to not only evangelize society but to influence it. Christians focused on a variety of social reforms in the eighteenth and nineteenth centuries, including the abolition of slavery, women's rights, and temperance. Social reform also shaped Christian politics, economics, and theology; movements like the Social Gospel and Christian Socialism attempted to apply Christian ethics to social institutions. Activists and social reformers achieved wide-reaching reforms that helped improve society as a whole.</p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aindustrialrevolution">Industrial Revolution</a> began in <a href="https://ref.ly/logos4/Factbook?ref=bk.%40GreatBritain">Britain</a> and swept through <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a>, bringing sociocultural change (<a href="date.1770-1900">1770–1900</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SundaySchools">Sunday schools</a> were established for impoverished children (<a href="date.1780">1780</a>).</li>
+<li>Transatlantic <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Revivalism_Belief">revivalism</a> sparked desire for social reform (<a href="date.1787-1920">1787–1920</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25voluntaryAssociations">Voluntary societies</a> were established to address social issues (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25work">Labor</a> reforms established better conditions for the working class and child laborers (<a href="date.1700+100+l-1900+100+e">late 1700s–early 1900s</a>).</li>
+<li>Cities grew as populations moved from rural to urban areas (<a href="date.1800+100">1800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25slavery">Slavery</a> was abolished (<a href="date.1800+100">1800s</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian Socialism</a> developed in England among <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglicans</a> (<a href="date.1800+100+m">mid-1800s</a>).    </li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocialGospel">Social Gospel</a> developed in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> among <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestants</a> (<a href="date.1880-1925">1880–1925</a>).</li>
+<li><a href="bk.%orphanage">Orphanages</a> were established (<a href="date.1700+100+m-1900+100+e">mid-1700s–early 1900s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25prison">prison</a> system was reformed (<a href="date.1700+100+l-1800+100">late 1700s–1800s</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.%25temperanceMovements">temperance movement</a> limited drinking through prohibition (<a href="date.1820-1933">1820–1933</a>).</li>
+<li>Women won <a href="https://ref.ly/logos4/Factbook?ref=bk.%25suffrage">the right to vote</a> (<a href="date.1900+100+e">early 1900s</a>).</li>
+<li>Humanitarian aid and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25welfareProgram">welfare programs</a> were established for the poor (<a href="date.1800+100+m-1900+100+e">mid-1800s–early 1900s</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme.
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%Abolitionists_People">Abolitionists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnNewton_Person">John Newton</a> (<a href="date.1725.7.24-1807.12.21">July 24, 1725–December 21, 1807</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25sailor">sailor</a>, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Anglicanism_Belief">Anglican</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25clergy">clergyman</a>, and hymn writer; he was a trader of enslaved people who came to oppose <a href="https://ref.ly/logos4/Factbook?ref=bk.%25slavery">slavery</a> and support the abolition movement; author of the hymn <a href="https://ref.ly/logos4/Factbook?ref=bk.%25AmazingGrace_Writing">"Amazing Grace."</a></li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.WilliamWilberforce">William Wilberforce</a> (<a href="date.1759.8.24-1833.7.29">August 24, 1759–July 29, 1833</a>): British politician and abolitionist; member of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ClaphamSect_People">Clapham Sect</a>; co-founder of the <a href="bk.%CMS">Church Missionary Society</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SojournerTruth_Person">Sojourner Truth</a> (<a href="date.1797-1883.11.26">1797–November 26, 1883</a>): Black American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25evangelist">evangelist</a>, abolitionist, and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25suffrage">suffragist</a>; she was born enslaved but later escaped to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25NewYork_Place">New York</a>; participated in the <a href="bk.tle:womenssuffragemovementus">women's suffrage movement</a>; author of <a href="bk.%AintIAWoman_Writing">"Ain't I a Woman,"</a> which was delivered at the Women's Convention in Akron, Ohio, in 1851.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25HarrietBeecherStowe_Person">Harriet Beecher Stowe</a> (<a href="date.1811.6.14-1896.7.1">June 14, 1811–July 1, 1896</a>): American author and abolitionist; author of <a href="bk.%UncleTomsCabin_Writing"><em>Uncle Tom's Cabin</em></a>, which highlighted the horrors of American slavery.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.HarrietTubman">Harriet Tubman</a> (<a href="date.1822-1913.3.10">1822–March 10, 1913</a>): Black American abolitionist and suffragist; she was born enslaved but later escaped and led other enslaved people to freedom using the <a href="bk.%UndergroundRailroad">Underground Railroad</a>; participated in the women's suffrage movement.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FrederickDouglass_Person">Frederick Douglass</a> (<a href="date.1818.2-1895.2.20">February 1818–February 20, 1895</a>): Black American abolitionist, social reformer, orator, and statesman; a leader of the abolitionist movement in the United States; author of <a href="bk.%NarrativeLifeFrederickDouglass_Writing"><em>Narrative of the Life of Frederick Douglass, an American Slave</em></a>, which addresses his experience as an enslaved person and was highly influential to the abolition movement.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian Socialists</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FrederickDenisonMaurice_Person">Frederick Denison Maurice</a> (<a href="date.1805.8.29-1872.4.1">August 29, 1805–April 1, 1872</a>): English Anglican theologian, author, and social reformer; founder and adherent of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian Socialism</a>; author of <a href="bk.%TheKingdomOfChrist_Writing"><em>The Kingdom of Christ</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25CharlesKingsley_Person">Charles Kingsley</a> (<a href="date.1819.6.12-1875.1.23">June 12, 1819–January 23, 1875</a>): English Anglican, priest, author, and social reformer; adherent of Christian Socialism; author of the novel <a href="bk.%AltonLocke_Writing"><em>Alton Locke</em></a>, which addresses the social injustices of workers during the 1840s in England.</li>
+</ul>
+<h3><a href="bk.%work">Labor Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25AnthonyAshleyCooperShaftesbury_Person">Anthony Ashley Cooper Shaftesbury</a> (<a href="date.1801.4.28-1885.10.1">April 28, 1801–October 1, 1885</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Evangelicalism_Belief">evangelical</a> politician and social reformer; Earl of Shaftesbury; he introduced several parliamentary acts that improved the conditions of workers, child laborers, and the clinically insane.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Wilhelmemmanuelvonketteler_Person">Wilhelm Emmanuel Von Ketteler</a> (<a href="date.1811.12.25-1877.7.13">December 25, 1811–July 13, 1877</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholic</a> theologian and politician; <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Bishop</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Mainz">Mainz</a>; he advocated for the working class; author of <a href="bk.%TheLabourerQuestion_Writing"><em>The Labourer Question and Christianity</em></a>.</li>
+</ul>
+<h3><a href="bk.%prison">Prison Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25JohnHoward_Person">John Howard</a> (<a href="date.1726.9.2-1790.1.20">September 2, 1726–January 20, 1790</a>): English philanthropist and <a href="bk.%prison">prison</a> reformer; author of <a href="bk.%TheStateOfPrisons_Writing"><em>The State of Prisons in England and Wales</em></a>, which advocated for various reforms.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ElizabethFry_Person">Elizabeth Fry</a> (<a href="date.1780.5.21-1845.10.12">May 21, 1780–October 12, 1845</a>): English <a href="bk.%Quaker_Person">Quaker</a> prison reformer; she advocated for the welfare of prisoners, especially female prisoners, and promoted the <a href="bk.%PrisonAct1823_Writing">Prison Act of 1823</a>; founder of the <a href="bk.%AssociationImprovementFemalePrisoners">Association for the Improvement of the Female Prisoners of Newgate</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocialGospel">Social Gospel Leaders</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WashingtonGladden_Person">Washington Gladden</a> (<a href="date.1836.2.11-1918.7.2">February 11, 1836–July 2, 1918</a>): American Congregationalist pastor; leader of the <a href="bk.tle:socialgospelmovement">Social Gospel movement</a>; author of <a href="bk.%WorkingPeople_Writing"><em>Working People and their Employers</em></a>, which advocates for <a href="https://ref.ly/logos4/Factbook?ref=bk.%25laborUnions">labor unions</a> and workers' rights.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25WalterRauschenbusch_Person">Walter Rauschenbusch</a> (<a href="date.1861.10.4-1918.7.25">October 4, 1861–July 25, 1918</a>): Baptist theologian and pastor; he taught at Rochester Theological Seminary; leader of the Social Gospel movement; author of <a href="bk.%ChristianityAndTheSocialCrisis_Writing"><em>Christianity and the Social Crisis</em></a> and <a href="bk.%TheologySocialGospel_Writing"><em>A Theology for the Social Gospel</em></a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25temperance">Temperance Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25LymanBeecher_Person">Lyman Beecher</a> (<a href="date.1775.10.12-1863.1.10">October 12, 1775–January 10, 1863</a>): American <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Presbyterianism">Presbyterian</a> minister, <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Revivalism_Belief">revivalist</a>, social reformer, and abolitionist; supporter of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25temperanceMovements">temperance movement</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25FrancesWillard_Person">Frances Willard</a> (<a href="date.1839.9.28-1898.2.17">September 28, 1839–February 17, 1898</a>): American social reformer and suffragist; president of the <a href="bk.%WomensChristianTemperanceUnion">Women's Christian Temperance Union</a> and supporter of the temperance movement.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25feminism">Women's Rights Activists</a></h3>
+<ul>
+<li><a href="bio.angelinagrimkeweld_1">Angelina Grimké</a> (<a href="date.1805.2.20-1879.10.26">February 20, 1805–October 26, 1879</a>): American abolitionist and suffragist; wife of abolitionist <a href="bio.TheodoreDwightWeld">Theodore Dwight Weld</a> with whom she co-authored <a href="bk.%AmericanSlaveryAsItIs_Writing"><em>American Slavery As It Is</em></a>.</li>
+<li><a href="bio.elizabethcadystanton_1">Elizabeth Cady Stanton</a> (<a href="date.1815.11.12-1902.10.26">November 12, 1815–October 26, 1902</a>): American Episcopalian suffragist and abolitionist; leader of the women's suffrage movement in the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> and co-founder of the <a href="bk.%NationalWomanSuffrageAssociation">National Woman Suffrage Association</a> with <a href="bio.SusanBAnthony">Susan B. Anthony</a>; organized the <a href="bk.tle:senecfallsconventionconvened">Seneca Falls Convention</a>; author of the <a href="bk.%DeclarationOfSentiments_Writing">Declaration of Sentiments</a> which advocated for women's suffrage.</li>
+</ul>
+<h3><a href="bk.%welfareProgram">Welfare Reformers</a></h3>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RobertRaikes_Person">Robert Raikes</a> (<a href="date.1736-1811">1736-1811</a>): English Anglican philanthropist and founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SundaySchools">Sunday schools</a> for children living in <a href="https://ref.ly/logos4/Factbook?ref=bk.%25poverty">poverty</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.WilliamBooth">William Booth</a> (<a href="date.1829.4.10-1912.8.20">April 10, 1829–August 20, 1912</a>): English <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Methodism_Belief">Methodist</a> <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Preacher">preacher</a> and co-founder of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SalvationArmy">Salvation Army</a> with his wife <a href="https://ref.ly/logos4/Factbook?ref=bk.%25CatherineMumfordBooth_Person">Catherine Booth</a>; advocated for humanitarian aid and ministering to the poor; author of <a href="bk.%InTheDarkestEngland_Writing"><em>In Darkest England and the Way Out</em></a>, which addresses plans to help the poor.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.GeorgeMuller">George Müller</a> (<a href="date.1805.9.27-1898.3.10">September 27, 1805–March 10, 1898</a>): German <a href="https://ref.ly/logos4/Factbook?ref=bk.%25PlymouthBrethren">Plymouth Brethren</a> philanthropist and preacher; he founded several <a href="bk.%orphanage">orphanages</a>, which relied on voluntary contributions and prayer; author of <a href="bk.%NarrativeLordsDealings_Writing"><em>Narrative of the Lord’s Dealings with George Müller</em></a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1770-1900">1770–1900</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aindustrialrevolution">Industrial Revolution</a> leads to social changes in Europe and North America.</li>
+<li><a href="date.1780">1780</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asundayschoolfoundedgloucester">Sunday school is founded in Gloucester</a>.</li>
+<li><a href="date.1787-1825">1787–1825</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asecondgreatawakeningbegins">Second Great Awakening begins</a>, prompting an interest in social reform.</li>
+<li><a href="date.1787">1787</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aabolitionsocietyformedbritain">Abolition Society is formed in Britain</a>.</li>
+<li><a href="date.1792">1792</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aclaphamsectfounded">Clapham Sect is founded</a> and advocates for the abolition of slavery and social reforms.</li>
+<li><a href="date.1700+100+l">late 1700s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aabolitionistmovementbritain">Abolitionist Movement in Britain begins</a>.</li>
+<li><a href="date.1800+100">1800s</a>: <a href="bk.tle:christiansocialismemerges">Christian Socialism emerges</a>.</li>
+<li><a href="date.1807">1807</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aabolitionslavetradebritish">The slave trade is abolished in the British Empire</a>.</li>
+<li><a href="date.1817">1817</a>: <a href="bk.tle:associationimprovementfemale">Elizabeth Fry founds the Association for the Improvement of the Female Prisoners of Newgate</a>.</li>
+<li><a href="date.1833">1833</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aabolitionslaverybritishempire">Slavery is abolished in the British Empire</a>.</li>
+<li><a href="date.1833">1833</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aacitivitstsseekabolition">Activists seek abolition in America</a>.</li>
+<li><a href="date.1836">1836</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3ageorgemulleropensorphanage">George Muller opens orphanage in Bristol</a>.</li>
+<li><a href="date.1839">1839</a>: <a href="bk.tle:americanslaverytheodoreweldpublished"><em>American Slavery As It Is</em> by Theodore Dwight Weld is published</a>.</li>
+<li><a href="date.1848-1920">1848–1920</a>: The <a href="bk.tle:womenssuffragemovementus">Women's Suffrage Movement in the United States</a>.</li>
+<li><a href="date.1851">1851</a>: <a href="bk.tle:uncletomscabinharrietbeecher"><em>Uncle Tom's Cabin</em> by Harriet Beecher Stowe is published</a>, inspiring debates about slavery in the United States.</li>
+<li><a href="date.1859">1859</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aevangelicalawakeninguk">Evangelical Awakening begins in the United Kingdom</a>.</li>
+<li><a href="date.1861-1865">1861–1865</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3acivilwarus">Civil War in the United States</a> divides the country over slavery.</li>
+<li><a href="date.1865">1865</a>: The <a href="bk.%13thamendmentUSabolishesslavery">Thirteenth Amendment in the United States abolishes slavery</a>.</li>
+<li><a href="date.1865">1865</a>: <a href="bk.%williamboothfoundssalvationarmy">William Booth founds the Salvation Army</a>.</li>
+<li><a href="date.1869">1869</a>: <a href="bk.tle:nationalwomansuffrageassociationfounded">National Woman Suffrage Association is founded in the United States</a>.</li>
+<li><a href="date.1879">1879</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3afranceswillardbecomespresident">Frances Willard becomes president of Women’s Christian Temperance Union</a>.</li>
+<li><a href="date.1882">1882</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aprohibitionpartyfoundedus">Prohibition Party is founded in the United States</a>.</li>
+<li><a href="date.1890">1890</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3adarkestenglandwayoutwilliam"><em>In Darkest England and the Way Out</em> by William Booth is published</a>.</li>
+<li><a href="date.1800+100+l-1900+100+e">late 1800s–early 1900s</a>: <a href="bk.tle:labormovementsemergeeurope">Labor movements emerge in Europe and North America</a>.</li>
+<li><a href="date.1900+100">1900s</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3asocialgospelgainsinfluence">Social Gospel gains influence</a>.</li>
+<li><a href="date.1900+100+e">early 1900s</a>: <a href="bk.tle:womenssuffrageisgrantedeurope">Women's suffrage is granted in Europe</a>.</li>
+<li><a href="date.1920">1920</a>: The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3a19thamendmentusgrantswomen">Nineteenth Amendment in the United States grants women the right to vote</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40GreatBritain">Great Britain</a> was where the Industrial Revolution began.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Europe">Europe</a> was where the Industrial Revolution spread throughout the <a href="date.1801+100">nineteenth century</a>, dramatically changing society.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40UnitedStates">United States</a> was where the Industrial Revolution spread throughout the <a href="date.1801+100">nineteenth century</a>, dramatically changing the landscape of society; location of the Second Great Awakening.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25abolition">Abolition</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25slavery">slavery</a> caused division among denominations but was advocated for by many Christian social reformers.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ChristianSocialism">Christian Socialism</a> and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SocialGospel">Social Gospel</a> advocated for applying Christian ethics to social issues brought about by industrialization.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Industrialism_Belief">Industrialism</a> brought about a wide variety of changes to society, including a deepening divide between the rich and poor.  </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25work">Labor</a> conditions declined during the Industrial Revolution; social reformers advocated for improved labor conditions and workers' rights.</li>
+<li><a href="bk.%orphanage">Orphanages</a> were established for children who had lost their parents or were separated from their biological families.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25poverty">Poverty</a> was a prominent issue during the Industrial Revolution.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25suffrage">Suffrage</a> was advocated for by Christian social reformers and granted to women in the <a href="date.1901+100">twentieth century</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SundaySchools">Sunday schools</a> were established to help educate and care for impoverished children.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25temperance">Temperance</a> became popular during the <a href="date.1800+100+e">early 1800s</a> among social activists.  </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25voluntaryAssociations">Voluntary societies</a> were established to addresses social issues.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="bk.%autobiography">Autobiographies</a></h3>
+<ul>
+<li><a href="bk.%NarrativeLifeFrederickDouglass_Writing"><em>Narrative of the Life of Frederick Douglass, an American Slave</em></a> (<a href="date.1845">1845</a>): an autobiography of Frederick's life; addresses slavery and his experience as an enslaved person and was highly influential to the abolition movement.</li>
+</ul>
+<h3><a href="bk.%foundingDocument">Founding Documents</a></h3>
+<ul>
+<li><a href="bk.%DeclarationOfSentiments_Writing"><em>The Declaration of Sentiments</em></a> (Elizabeth Cady Stanton, <a href="date.1848">1848</a>): document signed by some of the attendees of the Seneca Falls Convention that founded the Women's Rights Movement in the United States; addresses the rights and equality of women, including within the church.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25literature">Literature</a></h3>
+<ul>
+<li><a href="bk.%UncleTomsCabin_Writing"><em>Uncle Tom's Cabin</em></a> (Harriet Beecher Stowe, <a href="date.1851">1851</a>): novel which highlighted the horrors of American slavery; this work was influenced by <em>American Slavery as It Is: Testimony of a Thousand Witnesses</em>.</li>
+</ul>
+<h3><a href="bk.%newspaper">Newspapers</a></h3>
+<ul>
+<li><a href="bk.%TheLiberatior_Writing"><em>The Liberator</em></a> (<a href="date.1831-1865">1831–1865</a>): edited by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25WilliamLloydGarrison_Person">William Lloyd Garrison</a>; published in Boston; advocated for the abolition of slavery in America.</li>
+</ul>
+<h3><a href="bk.%pamphlet">Pamphlets</a></h3>
+<ul>
+<li><a href="bk.%AppealToTheChristianWomen_Writing">Appeal to the Christian Women of the South</a> (Angelina Grimké, <a href="date.1836">1836</a>): urges Christian women to support the abolition of slavery.</li>
+</ul>
+<h3><a href="bk.%treatise">Treatises</a></h3>
+<ul>
+<li><a href="bk.%TheStateOfPrisons_Writing"><em>The State of Prisons in England and Wales</em></a> (John Howard, <a href="date.1777">1777</a>): described Howard's travels to hundreds of prisons and hospitals throughout Great Britain, Ireland, and Europe, and provided recommendations on how to improve conditions.</li>
+<li><a href="bk.%AmericanSlaveryAsItIs_Writing"><em>American Slavery as It Is: Testimony of a Thousand Witnesses</em></a> (Theodore Dwight Weld, Angelina Grimké, and <a href="bio.sarahmooregrimke_1">Sarah Grimké</a>, <a href="date.1839">1839</a>): a compilation of accounts from witnesses and enslavers on the conditions of slavery in the United States; inspired Harriet Beecher Stowe to write <em>Uncle Tom's Cabin</em>.</li>
+<li><a href="bk.%TheLabourerQuestion_Writing"><em>The Labourer Question and Christianity</em></a> (Wilhelm Emmanuel von Ketteler, <a href="date.1864">1864</a>): addresses the rights of the workers and the responsibility of the church to support the working class.</li>
+<li><a href="bk.%InTheDarkestEngland_Writing"><em>In Darkest England and the Way Out</em></a> (William Booth, <a href="date.1890">1890</a>): addresses England's poverty issues and plans to help the poor.</li>
+<li><a href="bk.%ChristianityAndTheSocialCrisis_Writing"><em>Christianity and the Social Crisis</em></a> (Walter Rauschenbusch, <a href="date.1907">1907</a>): addresses the church's responsibility in regards to social issues.</li>
+<li><a href="bk.%TheologySocialGospel_Writing"><em>A Theology for the Social Gospel</em></a> (Walter Rauschenbusch, <a href="date.1917">1917</a>): advocates for the Social Gospel.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1226157?len=17299">“A Crusade among Equals: Revivalism, Abolition, and Evangelism in the USA” (Bohi) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/185262?len=1607">"Evangelical Social Reformers in England" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1171241?len=54916">"The First Industrial Nation: The Industrial Revolution and the British Churches” (Briggs) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:TRNNGPNTSDCSVMM/2013-07-22T19:58:44Z/622477?len=7239">"Intellectual, Evangelistic, Social" in <em>Turning Points: Decisive Moments in the History of Christianity</em> (Noll)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_9FE5F34B7D4849C49972A11A6EC570FC/2021-12-10T21:19:06Z/233125?len=1862">"Major Nineteenth-Century Evangelical Social Reform Movements" in <em>Chronological and Background Charts of Church History</em> (Walton)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/901755?len=20777">"A New Social Frontier: Nineteenth Century England" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1358517?len=137538">"Nineteenth-Century Christianity in the British Isles: <em>Renewal, Missions, and the Crisis of Faith</em>" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/1004164?len=28568">"Nothing to Lose but Chains: <em>Slums and the Social Gospel</em>" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+</ul>

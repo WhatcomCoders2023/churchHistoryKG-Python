@@ -1,0 +1,124 @@
+<p>Level: 1
+Status: Released
+Identifier: RussianOrthodox
+Parents: Root
+Eras: bk.era:medievalchurchera; bk.era:reformationera; bk.era:modernera</p>
+<h1>The Rise of the Russian Orthodox Church</h1>
+<ul>
+<li><strong>Period:</strong> !!smallcaps|ad!! <a href="date.1453-1917">1453–1917</a></li>
+<li><strong>Description:</strong> As Russia navigated foreign influences while attempting to maintain traditional ideals, the Russian Orthodox Church worked to establish its authority within the growing empire.</li>
+</ul>
+<h2>Summary</h2>
+<p>After the fall of Constantinople, Moscow was primed to become the "third Rome" and the new center of Orthodox Christianity, the Russian Tsars taking on the role of Christian emperor. The church and state in Russia became deeply entwined as the new Patriarchate of Moscow rose to prominence with the support of the Tsar. Schism threatened to weaken the church when conflict erupted between Russian traditionalists and supporters of reform that would bring Russian liturgy more in line with the practices of the Greek Orthodox churches. The church experienced additional setbacks when Peter the Great officially subjected the church to the state with the establishment of the Russian Holy Synod, a governing body made up of bishops. The office of the patriarch was abolished, leaving the church under the supreme authority of the Russian emperor. The church continued to navigate the balance between maintaining traditional Russian ideals and the expanding influence of the Western world. Despite the restoration of the Patriarchate of Moscow at the beginning of the Russian Revolution, the power and influence of the Russian Orthodox Church declined with the loss of the support from the new state government.  </p>
+<h2>Key Developments</h2>
+<!--- A bulleted list of important developments during that period.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottomansconquerconstantinople">Constantinople fell to the Ottoman Empire</a>, bringing the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40ByzantineEmpire">Byzantine Empire</a> to an end (<a href="date.1453">1453</a>).</li>
+<li>Russian monarchs began using the title <a href="bk.%tsar">Tsar</a> in the spirit of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Caesar_Person">Caesars</a> of <a href="bk.@Rome">Rome</a>; the new title established the Russian monarch as the divinely appointed ruler of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Russia">Russia</a> (<a href="date.1547-1721">1547–1721</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amoscowpatriarchateestablished">Moscow Patriarchate was established</a> by the <a href="bk.%ecumenicalPatriarch">Patriarch of Constantinople</a> and recognized as the fifth patriarch of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25OrthodoxChurches">Orthodox Church</a> (<a href="date.1589">1589</a>).</li>
+<li>Church reformers instituted changes to conform <a href="https://ref.ly/logos4/Factbook?ref=bk.%25RussianOrthodox_Denom">Russian Orthodoxy</a> practices to <a href="https://ref.ly/logos4/Factbook?ref=bk.%25GreekOrthodox_Belief">Greek Orthodoxy</a> (<a href="date.1652-1666">1652–1666</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25schism">Schism</a> separated the Russian Orthodox Church and the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Raskolniki">Old Believers</a> over church <a href="https://ref.ly/logos4/Factbook?ref=bk.%25reform">reforms</a> (<a href="date.1652-1725">1652–1725</a>).</li>
+<li>The office of <a href="bk.%patriarchOrthodox">patriarch</a> was abolished and replaced by the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25holySynod">Russian Holy Synod</a> (<a href="date.1721">1721</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RomanCatholicism_Belief">Roman Catholicism</a> and <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Protestantism_Belief">Protestantism</a> influenced Russian Orthodox leaders as the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40RussianEmpire">Russian Empire</a> opened up to the West (<a href="date.1721-1725">1721–1725</a>).</li>
+<li>The <a href="bk.%Slavophile">Slavophile movement</a> advocated for traditional Russian ideals over Western influences (<a href="date.1800+100">1800s</a>).</li>
+<li><a href="bk.tle:moscowpatriarchateisrestored">The Moscow Patriarchate was restored</a> with the patriarch as head of the Russian Holy Synod (<a href="date.1917">1917</a>).</li>
+<li>The <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arussianrevolution">Russian Revolution</a> led to the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25churchAndState">separation of church and state</a> and the loss of official support to the Russian Orthodox Church (<a href="date.1917-1923">1917–1923</a>).</li>
+</ul>
+<h2>Key People</h2>
+<!--- A bulleted list of the most influential people to the Church History Theme. 
+
+List is organized by date.
+
+List can be organized into to relevant groups of people (e.g., Church Fathers, Popes, Rulers, etc.).-->
+
+<h3><a href="bk.%churchleader">Russian Orthodox Church Leaders</a></h3>
+<ul>
+<li><a href="bio.MetropolitanOfMoscowTheodosius">Theodosius of Moscow</a> (d. <a href="date.1475">1475</a>): <a href="bk.%Metropolitan">metropolitan</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Moscow_Place">Moscow</a> (<a href="date.1461-1464">1461–1464</a>); first <a href="bk.%bishop">bishop</a> to be appointed after the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottomansconquerconstantinople">fall of Constantinople</a> by the Grand Prince of Russia. </li>
+<li><a href="bio.PatriarchOfMoscowJob">Job of Moscow</a> (d. <a href="date.1607">1607</a>): first <a href="bk.%patriarchOrthodox">patriarch</a> of Moscow (<a href="date.1589-1605">1589–1605</a>).</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nikon_Person">Nikon</a> (<a href="date.1605.5.7-1681.8.17">May 7, 1605–August 17, 1681</a>): patriarch of Moscow (<a href="date.1652-1666">1652--1666</a>) during the reign of Alexis I Mikhailovich; church reformer; member of the <a href="bk.%ZealotsOfPiety_People">Zealots of Piety</a>; he attempted to establish uniformity between the Russian and Greek Orthodox churches.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25PeterMogila_Person">Peter Mogila</a> (<a href="date.1596-1646">1596–1646</a>): Russian Orthodox theologian and <a href="bk.%abbot">abbot</a>; metropolitan of Kiev (<a href="date.1633-1646">1633--1646</a>); he applied <a href="bk.%RomanCatholicism_Belief">Roman Catholic</a> theological methods to Russian Orthodoxy; author of <a href="bk.%OrthodoxConfessionsChurchOfTheEast_Writing"><em>Orthodox Confessions of the Catholic and Apostolic Church of the East</em></a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25TheodoreNikitichRomanovPhilaret_Person">Theodore Nikitich Romanov Philaret</a> (<a href="date.1553+c-1633.10.1">c. 1553–October 1, 1633</a>): patriarch of Moscow (<a href="date.1619-1633">1619--1633</a>); father of Romanov tsar Michael (<a href="date.1613-1645">1613--1645</a>); church reformer; he established seminaries and advocated for theological education in Russia.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Avvakum_Person">Avvakum</a> (<a href="date.1620.11.20-1682.4.14">November 20, 1620–April 14, 1682</a>): Russian protopope and martyr; leader of the Old Believers and opponent of Nikon, he was imprisoned for his opposition to Nikon's reforms and eventually burned at the stake; author of <a href="bk.%TheBookOfDenunciation_Writing"><em>The Book of Denunciation, or the Eternal Gospels</em></a>.</li>
+<li><a href="bio.StefanYavorsky">Stefan Yavorsky</a> (<a href="date.1658-1722.12.8">1658–December 8, 1722</a>): Ukrainian metropolitan and archbishop of Moscow (<a href="date.1721-1722">1721--1722</a>); first president of the Russian Holy Synod.  </li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bio.feofanprokopovich">Feofan Prokopovich</a> (<a href="date.1681.6.8-1736.9.19">June 8, 1681–September 19, 1736</a>): Russian Orthodox <a href="https://ref.ly/logos4/Factbook?ref=bk.%25theologian">theologian</a>; archbishop of <a href="bk.@Novgorod">Novgorod</a> (<a href="date.1725-1736">1725--1736</a>); president of the Russian Holy Synod (<a href="date.1722-1736">1722--1736</a>); counselor to Peter the Great and supporter of his reforms; author of <a href="bk.%EcclesiasticalRegulations_Writing"><em>Ecclesiastical Regulations</em></a>, which abolished the patriarchate, established the Russian Holy Synod, and subordinated the church to the state.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintTikhon_Person">Tikhon</a> (<a href="date.1865.1.31-1925.4.7">January 31, 1865–April 7, 1925</a>): patriarch of Moscow (<a href="date.1917-1925">1917--1925</a>); first patriarch elected to the restored Patriarchate of Moscow.</li>
+</ul>
+<h3><a href="bk.%tsar">Tsars</a></h3>
+<ul>
+<li><a href="bio.IvanTheTerrible">Ivan the Terrible</a> (<a href="date.1530.8.25-1584.3.18">August 25, 1530–March 18, 1584</a>): first <a href="bk.%tsar">tsar</a> of <a href="https://ref.ly/logos4/Factbook?ref=bk.%40Russia">Russia</a> (<a href="date.1547-1584">1547--1584</a>); he <a href="bk.tle:stoglavsynodconvenesmoscow">convened the Stoglav Synod</a>, which established traditional Russian orthodoxy in the Russian Church instead of Greek orthodox practices.</li>
+<li><a href="bio.AlexisIMikhailovich">Alexis I Mikhailovich</a> (<a href="date.1629.3.9-1676.2.8">March 9, 1629–February 8, 1676</a>): tsar of Russia (<a href="date.1645-1676">1645--1676</a>); the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Raskolniki">Raskolniki</a> arose during his reign in opposition to church reforms implemented by <a href="https://ref.ly/logos4/Factbook?ref=bk.%25Nikon_Person">Nikon</a>; he convened the <a href="bk.tle:councilmoscow1666">Council of Moscow</a>, which deposed the patriarch Nikon.</li>
+<li><a href="bio.PeterTheGreat">Peter the Great</a> (<a href="date.1672.6.9-1725.2.8">June 9, 1672–February 8, 1725</a>): tsar of Russia (<a href="date.1682-1725">1682--1725</a>) and first <a href="bk.%emperor">emperor</a> of the <a href="https://ref.ly/logos4/Factbook?ref=bk.%40RussianEmpire">Russian Empire</a> (<a href="date.1721-1725">1721--1725</a>); a church reformer, he abolished the office of <a href="bk.%patriarchOrthodox">patriarch</a> and established the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25holySynod">Russian Holy Synod</a> over which the tsar was the supreme authority; founder of <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPetersburg_Place">Saint Petersburg</a>.</li>
+</ul>
+<h2>Key Events</h2>
+<!--- A bulleted list of important events from Timeline.-->
+
+<ul>
+<li><a href="date.1453">1453</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottomansconquerconstantinople">Ottomans conquer Constantinople</a>, ending the Byzantine Empire.</li>
+<li><a href="date.1533-1584">1533–1584</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignivanivterriblerussia">The reign of Ivan IV the Terrible in Russia</a>.</li>
+<li><a href="date.1547">1547</a>: <a href="bk.tle:ivanterribleiscrownedtsar">Ivan the Terrible is crowned "Tsar of All Russia"</a>.</li>
+<li><a href="date.1549">1549</a>: <a href="bk.tle:firstmeetingzemskysoborrussia">The first meeting of the Zemsky Sobor takes place in Russia</a>.</li>
+<li><a href="date.1551">1551</a>: <a href="bk.tle:stoglavsynodconvenesmoscow">The Stoglav Synod convenes in Moscow</a> and rejects Greek practices in favor of Russian traditions.</li>
+<li><a href="date.1589">1589</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3amoscowpatriarchateestablished">The Moscow Patriarchate is established</a>.</li>
+<li><a href="date.1589-1605">1589–1605</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3areignjobmoscow">The reign of Job in Moscow</a>.</li>
+<li><a href="date.1642">1642</a>: <a href="bk.tle:synodjasseyratifiesorthodoxconfession">The Synod of Jassey ratifies the Orthodox Confession</a>.</li>
+<li><a href="date.1652-1666">1652–1666</a>: <a href="bk.tle:nikonestablisheschurchreforms">Nikon establishes church reforms</a>, which are opposed by the Old Believers.</li>
+<li><a href="date.1666">1666</a>: <a href="bk.tle:nikonisdeposedcouncilmoscow">Nikon is deposed at the Council of Moscow</a>.</li>
+<li><a href="date.1721">1721</a>: <a href="bk.tle:petergreatabolishespatriarchate">Peter the Great abolishes the Patriarchate and establishes the Russian Holy Synod</a>.</li>
+<li><a href="date.1801+100">19th century</a>: <a href="bk.tle:slavophilemovementadvocatesrussianculture">The Slavophile Movement advocates for Russian culture over Western influences</a>.</li>
+<li><a href="date.1917">1917</a>: <a href="bk.tle:moscowpatriarchateisrestored">The Moscow Patriarchate Is Restored</a>.</li>
+<li><a href="date.1917">1917</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arussianrevolution">The Russian Revolution begins</a>.</li>
+<li><a href="date.1917">1917</a>: <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3arussianorthodoxchurchrussia">The Russian Orthodox Church in Russia is disestablished as the state religion</a>.</li>
+</ul>
+<h2>Key Places</h2>
+<!--- A bulleted list of important places to the Church History Theme.-->
+
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Constantinople">Constantinople</a> was the center of Eastern Orthodoxy before it fell to the Ottoman Empire.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Kiev">Kiev</a> was the location of the influential Kiev Theological Academy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Moscow_Place">Moscow, Russia</a> was the seat of the Russian Orthodox Patriarch; viewed by some as the Third Rome; location of Moscow Theological Academy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Rome_Place">Rome</a> was the center of authority in the early church; residency of the Patriarch of Rome.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%40Russia">Russia</a> was the center of Russian Orthodoxy.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25SaintPetersburg_Place">Saint Petersburg, Russia</a> was founded by Peter the Great; capital of the Tsardom of Russia; location of Saint Petersburg Theological Academy.</li>
+</ul>
+<h2>Key Concepts</h2>
+<ul>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25Raskolniki">Raskolniki</a>, also known as Old Believers, opposed church reforms instituted by Nikon.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25holySynod">Russian Holy Synod</a> was instituted by Peter the Great to govern the Russian Orthodox Church; all bishops were appointed by the Tsar.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25RussianOrthodox_Denom">Russian Orthodoxy</a> rose to prominence after the <a href="https://ref.ly/logos4/Factbook?ref=bk.tle%3aottomansconquerconstantinople">Ottomans conquered Constantinople</a>.</li>
+<li><a href="https://ref.ly/logos4/Factbook?ref=bk.%25ThirdRome">Third Rome</a> was a title attributed to Moscow by some in the Russian Orthodox Church.</li>
+<li><a href="bk.%ZealotsOfPiety_People">Zealots of Piety</a> were Russian church reformers who advocated for the purification of the Russian Orthodox Church; they were opposed by the Old Believers.</li>
+<li><a href="bk.%ZemskySobor">Zemsky Sobor</a>, a Russian assembly including church and monastic leaders, was established during the reign of Ivan the Terrible to advise the tsar.</li>
+</ul>
+<h2>Key Documents</h2>
+<!--- A bulleted list of important documents and writings from that period.
+
+List can be organized into groups when relevant. -->
+
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25canonLaw">Church Codes and Canons</a></h3>
+<ul>
+<li><a href="bk.%Stoglav_Writing"><em>Stoglav (Book of One Hundred Chapters)</em></a> (<a href="date.1551">1551</a>): synodal code of the Russian Orthodox Church produced as a result of the Stoglav Synod; articulates regulations for the life of Russian Orthodox clergy; the code favors traditional Russian practices over those of the Eastern Orthodox Church.</li>
+<li><a href="bk.%EcclesiasticalRegulations_Writing"><em>Ecclesiastical Regulations</em></a> (Feofan Prokopovich, <a href="date.1721">1721</a>): church constitution commissioned by Peter the Great; abolishes the patriarchate, establishes the Russian Holy Synod, and subjugates the church to the state.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25creedsAndConfessions">Creeds and Confessions</a></h3>
+<ul>
+<li><a href="bk.%OrthodoxConfessionsChurchOfTheEast_Writing"><em>Orthodox Confessions of the Catholic and Apostolic Church of the East</em></a> (Peter Mogila, <a href="date.1640">1640</a>): articulates the beliefs of the Orthodox Churches; uses Roman Catholic theological methodologies; approved at the <a href="https://ref.ly/logos4/Factbook?ref=bk.%25SynodOfJassy">Synod of Jassy</a>.</li>
+</ul>
+<h3><a href="https://ref.ly/logos4/Factbook?ref=bk.%25polemic">Polemics</a></h3>
+<ul>
+<li><a href="bk.%TheBookOfDenunciation_Writing"><em>The Book of Denunciation, or the Eternal Gospels</em></a> (Avvakum, <a href="date.1676+c">c. 1676</a>): written in response to a debate with a disciple; articulated the protopope's dogmatic views.</li>
+</ul>
+<h2>Recommended Reading</h2>
+<!--- A bulleted list of links to Logos resources, formatted in Chicago Manual of Style.
+
+Example:
+
+* Hanson, Richard P.C. [Creeds and Confessions of Fatih."](https://ref.ly/res/LLS:NCYNCNTCHRSTNTY/2017-05-10T21:36:38Z/3669693?len=23788) Edited by Angelo Di Beradino and James Hoover. Translated by Joseph T. Pap, Erik A. Koenke, and Eric E. Hewett. _Encyclopedia of Ancient Christianity._ Downers Grove, IL: IVP Academic; InterVarsity Press, 2014. -->
+
+<ul>
+<li><a href="https://ref.ly/res/LLS:CHRCHHSTPLN5THD/2021-07-09T21:16:17Z/411188?len=3427">"East Against West" in <em>Church History in Plain Language</em> (Shelley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1156721?len=12031">"The Patriarchate of Moscow, the Uniate Church, and Cyril Lucaris" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+<li><a href="https://ref.ly/res/LLS:WS_0_9016/2021-03-16T19:53:57Z/738098?len=3431">"The Russian Church" in <em>The Story of Christianity: The Reformation to the Present Day</em> (González)</a></li>
+<li><a href="https://ref.ly/res/LLS:NTRDCTNHSTC3ED/2019-06-13T22:48:56Z/1119440?len=12697">"The Russian Church: 1500–1900" (Steeves) in <em>Introduction to the History of Christianity</em> (ed. Dowley)</a></li>
+<li><a href="https://ref.ly/res/LLS:ZPHCHRHISTV02/2015-08-17T21:49:42Z/1607617?len=26570">"The Russian Empire and the Russian Orthodox Church" in <em>Church History: From Pre-Reformation to the Present Day</em> (Woodbridge and James)</a></li>
+</ul>
