@@ -15,6 +15,7 @@ preprocessing/cache_model_data/
 preprocessing/cache_processed_data/
 *.jsonl
 *.json
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
