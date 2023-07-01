@@ -10,6 +10,7 @@ class LoadChurchData:
         self.roles_metadata_filename = f'{self.path_to_church_articles}/church-history-Articles-en/Roles.csv'
         self.relation_data_files = self._load_relation_data()
         self.markdown_data_files = self._load_markdown_data()
+        self.books_ner_annotation = self._load_books_with_ner_annotations()
         self.entity_data = self._load_entity_data()
 
     def _load_relation_data(self):
@@ -35,3 +36,7 @@ class LoadChurchData:
             f'{self.path_to_church_articles}/church-history-Articles-en/ReadMe.md'
         )
         return markdown_data
+
+    def _load_books_with_ner_annotations(self):
+        return glob.glob(
+            f'{self.path_to_church_articles}/books-with-NER-annotations/*.md')

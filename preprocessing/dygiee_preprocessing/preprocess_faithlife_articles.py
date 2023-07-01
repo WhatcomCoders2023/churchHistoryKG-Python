@@ -51,9 +51,8 @@ class PreprocessFaithlifeArticles:
             # Temp until chicago manual of style is fixed
             self.articleReader.filter_article_section(article,
                                                       'Recommended Reading')
-            self.articleReader.filter_article_section(article, 'Description')
-            self.articleReader.filter_article_section(article, 'Period')
-            self.articleReader.filter_article_section(article, 'Summary')
+            self.articleReader.filter_article_section(article, 'See Also')
+
             # entity_name_to_entity_label_and_entity_type = self.articleReader.create_entity_name_to_entity_label_and_entity_type(
             #     article)
             all_sentences, ner_tuples = self.articleReader.merge_all_article_info(
