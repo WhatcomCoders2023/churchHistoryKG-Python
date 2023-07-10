@@ -30,4 +30,5 @@ def pipeline_2():
     test = BooksWithNERAnnotationProcesser(faithlifeData).read_data()
 
 
-pipeline_2()
+# pipeline_2()
+pipeline_1()
