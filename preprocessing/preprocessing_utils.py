@@ -1,9 +1,7 @@
-import re
-
 from typing import List
 
 
-def replace_special_chars_in_entity_annotations(entity_label: str):
+def replace_special_chars_in_entity_annotations(entity_label: str) -> str:
     '''Replace special characters in entity annotations in Article.
 
     Args:

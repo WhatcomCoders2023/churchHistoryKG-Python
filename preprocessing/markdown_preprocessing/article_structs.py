@@ -274,13 +274,14 @@ class ArticleReader:
                         end_index = start_index + len(entity_name) - 1
 
                         ner_tuples_in_sentence.append(
-                            (start_index, end_index, entity_name, entity_label))
+                            (start_index, end_index, entity_name,
+                             entity_label))
 
             ner_tuples.append(ner_tuples_in_sentence)
 
         # Summary
-        for i, sentence_in_text in enumerate(sent_tokenize(
-                article.summary.text)):
+        for i, sentence_in_text in enumerate(
+                sent_tokenize(article.summary.text)):
             ner_tuples_in_sentence = []
             if i == 0:
                 all_sentences.append(["Summary: " + sentence_in_text])
@@ -302,7 +303,8 @@ class ArticleReader:
                         end_index = start_index + len(entity_name) - 1
 
                         ner_tuples_in_sentence.append(
-                            (start_index, end_index, entity_name, entity_label))
+                            (start_index, end_index, entity_name,
+                             entity_label))
 
             ner_tuples.append(ner_tuples_in_sentence)
 
@@ -384,7 +386,8 @@ class ArticleReader:
         self.write_article_entities_to_csv(article)
         self.write_article_relations_to_csv(article)
 
-    def write_article_tokenize_sentences_to_csv(self, article: Article) -> None:
+    def write_article_tokenize_sentences_to_csv(self,
+                                                article: Article) -> None:
         """Saves article to csv file
 
         Args:
@@ -408,7 +411,8 @@ class ArticleReader:
                 "sentence_indice", "start_index", "end_index", "entity_type",
                 "entity_label", "entitty_name"
             ])
-            for sentence_indice, entity_tuples in enumerate(article.ner_tuples):
+            for sentence_indice, entity_tuples in enumerate(
+                    article.ner_tuples):
                 for entity_tuple in entity_tuples:
                     writer.writerow([
                         sentence_indice + 1, entity_tuple.start_index,
@@ -418,8 +422,9 @@ class ArticleReader:
 
     def write_article_relations_to_csv(self, article: Article) -> None:
 
-        with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_relations.csv',
-                  'w') as csv_file:
+        with open(
+                f'{CACHE_FOLDER}/{article.metadata.identifier}_relations.csv',
+                'w') as csv_file:
             writer = csv.writer(csv_file)
             writer.writerow([
                 "sentence_indice", "subject_start_index", "subject_end_index",
@@ -431,8 +436,8 @@ class ArticleReader:
                     subject_start_index, subject_end_index, object_start_index, object_end_index, relation_type = relation_tuple
                     writer.writerow([
                         sentence_indice + 1, subject_start_index,
-                        subject_end_index, object_start_index, object_end_index,
-                        relation_type
+                        subject_end_index, object_start_index,
+                        object_end_index, relation_type
                     ])
 
     def transform_csv_to_json_data(self, article: Article) -> None:
@@ -441,8 +446,9 @@ class ArticleReader:
         Args:
             article_identifer: Name of article.
         """
-        with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_sentences.csv',
-                  'r') as csv_file:
+        with open(
+                f'{CACHE_FOLDER}/{article.metadata.identifier}_sentences.csv',
+                'r') as csv_file:
             reader = csv.reader(csv_file)
             sentences = []
             for i, row in enumerate(reader):
@@ -461,8 +467,9 @@ class ArticleReader:
                     [int(row[1]),
                      int(row[2]), row[3], row[4], row[5]])
 
-        with open(f'{CACHE_FOLDER}/{article.metadata.identifier}_relations.csv',
-                  'r') as csv_file:
+        with open(
+                f'{CACHE_FOLDER}/{article.metadata.identifier}_relations.csv',
+                'r') as csv_file:
             reader = csv.reader(csv_file)
             relations = []
             for i, row in enumerate(reader):

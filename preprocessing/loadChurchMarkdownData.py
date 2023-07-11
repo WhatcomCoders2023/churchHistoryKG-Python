@@ -1,3 +1,5 @@
+from typing import List
+
 import glob
 
 
@@ -13,7 +15,7 @@ class LoadChurchData:
         self.books_ner_annotation = self._load_books_with_ner_annotations()
         self.entity_data = self._load_entity_data()
 
-    def _load_relation_data(self):
+    def _load_relation_data(self) -> List[str]:
         annotated_data = glob.glob(
             f'{self.path_to_church_articles}/church-history-Articles-en/*.csv')
         annotated_data.remove(
@@ -24,12 +26,12 @@ class LoadChurchData:
         )
         return annotated_data
 
-    def _load_entity_data(self):
+    def _load_entity_data(self) -> List[str]:
         entity_data = glob.glob(
             f'{self.path_to_church_articles}/{self.entity_folder}/*.csv')
         return entity_data
 
-    def _load_markdown_data(self):
+    def _load_markdown_data(self) -> List[str]:
         markdown_data = glob.glob(
             f'{self.path_to_church_articles}/church-history-Articles-en/*.md')
         markdown_data.remove(
@@ -37,6 +39,6 @@ class LoadChurchData:
         )
         return markdown_data
 
-    def _load_books_with_ner_annotations(self):
+    def _load_books_with_ner_annotations(self) -> List[str]:
         return glob.glob(
             f'{self.path_to_church_articles}/books-with-NER-annotations/*.md')

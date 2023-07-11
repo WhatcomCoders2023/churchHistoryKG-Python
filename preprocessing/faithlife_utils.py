@@ -49,7 +49,18 @@ def search_entity_type_in_faithlife_map_with_entity_label(
     return "NONE"
 
 
-def extract_name(input_string):
+def extract_name(input_string: str) -> str:
+    '''Extracts name from entity label with parenthesis.
+    
+    Example: Jesus (person) --> Jesus
+
+    Args:
+        input_string: Entity label.
+    
+    Returns:
+        Name of entity label with parenthesis removed if it exists.
+    '''
+
     # Find the index of the opening parenthesis
     start_index = input_string.find('(')
     if start_index != -1:
